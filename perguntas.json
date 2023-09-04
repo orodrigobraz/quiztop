@@ -3364,5 +3364,16 @@
             {"id": 5, "texto": "Debrecen"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Quem pintou a Capela Sistina?",
+        "opcoes": [
+            {"id": 1, "texto": "Michelangelo"},
+            {"id": 2, "texto": "Leonardo da Vinci"},
+            {"id": 3, "texto": "Caravaggio"},
+            {"id": 4, "texto": "Donatelo"},
+            {"id": 5, "texto": "Botticelli"}
+        ],
+        "resposta": 1
     }
 ]
