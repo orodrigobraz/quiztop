@@ -22,7 +22,7 @@ async function carregarPerguntas() {
         const resposta = await fetch("perguntas.json");
         perguntas = await resposta.json();
 
-        const indicesSelecionados = selecionarIndicesAleatorios(perguntas.length, 302);
+        const indicesSelecionados = selecionarIndicesAleatorios(perguntas.length, 30);
         perguntas = indicesSelecionados.map(index => perguntas[index]);
 
         embaralharPerguntas();
