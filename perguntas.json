@@ -1,0 +1,3368 @@
+[
+    {   
+        "pergunta": "Qual é a capital da Suíça?",
+        "opcoes": [
+            {"id": 1, "texto": "Berna"},
+            {"id": 2, "texto": "Zurique"},
+            {"id": 3, "texto": "Genebra"},
+            {"id": 4, "texto": "Lucerna"},
+            {"id": 5, "texto": "Montreux"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quem pintou a Monalisa?",
+        "opcoes": [
+            {"id": 1, "texto": "Leonardo da Vinci"},
+            {"id": 2, "texto": "Pablo Picasso"},
+            {"id": 3, "texto": "Vincent van Gogh"},
+            {"id": 4, "texto": "Salvador Dalí"},
+            {"id": 5, "texto": "Michelangelo"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quem escreveu a obra Dom Quixote?",
+        "opcoes": [
+            {"id": 1, "texto": "Miguel de Cervantes"},
+            {"id": 2, "texto": "William Shakespeare"},
+            {"id": 3, "texto": "Friedrich Nietzsche"},
+            {"id": 4, "texto": "José Saramago"},
+            {"id": 5, "texto": "Liev Tolstói"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quanto é 2 elevado à 10?",
+        "opcoes": [
+            {"id": 1, "texto": "1024"},
+            {"id": 2, "texto": "512"},
+            {"id": 3, "texto": "2048"},
+            {"id": 4, "texto": "256"},
+            {"id": 5, "texto": "128"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual o planeta mais próximo do Sol?",
+        "opcoes": [
+            {"id": 1, "texto": "Mercúrio"},
+            {"id": 2, "texto": "Vênus"},
+            {"id": 3, "texto": "Terra"},
+            {"id": 4, "texto": "Marte"},
+            {"id": 5, "texto": "Saturno"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quem é considerado o criador da linguagem de programação Python?",
+        "opcoes": [
+            {"id": 1, "texto": "Guido van Rossum"},
+            {"id": 2, "texto": "Bill Gates"},
+            {"id": 3, "texto": "Elon Musk"},
+            {"id": 4, "texto": "Steve Wozniak"},
+            {"id": 5, "texto": "James Gosling"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a capital do Piauí?",
+        "opcoes": [
+            {"id": 1, "texto": "Teresina"},
+            {"id": 2, "texto": "João Pessoa"},
+            {"id": 3, "texto": "Palmas"},
+            {"id": 4, "texto": "São Luís"},
+            {"id": 5, "texto": "Fortaleza"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que ano morreu Josef Stálin?",
+        "opcoes": [
+            {"id": 1, "texto": "1953"},
+            {"id": 2, "texto": "1945"},
+            {"id": 3, "texto": "1959"},
+            {"id": 4, "texto": "1951"},
+            {"id": 5, "texto": "1947"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Snivy é o inicial de planta de qual geração de Pokémon?",
+        "opcoes": [
+            {"id": 1, "texto": "Quinta geração"},
+            {"id": 2, "texto": "Terceira geração"},
+            {"id": 3, "texto": "Quarta geração"},
+            {"id": 4, "texto": "Sexta geração"},
+            {"id": 5, "texto": "Sétima geração"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a tradução em português da palavra em inglês 'Shuffle'?",
+        "opcoes": [
+            {"id": 1, "texto": "Embaralhar"},
+            {"id": 2, "texto": "Atrapalhar"},
+            {"id": 3, "texto": "Amparar"},
+            {"id": 4, "texto": "Empurrar"},
+            {"id": 5, "texto": "Transportar"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual dos países a seguir não faz fronteira terrestre com o Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Equador"},
+            {"id": 2, "texto": "Peru"},
+            {"id": 3, "texto": "Venezuela"},
+            {"id": 4, "texto": "Bolivia"},
+            {"id": 5, "texto": "Suriname"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em qual estado fica a cidade de Ji-Paraná?",
+        "opcoes": [
+            {"id": 1, "texto": "Rondônia"},
+            {"id": 2, "texto": "Amapá"},
+            {"id": 3, "texto": "Acre"},
+            {"id": 4, "texto": "Paraná"},
+            {"id": 5, "texto": "Matro Grosso do Sul"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual dos livros a seguir não é do escritor Fiódor Dostoiévski?",
+        "opcoes": [
+            {"id": 1, "texto": "Memorial do convento"},
+            {"id": 2, "texto": "Crime e castigo"},
+            {"id": 3, "texto": "Gente pobre"},
+            {"id": 4, "texto": "O idiota"},
+            {"id": 5, "texto": "Noites brancas"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quais as cores da bandeira de Botswana?",
+        "opcoes": [
+            {"id": 1, "texto": "Azul, preto e branco"},
+            {"id": 2, "texto": "Verde, amarelo e azul"},
+            {"id": 3, "texto": "Azul e verde"},
+            {"id": 4, "texto": "Vermelho, amarelo e azul"},
+            {"id": 5, "texto": "Verde, azul e branco"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual empresa é a desenvolvedora do jogo League Of Legends?",
+        "opcoes": [
+            {"id": 1, "texto": "Riot Games"},
+            {"id": 2, "texto": "Blizzard"},
+            {"id": 3, "texto": "Ubisoft"},
+            {"id": 4, "texto": "Epic Games"},
+            {"id": 5, "texto": "Fnatic"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que ano se encerrou a Guerra do Paraguai?",
+        "opcoes": [
+            {"id": 1, "texto": "1870"},
+            {"id": 2, "texto": "1888"},
+            {"id": 3, "texto": "1875"},
+            {"id": 4, "texto": "1899"},
+            {"id": 5, "texto": "1855"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que ano foi fundado o Google?",
+        "opcoes": [
+            {"id": 1, "texto": "1998"},
+            {"id": 2, "texto": "1995"},
+            {"id": 3, "texto": "1999"},
+            {"id": 4, "texto": "2001"},
+            {"id": 5, "texto": "2003"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "De quem é a frase 'Penso, logo existo.'?",
+        "opcoes": [
+            {"id": 1, "texto": "René Descartes"},
+            {"id": 2, "texto": "Platão"},
+            {"id": 3, "texto": "Galileu Galilei"},
+            {"id": 4, "texto": "Sócrates"},
+            {"id": 5, "texto": "Nicolau Maquiavel"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Atualmente, quantos elementos químicos a tabela periódica possui?",
+        "opcoes": [
+            {"id": 1, "texto": "118"},
+            {"id": 2, "texto": "113"},
+            {"id": 3, "texto": "109"},
+            {"id": 4, "texto": "101"},
+            {"id": 5, "texto": "103"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a nacionalidade de Che Guevara?",
+        "opcoes": [
+            {"id": 1, "texto": "Argentina"},
+            {"id": 2, "texto": "Cubana"},
+            {"id": 3, "texto": "Chilena"},
+            {"id": 4, "texto": "Boliviana"},
+            {"id": 5, "texto": "Mexicana"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual o pico mais alto do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Pico da Neblina"},
+            {"id": 2, "texto": "Pico das Agulhas Negras"},
+            {"id": 3, "texto": "Monte Roraima"},
+            {"id": 4, "texto": "Pico da Bandeira"},
+            {"id": 5, "texto": "Pico dos Marins"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual local da Ásia tem o português como idioma oficial?",
+        "opcoes": [
+            {"id": 1, "texto": "Macau"},
+            {"id": 2, "texto": "Filipinas"},
+            {"id": 3, "texto": "Moçambique"},
+            {"id": 4, "texto": "Portugal"},
+            {"id": 5, "texto": "Nepal"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual era o nome de Aleijadinho?",
+        "opcoes": [
+            {"id": 1, "texto": "Antônio Francisco Lisboa"},
+            {"id": 2, "texto": "Alexandrino Antônio Lisboa"},
+            {"id": 3, "texto": "Francisco Antônio Xavier"},
+            {"id": 4, "texto": "Manuel Antônio Lisboa"},
+            {"id": 5, "texto": "Antônio Manuel Xavier"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quais os nomes dos três Reis Magos?",
+        "opcoes": [
+            {"id": 1, "texto": "Belchior, Gaspar e Baltazar"},
+            {"id": 2, "texto": "Belchior, Gaspar e Nataniel"},
+            {"id": 3, "texto": "Gaspar, Nicolau e Natanael"},
+            {"id": 4, "texto": "Gabriel, Benjamin e Melchior"},
+            {"id": 5, "texto": "Melchior, Galileu e Tiago"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
+        "opcoes": [
+            {"id": 1, "texto": "Tipo O"},
+            {"id": 2, "texto": "Tipo A"},
+            {"id": 3, "texto": "Tipo B"},
+            {"id": 4, "texto": "Tipo AB"},
+            {"id": 5, "texto": "Tipo OAB"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quais os cromossomos que determinam o sexo masculino?",
+        "opcoes": [
+            {"id": 1, "texto": "Y"},
+            {"id": 2, "texto": "X"},
+            {"id": 3, "texto": "Z"},
+            {"id": 4, "texto": "W"},
+            {"id": 5, "texto": "K"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Segundo a lenda, quem amamentou os gêmeos Rômulo e Remo?",
+        "opcoes": [
+            {"id": 1, "texto": "Uma loba"},
+            {"id": 2, "texto": "Uma vaca"},
+            {"id": 3, "texto": "Uma ovelha"},
+            {"id": 4, "texto": "Uma leoa"},
+            {"id": 5, "texto": "Uma cabra"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Que animal gruguleja?",
+        "opcoes": [
+            {"id": 1, "texto": "Peru"},
+            {"id": 2, "texto": "Pavão"},
+            {"id": 3, "texto": "Papagaio"},
+            {"id": 4, "texto": "Garça"},
+            {"id": 5, "texto": "Tuiuiu"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Jim Morrison era vocalista de qual banda?",
+        "opcoes": [
+            {"id": 1, "texto": "The Doors"},
+            {"id": 2, "texto": "The Police"},
+            {"id": 3, "texto": "Abba"},
+            {"id": 4, "texto": "Pink Floyd"},
+            {"id": 5, "texto": "Led Zeppelin"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "As obras Abaporu, Operários e Antropofagia foram pintadas por qual artista brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Tarsila do Amaral"},
+            {"id": 2, "texto": "Anita Malfatti"},
+            {"id": 3, "texto": "Di Cavalcanti"},
+            {"id": 4, "texto": "Candido Portinari"},
+            {"id": 5, "texto": "Clarice Lispector"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que país nasceu a escritora Clarice Lispector?",
+        "opcoes": [
+            {"id": 1, "texto": "Ucrânia"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Portugal"},
+            {"id": 4, "texto": "Rússia"},
+            {"id": 5, "texto": "Inglaterra"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Persa é uma raça de qual animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Gato"},
+            {"id": 2, "texto": "Cachorro"},
+            {"id": 3, "texto": "Tigre"},
+            {"id": 4, "texto": "Urso"},
+            {"id": 5, "texto": "Porco"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "A Samsung tem sua sede em qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Coreia do Sul"},
+            {"id": 2, "texto": "Japão"},
+            {"id": 3, "texto": "China"},
+            {"id": 4, "texto": "EUA"},
+            {"id": 5, "texto": "Taiwan"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que ano foi lançado o primeiro iPhone pela Apple?",
+        "opcoes": [
+            {"id": 1, "texto": "2007"},
+            {"id": 2, "texto": "2005"},
+            {"id": 3, "texto": "2002"},
+            {"id": 4, "texto": "2010"},
+            {"id": 5, "texto": "2012"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que país nasceu a cantora Rihanna?",
+        "opcoes": [
+            {"id": 1, "texto": "Barbados"},
+            {"id": 2, "texto": "Cuba"},
+            {"id": 3, "texto": "EUA"},
+            {"id": 4, "texto": "Jamaica"},
+            {"id": 5, "texto": "Honduras"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Quantas categorias tem o prêmio Nobel?",
+        "opcoes": [
+            {"id": 1, "texto": "6"},
+            {"id": 2, "texto": "7"},
+            {"id": 3, "texto": "5"},
+            {"id": 4, "texto": "4"},
+            {"id": 5, "texto": "8"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual letra representa uma rainha no baralho?",
+        "opcoes": [
+            {"id": 1, "texto": "Q"},
+            {"id": 2, "texto": "J"},
+            {"id": 3, "texto": "K"},
+            {"id": 4, "texto": "R"},
+            {"id": 5, "texto": "A"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual é o idioma oficial em Bangladesh?",
+        "opcoes": [
+            {"id": 1, "texto": "Bengali"},
+            {"id": 2, "texto": "Árabe"},
+            {"id": 3, "texto": "Mandarim"},
+            {"id": 4, "texto": "Hurdu"},
+            {"id": 5, "texto": "Inglês"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a cor do circulo contido na bandeira de Bangladesh?",
+        "opcoes": [
+            {"id": 1, "texto": "Vermelho"},
+            {"id": 2, "texto": "Branco"},
+            {"id": 3, "texto": "Verde"},
+            {"id": 4, "texto": "Amarelo"},
+            {"id": 5, "texto": "Azul"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Que animal é representado pelo número 34 no jogo do bicho?",
+        "opcoes": [
+            {"id": 1, "texto": "Cobra"},
+            {"id": 2, "texto": "Coelho"},
+            {"id": 3, "texto": "Veado"},
+            {"id": 4, "texto": "Borboleta"},
+            {"id": 5, "texto": "Elefante"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em que parte do corpo fica o manguito rotador?",
+        "opcoes": [
+            {"id": 1, "texto": "Ombro"},
+            {"id": 2, "texto": "Tornozelo"},
+            {"id": 3, "texto": "Pescoço"},
+            {"id": 4, "texto": "Joelho"},
+            {"id": 5, "texto": "Coluna"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual foi o último elemento adicionado na tabela periódica?",
+        "opcoes": [
+            {"id": 1, "texto": "Ununócio"},
+            {"id": 2, "texto": "Vanádio"},
+            {"id": 3, "texto": "Nihônio"},
+            {"id": 4, "texto": "Gadolínio"},
+            {"id": 5, "texto": "Oganessônio"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a capital da Mongólia?",
+        "opcoes": [
+            {"id": 1, "texto": "Ulambator"},
+            {"id": 2, "texto": "Kuala Lumpur"},
+            {"id": 3, "texto": "Katmandu"},
+            {"id": 4, "texto": "Timbu"},
+            {"id": 5, "texto": "Rial"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual a capital da Austrália?",
+        "opcoes": [
+            {"id": 1, "texto": "Camberra"},
+            {"id": 2, "texto": "Sydney"},
+            {"id": 3, "texto": "Melbourne"},
+            {"id": 4, "texto": "New Castle"},
+            {"id": 5, "texto": "Alberna"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Em Pokémon, qual a cor do Ditto brilhante?",
+        "opcoes": [
+            {"id": 1, "texto": "Azul"},
+            {"id": 2, "texto": "Rosa"},
+            {"id": 3, "texto": "Roxo"},
+            {"id": 4, "texto": "Verde"},
+            {"id": 5, "texto": "Cinza"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Qual destes animais assobia?",
+        "opcoes": [
+            {"id": 1, "texto": "Anta"},
+            {"id": 2, "texto": "Cisne"},
+            {"id": 3, "texto": "Garça"},
+            {"id": 4, "texto": "Pelicano"},
+            {"id": 5, "texto": "Rã"}
+        ],
+        "resposta": 1
+    },
+    {   
+        "pergunta": "Que tipo de animal é uma Pika?",
+        "opcoes": [
+            {"id": 1, "texto": "Mamífero"},
+            {"id": 2, "texto": "Anfíbio"},
+            {"id": 3, "texto": "Réptil"},
+            {"id": 4, "texto": "Inseto"},
+            {"id": 5, "texto": "Ave"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "De acordo com a lei da conservação da energia, a energia não pode ser criada nem destruída, apenas...",
+        "opcoes": [
+            {"id": 1, "texto": "Transferida"},
+            {"id": 2, "texto": "Convertida em massa"},
+            {"id": 3, "texto": "Aumentada"},
+            {"id": 4, "texto": "Criada"},
+            {"id": 5, "texto": "Dissipada"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual das seguintes leis descreve a relação entre a força aplicada, a massa do objeto e a aceleração resultante?",
+        "opcoes": [
+            {"id": 1, "texto": "Lei de Newton"},
+            {"id": 2, "texto": "Lei de Kepler"},
+            {"id": 3, "texto": "Lei de Coulomb"},
+            {"id": 4, "texto": "Lei de Ohm"},
+            {"id": 5, "texto": "Lei de Hooke"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é o deus da justiça na mitologia nórdica?",
+        "opcoes": [
+            {"id": 1, "texto": "Balder"},
+            {"id": 2, "texto": "Freya"},
+            {"id": 3, "texto": "Njord"},
+            {"id": 4, "texto": "Vidar"},
+            {"id": 5, "texto": "Tir"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual dos seguintes signos é tradicionalmente associado ao elemento ar?",
+        "opcoes": [
+            {"id": 1, "texto": "Gêmeos"},
+            {"id": 2, "texto": "Touro"},
+            {"id": 3, "texto": "Escorpião"},
+            {"id": 4, "texto": "Virgem"},
+            {"id": 5, "texto": "Sagitário"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a estrela mais próxima da Terra?",
+        "opcoes": [
+            {"id": 1, "texto": "Proxima Centauri"},
+            {"id": 2, "texto": "Sirius"},
+            {"id": 3, "texto": "Alfa Centauri"},
+            {"id": 4, "texto": "Betelgeuse"},
+            {"id": 5, "texto": "Vega"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a maior lua de Júpiter?",
+        "opcoes": [
+            {"id": 1, "texto": "Ganimedes"},
+            {"id": 2, "texto": "Himalaia"},
+            {"id": 3, "texto": "Europa"},
+            {"id": 4, "texto": "Calisto"},
+            {"id": 5, "texto": "Titã"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o processo químico que envolve a perda de elétrons por um átomo ou íon?",
+        "opcoes": [
+            {"id": 1, "texto": "Oxidação"},
+            {"id": 2, "texto": "Redução"},
+            {"id": 3, "texto": "Ionização"},
+            {"id": 4, "texto": "Catalisação"},
+            {"id": 5, "texto": "Combustão"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o pH neutro?",
+        "opcoes": [
+            {"id": 1, "texto": "7"},
+            {"id": 2, "texto": "6"},
+            {"id": 3, "texto": "1"},
+            {"id": 4, "texto": "8"},
+            {"id": 5, "texto": "14"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos elétrons um átomo de hidrogênio tem em sua camada mais externa?",
+        "opcoes": [
+            {"id": 1, "texto": "1"},
+            {"id": 2, "texto": "2"},
+            {"id": 3, "texto": "0"},
+            {"id": 4, "texto": "4"},
+            {"id": 5, "texto": "3"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o órgão responsável pela produção de insulina e regulação dos níveis de glicose no sangue?",
+        "opcoes": [
+            {"id": 1, "texto": "Pâncreas"},
+            {"id": 2, "texto": "Fígado"},
+            {"id": 3, "texto": "Coração"},
+            {"id": 4, "texto": "Rim"},
+            {"id": 5, "texto": "Estômago"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o maior oceano do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Pacífico"},
+            {"id": 2, "texto": "Atlântico"},
+            {"id": 3, "texto": "Índico"},
+            {"id": 4, "texto": "Antártico"},
+            {"id": 5, "texto": "Ártico"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o rio mais longo do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Rio Nilo"},
+            {"id": 2, "texto": "Rio Amazonas"},
+            {"id": 3, "texto": "Rio Yangtzé"},
+            {"id": 4, "texto": "Rio Mississipi"},
+            {"id": 5, "texto": "Rio Danúbio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital do Canadá?",
+        "opcoes": [
+            {"id": 1, "texto": "Ottawa"},
+            {"id": 2, "texto": "Vancouver"},
+            {"id": 3, "texto": "Toronto"},
+            {"id": 4, "texto": "Montreal"},
+            {"id": 5, "texto": "Calgary"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Onde fica o Deserto de Gobi?",
+        "opcoes": [
+            {"id": 1, "texto": "Mongólia"},
+            {"id": 2, "texto": "China"},
+            {"id": 3, "texto": "Índia"},
+            {"id": 4, "texto": "Paquistão"},
+            {"id": 5, "texto": "Rússia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o país que é conhecido como 'País das Mil Colinas'?",
+        "opcoes": [
+            {"id": 1, "texto": "Ruanda"},
+            {"id": 2, "texto": "Suíça"},
+            {"id": 3, "texto": "Brasil"},
+            {"id": 4, "texto": "Chile"},
+            {"id": 5, "texto": "Índia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a maior montanha da América do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Aconcágua"},
+            {"id": 2, "texto": "Licancabur"},
+            {"id": 3, "texto": "Monte Roraima"},
+            {"id": 4, "texto": "Huascarán"},
+            {"id": 5, "texto": "Monte Fitz Roy"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantas letras tem o alfabeto cirílico usado na Rússia?",
+        "opcoes": [
+            {"id": 1, "texto": "33"},
+            {"id": 2, "texto": "25"},
+            {"id": 3, "texto": "30"},
+            {"id": 4, "texto": "27"},
+            {"id": 5, "texto": "22"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a raiz quadrada de 1089?",
+        "opcoes": [
+            {"id": 1, "texto": "33"},
+            {"id": 2, "texto": "25"},
+            {"id": 3, "texto": "30"},
+            {"id": 4, "texto": "27"},
+            {"id": 5, "texto": "22"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual empresa criou o ReactJS?",
+        "opcoes": [
+            {"id": 1, "texto": "Facebook"},
+            {"id": 2, "texto": "Google"},
+            {"id": 3, "texto": "Microsoft"},
+            {"id": 4, "texto": "Apple"},
+            {"id": 5, "texto": "Intel"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Um ano é composto por quantos trimestres?",
+        "opcoes": [
+            {"id": 1, "texto": "4"},
+            {"id": 2, "texto": "5"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "2"},
+            {"id": 5, "texto": "6"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A cantora Elis Regina nasceu em qual cidade brasileira?",
+        "opcoes": [
+            {"id": 1, "texto": "Porto Alegre"},
+            {"id": 2, "texto": "Rio de Janeiro"},
+            {"id": 3, "texto": "Brasília"},
+            {"id": 4, "texto": "Belo Horizonte"},
+            {"id": 5, "texto": "São Paulo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a classificação dada ao medicamento obtido exclusivamente da matéria-prima vegetal?",
+        "opcoes": [
+            {"id": 1, "texto": "Fitoterápico"},
+            {"id": 2, "texto": "Genérico"},
+            {"id": 3, "texto": "Homeopático"},
+            {"id": 4, "texto": "Alopático"},
+            {"id": 5, "texto": "Placebo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual região ficava o Quilombo dos Palmares?",
+        "opcoes": [
+            {"id": 1, "texto": "Serra da Barriga - AL"},
+            {"id": 2, "texto": "Vale do Ribeira - SP"},
+            {"id": 3, "texto": "Riacho de Santana - BA"},
+            {"id": 4, "texto": "Boqueirão da Arara - CE"},
+            {"id": 5, "texto": "Serra da Capivara - PI"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o verdadeiro nome da cantora Anitta?",
+        "opcoes": [
+            {"id": 1, "texto": "Larissa"},
+            {"id": 2, "texto": "Jéssica"},
+            {"id": 3, "texto": "Amanda"},
+            {"id": 4, "texto": "Luísa"},
+            {"id": 5, "texto": "Ana"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O opilião é um tipo de:",
+        "opcoes": [
+            {"id": 1, "texto": "Aracnídeo"},
+            {"id": 2, "texto": "Peixe"},
+            {"id": 3, "texto": "Mamífero"},
+            {"id": 4, "texto": "Ave"},
+            {"id": 5, "texto": "Fruta"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A Adidas foi fundada em qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Alemanha"},
+            {"id": 2, "texto": "EUA"},
+            {"id": 3, "texto": "Inglaterra"},
+            {"id": 4, "texto": "Dinamarca"},
+            {"id": 5, "texto": "Canadá"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país nasceu o escritor Robert Louis Stevenson?",
+        "opcoes": [
+            {"id": 1, "texto": "Escócia"},
+            {"id": 2, "texto": "EUA"},
+            {"id": 3, "texto": "Inglaterra"},
+            {"id": 4, "texto": "Irlanda"},
+            {"id": 5, "texto": "País de Gales"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes escritores nunca ganhou um Nobel de literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "Herman Melville"},
+            {"id": 2, "texto": "Thomas Mann"},
+            {"id": 3, "texto": "José Saramago"},
+            {"id": 4, "texto": "Gabriel Garcia Marquez"},
+            {"id": 5, "texto": "William Golding"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o nome do meio de Walt Disney?",
+        "opcoes": [
+            {"id": 1, "texto": "Elias"},
+            {"id": 2, "texto": "James"},
+            {"id": 3, "texto": "Benjamin"},
+            {"id": 4, "texto": "Robert"},
+            {"id": 5, "texto": "Winston"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o último Czar da Rússia?",
+        "opcoes": [
+            {"id": 1, "texto": "Nicolau II"},
+            {"id": 2, "texto": "Alexandre III"},
+            {"id": 3, "texto": "Ivan VI"},
+            {"id": 4, "texto": "Catarina I"},
+            {"id": 5, "texto": "Ladislau I"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como é 500 em algarismos romanos?",
+        "opcoes": [
+            {"id": 1, "texto": "D"},
+            {"id": 2, "texto": "L"},
+            {"id": 3, "texto": "S"},
+            {"id": 4, "texto": "T"},
+            {"id": 5, "texto": "C"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual classe literária ganhou o primeiro Nobel de literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "Poesia"},
+            {"id": 2, "texto": "Romance"},
+            {"id": 3, "texto": "Dramaturgia"},
+            {"id": 4, "texto": "Ensaio"},
+            {"id": 5, "texto": "Manifesto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual elemento da tabela periódica recebeu seu nome em homenagem a um gnomo?",
+        "opcoes": [
+            {"id": 1, "texto": "Cobalto"},
+            {"id": 2, "texto": "Háfnio"},
+            {"id": 3, "texto": "Berílio"},
+            {"id": 4, "texto": "Telúrio"},
+            {"id": 5, "texto": "Tungstênio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que estado dos EUA fica a cidade de Kissimmee?",
+        "opcoes": [
+            {"id": 1, "texto": "Flórida"},
+            {"id": 2, "texto": "Arizona"},
+            {"id": 3, "texto": "Texas"},
+            {"id": 4, "texto": "Utah"},
+            {"id": 5, "texto": "Nebraska"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Turquia?",
+        "opcoes": [
+            {"id": 1, "texto": "Ancara"},
+            {"id": 2, "texto": "Istambul"},
+            {"id": 3, "texto": "Adana"},
+            {"id": 4, "texto": "Esmirna"},
+            {"id": 5, "texto": "Bursa"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital do Marrocos?",
+        "opcoes": [
+            {"id": 1, "texto": "Rabat"},
+            {"id": 2, "texto": "Marrakech"},
+            {"id": 3, "texto": "Casablanca"},
+            {"id": 4, "texto": "Tanger"},
+            {"id": 5, "texto": "Safim"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fabricado o primeiro Fusca no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "1935"},
+            {"id": 2, "texto": "1940"},
+            {"id": 3, "texto": "1942"},
+            {"id": 4, "texto": "1938"},
+            {"id": 5, "texto": "1944"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é considerado o Santo padroeiro dos caminhoneiros?",
+        "opcoes": [
+            {"id": 1, "texto": "São Cristóvão"},
+            {"id": 2, "texto": "Santo Expedito"},
+            {"id": 3, "texto": "São Lucas Evangelista"},
+            {"id": 4, "texto": "Santo Isidoro"},
+            {"id": 5, "texto": "São Camilo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O timo é um órgão que compõe qual sistema do corpo humano?",
+        "opcoes": [
+            {"id": 1, "texto": "Linfático"},
+            {"id": 2, "texto": "Respiratório"},
+            {"id": 3, "texto": "Endócrino"},
+            {"id": 4, "texto": "Reprodutor"},
+            {"id": 5, "texto": "Cardiovascular"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi a primeira pessoa a observar células vivas?",
+        "opcoes": [
+            {"id": 1, "texto": "Robert Hooke"},
+            {"id": 2, "texto": "Edward Jenner"},
+            {"id": 3, "texto": "Louis Pasteur"},
+            {"id": 4, "texto": "Alexander Fleming"},
+            {"id": 5, "texto": "Oswald de Andrade"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O animal com nome científico Phascolarctos cinereus é o:",
+        "opcoes": [
+            {"id": 1, "texto": "Coala"},
+            {"id": 2, "texto": "Panda"},
+            {"id": 3, "texto": "Orca"},
+            {"id": 4, "texto": "Canguru"},
+            {"id": 5, "texto": "Urso Polar"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Segundo a Bíblia, quem foi o pai de Moisés?",
+        "opcoes": [
+            {"id": 1, "texto": "Anrão"},
+            {"id": 2, "texto": "Noé"},
+            {"id": 3, "texto": "Aarão"},
+            {"id": 4, "texto": "Jacó"},
+            {"id": 5, "texto": "Hebrom"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se chama quem nasce em São Luís no Maranhão?",
+        "opcoes": [
+            {"id": 1, "texto": "Ludovicense"},
+            {"id": 2, "texto": "Sãoluisense"},
+            {"id": 3, "texto": "Luisino"},
+            {"id": 4, "texto": "Soteropolitano"},
+            {"id": 5, "texto": "Luisense"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o maior rio do mundo em profundidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Rio Congo"},
+            {"id": 2, "texto": "Rio Amazonas"},
+            {"id": 3, "texto": "Rio Danúbio"},
+            {"id": 4, "texto": "Rio São Francisco"},
+            {"id": 5, "texto": "Rio Mississipi"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado nasce o Rio São Francisco?",
+        "opcoes": [
+            {"id": 1, "texto": "Minas Gerais"},
+            {"id": 2, "texto": "Bahia"},
+            {"id": 3, "texto": "Goiás"},
+            {"id": 4, "texto": "São Paulo"},
+            {"id": 5, "texto": "Pernambuco"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano a sonda Voyager 2 passou por Netuno?",
+        "opcoes": [
+            {"id": 1, "texto": "1989"},
+            {"id": 2, "texto": "2001"},
+            {"id": 3, "texto": "1999"},
+            {"id": 4, "texto": "2005"},
+            {"id": 5, "texto": "1993"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que é um camu-camu?",
+        "opcoes": [
+            {"id": 1, "texto": "Fruta"},
+            {"id": 2, "texto": "Embarcação"},
+            {"id": 3, "texto": "Ave"},
+            {"id": 4, "texto": "Aeroplano"},
+            {"id": 5, "texto": "Vaso"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que dia se celebra o dia do dentista no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "25 de outubro"},
+            {"id": 2, "texto": "18 de maio"},
+            {"id": 3, "texto": "30 de março"},
+            {"id": 4, "texto": "21 de janeiro"},
+            {"id": 5, "texto": "2 de abril"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é considerada a primeira mulher programadora?",
+        "opcoes": [
+            {"id": 1, "texto": "Ada Lovelace"},
+            {"id": 2, "texto": "Grace Murray Hopper"},
+            {"id": 3, "texto": "Ann Isabella Milbanke"},
+            {"id": 4, "texto": "Kathleen McNulty"},
+            {"id": 5, "texto": "Adele Goldberg"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que estado fica o município de Curitibanos?",
+        "opcoes": [
+            {"id": 1, "texto": "Santa Catarina"},
+            {"id": 2, "texto": "Paraná"},
+            {"id": 3, "texto": "Rio Grande do Sul"},
+            {"id": 4, "texto": "Matro Grosso do Sul"},
+            {"id": 5, "texto": "São Paulo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que dia e ano aconteceu o desastre nuclear de Chernobyl?",
+        "opcoes": [
+            {"id": 1, "texto": "26 de abril de 1986"},
+            {"id": 2, "texto": "17 de setembro de 1989"},
+            {"id": 3, "texto": "14 de agosto de 1987"},
+            {"id": 4, "texto": "28 de maio de 1985"},
+            {"id": 5, "texto": "9 de dezembro de 1988"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do animal considerado como a primeira ave?",
+        "opcoes": [
+            {"id": 1, "texto": "Archaeopteryx"},
+            {"id": 2, "texto": "Morganucodon"},
+            {"id": 3, "texto": "Paquicetus"},
+            {"id": 4, "texto": "Pterodactyl"},
+            {"id": 5, "texto": "Dimetrodon"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "As estrelas-do-mar pertencem a qual grupo?",
+        "opcoes": [
+            {"id": 1, "texto": "Echinodermata"},
+            {"id": 2, "texto": "Nematodea"},
+            {"id": 3, "texto": "Prokariota"},
+            {"id": 4, "texto": "Zigomycota"},
+            {"id": 5, "texto": "Protozoário"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem fez o primeiro gol do Brasil na copa do mundo de 1994?",
+        "opcoes": [
+            {"id": 1, "texto": "Romário"},
+            {"id": 2, "texto": "Bebeto"},
+            {"id": 3, "texto": "Raí"},
+            {"id": 4, "texto": "Dunga"},
+            {"id": 5, "texto": "Leonardo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano Stephen Hawking assumiu a cadeira de professor lucasiano na Universidade de Cambridge?",
+        "opcoes": [
+            {"id": 1, "texto": "1979"},
+            {"id": 2, "texto": "1969"},
+            {"id": 3, "texto": "1989"},
+            {"id": 4, "texto": "1999"},
+            {"id": 5, "texto": "1959"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é o deus grego do vinho?",
+        "opcoes": [
+            {"id": 1, "texto": "Dionísio"},
+            {"id": 2, "texto": "Apolo"},
+            {"id": 3, "texto": "Hermes"},
+            {"id": 4, "texto": "Deméter"},
+            {"id": 5, "texto": "Hélios"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem fez o primeiro gol do Brasil na copa do mundo de 2002?",
+        "opcoes": [
+            {"id": 1, "texto": "Ronaldo"},
+            {"id": 2, "texto": "Rivaldo"},
+            {"id": 3, "texto": "Ronaldinho Gaúcho"},
+            {"id": 4, "texto": "Kaká"},
+            {"id": 5, "texto": "Roberto Carlos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Noruega?",
+        "opcoes": [
+            {"id": 1, "texto": "Oslo"},
+            {"id": 2, "texto": "Estocolmo"},
+            {"id": 3, "texto": "Helsinke"},
+            {"id": 4, "texto": "Tailinn"},
+            {"id": 5, "texto": "Copenhague"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do navio em que Charles Darwin viajou para a América do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Beagle"},
+            {"id": 2, "texto": "Corgi"},
+            {"id": 3, "texto": "Violet"},
+            {"id": 4, "texto": "Plymouth"},
+            {"id": 5, "texto": "Royal Oak"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foram os criadores do Google?",
+        "opcoes": [
+            {"id": 1, "texto": "Larry Page e Sergey Brin"},
+            {"id": 2, "texto": "Jack Dorsey e Biz Stone"},
+            {"id": 3, "texto": "Daniel Ek e Martin Lorentzon"},
+            {"id": 4, "texto": "Jawed Karim e Steve Chen"},
+            {"id": 5, "texto": "Reed Hastings e Marc Randolph"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país africano fica o Monte Kilimanjaro?",
+        "opcoes": [
+            {"id": 1, "texto": "Tanzânia"},
+            {"id": 2, "texto": "Congo"},
+            {"id": 3, "texto": "Nigéria"},
+            {"id": 4, "texto": "Ruanda"},
+            {"id": 5, "texto": "Namíbia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como é conhecida a Patagônia?",
+        "opcoes": [
+            {"id": 1, "texto": "Tierra del Fuego"},
+            {"id": 2, "texto": "Tierra del Hielo"},
+            {"id": 3, "texto": "Tierra del Viento"},
+            {"id": 4, "texto": "Tierra del Montes"},
+            {"id": 5, "texto": "Tierra del Cielo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que dia e ano aconteceu o desastre ambiental de Brumadinho?",
+        "opcoes": [
+            {"id": 1, "texto": "25 de janeiro de 2019"},
+            {"id": 2, "texto": "22 de fevereiro de 2018"},
+            {"id": 3, "texto": "19 de dezembro de 2017"},
+            {"id": 4, "texto": "10 de janeiro de 2020"},
+            {"id": 5, "texto": "30 de novembro de 2016"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a oitava letra do alfabeto grego?",
+        "opcoes": [
+            {"id": 1, "texto": "Teta"},
+            {"id": 2, "texto": "Gama"},
+            {"id": 3, "texto": "Capa"},
+            {"id": 4, "texto": "Lambda"},
+            {"id": 5, "texto": "Pi"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital do Paquistão?",
+        "opcoes": [
+            {"id": 1, "texto": "Islamabad"},
+            {"id": 2, "texto": "Carachi"},
+            {"id": 3, "texto": "Lahore"},
+            {"id": 4, "texto": "Faisalabad"},
+            {"id": 5, "texto": "Larkana"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "De qual país é a marca de carros esportivos Koenigsegg?",
+        "opcoes": [
+            {"id": 1, "texto": "Suécia"},
+            {"id": 2, "texto": "Bélgica"},
+            {"id": 3, "texto": "China"},
+            {"id": 4, "texto": "Japão"},
+            {"id": 5, "texto": "Canadá"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantas vezes Albert Einstein visitou ao Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "2"},
+            {"id": 2, "texto": "1"},
+            {"id": 3, "texto": "0"},
+            {"id": 4, "texto": "3"},
+            {"id": 5, "texto": "4"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o idioma oficial falado em Israel?",
+        "opcoes": [
+            {"id": 1, "texto": "Hebraico"},
+            {"id": 2, "texto": "Inglês"},
+            {"id": 3, "texto": "Hurdu"},
+            {"id": 4, "texto": "Igbo"},
+            {"id": 5, "texto": "Aramaico"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual esporte rendeu o primeiro ouro olímpico ao Brasil na história?",
+        "opcoes": [
+            {"id": 1, "texto": "Tiro esportivo"},
+            {"id": 2, "texto": "Atletismo"},
+            {"id": 3, "texto": "Esgrima"},
+            {"id": 4, "texto": "Halterofilismo"},
+            {"id": 5, "texto": "Remo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o décimo terceiro presidente do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Washington Luís"},
+            {"id": 2, "texto": "Café Filho"},
+            {"id": 3, "texto": "Getúlio Vargas"},
+            {"id": 4, "texto": "Jânio Quadros"},
+            {"id": 5, "texto": "Gaspar Dutra"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas pessoas nunca ganhou o Nobel da Paz?",
+        "opcoes": [
+            {"id": 1, "texto": "Charles de Gaulle"},
+            {"id": 2, "texto": "Barack Obama"},
+            {"id": 3, "texto": "Muhammad Yunus"},
+            {"id": 4, "texto": "Nelson Mandela"},
+            {"id": 5, "texto": "Martin Luther King Jr"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o processo pelo qual um sólido passa diretamente para o estado gasoso, sem passar pelo estado líquido?",
+        "opcoes": [
+            {"id": 1, "texto": "Sublimação"},
+            {"id": 2, "texto": "Fusão"},
+            {"id": 3, "texto": "Vaporização"},
+            {"id": 4, "texto": "Condensação"},
+            {"id": 5, "texto": "Solidificação"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o elemento químico com símbolo 'Na'?",
+        "opcoes": [
+            {"id": 1, "texto": "Sódio"},
+            {"id": 2, "texto": "Neônio"},
+            {"id": 3, "texto": "Níquel"},
+            {"id": 4, "texto": "Enxofre"},
+            {"id": 5, "texto": "Cádmio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o número atômico do carbono?",
+        "opcoes": [
+            {"id": 1, "texto": "6"},
+            {"id": 2, "texto": "4"},
+            {"id": 3, "texto": "5"},
+            {"id": 4, "texto": "7"},
+            {"id": 5, "texto": "9"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o nome do buraco negro que está mais perto da Terra?",
+        "opcoes": [
+            {"id": 1, "texto": "Gaia BH1"},
+            {"id": 2, "texto": "HLX-1"},
+            {"id": 3, "texto": "Messier 82"},
+            {"id": 4, "texto": "Fornax A"},
+            {"id": 5, "texto": "TON 618"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o maior número primo menor que 1000?",
+        "opcoes": [
+            {"id": 1, "texto": "997"},
+            {"id": 2, "texto": "977"},
+            {"id": 3, "texto": "973"},
+            {"id": 4, "texto": "947"},
+            {"id": 5, "texto": "987"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que dia se comemora o dia nacional do arquiteto?",
+        "opcoes": [
+            {"id": 1, "texto": "15 de dezembro"},
+            {"id": 2, "texto": "11 de abril"},
+            {"id": 3, "texto": "29 de agosto"},
+            {"id": 4, "texto": "12 de julho"},
+            {"id": 5, "texto": "30 de novembro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o nome do robô do filme 2001: Uma odisseia no espaço?",
+        "opcoes": [
+            {"id": 1, "texto": "HAL"},
+            {"id": 2, "texto": "MARS"},
+            {"id": 3, "texto": "TARS"},
+            {"id": 4, "texto": "EVA"},
+            {"id": 5, "texto": "AVA"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano Nathaniel Baldwin inventou o fone de ouvido?",
+        "opcoes": [
+            {"id": 1, "texto": "1919"},
+            {"id": 2, "texto": "1929"},
+            {"id": 3, "texto": "1938"},
+            {"id": 4, "texto": "1949"},
+            {"id": 5, "texto": "1958"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundado o São Paulo Futebol Clube?",
+        "opcoes": [
+            {"id": 1, "texto": "1930"},
+            {"id": 2, "texto": "1933"},
+            {"id": 3, "texto": "1925"},
+            {"id": 4, "texto": "1922"},
+            {"id": 5, "texto": "1920"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que é uma piroga?",
+        "opcoes": [
+            {"id": 1, "texto": "Embarcação"},
+            {"id": 2, "texto": "Mamífero"},
+            {"id": 3, "texto": "Fruta"},
+            {"id": 4, "texto": "Peixe"},
+            {"id": 5, "texto": "Idioma"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o livro Admirável mundo novo?",
+        "opcoes": [
+            {"id": 1, "texto": "Aldous Huxley"},
+            {"id": 2, "texto": "George Orwell"},
+            {"id": 3, "texto": "Ray Bradburry"},
+            {"id": 4, "texto": "Joseph Conrad"},
+            {"id": 5, "texto": "Hendrik Groen"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de João Guimarães Rosa?",
+        "opcoes": [
+            {"id": 1, "texto": "Os sertões"},
+            {"id": 2, "texto": "Grande sertão: veredas"},
+            {"id": 3, "texto": "Noites do sertão"},
+            {"id": 4, "texto": "Sagarana"},
+            {"id": 5, "texto": "Tutameia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se chama quem nasce em Manaus?",
+        "opcoes": [
+            {"id": 1, "texto": "Manauara"},
+            {"id": 2, "texto": "Manauense"},
+            {"id": 3, "texto": "Amanauense"},
+            {"id": 4, "texto": "Manausino"},
+            {"id": 5, "texto": "Amanauara"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A estrela mais próxima da terra está a aproximadamente quantos anos-luz de distância?",
+        "opcoes": [
+            {"id": 1, "texto": "4,4"},
+            {"id": 2, "texto": "2,8"},
+            {"id": 3, "texto": "3,7"},
+            {"id": 4, "texto": "5,5"},
+            {"id": 5, "texto": "9,1"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o nome do maior observatório espacial que se encontra no deserto do Atacama?",
+        "opcoes": [
+            {"id": 1, "texto": "ALMA"},
+            {"id": 2, "texto": "ATTO"},
+            {"id": 3, "texto": "LNA"},
+            {"id": 4, "texto": "MWO"},
+            {"id": 5, "texto": "Arecibo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos gols de falta Rogério Ceni fez em sua carreira?",
+        "opcoes": [
+            {"id": 1, "texto": "63"},
+            {"id": 2, "texto": "70"},
+            {"id": 3, "texto": "55"},
+            {"id": 4, "texto": "112"},
+            {"id": 5, "texto": "81"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual continente fica a Libéria?",
+        "opcoes": [
+            {"id": 1, "texto": "África"},
+            {"id": 2, "texto": "Ásia"},
+            {"id": 3, "texto": "Europa"},
+            {"id": 4, "texto": "Oceania"},
+            {"id": 5, "texto": "América Central"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país fica o Rio Ob?",
+        "opcoes": [
+            {"id": 1, "texto": "Rússia"},
+            {"id": 2, "texto": "Angola"},
+            {"id": 3, "texto": "Canadá"},
+            {"id": 4, "texto": "Índia"},
+            {"id": 5, "texto": "Sérvia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual ave está retratada em um famoso poema de Edgar Allan Poe?",
+        "opcoes": [
+            {"id": 1, "texto": "Corvo"},
+            {"id": 2, "texto": "Coruja"},
+            {"id": 3, "texto": "Águia"},
+            {"id": 4, "texto": "Gaivota"},
+            {"id": 5, "texto": "Beija-flor"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual ave tem o canto mais alto do mundo chegando a 125 decibéis?",
+        "opcoes": [
+            {"id": 1, "texto": "Araponga-da-amazônia"},
+            {"id": 2, "texto": "Casuar"},
+            {"id": 3, "texto": "Gavião peregrino"},
+            {"id": 4, "texto": "Cegonha bico-de-sapato"},
+            {"id": 5, "texto": "Coruja-do-congo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual das opções abaixo está escrita da forma correta?",
+        "opcoes": [
+            {"id": 1, "texto": "Exceção"},
+            {"id": 2, "texto": "Excessão"},
+            {"id": 3, "texto": "Escessão"},
+            {"id": 4, "texto": "Essessão"},
+            {"id": 5, "texto": "Excesção"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o processo que ocorre no núcleo das estrelas, onde átomos de hidrogênio se fundem para formar hélio?",
+        "opcoes": [
+            {"id": 1, "texto": "Fusão nuclear"},
+            {"id": 2, "texto": "Fissão nuclear"},
+            {"id": 3, "texto": "Decaimento radioativo"},
+            {"id": 4, "texto": "Sublimação"},
+            {"id": 5, "texto": "Ebulição"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que tipo de objeto celeste é formado a partir da explosão de uma estrela gigante?",
+        "opcoes": [
+            {"id": 1, "texto": "Supernova"},
+            {"id": 2, "texto": "Buraco negro"},
+            {"id": 3, "texto": "Planeta gasoso"},
+            {"id": 4, "texto": "Nebulosa"},
+            {"id": 5, "texto": "Cometa"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o plural de 'guarda-chuva'?",
+        "opcoes": [
+            {"id": 1, "texto": "guarda-chuvas"},
+            {"id": 2, "texto": "guarda-chuva"},
+            {"id": 3, "texto": "guardas-chuvas"},
+            {"id": 4, "texto": "guarda-chuves"},
+            {"id": 5, "texto": "guardas-chuva"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem liderou a Revolução Russa em 1917, fundando assim a União Soviética?",
+        "opcoes": [
+            {"id": 1, "texto": "Vladimir Lênin"},
+            {"id": 2, "texto": "Joseph Stálin"},
+            {"id": 3, "texto": "Lev Trotsky"},
+            {"id": 4, "texto": "Mikhail Gorbachev"},
+            {"id": 5, "texto": "Ivan Turguêniev"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual país presenteou os EUA com a Estátua da Liberdade?",
+        "opcoes": [
+            {"id": 1, "texto": "França"},
+            {"id": 2, "texto": "Inglaterra"},
+            {"id": 3, "texto": "Canadá"},
+            {"id": 4, "texto": "Japão"},
+            {"id": 5, "texto": "Espanha"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital de Cuba?",
+        "opcoes": [
+            {"id": 1, "texto": "Havana"},
+            {"id": 2, "texto": "Santiago de Cuba"},
+            {"id": 3, "texto": "Cienfuegos"},
+            {"id": 4, "texto": "Camagüey"},
+            {"id": 5, "texto": "Varadero"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o nome do movimento guerrilheiro que liderou a Revolução Cubana?",
+        "opcoes": [
+            {"id": 1, "texto": "Movimento 26 de Julho"},
+            {"id": 2, "texto": "Movimento Sandinista"},
+            {"id": 3, "texto": "Movimento Zapatista"},
+            {"id": 4, "texto": "Movimento Tupamaro"},
+            {"id": 5, "texto": "Movimento Comunista Cubano"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Aproximadamente, quantos bits tem em um megabyte?",
+        "opcoes": [
+            {"id": 1, "texto": "8.000.000"},
+            {"id": 2, "texto": "8.000"},
+            {"id": 3, "texto": "800.000"},
+            {"id": 4, "texto": "1.000.000"},
+            {"id": 5, "texto": "8.000.000.000"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi criada a primeira universidade do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "1920"},
+            {"id": 2, "texto": "1910"},
+            {"id": 3, "texto": "1900"},
+            {"id": 4, "texto": "1930"},
+            {"id": 5, "texto": "1940"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o pico mais alto do estado de Minas Gerais?",
+        "opcoes": [
+            {"id": 1, "texto": "Pico da Bandeira"},
+            {"id": 2, "texto": "Pedra da Mina"},
+            {"id": 3, "texto": "Pico do Machadão"},
+            {"id": 4, "texto": "Pico do Itaguaré"},
+            {"id": 5, "texto": "Pedra de São Domingos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Uma pessoa pusilânime é uma pessoa...?",
+        "opcoes": [
+            {"id": 1, "texto": "Covarde"},
+            {"id": 2, "texto": "Alta"},
+            {"id": 3, "texto": "Cheirosa"},
+            {"id": 4, "texto": "Canhota"},
+            {"id": 5, "texto": "Sábia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Machado de Assis?",
+        "opcoes": [
+            {"id": 1, "texto": "O Ateneu"},
+            {"id": 2, "texto": "O Alienista"},
+            {"id": 3, "texto": "Esaú e Jacó"},
+            {"id": 4, "texto": "Memorial de Aires"},
+            {"id": 5, "texto": "A mão e a luva"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes planetas é um planeta gasoso?",
+        "opcoes": [
+            {"id": 1, "texto": "Saturno"},
+            {"id": 2, "texto": "Mercúrio"},
+            {"id": 3, "texto": "Vênus"},
+            {"id": 4, "texto": "Terra"},
+            {"id": 5, "texto": "Plutão"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Com qual idade faleceu Oscar Niemeyer?",
+        "opcoes": [
+            {"id": 1, "texto": "104"},
+            {"id": 2, "texto": "105"},
+            {"id": 3, "texto": "102"},
+            {"id": 4, "texto": "100"},
+            {"id": 5, "texto": "103"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que escritor brasileiro compôs músicas junto com Raul Seixas?",
+        "opcoes": [
+            {"id": 1, "texto": "Paulo Coelho"},
+            {"id": 2, "texto": "Chico Buarque"},
+            {"id": 3, "texto": "Jorge Amado"},
+            {"id": 4, "texto": "João Ubaldo Ribeiro"},
+            {"id": 5, "texto": "Caio Fernando de Abreu"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu as histórias de Pantagruel e Gargântua?",
+        "opcoes": [
+            {"id": 1, "texto": "François Rabelais"},
+            {"id": 2, "texto": "Honoré de Balzac"},
+            {"id": 3, "texto": "Jean-Jacques Rousseau"},
+            {"id": 4, "texto": "Charles Baudelaire"},
+            {"id": 5, "texto": "Gustave Flaubert"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o nome do Suriname antes de se tornar independente?",
+        "opcoes": [
+            {"id": 1, "texto": "Guiana Holandesa"},
+            {"id": 2, "texto": "Guiana Alemã"},
+            {"id": 3, "texto": "Guiana Portuguesa"},
+            {"id": 4, "texto": "Guiana Inglesa"},
+            {"id": 5, "texto": "Guiana Espanhola"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Mikhail Baryshnikov destacou-se em qual destas artes?",
+        "opcoes": [
+            {"id": 1, "texto": "Dança"},
+            {"id": 2, "texto": "Pintura"},
+            {"id": 3, "texto": "Escultura"},
+            {"id": 4, "texto": "Fotografia"},
+            {"id": 5, "texto": "Cinema"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes escritores não era do movimento literário chamado de Romantismo?",
+        "opcoes": [
+            {"id": 1, "texto": "Manuel Bandeira"},
+            {"id": 2, "texto": "José de Alencar"},
+            {"id": 3, "texto": "Castro Alves"},
+            {"id": 4, "texto": "Álvares de Azevedo"},
+            {"id": 5, "texto": "Gonçalves Dias"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro longa-metragem brasileiro a concorrer ao Oscar?",
+        "opcoes": [
+            {"id": 1, "texto": "O pagador de promessas"},
+            {"id": 2, "texto": "Orfeu Negro"},
+            {"id": 3, "texto": "Abril despedaçado"},
+            {"id": 4, "texto": "O Quatrilho"},
+            {"id": 5, "texto": "Central do Brasil"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o ramo da biologia que se dedica especificamente a estudar fungos?",
+        "opcoes": [
+            {"id": 1, "texto": "Micologia"},
+            {"id": 2, "texto": "Ficologia"},
+            {"id": 3, "texto": "Fucologia"},
+            {"id": 4, "texto": "Mucologia"},
+            {"id": 5, "texto": "Funcologia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em grande parte, a atmosfera de Júpiter é composta de hidrogênio e...?",
+        "opcoes": [
+            {"id": 1, "texto": "Hélio"},
+            {"id": 2, "texto": "Metano"},
+            {"id": 3, "texto": "Amônia"},
+            {"id": 4, "texto": "Argônio"},
+            {"id": 5, "texto": "Radônio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Taekwondo é originário de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Coreia do Sul"},
+            {"id": 2, "texto": "China"},
+            {"id": 3, "texto": "Japão"},
+            {"id": 4, "texto": "Tailândia"},
+            {"id": 5, "texto": "Indonésia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual escala mede o grau de ardência das pimentas?",
+        "opcoes": [
+            {"id": 1, "texto": "Scoville"},
+            {"id": 2, "texto": "Rass"},
+            {"id": 3, "texto": "Eva"},
+            {"id": 4, "texto": "Brinell"},
+            {"id": 5, "texto": "Richter"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Tegucigalpa é a capital de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Honduras"},
+            {"id": 2, "texto": "Suriname"},
+            {"id": 3, "texto": "Guiana"},
+            {"id": 4, "texto": "República Dominicana"},
+            {"id": 5, "texto": "Costa Rica"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual empresa lançou o primeiro videogame do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Magnavox"},
+            {"id": 2, "texto": "Atari"},
+            {"id": 3, "texto": "Nintendo"},
+            {"id": 4, "texto": "IBM"},
+            {"id": 5, "texto": "Cube"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos países existem no continente africano?",
+        "opcoes": [
+            {"id": 1, "texto": "54"},
+            {"id": 2, "texto": "50"},
+            {"id": 3, "texto": "61"},
+            {"id": 4, "texto": "63"},
+            {"id": 5, "texto": "47"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Akira Toriyama é o criador de qual destes animes?",
+        "opcoes": [
+            {"id": 1, "texto": "Dragon Ball"},
+            {"id": 2, "texto": "Naruto"},
+            {"id": 3, "texto": "Digimon"},
+            {"id": 4, "texto": "Death Note"},
+            {"id": 5, "texto": "Sailor Moon"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual das seguintes obras não foi pintada por Van Gogh?",
+        "opcoes": [
+            {"id": 1, "texto": "Operários"},
+            {"id": 2, "texto": "Os comedores de batata"},
+            {"id": 3, "texto": "A vinha encarnada"},
+            {"id": 4, "texto": "A casa amarela"},
+            {"id": 5, "texto": "A noite estrelada"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a raiz quadrada de 1048576?",
+        "opcoes": [
+            {"id": 1, "texto": "1024"},
+            {"id": 2, "texto": "1032"},
+            {"id": 3, "texto": "1012"},
+            {"id": 4, "texto": "1042"},
+            {"id": 5, "texto": "1034"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital de Madagáscar?",
+        "opcoes": [
+            {"id": 1, "texto": "Antananarivo"},
+            {"id": 2, "texto": "Toliara"},
+            {"id": 3, "texto": "Ambovombe"},
+            {"id": 4, "texto": "Mahajanga"},
+            {"id": 5, "texto": "Moramanga"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O país de Andorra fica entre quais países?",
+        "opcoes": [
+            {"id": 1, "texto": "Espanha e França"},
+            {"id": 2, "texto": "Portugal e Espanha"},
+            {"id": 3, "texto": "França e Alemanha"},
+            {"id": 4, "texto": "Itália e França"},
+            {"id": 5, "texto": "Suíça e Itália"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu a obra Guerra e Paz?",
+        "opcoes": [
+            {"id": 1, "texto": "Liev Tolstói"},
+            {"id": 2, "texto": "Alexandre Dumas"},
+            {"id": 3, "texto": "C.S. Lewis"},
+            {"id": 4, "texto": "Eduardo Galeano"},
+            {"id": 5, "texto": "Albert Camus"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual escritor criou o personagem Sherlock Holmes?",
+        "opcoes": [
+            {"id": 1, "texto": "Arthur Conan Doyle"},
+            {"id": 2, "texto": "Philip K. Dick"},
+            {"id": 3, "texto": "F. Scott Fitzgerald"},
+            {"id": 4, "texto": "Daniel Defoe"},
+            {"id": 5, "texto": "Alan Moore"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Ao jorgarmos uma moeda 2 vezes seguidas, qual a probabilidade de cair coroa nas 2 vezes?",
+        "opcoes": [
+            {"id": 1, "texto": "25%"},
+            {"id": 2, "texto": "33,33%"},
+            {"id": 3, "texto": "50%"},
+            {"id": 4, "texto": "27,5%"},
+            {"id": 5, "texto": "75%"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em espanhol 'Basura'?",
+        "opcoes": [
+            {"id": 1, "texto": "Lixo"},
+            {"id": 2, "texto": "Vassoura"},
+            {"id": 3, "texto": "Garrafa"},
+            {"id": 4, "texto": "Bonde"},
+            {"id": 5, "texto": "Navio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos zeros tem dez trilhões?",
+        "opcoes": [
+            {"id": 1, "texto": "13"},
+            {"id": 2, "texto": "15"},
+            {"id": 3, "texto": "12"},
+            {"id": 4, "texto": "16"},
+            {"id": 5, "texto": "14"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país nasceu Nicolau Copérnico?",
+        "opcoes": [
+            {"id": 1, "texto": "Polônia"},
+            {"id": 2, "texto": "Hungria"},
+            {"id": 3, "texto": "Grécia"},
+            {"id": 4, "texto": "Turquia"},
+            {"id": 5, "texto": "Itália"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o primeiro nome do fundador da Lamborghini?",
+        "opcoes": [
+            {"id": 1, "texto": "Ferruccio"},
+            {"id": 2, "texto": "Matteo"},
+            {"id": 3, "texto": "Enzo"},
+            {"id": 4, "texto": "Giuseppe"},
+            {"id": 5, "texto": "Stefano"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Tyranossauro Rex é de qual período?",
+        "opcoes": [
+            {"id": 1, "texto": "Cretáceo"},
+            {"id": 2, "texto": "Jurássico"},
+            {"id": 3, "texto": "Paleozoico"},
+            {"id": 4, "texto": "Cenozoico"},
+            {"id": 5, "texto": "Mesozoico"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o nome do Uruguai quando pertencia ao território do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Província Cisplatina"},
+            {"id": 2, "texto": "Rio Grande"},
+            {"id": 3, "texto": "Uruguaiana"},
+            {"id": 4, "texto": "Guarani do Sul"},
+            {"id": 5, "texto": "Algarves"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi lançado o primeiro filme da saga Star Wars?",
+        "opcoes": [
+            {"id": 1, "texto": "1977"},
+            {"id": 2, "texto": "1981"},
+            {"id": 3, "texto": "1979"},
+            {"id": 4, "texto": "1975"},
+            {"id": 5, "texto": "1974"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o poema 'Tabacaria'?",
+        "opcoes": [
+            {"id": 1, "texto": "Fernando Pessoa"},
+            {"id": 2, "texto": "Calors Drummond de Andrade"},
+            {"id": 3, "texto": "Vinicius de Moraes"},
+            {"id": 4, "texto": "Castro Alves"},
+            {"id": 5, "texto": "Mário Quintana"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país fica o Cabo Polonio?",
+        "opcoes": [
+            {"id": 1, "texto": "Uruguai"},
+            {"id": 2, "texto": "Chile"},
+            {"id": 3, "texto": "Argentina"},
+            {"id": 4, "texto": "Colômbia"},
+            {"id": 5, "texto": "Venezuela"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o Manifesto comunista junto com Karl Marx?",
+        "opcoes": [
+            {"id": 1, "texto": "Friedrich Engels"},
+            {"id": 2, "texto": "Leon Trotsky"},
+            {"id": 3, "texto": "Antonio Gramsci"},
+            {"id": 4, "texto": "Henri Bergson"},
+            {"id": 5, "texto": "Adam Smith"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o livro 'O testamento de um excêntrico'?",
+        "opcoes": [
+            {"id": 1, "texto": "Jules Verne"},
+            {"id": 2, "texto": "Mark Twain"},
+            {"id": 3, "texto": "Jhonatan Swift"},
+            {"id": 4, "texto": "Art Spiegelman"},
+            {"id": 5, "texto": "Robert Musil"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros foi escrito por uma mulher?",
+        "opcoes": [
+            {"id": 1, "texto": "Frankenstein"},
+            {"id": 2, "texto": "Drácula"},
+            {"id": 3, "texto": "O médico e o monstro"},
+            {"id": 4, "texto": "O Golem"},
+            {"id": 5, "texto": "O corcunda de Notre Dame"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Aracaju é a capital de qual estado brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Sergipe"},
+            {"id": 2, "texto": "Alagoas"},
+            {"id": 3, "texto": "Tocantins"},
+            {"id": 4, "texto": "Paraíba"},
+            {"id": 5, "texto": "Maranhão"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual animal possui a maior pressão arterial do reino animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Girafa"},
+            {"id": 2, "texto": "Elefante"},
+            {"id": 3, "texto": "Hipopótamo"},
+            {"id": 4, "texto": "Alce"},
+            {"id": 5, "texto": "Cachalote"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de José Saramago?",
+        "opcoes": [
+            {"id": 1, "texto": "Livro do desassossego"},
+            {"id": 2, "texto": "As intermitências da morte"},
+            {"id": 3, "texto": "O conto da ilha desconhecida"},
+            {"id": 4, "texto": "Ensaio sobre a lucidez"},
+            {"id": 5, "texto": "O homem duplicado"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que parte do corpo fica a bigorna?",
+        "opcoes": [
+            {"id": 1, "texto": "Ouvido"},
+            {"id": 2, "texto": "Maxilar"},
+            {"id": 3, "texto": "Cotovelo"},
+            {"id": 4, "texto": "Mão"},
+            {"id": 5, "texto": "Tornozelo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o símbolo do ununócio na tabela periódica?",
+        "opcoes": [
+            {"id": 1, "texto": "Uuo"},
+            {"id": 2, "texto": "Uno"},
+            {"id": 3, "texto": "Unu"},
+            {"id": 4, "texto": "Uo"},
+            {"id": 5, "texto": "Un"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Jimmy Page era guitarrista de qual destas bandas?",
+        "opcoes": [
+            {"id": 1, "texto": "Led Zeppelin"},
+            {"id": 2, "texto": "AC/DC"},
+            {"id": 3, "texto": "Black Sabbath"},
+            {"id": 4, "texto": "Megadeth"},
+            {"id": 5, "texto": "Queen"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o Dao De Jing?",
+        "opcoes": [
+            {"id": 1, "texto": "Laozi"},
+            {"id": 2, "texto": "Confúcio"},
+            {"id": 3, "texto": "Sun Tzu"},
+            {"id": 4, "texto": "Mao Zedong"},
+            {"id": 5, "texto": "Mo Yan"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Na Umbanda, qual é a saudação destinada ao Orixá Xangô?",
+        "opcoes": [
+            {"id": 1, "texto": "Kawó-Kabiesilé"},
+            {"id": 2, "texto": "Adoiê"},
+            {"id": 3, "texto": "Odô Ìá"},
+            {"id": 4, "texto": "Okê Arô"},
+            {"id": 5, "texto": "Atóto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro evento transmitido a cores pela TV brasileira?",
+        "opcoes": [
+            {"id": 1, "texto": "Festa da uva de Caxias do Sul"},
+            {"id": 2, "texto": "Show beneficente de Roberto Carlos"},
+            {"id": 3, "texto": "Posse do ex-presidente Médici"},
+            {"id": 4, "texto": "Partida entre Santos e Botafogo"},
+            {"id": 5, "texto": "Missa com Arcebispo de São Paulo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que cor resulta da mistura de amarelo com azul?",
+        "opcoes": [
+            {"id": 1, "texto": "Verde"},
+            {"id": 2, "texto": "Laranja"},
+            {"id": 3, "texto": "Cinza"},
+            {"id": 4, "texto": "Marrom"},
+            {"id": 5, "texto": "Rosa"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital de Rondônia?",
+        "opcoes": [
+            {"id": 1, "texto": "Porto Velho"},
+            {"id": 2, "texto": "Rio Branco"},
+            {"id": 3, "texto": "Macapá"},
+            {"id": 4, "texto": "Boa Vista"},
+            {"id": 5, "texto": "Campo Grande"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que significa a sigla HTML em páginas web?",
+        "opcoes": [
+            {"id": 1, "texto": "HyperText Markup Language"},
+            {"id": 2, "texto": "High Tech Modern Language"},
+            {"id": 3, "texto": "Hyperlink and Text Markup Language"},
+            {"id": 4, "texto": "Hyper Transfer Markup Language"},
+            {"id": 5, "texto": "Home Tool Markup Language"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual protocolo da internet é usado para enviar e receber e-mails?",
+        "opcoes": [
+            {"id": 1, "texto": "SMTP"},
+            {"id": 2, "texto": "HTTP"},
+            {"id": 3, "texto": "FTP"},
+            {"id": 4, "texto": "UDP"},
+            {"id": 5, "texto": "TPC"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que significa a sigla CPU em computadores?",
+        "opcoes": [
+            {"id": 1, "texto": "Central Processing Unit"},
+            {"id": 2, "texto": "Computer Personal Unit"},
+            {"id": 3, "texto": "Control Processing"},
+            {"id": 4, "texto": "Common Peripheal Unit"},
+            {"id": 5, "texto": "Central Peripheal Unit"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a linguagem de programação usada para desenvolver aplicativos nativos para iOS?",
+        "opcoes": [
+            {"id": 1, "texto": "Swift"},
+            {"id": 2, "texto": "Java"},
+            {"id": 3, "texto": "C#"},
+            {"id": 4, "texto": "Python"},
+            {"id": 5, "texto": "Ruby"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O processo de converter código fonte em linguagem de máquina é chamado de...?",
+        "opcoes": [
+            {"id": 1, "texto": "Compilação"},
+            {"id": 2, "texto": "Interpretação"},
+            {"id": 3, "texto": "Codificação"},
+            {"id": 4, "texto": "Decodificação"},
+            {"id": 5, "texto": "Depuração"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem assumiu o trono do Brasil por meio do golpe da maioridade?",
+        "opcoes": [
+            {"id": 1, "texto": "Pedro II"},
+            {"id": 2, "texto": "Pedro I"},
+            {"id": 3, "texto": "João VI"},
+            {"id": 4, "texto": "Deodoro da Fonseca"},
+            {"id": 5, "texto": "Floriano Peixoto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano teve início a Revolução Francesa?",
+        "opcoes": [
+            {"id": 1, "texto": "1789"},
+            {"id": 2, "texto": "1812"},
+            {"id": 3, "texto": "1607"},
+            {"id": 4, "texto": "1866"},
+            {"id": 5, "texto": "1755"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Winston Churchill ganhou o Nobel em qual categoria?",
+        "opcoes": [
+            {"id": 1, "texto": "Literatura"},
+            {"id": 2, "texto": "Paz"},
+            {"id": 3, "texto": "Economia"},
+            {"id": 4, "texto": "Física"},
+            {"id": 5, "texto": "Química"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual civilização construiu a cidade de Machu Picchu?",
+        "opcoes": [
+            {"id": 1, "texto": "Incas"},
+            {"id": 2, "texto": "Astecas"},
+            {"id": 3, "texto": "Maias"},
+            {"id": 4, "texto": "Colombinos"},
+            {"id": 5, "texto": "Guatemaltecos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é o diretor do filme V de vingança?",
+        "opcoes": [
+            {"id": 1, "texto": "James McTeigue"},
+            {"id": 2, "texto": "Zack Snyder"},
+            {"id": 3, "texto": "David Fincher"},
+            {"id": 4, "texto": "Peter Jackson"},
+            {"id": 5, "texto": "Anthony Russo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes políticos é membro da Academia Brasileira de Letras?",
+        "opcoes": [
+            {"id": 1, "texto": "José Sarney"},
+            {"id": 2, "texto": "Fernando Collor"},
+            {"id": 3, "texto": "Michel Temer"},
+            {"id": 4, "texto": "Itamar Franco"},
+            {"id": 5, "texto": "Aécio Neves"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome de batismo da cantora Lady Gaga?",
+        "opcoes": [
+            {"id": 1, "texto": "Stefani"},
+            {"id": 2, "texto": "Diana"},
+            {"id": 3, "texto": "Olivia"},
+            {"id": 4, "texto": "Emma"},
+            {"id": 5, "texto": "Charlotte"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes não é membro do grupo Racionais Mc's?",
+        "opcoes": [
+            {"id": 1, "texto": "Dexter"},
+            {"id": 2, "texto": "KL Jay"},
+            {"id": 3, "texto": "Mano Brown"},
+            {"id": 4, "texto": "Ice Blue"},
+            {"id": 5, "texto": "Edi Rock"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o maior município do Brasil em área territorial?",
+        "opcoes": [
+            {"id": 1, "texto": "Altamira - PA"},
+            {"id": 2, "texto": "São Gabriel da Cachoeira - AM"},
+            {"id": 3, "texto": "Corumbá - MS"},
+            {"id": 4, "texto": "Caracaraí - RR"},
+            {"id": 5, "texto": "Paranatinga - MT"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o menor município do Brasil em área territorial?",
+        "opcoes": [
+            {"id": 1, "texto": "Santa Cruz de Minas - MG"},
+            {"id": 2, "texto": "Poá - SP"},
+            {"id": 3, "texto": "Borborema - PB"},
+            {"id": 4, "texto": "São Pedro da Serra - RS"},
+            {"id": 5, "texto": "Mesquita - RJ"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país nasceu o criador do cubo mágico?",
+        "opcoes": [
+            {"id": 1, "texto": "Hungria"},
+            {"id": 2, "texto": "Polônia"},
+            {"id": 3, "texto": "Holanda"},
+            {"id": 4, "texto": "Alemanha"},
+            {"id": 5, "texto": "Bélgica"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do criador do cubo mágico?",
+        "opcoes": [
+            {"id": 1, "texto": "Erno Rubik"},
+            {"id": 2, "texto": "Émile Zola"},
+            {"id": 3, "texto": "Jens Bergensten"},
+            {"id": 4, "texto": "Alexey Pajitnov"},
+            {"id": 5, "texto": "Sam Altman"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "No contexto de Banco de Dados, o que significa SQL?",
+        "opcoes": [
+            {"id": 1, "texto": "Structured Query Language"},
+            {"id": 2, "texto": "Sequential Query Language"},
+            {"id": 3, "texto": "Synchronized Query Language"},
+            {"id": 4, "texto": "Specific Query Logic"},
+            {"id": 5, "texto": "Systematic Query Logic"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país nasceu Santo Agostinho?",
+        "opcoes": [
+            {"id": 1, "texto": "Argélia"},
+            {"id": 2, "texto": "Tunísia"},
+            {"id": 3, "texto": "Israel"},
+            {"id": 4, "texto": "Turquia"},
+            {"id": 5, "texto": "Georgia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é considerada a Santa padroeira dos músicos?",
+        "opcoes": [
+            {"id": 1, "texto": "Santa Cecília"},
+            {"id": 2, "texto": "Santa Clara de Assis"},
+            {"id": 3, "texto": "Santa Rita de Cássia"},
+            {"id": 4, "texto": "Santa Teresa"},
+            {"id": 5, "texto": "Santa Edwiges"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos livros compõem o Antigo Testamento da Bíblia?",
+        "opcoes": [
+            {"id": 1, "texto": "39"},
+            {"id": 2, "texto": "27"},
+            {"id": 3, "texto": "66"},
+            {"id": 4, "texto": "12"},
+            {"id": 5, "texto": "52"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos livros compõem o Novo Testamento da Bíblia?",
+        "opcoes": [
+            {"id": 1, "texto": "27"},
+            {"id": 2, "texto": "33"},
+            {"id": 3, "texto": "66"},
+            {"id": 4, "texto": "12"},
+            {"id": 5, "texto": "52"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A ilha de Seychelles fica em qual continente?",
+        "opcoes": [
+            {"id": 1, "texto": "África"},
+            {"id": 2, "texto": "Asia"},
+            {"id": 3, "texto": "América Central"},
+            {"id": 4, "texto": "Oceania"},
+            {"id": 5, "texto": "Europa"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a maior cidade do mundo em quantidade populacional?",
+        "opcoes": [
+            {"id": 1, "texto": "Tóquio"},
+            {"id": 2, "texto": "Nova York"},
+            {"id": 3, "texto": "Londres"},
+            {"id": 4, "texto": "Xangai"},
+            {"id": 5, "texto": "Cidade do México"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que nome se da ao polígono com 22 lados?",
+        "opcoes": [
+            {"id": 1, "texto": "Docoságono"},
+            {"id": 2, "texto": "Icoságono"},
+            {"id": 3, "texto": "Eneadecágono"},
+            {"id": 4, "texto": "Undecágono"},
+            {"id": 5, "texto": "Dodecágono"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que é o objeto Ocarina?",
+        "opcoes": [
+            {"id": 1, "texto": "Instrumento musical"},
+            {"id": 2, "texto": "Tipo de vaso"},
+            {"id": 3, "texto": "Intrumento de medição"},
+            {"id": 4, "texto": "Embarcação"},
+            {"id": 5, "texto": "Tipo de motocicleta"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes não era um heteronômio de Fernando Pessoa?",
+        "opcoes": [
+            {"id": 1, "texto": "Manoel Ribeiro"},
+            {"id": 2, "texto": "Alberto Caeiro"},
+            {"id": 3, "texto": "Ricardo Reis"},
+            {"id": 4, "texto": "Álvaro de Campos"},
+            {"id": 5, "texto": "Bernardo Soares"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi Burle Marx?",
+        "opcoes": [
+            {"id": 1, "texto": "Arquiteto"},
+            {"id": 2, "texto": "Político"},
+            {"id": 3, "texto": "Cineasta"},
+            {"id": 4, "texto": "Escritor"},
+            {"id": 5, "texto": "Maestro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual cidade japonesa foi atingida por um tsunami seguido de um acidente nuclear?",
+        "opcoes": [
+            {"id": 1, "texto": "Fukushima"},
+            {"id": 2, "texto": "Hokkaido"},
+            {"id": 3, "texto": "Hiroshima"},
+            {"id": 4, "texto": "Fukuoka"},
+            {"id": 5, "texto": "Sapporo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que tipo de governo se baseia em leis religiosas para governar?",
+        "opcoes": [
+            {"id": 1, "texto": "Teocracia"},
+            {"id": 2, "texto": "Democracia"},
+            {"id": 3, "texto": "Parlamentarista"},
+            {"id": 4, "texto": "Monarquia"},
+            {"id": 5, "texto": "Presidencialista"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país ocorre o campeonato mundial de carregamento de esposas?",
+        "opcoes": [
+            {"id": 1, "texto": "Finlândia"},
+            {"id": 2, "texto": "Estônia"},
+            {"id": 3, "texto": "Turquia"},
+            {"id": 4, "texto": "Islândia"},
+            {"id": 5, "texto": "Lituânia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que cidade brasileira nasceu Dinho Ouro Preto, vocalista do Capital Inicial?",
+        "opcoes": [
+            {"id": 1, "texto": "Curitiba"},
+            {"id": 2, "texto": "São Paulo"},
+            {"id": 3, "texto": "Belo Horizonte"},
+            {"id": 4, "texto": "Ouro Preto"},
+            {"id": 5, "texto": "Vitória"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o número atômico do einstênio?",
+        "opcoes": [
+            {"id": 1, "texto": "99"},
+            {"id": 2, "texto": "44"},
+            {"id": 3, "texto": "55"},
+            {"id": 4, "texto": "77"},
+            {"id": 5, "texto": "111"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi criado o Zé Gotinha?",
+        "opcoes": [
+            {"id": 1, "texto": "1986"},
+            {"id": 2, "texto": "1989"},
+            {"id": 3, "texto": "1992"},
+            {"id": 4, "texto": "1995"},
+            {"id": 5, "texto": "1999"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quanto é 3 elevado a 4?",
+        "opcoes": [
+            {"id": 1, "texto": "81"},
+            {"id": 2, "texto": "27"},
+            {"id": 3, "texto": "12"},
+            {"id": 4, "texto": "32"},
+            {"id": 5, "texto": "60"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Malásia?",
+        "opcoes": [
+            {"id": 1, "texto": "Kuala Lumpur"},
+            {"id": 2, "texto": "Katmandu"},
+            {"id": 3, "texto": "Ulambator"},
+            {"id": 4, "texto": "Jacarta"},
+            {"id": 5, "texto": "Bangkok"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A ilha de Java pertence a qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Indonésia"},
+            {"id": 2, "texto": "Tailândia"},
+            {"id": 3, "texto": "Papua Nova Guiné"},
+            {"id": 4, "texto": "Nova Zelândia"},
+            {"id": 5, "texto": "Cuba"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o signo de alguém que nasce entre 20 de fevereiro e 20 de março?",
+        "opcoes": [
+            {"id": 1, "texto": "Peixes"},
+            {"id": 2, "texto": "Aquário"},
+            {"id": 3, "texto": "Libra"},
+            {"id": 4, "texto": "Capricórnio"},
+            {"id": 5, "texto": "Sagitário"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Partido dos Trabalhadores?",
+        "opcoes": [
+            {"id": 1, "texto": "1980"},
+            {"id": 2, "texto": "1974"},
+            {"id": 3, "texto": "1984"},
+            {"id": 4, "texto": "1970"},
+            {"id": 5, "texto": "1988"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O Partido Comunista do Brasil é o...?",
+        "opcoes": [
+            {"id": 1, "texto": "PCdoB"},
+            {"id": 2, "texto": "PCB"},
+            {"id": 3, "texto": "PC"},
+            {"id": 4, "texto": "PCBR"},
+            {"id": 5, "texto": "PCdoBr"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país fica a maior piscina do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Chile"},
+            {"id": 2, "texto": "Estados Unidos"},
+            {"id": 3, "texto": "China"},
+            {"id": 4, "texto": "Austrália"},
+            {"id": 5, "texto": "Espanha"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Juntos temos 1000 reais, você tem 950 reais a mais do que eu. Quanto eu tenho?",
+        "opcoes": [
+            {"id": 1, "texto": "25 reais"},
+            {"id": 2, "texto": "50 reais"},
+            {"id": 3, "texto": "75 reais"},
+            {"id": 4, "texto": "45 reais"},
+            {"id": 5, "texto": "35 reais"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual marca criou o cinto de segurança como conhecemos hoje?",
+        "opcoes": [
+            {"id": 1, "texto": "Volvo"},
+            {"id": 2, "texto": "Volkswagen"},
+            {"id": 3, "texto": "Mercedes-Benz"},
+            {"id": 4, "texto": "Audi"},
+            {"id": 5, "texto": "BMW"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do criador do Linux?",
+        "opcoes": [
+            {"id": 1, "texto": "Linus Torvalds"},
+            {"id": 2, "texto": "Linus Pauling"},
+            {"id": 3, "texto": "Steve Wozniak"},
+            {"id": 4, "texto": "Ronald Wayne"},
+            {"id": 5, "texto": "Paul Allen"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem projetou o Fusca?",
+        "opcoes": [
+            {"id": 1, "texto": "Ferdinand Porsche"},
+            {"id": 2, "texto": "Erwing Fusk"},
+            {"id": 3, "texto": "Philipp Schmidt"},
+            {"id": 4, "texto": "Giorgetto Giugario"},
+            {"id": 5, "texto": "Merle Robbins"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país ocorreu a Copa do Mundo de 1978?",
+        "opcoes": [
+            {"id": 1, "texto": "Argentina"},
+            {"id": 2, "texto": "Chile"},
+            {"id": 3, "texto": "México"},
+            {"id": 4, "texto": "Colômbia"},
+            {"id": 5, "texto": "Espanha"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do vocalista do Arctic Monkeys?",
+        "opcoes": [
+            {"id": 1, "texto": "Alex Turner"},
+            {"id": 2, "texto": "Anthony Kiedis"},
+            {"id": 3, "texto": "Dexter Holland"},
+            {"id": 4, "texto": "Billie Joe Armstrong"},
+            {"id": 5, "texto": "Corey Taylor"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas pessoas nunca pisou na lua?",
+        "opcoes": [
+            {"id": 1, "texto": "Iuri Gagarin"},
+            {"id": 2, "texto": "Buzz Aldrin"},
+            {"id": 3, "texto": "Pete Conrad"},
+            {"id": 4, "texto": "Alan Shepard"},
+            {"id": 5, "texto": "James Irwin"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como é conhecida a indústria cinematográfica indiana?",
+        "opcoes": [
+            {"id": 1, "texto": "Bollywood"},
+            {"id": 2, "texto": "Mollywood"},
+            {"id": 3, "texto": "Hollywood"},
+            {"id": 4, "texto": "Pollywood"},
+            {"id": 5, "texto": "Dollywood"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu a obra Édipo Rei?",
+        "opcoes": [
+            {"id": 1, "texto": "Sófocles"},
+            {"id": 2, "texto": "Homero"},
+            {"id": 3, "texto": "Apuleio"},
+            {"id": 4, "texto": "Eurípedes"},
+            {"id": 5, "texto": "Antígona"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o primeiro nome de Madame Bovary?",
+        "opcoes": [
+            {"id": 1, "texto": "Emma"},
+            {"id": 2, "texto": "Jane"},
+            {"id": 3, "texto": "Isabelle"},
+            {"id": 4, "texto": "Eva"},
+            {"id": 5, "texto": "Anne"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Charles Dickens?",
+        "opcoes": [
+            {"id": 1, "texto": "A relíquia"},
+            {"id": 2, "texto": "David Copperfield"},
+            {"id": 3, "texto": "Oliver Twist"},
+            {"id": 4, "texto": "Um conto de natal"},
+            {"id": 5, "texto": "A casa soturna"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros foi escrito por Virginia Woolf?",
+        "opcoes": [
+            {"id": 1, "texto": "Mrs Dalloway"},
+            {"id": 2, "texto": "Jane Eyre"},
+            {"id": 3, "texto": "Frankenstein"},
+            {"id": 4, "texto": "Anna Kariênina"},
+            {"id": 5, "texto": "Madame Bovary"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome científico da capivara?",
+        "opcoes": [
+            {"id": 1, "texto": "Hydrochoerus hydrochaeris"},
+            {"id": 2, "texto": "Tapirus terrestris"},
+            {"id": 3, "texto": "Chrysocyon brachyurus"},
+            {"id": 4, "texto": "Pitangus sulphuratus"},
+            {"id": 5, "texto": "Myrmecophaga tridactyla"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual jogador francês tem Kylian como primeiro nome?",
+        "opcoes": [
+            {"id": 1, "texto": "Mbappé"},
+            {"id": 2, "texto": "Benzema"},
+            {"id": 3, "texto": "Pogba"},
+            {"id": 4, "texto": "Griezmann"},
+            {"id": 5, "texto": "Pavard"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "FalleN é jogador profissional de qual e-sport?",
+        "opcoes": [
+            {"id": 1, "texto": "Counter Strike"},
+            {"id": 2, "texto": "League Of Legends"},
+            {"id": 3, "texto": "Valorant"},
+            {"id": 4, "texto": "Minecraft"},
+            {"id": 5, "texto": "FIFA"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o sobrenome do jogador Cristiano Ronaldo?",
+        "opcoes": [
+            {"id": 1, "texto": "Aveiro"},
+            {"id": 2, "texto": "Pereira"},
+            {"id": 3, "texto": "Madeira"},
+            {"id": 4, "texto": "Acosta"},
+            {"id": 5, "texto": "Álvares"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano o Corinthians jogou a série B do campeonato brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "2008"},
+            {"id": 2, "texto": "2009"},
+            {"id": 3, "texto": "2010"},
+            {"id": 4, "texto": "2006"},
+            {"id": 5, "texto": "2007"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em russo 'сок'?",
+        "opcoes": [
+            {"id": 1, "texto": "Suco"},
+            {"id": 2, "texto": "Bolo"},
+            {"id": 3, "texto": "Pedaço"},
+            {"id": 4, "texto": "Bandeira"},
+            {"id": 5, "texto": "Sino"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano ocorreu a última erupção do vulcão Villarrica?",
+        "opcoes": [
+            {"id": 1, "texto": "2015"},
+            {"id": 2, "texto": "2011"},
+            {"id": 3, "texto": "2009"},
+            {"id": 4, "texto": "2005"},
+            {"id": 5, "texto": "2001"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do maior diamante do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Cullinan"},
+            {"id": 2, "texto": "Phantom"},
+            {"id": 3, "texto": "Wraith"},
+            {"id": 4, "texto": "Spectre"},
+            {"id": 5, "texto": "Corniche"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas marcas começou como fabricante de motores para aviões?",
+        "opcoes": [
+            {"id": 1, "texto": "BMW"},
+            {"id": 2, "texto": "Mercedes-Benz"},
+            {"id": 3, "texto": "Ford"},
+            {"id": 4, "texto": "Citroën"},
+            {"id": 5, "texto": "Chrysler"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual escritor foi um grande amigo de J.R.R. Tolkien no decorrer da vida?",
+        "opcoes": [
+            {"id": 1, "texto": "C.S. Lewis"},
+            {"id": 2, "texto": "Vassili Grossman"},
+            {"id": 3, "texto": "Edgar Allan Poe"},
+            {"id": 4, "texto": "Antoine de Saint-Exupéry"},
+            {"id": 5, "texto": "James Joyce"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do meio da escritora Mary Shelley?",
+        "opcoes": [
+            {"id": 1, "texto": "Wollstonecraft"},
+            {"id": 2, "texto": "Lovecraft"},
+            {"id": 3, "texto": "Steventon"},
+            {"id": 4, "texto": "Wuthering"},
+            {"id": 5, "texto": "Adeline"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quanto tempo em média demora pra luz do sol chegar na Terra?",
+        "opcoes": [
+            {"id": 1, "texto": "8 minutos"},
+            {"id": 2, "texto": "8 segundos"},
+            {"id": 3, "texto": "12 minutos"},
+            {"id": 4, "texto": "12 segundos"},
+            {"id": 5, "texto": "5 minutos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas marcas não é italiana?",
+        "opcoes": [
+            {"id": 1, "texto": "Bugatti"},
+            {"id": 2, "texto": "Maserati"},
+            {"id": 3, "texto": "Alfa Romeo"},
+            {"id": 4, "texto": "Fiat"},
+            {"id": 5, "texto": "Pagani"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o filósofo grego considerado o pai da filosofia ocidental?",
+        "opcoes": [
+            {"id": 1, "texto": "Tales de Mileto"},
+            {"id": 2, "texto": "Sócrates"},
+            {"id": 3, "texto": "Platão"},
+            {"id": 4, "texto": "Aristóteles"},
+            {"id": 5, "texto": "Pitágoras"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual filósofo grego é conhecido por sua obra 'A República'?",
+        "opcoes": [
+            {"id": 1, "texto": "Platão"},
+            {"id": 2, "texto": "Sócrates"},
+            {"id": 3, "texto": "Aristóteles"},
+            {"id": 4, "texto": "Heráclito"},
+            {"id": 5, "texto": "Epicuro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a corrente filosófica que defende que o conhecimento deriva da experiência sensorial e da observação?",
+        "opcoes": [
+            {"id": 1, "texto": "Empirismo"},
+            {"id": 2, "texto": "Racionalismo"},
+            {"id": 3, "texto": "Existencialismo"},
+            {"id": 4, "texto": "Idealismo"},
+            {"id": 5, "texto": "Positivismo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o tratado que pôs fim à Primeira Guerra Mundial?",
+        "opcoes": [
+            {"id": 1, "texto": "Tratado de Versalhes"},
+            {"id": 2, "texto": "Tratado de Tordesilhas"},
+            {"id": 3, "texto": "Tratado de Paris"},
+            {"id": 4, "texto": "Tratado de Yalta"},
+            {"id": 5, "texto": "Tratado de Berlim"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que país é representado pelo 'S' na sigla BRICS?",
+        "opcoes": [
+            {"id": 1, "texto": "África do Sul"},
+            {"id": 2, "texto": "Arábia Saudita"},
+            {"id": 3, "texto": "Senegal"},
+            {"id": 4, "texto": "Suíça"},
+            {"id": 5, "texto": "Sérvia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome da maior árvore do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Angelim-vermelho"},
+            {"id": 2, "texto": "Pau-Brasil"},
+            {"id": 3, "texto": "Sumaúma"},
+            {"id": 4, "texto": "Jequitibá-rosa"},
+            {"id": 5, "texto": "Gameleira"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi a primeira capital de Minas Gerais?",
+        "opcoes": [
+            {"id": 1, "texto": "Mariana"},
+            {"id": 2, "texto": "Ouro Preto"},
+            {"id": 3, "texto": "Diamantina"},
+            {"id": 4, "texto": "São João Del Rei"},
+            {"id": 5, "texto": "Sabará"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como é mais conhecido o estádio Cícero Pompeu de Toledo?",
+        "opcoes": [
+            {"id": 1, "texto": "Morumbi"},
+            {"id": 2, "texto": "Mineirão"},
+            {"id": 3, "texto": "Maracanã"},
+            {"id": 4, "texto": "Castelão"},
+            {"id": 5, "texto": "Engenhão"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o verdadeiro nome do cantor Cazuza?",
+        "opcoes": [
+            {"id": 1, "texto": "Agenor"},
+            {"id": 2, "texto": "Carlos"},
+            {"id": 3, "texto": "Alberto"},
+            {"id": 4, "texto": "Jorge"},
+            {"id": 5, "texto": "Fábio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como era mais conhecido o rapper Mauro Mateus dos Santos?",
+        "opcoes": [
+            {"id": 1, "texto": "Sabotage"},
+            {"id": 2, "texto": "Mano Brown"},
+            {"id": 3, "texto": "Dexter"},
+            {"id": 4, "texto": "MV Bill"},
+            {"id": 5, "texto": "Chico Science"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual animal levado por Pablo Escobar tem se tornado um problema para a fauna da Colômbia?",
+        "opcoes": [
+            {"id": 1, "texto": "Hipopótamo"},
+            {"id": 2, "texto": "Leão"},
+            {"id": 3, "texto": "Tigre"},
+            {"id": 4, "texto": "Elefante"},
+            {"id": 5, "texto": "Crocodilo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O nome do croissant foi dado pelos franceses como sátira com qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Turquia"},
+            {"id": 2, "texto": "Espanha"},
+            {"id": 3, "texto": "Alemanha"},
+            {"id": 4, "texto": "Rússia"},
+            {"id": 5, "texto": "Egito"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que é uma epístola?",
+        "opcoes": [
+            {"id": 1, "texto": "Carta"},
+            {"id": 2, "texto": "Arma de fogo"},
+            {"id": 3, "texto": "Lustre"},
+            {"id": 4, "texto": "Caneta"},
+            {"id": 5, "texto": "Chapéu"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado fica a torre ATTO?",
+        "opcoes": [
+            {"id": 1, "texto": "Amazonas"},
+            {"id": 2, "texto": "Amapá"},
+            {"id": 3, "texto": "Minas Gerais"},
+            {"id": 4, "texto": "Rio Grande do Norte"},
+            {"id": 5, "texto": "Piauí"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se escreve 'água' em francês?",
+        "opcoes": [
+            {"id": 1, "texto": "Eau"},
+            {"id": 2, "texto": "Ciel"},
+            {"id": 3, "texto": "Watle"},
+            {"id": 4, "texto": "Œuf"},
+            {"id": 5, "texto": "Aboyer"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Com qual destes filósofos Dom Pedro II teve uma amizade?",
+        "opcoes": [
+            {"id": 1, "texto": "Friedrich Nietzsche"},
+            {"id": 2, "texto": "Immanuel Kant"},
+            {"id": 3, "texto": "Arthur Schopenhauer"},
+            {"id": 4, "texto": "Baruch Espinoza"},
+            {"id": 5, "texto": "John Locke"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes rios passa por Londres?",
+        "opcoes": [
+            {"id": 1, "texto": "Tâmisa"},
+            {"id": 2, "texto": "Eufrates"},
+            {"id": 3, "texto": "Sena"},
+            {"id": 4, "texto": "Drina"},
+            {"id": 5, "texto": "Tejo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes artistas japoneses pintou a obra 'A grande onda de Kanagawa'?",
+        "opcoes": [
+            {"id": 1, "texto": "Katsushika Hokusai"},
+            {"id": 2, "texto": "Haruki Murakami"},
+            {"id": 3, "texto": "Yasunari Kawabata"},
+            {"id": 4, "texto": "Hiroshi Yoshida"},
+            {"id": 5, "texto": "Junichiro Tanizaki"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Liev Tolstói?",
+        "opcoes": [
+            {"id": 1, "texto": "Pais e filhos"},
+            {"id": 2, "texto": "Padre Sérgio"},
+            {"id": 3, "texto": "Anna Kariênina"},
+            {"id": 4, "texto": "A morte de Ivan Ilitch"},
+            {"id": 5, "texto": "A Sonata a Kreutzer"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do som que a baleia faz?",
+        "opcoes": [
+            {"id": 1, "texto": "Bufar"},
+            {"id": 2, "texto": "Arrulhar"},
+            {"id": 3, "texto": "Trissar"},
+            {"id": 4, "texto": "Estridular"},
+            {"id": 5, "texto": "Bramar"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o coletivo de borboletas?",
+        "opcoes": [
+            {"id": 1, "texto": "Panapanã"},
+            {"id": 2, "texto": "Persigal"},
+            {"id": 3, "texto": "Pandilha"},
+            {"id": 4, "texto": "Plantel"},
+            {"id": 5, "texto": "Pulguedo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "No que é especializado um médico nefrologista?",
+        "opcoes": [
+            {"id": 1, "texto": "Rins"},
+            {"id": 2, "texto": "Fígado"},
+            {"id": 3, "texto": "Próstata"},
+            {"id": 4, "texto": "Meninge"},
+            {"id": 5, "texto": "Vértebras"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O lago Titicaca fica entre quais países?",
+        "opcoes": [
+            {"id": 1, "texto": "Peru e Bolívia"},
+            {"id": 2, "texto": "Peru e Chile"},
+            {"id": 3, "texto": "Bolívia e Chile"},
+            {"id": 4, "texto": "Argentina e Chile"},
+            {"id": 5, "texto": "Equador e Peru"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do maior lago da África?",
+        "opcoes": [
+            {"id": 1, "texto": "Lago Vitória"},
+            {"id": 2, "texto": "Lago Chade"},
+            {"id": 3, "texto": "Lago Niassa"},
+            {"id": 4, "texto": "Lago Rift"},
+            {"id": 5, "texto": "Lago Kivu"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que estado fica a cidade de Brodowski?",
+        "opcoes": [
+            {"id": 1, "texto": "São Paulo"},
+            {"id": 2, "texto": "Santa Catarina"},
+            {"id": 3, "texto": "Rio Grande do Sul"},
+            {"id": 4, "texto": "Paraná"},
+            {"id": 5, "texto": "Rio de Janeiro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que país ocorre o torneio de Roland Garros de tênis?",
+        "opcoes": [
+            {"id": 1, "texto": "França"},
+            {"id": 2, "texto": "Suíça"},
+            {"id": 3, "texto": "Bélgica"},
+            {"id": 4, "texto": "Itália"},
+            {"id": 5, "texto": "Áustria"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "De qual livro é a frase 'Deixai toda a esperança vós que entrais.'?",
+        "opcoes": [
+            {"id": 1, "texto": "A divina comédia"},
+            {"id": 2, "texto": "Odisseia"},
+            {"id": 3, "texto": "O conde de Monte Cristo"},
+            {"id": 4, "texto": "Os irmãos Karamázov"},
+            {"id": 5, "texto": "Memórias Póstumas de Brás Cubas"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado fica o Santuário do Divino Pai Eterno?",
+        "opcoes": [
+            {"id": 1, "texto": "Goiás"},
+            {"id": 2, "texto": "Tocantins"},
+            {"id": 3, "texto": "Minas Gerais"},
+            {"id": 4, "texto": "Espirito Santo"},
+            {"id": 5, "texto": "Bahia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano ocorreu a primeira edição do Rock In Rio?",
+        "opcoes": [
+            {"id": 1, "texto": "1985"},
+            {"id": 2, "texto": "1981"},
+            {"id": 3, "texto": "1989"},
+            {"id": 4, "texto": "1995"},
+            {"id": 5, "texto": "1987"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "De quem foi o primeiro show na primeira edição do Rock In Rio?",
+        "opcoes": [
+            {"id": 1, "texto": "Ney Matogrosso"},
+            {"id": 2, "texto": "Cazuza"},
+            {"id": 3, "texto": "Kid Abelha"},
+            {"id": 4, "texto": "Lulu Santos"},
+            {"id": 5, "texto": "Rita Lee"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas é considerada a maior raça de gato do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Maine Coon"},
+            {"id": 2, "texto": "Chartreux"},
+            {"id": 3, "texto": "Ragamuffin"},
+            {"id": 4, "texto": "Angorá"},
+            {"id": 5, "texto": "Scottish Fold"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a moeda oficial do Peru?",
+        "opcoes": [
+            {"id": 1, "texto": "Sol"},
+            {"id": 2, "texto": "Bolívar"},
+            {"id": 3, "texto": "Peso peruano"},
+            {"id": 4, "texto": "Dólar"},
+            {"id": 5, "texto": "Real"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o segundo idioma oficial do Paraguai?",
+        "opcoes": [
+            {"id": 1, "texto": "Guarani"},
+            {"id": 2, "texto": "Português"},
+            {"id": 3, "texto": "Inglês"},
+            {"id": 4, "texto": "Tupi"},
+            {"id": 5, "texto": "Catalão"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do ator que interpretava o Seu Madruga no seriado Chaves?",
+        "opcoes": [
+            {"id": 1, "texto": "Ramón Valdez"},
+            {"id": 2, "texto": "Carlos Villagrán"},
+            {"id": 3, "texto": "Édgar Vivar"},
+            {"id": 4, "texto": "Rubén Aguirre"},
+            {"id": 5, "texto": "Raul Padilla"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é considerado como o Libertador da América?",
+        "opcoes": [
+            {"id": 1, "texto": "Simón Bolívar"},
+            {"id": 2, "texto": "Américo Vespúcio"},
+            {"id": 3, "texto": "Bernardo O'Higgins"},
+            {"id": 4, "texto": "Cornelio Saavedra"},
+            {"id": 5, "texto": "Juan Antonio Lavalleja"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual cidade acontece o evento literário da FLIP?",
+        "opcoes": [
+            {"id": 1, "texto": "Paraty - RJ"},
+            {"id": 2, "texto": "Poços de Caldas - MG"},
+            {"id": 3, "texto": "Campos do Jordão - SP"},
+            {"id": 4, "texto": "Pelotas - RS"},
+            {"id": 5, "texto": "Florianópolis - SC"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Com qual país o Brasil divide a usina de Itaipu?",
+        "opcoes": [
+            {"id": 1, "texto": "Paraguai"},
+            {"id": 2, "texto": "Argentina"},
+            {"id": 3, "texto": "Uruguai"},
+            {"id": 4, "texto": "Bolivia"},
+            {"id": 5, "texto": "Peru"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é a escritora esposa do também escritor Paul Auster?",
+        "opcoes": [
+            {"id": 1, "texto": "Siri Hustvedt"},
+            {"id": 2, "texto": "Svetlana Aleksiévitch"},
+            {"id": 3, "texto": "Tove Ditlevsen"},
+            {"id": 4, "texto": "Simone Schwarz-Bart"},
+            {"id": 5, "texto": "Olga Tokarczuk"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual cidade é sempre citada pelo carteiro Jaiminho no seriado Chaves?",
+        "opcoes": [
+            {"id": 1, "texto": "Tangamandapio"},
+            {"id": 2, "texto": "Guadalajara"},
+            {"id": 3, "texto": "Oaxaca"},
+            {"id": 4, "texto": "Teotihuacan"},
+            {"id": 5, "texto": "Querétaro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Jorge Amado?",
+        "opcoes": [
+            {"id": 1, "texto": "O santo inquérito"},
+            {"id": 2, "texto": "Tieta do agreste"},
+            {"id": 3, "texto": "Capitães da areia"},
+            {"id": 4, "texto": "Tenda dos milagres"},
+            {"id": 5, "texto": "Tocaia grande"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é considerada a primeira grande editora de livros do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Francisco Alves"},
+            {"id": 2, "texto": "Cosac Naify"},
+            {"id": 3, "texto": "Nova Fronteira"},
+            {"id": 4, "texto": "Companhia das Letras"},
+            {"id": 5, "texto": "José Olympio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o verdadeiro nome do cantor Xororó?",
+        "opcoes": [
+            {"id": 1, "texto": "Durval"},
+            {"id": 2, "texto": "Nivaldo"},
+            {"id": 3, "texto": "Mirosmar"},
+            {"id": 4, "texto": "Welson"},
+            {"id": 5, "texto": "Emival"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Croácia?",
+        "opcoes": [
+            {"id": 1, "texto": "Zagreb"},
+            {"id": 2, "texto": "Trieste"},
+            {"id": 3, "texto": "Liublian"},
+            {"id": 4, "texto": "Dubrovr"},
+            {"id": 5, "texto": "Debrecen"}
+        ],
+        "resposta": 1
+    }
+]
