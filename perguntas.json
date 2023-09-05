@@ -3375,5 +3375,16 @@
             {"id": 5, "texto": "Botticelli"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual a obra mais conhecida de Aleksandr Soljenítsyn?",
+        "opcoes": [
+            {"id": 1, "texto": "Arquipélago Gulag"},
+            {"id": 2, "texto": "Dr Jivago"},
+            {"id": 3, "texto": "O caso Tulaiev"},
+            {"id": 4, "texto": "Ponte sobre o Drina"},
+            {"id": 5, "texto": "Oblómov"}
+        ],
+        "resposta": 1
     }
 ]
