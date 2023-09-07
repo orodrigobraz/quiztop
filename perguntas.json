@@ -3716,5 +3716,16 @@
             {"id": 5, "texto": "Espírito Santo"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do meio do ex-goleiro e treinador Rogério Ceni?",
+        "opcoes": [
+            {"id": 1, "texto": "Mücke"},
+            {"id": 2, "texto": "Vieira"},
+            {"id": 3, "texto": "Rudimar"},
+            {"id": 4, "texto": "Paiva"},
+            {"id": 5, "texto": "Mergen"}
+        ],
+        "resposta": 1
     }
 ]
