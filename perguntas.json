@@ -3386,5 +3386,16 @@
             {"id": 5, "texto": "Oblómov"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Como é mais conhecido o cantor Peter Gene Hernandez?",
+        "opcoes": [
+            {"id": 1, "texto": "Bruno Mars"},
+            {"id": 2, "texto": "Drake"},
+            {"id": 3, "texto": "The Weeknd"},
+            {"id": 4, "texto": "Jay-Z"},
+            {"id": 5, "texto": "Snoop Dogg"}
+        ],
+        "resposta": 1
     }
 ]

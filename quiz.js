@@ -17,12 +17,12 @@ const questionText = document.querySelector(".question-text");
 const optionsList = document.querySelector(".options-list");
 const scoreText = document.querySelector(".score");
 
-async function carregarPerguntas() {
+async function carregarPerguntas(quantidade) {
     try {
         const resposta = await fetch("perguntas.json");
         perguntas = await resposta.json();
 
-        const indicesSelecionados = selecionarIndicesAleatorios(perguntas.length, 20);
+        const indicesSelecionados = selecionarIndicesAleatorios(perguntas.length, quantidade);
         perguntas = indicesSelecionados.map(index => perguntas[index]);
 
         embaralharPerguntas();
@@ -60,7 +60,7 @@ function mostrarPergunta() {
         optionsList.appendChild(optionItem);
     });
 
-    scoreText.textContent = `Pontuação: ${score}/${perguntas.length}`;
+    // scoreText.textContent = `Pontuação: ${score}/${perguntas.length}`;
 }
 
 function verificarResposta(event) {
@@ -105,9 +105,49 @@ function mostrarResultadoFinal() {
     const porcentagem = document.createElement("h3");
     porcentagem.textContent = `${((score / perguntas.length) * 100) % 1 === 0 ? ((score / perguntas.length) * 100).toFixed(0) : ((score / perguntas.length) * 100).toFixed(2)}% de aproveitamento`;
 
+    const reiniciarBotao = document.createElement("button");
+    reiniciarBotao.textContent = "Jogar novamente?";
+    reiniciarBotao.addEventListener("click", () => {
+        location.reload();
+    });
+
     mainDiv.appendChild(resultadosTitulo);
     mainDiv.appendChild(resultadosQuantidade);
     mainDiv.appendChild(porcentagem);
+    mainDiv.appendChild(reiniciarBotao);
 }
+
+document.addEventListener("DOMContentLoaded", () => {
+    const iniciarQuizButton = document.getElementById("iniciar-quiz");
+    const quantidadeInput = document.getElementById("quantidade-perguntas");
+    const qtdPerguntasContainer = document.querySelector(".qtd-perguntas");
+    const quizContent = document.getElementById("quiz-content");
+
+    quantidadeInput.addEventListener("keyup", (event) => {
+        if (event.key === "Enter") {
+            const quantidade = parseInt(quantidadeInput.value, 10);
+
+            if (quantidade > 0) {
+                qtdPerguntasContainer.style.display = "none";
+                quizContent.style.display = "block";
+                carregarPerguntas(quantidade);
+            } else {
+                alert("Insira um número válido de perguntas.");
+            }
+        }
+    });
+
+    iniciarQuizButton.addEventListener("click", () => {
+        const quantidade = parseInt(quantidadeInput.value, 10);
+
+        if (quantidade > 0) {
+            qtdPerguntasContainer.style.display = "none";
+            quizContent.style.display = "block";
+            carregarPerguntas(quantidade);
+        } else {
+            alert("Insira um número válido de perguntas.");
+        }
+    });
+});
 
 carregarPerguntas();
