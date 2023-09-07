@@ -3727,5 +3727,16 @@
             {"id": 5, "texto": "Mergen"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro livro publicado por Stephen Hawking?",
+        "opcoes": [
+            {"id": 1, "texto": "Uma breve história do tempo"},
+            {"id": 2, "texto": "O universo numa casca de noz"},
+            {"id": 3, "texto": "Breves respostas para grandes questões"},
+            {"id": 4, "texto": "Desvendando o universo"},
+            {"id": 5, "texto": "Pálido ponto azul"}
+        ],
+        "resposta": 1
     }
 ]
