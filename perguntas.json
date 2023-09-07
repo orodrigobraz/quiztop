@@ -3423,11 +3423,11 @@
     {
         "pergunta": "Qual música dos Beatles foi enviada para o espaço?",
         "opcoes": [
-            {"id": 1, "texto": "Across the universe"},
-            {"id": 2, "texto": "Here comes the Sun"},
-            {"id": 3, "texto": "Strawberry fields forever"},
+            {"id": 1, "texto": "Across The Universe"},
+            {"id": 2, "texto": "Here Comes The Sun"},
+            {"id": 3, "texto": "Strawberry Fields Forever"},
             {"id": 4, "texto": "Help!"},
-            {"id": 5, "texto": "The long and winding road"}
+            {"id": 5, "texto": "The Long And Winding Road"}
         ],
         "resposta": 1
     },
@@ -3538,6 +3538,182 @@
             {"id": 3, "texto": "Thomas Reardon"},
             {"id": 4, "texto": "Hedy Lamarr"},
             {"id": 5, "texto": "Kevin Systrom"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como é mais conhecida a atriz Bruna Reis Maia?",
+        "opcoes": [
+            {"id": 1, "texto": "Bruna Marquezine"},
+            {"id": 2, "texto": "Mel Maia"},
+            {"id": 3, "texto": "Marina Ruy Barbosa"},
+            {"id": 4, "texto": "Camila Queiroz"},
+            {"id": 5, "texto": "Larissa Manoela"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o sobrenome do ex-jogador Ronaldinho Gaúcho?",
+        "opcoes": [
+            {"id": 1, "texto": "Assis"},
+            {"id": 2, "texto": "Nazário"},
+            {"id": 3, "texto": "Lima"},
+            {"id": 4, "texto": "Gonçalves"},
+            {"id": 5, "texto": "Santos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos biomas existem no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "6"},
+            {"id": 2, "texto": "5"},
+            {"id": 3, "texto": "4"},
+            {"id": 4, "texto": "3"},
+            {"id": 5, "texto": "7"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O animal com nome científico Folivora é o:",
+        "opcoes": [
+            {"id": 1, "texto": "Bicho-preguiça"},
+            {"id": 2, "texto": "Macaco-prego"},
+            {"id": 3, "texto": "Boto cor-de-rosa"},
+            {"id": 4, "texto": "Tamanduá bandeira"},
+            {"id": 5, "texto": "Lobo guará"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é considerada a maior favela da cidade de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "Heliópolis"},
+            {"id": 2, "texto": "Paraisópolis"},
+            {"id": 3, "texto": "Brasilândia"},
+            {"id": 4, "texto": "Capão Redondo"},
+            {"id": 5, "texto": "Jardim Esmeralda"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Contra qual time o São Paulo Futebol Clube jogou a final da Copa Libertadores de 1993?",
+        "opcoes": [
+            {"id": 1, "texto": "Universidad Católica"},
+            {"id": 2, "texto": "Newell's Old Boys"},
+            {"id": 3, "texto": "Atlético Nacional"},
+            {"id": 4, "texto": "Cerro Porteño"},
+            {"id": 5, "texto": "Peñarol"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundada a cidade de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "1554"},
+            {"id": 2, "texto": "1601"},
+            {"id": 3, "texto": "1522"},
+            {"id": 4, "texto": "1588"},
+            {"id": 5, "texto": "1562"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quando é o dia do Saci?",
+        "opcoes": [
+            {"id": 1, "texto": "31 de outubro"},
+            {"id": 2, "texto": "23 de abril"},
+            {"id": 3, "texto": "13 de novembro"},
+            {"id": 4, "texto": "30 de agosto"},
+            {"id": 5, "texto": "29 de setembro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual clube foi campeão do Campeonato Brasileiro de 2012?",
+        "opcoes": [
+            {"id": 1, "texto": "Fluminense"},
+            {"id": 2, "texto": "Flamengo"},
+            {"id": 3, "texto": "Corinthians"},
+            {"id": 4, "texto": "Cruzeiro"},
+            {"id": 5, "texto": "Grêmio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o nome da ex-esposa de Bill Gates?",
+        "opcoes": [
+            {"id": 1, "texto": "Melinda"},
+            {"id": 2, "texto": "Grace"},
+            {"id": 3, "texto": "Kelly"},
+            {"id": 4, "texto": "Sarah"},
+            {"id": 5, "texto": "Elizabeth"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros foi escrito por Monteiro Lobato?",
+        "opcoes": [
+            {"id": 1, "texto": "Urupês"},
+            {"id": 2, "texto": "Meu pé de laranja lima"},
+            {"id": 3, "texto": "O menino grapiúna"},
+            {"id": 4, "texto": "O aeronauta"},
+            {"id": 5, "texto": "Maus"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Serj Tankian é o vocalista de qual destas bandas?",
+        "opcoes": [
+            {"id": 1, "texto": "System of a Down"},
+            {"id": 2, "texto": "Rage Against The Machine"},
+            {"id": 3, "texto": "Slipknot"},
+            {"id": 4, "texto": "Limp Bizkit"},
+            {"id": 5, "texto": "Red Hot Chili Peppers"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes filmes não foi dirigido por David Fincher?",
+        "opcoes": [
+            {"id": 1, "texto": "Dois Papas"},
+            {"id": 2, "texto": "A rede social"},
+            {"id": 3, "texto": "Garota exemplar"},
+            {"id": 4, "texto": "Clube da luta"},
+            {"id": 5, "texto": "O curioso caso de Benjamin Button"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas é uma cor secundária?",
+        "opcoes": [
+            {"id": 1, "texto": "Laranja"},
+            {"id": 2, "texto": "Rosa"},
+            {"id": 3, "texto": "Vermelho"},
+            {"id": 4, "texto": "Azul"},
+            {"id": 5, "texto": "Amarelo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país fica a única escola do ballet Bolshoi fora da Rússia?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasil"},
+            {"id": 2, "texto": "Estados Unidos"},
+            {"id": 3, "texto": "Alemanha"},
+            {"id": 4, "texto": "Japão"},
+            {"id": 5, "texto": "Argentina"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado do Brasil fica a cidade de Buenos Aires?",
+        "opcoes": [
+            {"id": 1, "texto": "Pernambuco"},
+            {"id": 2, "texto": "Paraíba"},
+            {"id": 3, "texto": "Goiás"},
+            {"id": 4, "texto": "Santa Catarina"},
+            {"id": 5, "texto": "Espírito Santo"}
         ],
         "resposta": 1
     }
