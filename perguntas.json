@@ -561,7 +561,7 @@
         "resposta": 1
     },
     {
-        "pergunta": "Qual é a estrela mais próxima da Terra?",
+        "pergunta": "Qual é a estrela mais próxima da Terra, depois do Sol?",
         "opcoes": [
             {"id": 1, "texto": "Proxima Centauri"},
             {"id": 2, "texto": "Sirius"},
@@ -671,7 +671,7 @@
         "resposta": 1
     },
     {
-        "pergunta": "Qual é o país que é conhecido como 'País das Mil Colinas'?",
+        "pergunta": "Qual é o país conhecido como 'País das Mil Colinas'?",
         "opcoes": [
             {"id": 1, "texto": "Ruanda"},
             {"id": 2, "texto": "Suíça"},
@@ -3395,6 +3395,149 @@
             {"id": 3, "texto": "The Weeknd"},
             {"id": 4, "texto": "Jay-Z"},
             {"id": 5, "texto": "Snoop Dogg"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o planeta mais quente do Sistema Solar?",
+        "opcoes": [
+            {"id": 1, "texto": "Vênus"},
+            {"id": 2, "texto": "Mercúrio"},
+            {"id": 3, "texto": "Marte"},
+            {"id": 4, "texto": "Júpiter"},
+            {"id": 5, "texto": "Saturno"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual time o São Paulo Futebol Clube venceu no seu primeiro título mundial?",
+        "opcoes": [
+            {"id": 1, "texto": "Barcelona"},
+            {"id": 2, "texto": "Milan"},
+            {"id": 3, "texto": "Liverpool"},
+            {"id": 4, "texto": "Real Madrid"},
+            {"id": 5, "texto": "Manchester United"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual música dos Beatles foi enviada para o espaço?",
+        "opcoes": [
+            {"id": 1, "texto": "Across the universe"},
+            {"id": 2, "texto": "Here comes the Sun"},
+            {"id": 3, "texto": "Strawberry fields forever"},
+            {"id": 4, "texto": "Help!"},
+            {"id": 5, "texto": "The long and winding road"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se escreve 'rua' em espanhol?",
+        "opcoes": [
+            {"id": 1, "texto": "Calle"},
+            {"id": 2, "texto": "Rua"},
+            {"id": 3, "texto": "Plate"},
+            {"id": 4, "texto": "Traveza"},
+            {"id": 5, "texto": "Plaza"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Bielorrússia?",
+        "opcoes": [
+            {"id": 1, "texto": "Minsk"},
+            {"id": 2, "texto": "Uzda"},
+            {"id": 3, "texto": "Nesvizh"},
+            {"id": 4, "texto": "Valozýn"},
+            {"id": 5, "texto": "Orsha"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Estônia?",
+        "opcoes": [
+            {"id": 1, "texto": "Talín"},
+            {"id": 2, "texto": "Valga"},
+            {"id": 3, "texto": "Hara"},
+            {"id": 4, "texto": "Udema"},
+            {"id": 5, "texto": "Rakvere"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano Guga conquistou seu primeiro título de Roland Garros?",
+        "opcoes": [
+            {"id": 1, "texto": "1997"},
+            {"id": 2, "texto": "1999"},
+            {"id": 3, "texto": "2000"},
+            {"id": 4, "texto": "2002"},
+            {"id": 5, "texto": "2003"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano a Índia conquistou sua independência?",
+        "opcoes": [
+            {"id": 1, "texto": "1947"},
+            {"id": 2, "texto": "1933"},
+            {"id": 3, "texto": "1950"},
+            {"id": 4, "texto": "1961"},
+            {"id": 5, "texto": "1929"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Estado de Israel?",
+        "opcoes": [
+            {"id": 1, "texto": "1948"},
+            {"id": 2, "texto": "1932"},
+            {"id": 3, "texto": "1951"},
+            {"id": 4, "texto": "1960"},
+            {"id": 5, "texto": "1928"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do meio do apresentador Celso Portiolli?",
+        "opcoes": [
+            {"id": 1, "texto": "Yunes"},
+            {"id": 2, "texto": "Roberto"},
+            {"id": 3, "texto": "Gonzaga"},
+            {"id": 4, "texto": "Ferretti"},
+            {"id": 5, "texto": "Marchi"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos idiomas oficiais a Suíça possui?",
+        "opcoes": [
+            {"id": 1, "texto": "Quatro"},
+            {"id": 2, "texto": "Três"},
+            {"id": 3, "texto": "Dois"},
+            {"id": 4, "texto": "Cinco"},
+            {"id": 5, "texto": "Seis"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual país foi o último a abolir a escravidão na América do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasil"},
+            {"id": 2, "texto": "Argentina"},
+            {"id": 3, "texto": "Chile"},
+            {"id": 4, "texto": "Venezuela"},
+            {"id": 5, "texto": "Colômbia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é considerado o inventor do touch screen?",
+        "opcoes": [
+            {"id": 1, "texto": "Eric A. Johnson"},
+            {"id": 2, "texto": "Steve Jobs"},
+            {"id": 3, "texto": "Thomas Reardon"},
+            {"id": 4, "texto": "Hedy Lamarr"},
+            {"id": 5, "texto": "Kevin Systrom"}
         ],
         "resposta": 1
     }

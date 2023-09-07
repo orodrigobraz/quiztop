@@ -59,8 +59,6 @@ function mostrarPergunta() {
         optionItem.addEventListener("click", verificarResposta);
         optionsList.appendChild(optionItem);
     });
-
-    // scoreText.textContent = `Pontuação: ${score}/${perguntas.length}`;
 }
 
 function verificarResposta(event) {
