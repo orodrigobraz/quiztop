@@ -3738,5 +3738,104 @@
             {"id": 5, "texto": "Pálido ponto azul"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual o primeiro nome da cantora Melody?",
+        "opcoes": [
+            {"id": 1, "texto": "Gabriela"},
+            {"id": 2, "texto": "Francine"},
+            {"id": 3, "texto": "Stéfany"},
+            {"id": 4, "texto": "Julia"},
+            {"id": 5, "texto": "Alice"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o primeiro nome da cantora Jojo Todynho?",
+        "opcoes": [
+            {"id": 1, "texto": "Jordana"},
+            {"id": 2, "texto": "Jovana"},
+            {"id": 3, "texto": "Jocasta"},
+            {"id": 4, "texto": "Josiane"},
+            {"id": 5, "texto": "Joeli"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos idiomas oficiais a África do Sul possui?",
+        "opcoes": [
+            {"id": 1, "texto": "11"},
+            {"id": 2, "texto": "7"},
+            {"id": 3, "texto": "5"},
+            {"id": 4, "texto": "14"},
+            {"id": 5, "texto": "9"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que é uma flâmula?",
+        "opcoes": [
+            {"id": 1, "texto": "Bandeira"},
+            {"id": 2, "texto": "Fruta"},
+            {"id": 3, "texto": "Instrumento musical"},
+            {"id": 4, "texto": "Talher"},
+            {"id": 5, "texto": "Caneta"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país fica a cidade de Odessa?",
+        "opcoes": [
+            {"id": 1, "texto": "Ucrânia"},
+            {"id": 2, "texto": "Itália"},
+            {"id": 3, "texto": "Suíça"},
+            {"id": 4, "texto": "Turquia"},
+            {"id": 5, "texto": "Grécia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual cidade brasileira é conhecida como 'cidade imperial'?",
+        "opcoes": [
+            {"id": 1, "texto": "Petrópolis"},
+            {"id": 2, "texto": "Teresópolis"},
+            {"id": 3, "texto": "Rio de Janeiro"},
+            {"id": 4, "texto": "Salvador"},
+            {"id": 5, "texto": "Angra dos Reis"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Que dia se comemora o dia nacional do advogado?",
+        "opcoes": [
+            {"id": 1, "texto": "11 de agosto"},
+            {"id": 2, "texto": "12 de fevereiro"},
+            {"id": 3, "texto": "31 de maio"},
+            {"id": 4, "texto": "30 de julho"},
+            {"id": 5, "texto": "5 de dezembro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Jamaica?",
+        "opcoes": [
+            {"id": 1, "texto": "Kingston"},
+            {"id": 2, "texto": "Queenstown"},
+            {"id": 3, "texto": "Georgetown"},
+            {"id": 4, "texto": "Porto Príncipe"},
+            {"id": 5, "texto": "San José"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Coreia do Norte?",
+        "opcoes": [
+            {"id": 1, "texto": "Pyongyang"},
+            {"id": 2, "texto": "Hanói"},
+            {"id": 3, "texto": "Seul"},
+            {"id": 4, "texto": "Kaesong"},
+            {"id": 5, "texto": "Gwangyang"}
+        ],
+        "resposta": 1
     }
 ]
