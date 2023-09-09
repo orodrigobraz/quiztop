@@ -4090,5 +4090,16 @@
             {"id": 5, "texto": "Benjamin Harrison"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Em qual cidade nasceu o escritor russo Fiódor Dostoiévski?",
+        "opcoes": [
+            {"id": 1, "texto": "Moscou"},
+            {"id": 2, "texto": "São Petersburgo"},
+            {"id": 3, "texto": "Volgogrado"},
+            {"id": 4, "texto": "Sóchi"},
+            {"id": 5, "texto": "Vladivostok"}
+        ],
+        "resposta": 1
     }
 ]
