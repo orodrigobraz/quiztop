@@ -3837,5 +3837,258 @@
             {"id": 5, "texto": "Gwangyang"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual compositor compôs a obra 'O lago dos cisnes'?",
+        "opcoes": [
+            {"id": 1, "texto": "Piotr Tchaikovski"},
+            {"id": 2, "texto": "Frédéric Chopin"},
+            {"id": 3, "texto": "Ludwig van Beethoven"},
+            {"id": 4, "texto": "Wolfgang Mozart"},
+            {"id": 5, "texto": "Johann Bach"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Dave Grohl era baterista de qual banda antes do Foo Fighters?",
+        "opcoes": [
+            {"id": 1, "texto": "Nirvana"},
+            {"id": 2, "texto": "Slipknot"},
+            {"id": 3, "texto": "Pearl Jam"},
+            {"id": 4, "texto": "Soundgarden"},
+            {"id": 5, "texto": "Metallica"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual cidade aconteceu o atentado contra o arquiduque Franz Ferndinand?",
+        "opcoes": [
+            {"id": 1, "texto": "Sarajevo"},
+            {"id": 2, "texto": "Belgrado"},
+            {"id": 3, "texto": "Bucareste"},
+            {"id": 4, "texto": "Viena"},
+            {"id": 5, "texto": "Praga"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual cidade fica o estádio do Mangueirão?",
+        "opcoes": [
+            {"id": 1, "texto": "Belém"},
+            {"id": 2, "texto": "Manaus"},
+            {"id": 3, "texto": "Natal"},
+            {"id": 4, "texto": "Salvador"},
+            {"id": 5, "texto": "Brasília"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país nasceu o escritor Albert Camus?",
+        "opcoes": [
+            {"id": 1, "texto": "Argélia"},
+            {"id": 2, "texto": "França"},
+            {"id": 3, "texto": "Tunísia"},
+            {"id": 4, "texto": "Chade"},
+            {"id": 5, "texto": "Suíça"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Albert Camus?",
+        "opcoes": [
+            {"id": 1, "texto": "A náusea"},
+            {"id": 2, "texto": "O mito de Sísifo"},
+            {"id": 3, "texto": "O homem revoltado"},
+            {"id": 4, "texto": "A peste"},
+            {"id": 5, "texto": "O estrangeiro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano aconteceu o caso do ET de Varginha?",
+        "opcoes": [
+            {"id": 1, "texto": "1996"},
+            {"id": 2, "texto": "1994"},
+            {"id": 3, "texto": "1995"},
+            {"id": 4, "texto": "1997"},
+            {"id": 5, "texto": "1998"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o elemento químico com símbolo 'Pb'?",
+        "opcoes": [
+            {"id": 1, "texto": "Chumbo"},
+            {"id": 2, "texto": "Nióbio"},
+            {"id": 3, "texto": "Paládio"},
+            {"id": 4, "texto": "Radônio"},
+            {"id": 5, "texto": "Fósforo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destar árvores é um símbolo do Natal?",
+        "opcoes": [
+            {"id": 1, "texto": "Pinheiro"},
+            {"id": 2, "texto": "Ipê"},
+            {"id": 3, "texto": "Palmeira"},
+            {"id": 4, "texto": "Coqueiro"},
+            {"id": 5, "texto": "Seringueira"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem nasce no estado do Rio Grande do Norte é chamado de...?",
+        "opcoes": [
+            {"id": 1, "texto": "Potiguar"},
+            {"id": 2, "texto": "Natalino"},
+            {"id": 3, "texto": "Capixaba"},
+            {"id": 4, "texto": "Soteropolitano"},
+            {"id": 5, "texto": "Gaúcho"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual sistema criado em 1914 revolucionou a indústria automobilística na época?",
+        "opcoes": [
+            {"id": 1, "texto": "Fordismo"},
+            {"id": 2, "texto": "Taylorismo"},
+            {"id": 3, "texto": "Toyotismo"},
+            {"id": 4, "texto": "Volvismo"},
+            {"id": 5, "texto": "Fiatismo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a cidade mais alta do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Campos do Jordão - SP"},
+            {"id": 2, "texto": "Maria da Fé - MG"},
+            {"id": 3, "texto": "Urupema - SC"},
+            {"id": 4, "texto": "Camanducaia - MG"},
+            {"id": 5, "texto": "Itamonte - MG"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem nasce no estado do Rio de Janeiro é chamado de...?",
+        "opcoes": [
+            {"id": 1, "texto": "Fluminense"},
+            {"id": 2, "texto": "Carioca"},
+            {"id": 3, "texto": "Capixaba"},
+            {"id": 4, "texto": "Flamengo"},
+            {"id": 5, "texto": "Janeirense"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual temperatura equivale ao chamado zero absoluto?",
+        "opcoes": [
+            {"id": 1, "texto": "-273,15° C"},
+            {"id": 2, "texto": "0° C"},
+            {"id": 3, "texto": "-45,25° C"},
+            {"id": 4, "texto": "-181,33° C"},
+            {"id": 5, "texto": "-352° C"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se escreve 'presente' em francês?",
+        "opcoes": [
+            {"id": 1, "texto": "Cadeau"},
+            {"id": 2, "texto": "Chaîne"},
+            {"id": 3, "texto": "Cadenas"},
+            {"id": 4, "texto": "Grille"},
+            {"id": 5, "texto": "Passé"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que um entomologista estuda?",
+        "opcoes": [
+            {"id": 1, "texto": "Insetos"},
+            {"id": 2, "texto": "Moluscos"},
+            {"id": 3, "texto": "Répteis"},
+            {"id": 4, "texto": "Aves"},
+            {"id": 5, "texto": "Rochas vulcânicas"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu a obra Os Miseráveis?",
+        "opcoes": [
+            {"id": 1, "texto": "Victor Hugo"},
+            {"id": 2, "texto": "Alexandre Dumas"},
+            {"id": 3, "texto": "Voltaire"},
+            {"id": 4, "texto": "Walter Scott"},
+            {"id": 5, "texto": "Fiódor Dostoiévski"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o artilheiro da Copa do Mundo de 1990?",
+        "opcoes": [
+            {"id": 1, "texto": "Salvatore Schilacci"},
+            {"id": 2, "texto": "Lothar Matthäus"},
+            {"id": 3, "texto": "Diego Maradona"},
+            {"id": 4, "texto": "Roger Mila"},
+            {"id": 5, "texto": "Renato Gaúcho"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano Lionel Messi ganhou sua primeira bola de ouro?",
+        "opcoes": [
+            {"id": 1, "texto": "2009"},
+            {"id": 2, "texto": "2007"},
+            {"id": 3, "texto": "2010"},
+            {"id": 4, "texto": "2012"},
+            {"id": 5, "texto": "2013"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas palavras é sinônimo de 'côdea'?",
+        "opcoes": [
+            {"id": 1, "texto": "Crosta"},
+            {"id": 2, "texto": "Cretone"},
+            {"id": 3, "texto": "Crivo"},
+            {"id": 4, "texto": "Crupe"},
+            {"id": 5, "texto": "Queijo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual instituição é a responsável por marcar as datas pro carnaval?",
+        "opcoes": [
+            {"id": 1, "texto": "Igreja Católica"},
+            {"id": 2, "texto": "Governo Federal"},
+            {"id": 3, "texto": "Prefeitura de Veneza"},
+            {"id": 4, "texto": "Superior Tribunal Federal"},
+            {"id": 5, "texto": "Associação Carnavalesca "}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Museu Nacional por Dom João VI?",
+        "opcoes": [
+            {"id": 1, "texto": "1818"},
+            {"id": 2, "texto": "1718"},
+            {"id": 3, "texto": "1799"},
+            {"id": 4, "texto": "1868"},
+            {"id": 5, "texto": "1810"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "A cédula de 100 mil dólares é estampada com o rosto de qual ex-presidente norte-americano?",
+        "opcoes": [
+            {"id": 1, "texto": "Woodrow Wilson"},
+            {"id": 2, "texto": "Ronald Reagan"},
+            {"id": 3, "texto": "Dwight Eisenhower"},
+            {"id": 4, "texto": "Franklin Roosevelt"},
+            {"id": 5, "texto": "Benjamin Harrison"}
+        ],
+        "resposta": 1
     }
 ]

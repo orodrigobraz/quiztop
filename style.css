@@ -110,9 +110,28 @@ button {
     border-radius: 4px;
     font-size: 16px;
     font-weight: bolder;
-    transition: background-color 0.2s;
+    transition: .4s ease-in;
+    position: relative;
+    z-index: 1;
 }
 
 button:hover {
     background-color: #ebe8e8;
+    box-shadow: 4px 4px 0px #7c7c7c;
+    top: -2px;
+    left: -2px;
+}
+
+footer {
+    color: rgb(107, 106, 106);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer a {
+    color: rgb(107, 106, 106);
+    text-decoration: none;
 }
