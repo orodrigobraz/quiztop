@@ -11,6 +11,13 @@ body {
     min-height: 100vh;
 }
 
+@media screen and (max-width: 900px) {
+    body {
+      background-image: none;
+      background-color: #272626;
+    }
+  }
+
 .quiz-container {
     background-color: #ffffff;
     padding: 20px;
