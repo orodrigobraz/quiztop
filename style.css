@@ -1,6 +1,9 @@
 body {
     font-family: "Roboto", Arial, sans-serif;
-    background-color: #272626;
+    background-image: url("img/cool-background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 102%;
     margin: 0;
     display: flex;
     justify-content: center;

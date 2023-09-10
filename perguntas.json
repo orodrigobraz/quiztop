@@ -3861,7 +3861,7 @@
         "resposta": 1
     },
     {
-        "pergunta": "Em qual cidade aconteceu o atentado contra o arquiduque Franz Ferndinand?",
+        "pergunta": "Em qual cidade aconteceu o atentado contra o arquiduque Franz Ferdinand?",
         "opcoes": [
             {"id": 1, "texto": "Sarajevo"},
             {"id": 2, "texto": "Belgrado"},
@@ -4099,6 +4099,28 @@
             {"id": 3, "texto": "Volgogrado"},
             {"id": 4, "texto": "Sóchi"},
             {"id": 5, "texto": "Vladivostok"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual time Pelé encerrou sua carreira?",
+        "opcoes": [
+            {"id": 1, "texto": "NY Cosmos"},
+            {"id": 2, "texto": "Santos"},
+            {"id": 3, "texto": "LA Galaxy"},
+            {"id": 4, "texto": "Atlanta United"},
+            {"id": 5, "texto": "Charlotte FC"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes não é um arquiteto brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Cláudio Kirner"},
+            {"id": 2, "texto": "Lina Bo Bardi"},
+            {"id": 3, "texto": "Lúcio Costa"},
+            {"id": 4, "texto": "Ruy Ohtake"},
+            {"id": 5, "texto": "Rosa Kliass"}
         ],
         "resposta": 1
     }
