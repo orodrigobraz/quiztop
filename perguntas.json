@@ -4123,5 +4123,38 @@
             {"id": 5, "texto": "Rosa Kliass"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "No museu de qual cidade fica a estátua da Vênus de Willendorf?",
+        "opcoes": [
+            {"id": 1, "texto": "Viena"},
+            {"id": 2, "texto": "Frankfurt"},
+            {"id": 3, "texto": "Amsterdam"},
+            {"id": 4, "texto": "Budapeste"},
+            {"id": 5, "texto": "Praga"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes escritores não nasceu em Minas Gerais?",
+        "opcoes": [
+            {"id": 1, "texto": "Euclides da Cunha"},
+            {"id": 2, "texto": "Carlos Drummond de Andrade"},
+            {"id": 3, "texto": "João Guimarães Rosa"},
+            {"id": 4, "texto": "Rubem Fonseca"},
+            {"id": 5, "texto": "Darcy Ribeiro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se chama a linha invisível que divide a Terra em dois hemisférios?",
+        "opcoes": [
+            {"id": 1, "texto": "Linha do Equador"},
+            {"id": 2, "texto": "Trópico de Câncer"},
+            {"id": 3, "texto": "Trópico de Capricórnio"},
+            {"id": 4, "texto": "Trópico Polar"},
+            {"id": 5, "texto": "Círculo Ártico"}
+        ],
+        "resposta": 1
     }
 ]
