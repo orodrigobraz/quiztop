@@ -4156,5 +4156,60 @@
             {"id": 5, "texto": "Círculo Ártico"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome da cidade fictícia contida no livro 'Cem anos de solidão'?",
+        "opcoes": [
+            {"id": 1, "texto": "Macondo"},
+            {"id": 2, "texto": "Sucupira"},
+            {"id": 3, "texto": "Coroado"},
+            {"id": 4, "texto": "Araruna"},
+            {"id": 5, "texto": "Antares"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o horário exato (no horário local) em que o primeiro avião atingiu o World Trade Center?",
+        "opcoes": [
+            {"id": 1, "texto": "8h46min"},
+            {"id": 2, "texto": "9h03min"},
+            {"id": 3, "texto": "8h13min"},
+            {"id": 4, "texto": "8h33min"},
+            {"id": 5, "texto": "9h16min"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas escritoras nunca ganhou um Nobel de literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "Jane Austen"},
+            {"id": 2, "texto": "Gabriela Mistral"},
+            {"id": 3, "texto": "Herta Müller"},
+            {"id": 4, "texto": "Wislawa Szymborska"},
+            {"id": 5, "texto": "Toni Morrison"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado nasceu o cantor Belchior?",
+        "opcoes": [
+            {"id": 1, "texto": "Ceará"},
+            {"id": 2, "texto": "Paraíba"},
+            {"id": 3, "texto": "Alagoas"},
+            {"id": 4, "texto": "Sergipe"},
+            {"id": 5, "texto": "Pernambuco"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se escreve 'ampulheta' em espanhol?",
+        "opcoes": [
+            {"id": 1, "texto": "Reloj de arena"},
+            {"id": 2, "texto": "Ampulleta"},
+            {"id": 3, "texto": "Ampujeta"},
+            {"id": 4, "texto": "Reloj viejo"},
+            {"id": 5, "texto": "Reloj"}
+        ],
+        "resposta": 1
     }
 ]
