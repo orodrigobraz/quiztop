@@ -4706,5 +4706,38 @@
             {"id": 5, "texto": "Expedito"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Em qual destes times o sueco Zlatan Ibrahimovic não jogou?",
+        "opcoes": [
+            {"id": 1, "texto": "Arsenal"},
+            {"id": 2, "texto": "Ajax"},
+            {"id": 3, "texto": "Juventus"},
+            {"id": 4, "texto": "Barcelona"},
+            {"id": 5, "texto": "LA Galaxy"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "O que estuda um ornitólogo?",
+        "opcoes": [
+            {"id": 1, "texto": "Aves"},
+            {"id": 2, "texto": "Moluscos"},
+            {"id": 3, "texto": "Ornitorrincos"},
+            {"id": 4, "texto": "Bactérias"},
+            {"id": 5, "texto": "Anfíbios"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é Araquém Alcântara?",
+        "opcoes": [
+            {"id": 1, "texto": "Fotógrafo"},
+            {"id": 2, "texto": "Autor"},
+            {"id": 3, "texto": "Arquiteto"},
+            {"id": 4, "texto": "Cineasta"},
+            {"id": 5, "texto": "Pintor"}
+        ],
+        "resposta": 1
     }
 ]
