@@ -4211,5 +4211,500 @@
             {"id": 5, "texto": "Reloj"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Quem compôs a música 'Como nossos pais'?",
+        "opcoes": [
+            {"id": 1, "texto": "Belchior"},
+            {"id": 2, "texto": "Elis Regina"},
+            {"id": 3, "texto": "Chico Buarque"},
+            {"id": 4, "texto": "Toquinho"},
+            {"id": 5, "texto": "Maria Bethânia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital do Peru?",
+        "opcoes": [
+            {"id": 1, "texto": "Lima"},
+            {"id": 2, "texto": "Cusco"},
+            {"id": 3, "texto": "Nazca"},
+            {"id": 4, "texto": "Arequipa"},
+            {"id": 5, "texto": "Trujillo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital dos Estados Unidos?",
+        "opcoes": [
+            {"id": 1, "texto": "Washington"},
+            {"id": 2, "texto": "Nova York"},
+            {"id": 3, "texto": "Boston"},
+            {"id": 4, "texto": "Miami"},
+            {"id": 5, "texto": "Chicago"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como era conhecido o cantor Alexandre Magno Abrão?",
+        "opcoes": [
+            {"id": 1, "texto": "Chorão"},
+            {"id": 2, "texto": "Cazuza"},
+            {"id": 3, "texto": "Renato Russo"},
+            {"id": 4, "texto": "Chico Science"},
+            {"id": 5, "texto": "Claudinho"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital do Equador?",
+        "opcoes": [
+            {"id": 1, "texto": "Quito"},
+            {"id": 2, "texto": "Guaiaquil"},
+            {"id": 3, "texto": "Cuenca"},
+            {"id": 4, "texto": "Ibarra"},
+            {"id": 5, "texto": "Portoviejo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fundada a cidade de Belo Horizonte?",
+        "opcoes": [
+            {"id": 1, "texto": "1897"},
+            {"id": 2, "texto": "1901"},
+            {"id": 3, "texto": "1909"},
+            {"id": 4, "texto": "1889"},
+            {"id": 5, "texto": "1917"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Nigéria?",
+        "opcoes": [
+            {"id": 1, "texto": "Abuja"},
+            {"id": 2, "texto": "Lagos"},
+            {"id": 3, "texto": "Ikire"},
+            {"id": 4, "texto": "Zaria"},
+            {"id": 5, "texto": "Sokoto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi a primeira capital do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Salvador"},
+            {"id": 2, "texto": "Rio de Janeiro"},
+            {"id": 3, "texto": "Porto Seguro"},
+            {"id": 4, "texto": "Fortaleza"},
+            {"id": 5, "texto": "Recife"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Espanha?",
+        "opcoes": [
+            {"id": 1, "texto": "Madrid"},
+            {"id": 2, "texto": "Barcelona"},
+            {"id": 3, "texto": "Sevilla"},
+            {"id": 4, "texto": "Valência"},
+            {"id": 5, "texto": "Zaragoza"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o elemento químico com símbolo 'P'?",
+        "opcoes": [
+            {"id": 1, "texto": "Fósforo"},
+            {"id": 2, "texto": "Potássio"},
+            {"id": 3, "texto": "Iodo"},
+            {"id": 4, "texto": "Césio"},
+            {"id": 5, "texto": "Polônio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o elemento químico com símbolo 'Au'?",
+        "opcoes": [
+            {"id": 1, "texto": "Ouro"},
+            {"id": 2, "texto": "Prata"},
+            {"id": 3, "texto": "Radônio"},
+            {"id": 4, "texto": "Alumínio"},
+            {"id": 5, "texto": "Európio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Gabriel Garcia Marquez?",
+        "opcoes": [
+            {"id": 1, "texto": "A festa do bode"},
+            {"id": 2, "texto": "Memórias de minhas putas tristes"},
+            {"id": 3, "texto": "Crônica de uma morte anunciada"},
+            {"id": 4, "texto": "Relato de um náufrago"},
+            {"id": 5, "texto": "Do amor e outros demônios"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Ariano Suassuna?",
+        "opcoes": [
+            {"id": 1, "texto": "Riacho doce"},
+            {"id": 2, "texto": "A pena e a lei"},
+            {"id": 3, "texto": "Farsa da boa preguiça"},
+            {"id": 4, "texto": "Uma mulher vestida de sol"},
+            {"id": 5, "texto": "Auto da Compadecida"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi lançado o ChatGPT?",
+        "opcoes": [
+            {"id": 1, "texto": "2022"},
+            {"id": 2, "texto": "2023"},
+            {"id": 3, "texto": "2020"},
+            {"id": 4, "texto": "2019"},
+            {"id": 5, "texto": "2021"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual foi o primeiro longa-metragem animado lançado por Walt Disney?",
+        "opcoes": [
+            {"id": 1, "texto": "Branca de Neve e Os Sete Anões"},
+            {"id": 2, "texto": "Cinderela"},
+            {"id": 3, "texto": "A Bela Adormecida"},
+            {"id": 4, "texto": "A Dama e o Vagabundo"},
+            {"id": 5, "texto": "Alice no País das Maravilhas"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano aconteceu a queda do muro de Berlim?",
+        "opcoes": [
+            {"id": 1, "texto": "1989"},
+            {"id": 2, "texto": "1991"},
+            {"id": 3, "texto": "1984"},
+            {"id": 4, "texto": "1993"},
+            {"id": 5, "texto": "1980"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual país fica a maior queda d'água do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Venezuela"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Canadá"},
+            {"id": 4, "texto": "Estados Unidos"},
+            {"id": 5, "texto": "Myanmar"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes países não fazia parte da União Soviética?",
+        "opcoes": [
+            {"id": 1, "texto": "Albânia"},
+            {"id": 2, "texto": "Armênia"},
+            {"id": 3, "texto": "Azerbaijão"},
+            {"id": 4, "texto": "Letônia"},
+            {"id": 5, "texto": "Geórgia"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual cidade brasileira existem usinas nucleares em operação?",
+        "opcoes": [
+            {"id": 1, "texto": "Angra dos Reis - RJ"},
+            {"id": 2, "texto": "Goiânia - GO"},
+            {"id": 3, "texto": "São José dos Campos - SP"},
+            {"id": 4, "texto": "Volta Redonda - RJ"},
+            {"id": 5, "texto": "Guarapari - ES"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destas escritoras nasceu no Vale do Paraíba - SP?",
+        "opcoes": [
+            {"id": 1, "texto": "Ruth Guimarães"},
+            {"id": 2, "texto": "Carolina Maria de Jesus"},
+            {"id": 3, "texto": "Conceição Evaristo"},
+            {"id": 4, "texto": "Lygia Fagundes Telles"},
+            {"id": 5, "texto": "Hilda Hilst"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros foi escrito por Joseph Conrad?",
+        "opcoes": [
+            {"id": 1, "texto": "Coração das trevas"},
+            {"id": 2, "texto": "O homem do castelo alto"},
+            {"id": 3, "texto": "Cada um morre por si"},
+            {"id": 4, "texto": "Graça infinita"},
+            {"id": 5, "texto": "A consciência de Zeno"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2006?",
+        "opcoes": [
+            {"id": 1, "texto": "Miroslav Klose"},
+            {"id": 2, "texto": "Zinedine Zidane"},
+            {"id": 3, "texto": "David Villa"},
+            {"id": 4, "texto": "Luca Toni"},
+            {"id": 5, "texto": "Ronaldo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano a Volkswagen lançou o Gol?",
+        "opcoes": [
+            {"id": 1, "texto": "1980"},
+            {"id": 2, "texto": "1982"},
+            {"id": 3, "texto": "1984"},
+            {"id": 4, "texto": "1986"},
+            {"id": 5, "texto": "1988"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em que ano foi fabricado o último Fusca no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "2003"},
+            {"id": 2, "texto": "2000"},
+            {"id": 3, "texto": "2006"},
+            {"id": 4, "texto": "1997"},
+            {"id": 5, "texto": "2005"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2014?",
+        "opcoes": [
+            {"id": 1, "texto": "James Rodríguez"},
+            {"id": 2, "texto": "Thomas Müller"},
+            {"id": 3, "texto": "Lionel Messi"},
+            {"id": 4, "texto": "Van Persie"},
+            {"id": 5, "texto": "Karim Benzema"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da Arábia Saudita?",
+        "opcoes": [
+            {"id": 1, "texto": "Riad"},
+            {"id": 2, "texto": "Abu Dhabi"},
+            {"id": 3, "texto": "Dubai"},
+            {"id": 4, "texto": "Rijal"},
+            {"id": 5, "texto": "Jidá"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu a obra Moby Dick?",
+        "opcoes": [
+            {"id": 1, "texto": "Herman Melville"},
+            {"id": 2, "texto": "Mark Twain"},
+            {"id": 3, "texto": "Nathaniel Hawthorne"},
+            {"id": 4, "texto": "Walt Whitman"},
+            {"id": 5, "texto": "Ernest Hemingway"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o primeiro nome de Che Guevara?",
+        "opcoes": [
+            {"id": 1, "texto": "Ernesto"},
+            {"id": 2, "texto": "Alberto"},
+            {"id": 3, "texto": "Raul"},
+            {"id": 4, "texto": "Camilo"},
+            {"id": 5, "texto": "Roberto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual esporte se destacou Maria Lenk?",
+        "opcoes": [
+            {"id": 1, "texto": "Natação"},
+            {"id": 2, "texto": "Tênis"},
+            {"id": 3, "texto": "Vôlei"},
+            {"id": 4, "texto": "Atletismo"},
+            {"id": 5, "texto": "Salto em distância"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual estado nasceu o escritor Jorge Amado?",
+        "opcoes": [
+            {"id": 1, "texto": "Bahia"},
+            {"id": 2, "texto": "Maranhão"},
+            {"id": 3, "texto": "Minas Gerais"},
+            {"id": 4, "texto": "São Paulo"},
+            {"id": 5, "texto": "Pernambuco"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a maior ave do Brasil em envergadura?",
+        "opcoes": [
+            {"id": 1, "texto": "Harpia"},
+            {"id": 2, "texto": "Urubu rei"},
+            {"id": 3, "texto": "Ema"},
+            {"id": 4, "texto": "Tuiuiu"},
+            {"id": 5, "texto": "Anhuma"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Contra qual time o São Paulo Futebol Clube jogou a final da Copa Libertadores de 2005?",
+        "opcoes": [
+            {"id": 1, "texto": "Atlético Paranaense"},
+            {"id": 2, "texto": "San Lorenzo"},
+            {"id": 3, "texto": "Internacional"},
+            {"id": 4, "texto": "Nacional"},
+            {"id": 5, "texto": "River Plate"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantos gols fez o artilheiro Germán Cano no Campeonato Brasileiro de 2022?",
+        "opcoes": [
+            {"id": 1, "texto": "26"},
+            {"id": 2, "texto": "29"},
+            {"id": 3, "texto": "23"},
+            {"id": 4, "texto": "20"},
+            {"id": 5, "texto": "17"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o primeiro escritor russo a ganhar um Nobel de Literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "Ivan Búnin"},
+            {"id": 2, "texto": "Liev Tolstói"},
+            {"id": 3, "texto": "Boris Pasternak"},
+            {"id": 4, "texto": "Joseph Brodsky"},
+            {"id": 5, "texto": "Friedrich Gorenstein"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes livros não é de Clarice Lispector?",
+        "opcoes": [
+            {"id": 1, "texto": "Antes do baile verde"},
+            {"id": 2, "texto": "Laços de família"},
+            {"id": 3, "texto": "A hora da estrela"},
+            {"id": 4, "texto": "A paixão segundo G.H."},
+            {"id": 5, "texto": "Um sopro de vida"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Contra qual time o Fluminense jogou a final da Copa Libertadores de 2008?",
+        "opcoes": [
+            {"id": 1, "texto": "LDU"},
+            {"id": 2, "texto": "Boca Juniors"},
+            {"id": 3, "texto": "Colo-colo"},
+            {"id": 4, "texto": "São Paulo"},
+            {"id": 5, "texto": "Peñarol"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a moeda oficial da Índia?",
+        "opcoes": [
+            {"id": 1, "texto": "Rupia"},
+            {"id": 2, "texto": "Renminbi"},
+            {"id": 3, "texto": "Rand"},
+            {"id": 4, "texto": "Dirham"},
+            {"id": 5, "texto": "Lira"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual a capital da China?",
+        "opcoes": [
+            {"id": 1, "texto": "Pequim"},
+            {"id": 2, "texto": "Xangai"},
+            {"id": 3, "texto": "Wuhan"},
+            {"id": 4, "texto": "Hangzhou"},
+            {"id": 5, "texto": "Xian"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o artilheiro do Campeonato Brasileiro de 2017?",
+        "opcoes": [
+            {"id": 1, "texto": "Henrique Dourado"},
+            {"id": 2, "texto": "Jô"},
+            {"id": 3, "texto": "Ricardo Oliveira"},
+            {"id": 4, "texto": "Diego Souza"},
+            {"id": 5, "texto": "Bruno Henrique"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do fruto da Oliveira?",
+        "opcoes": [
+            {"id": 1, "texto": "Azeitona"},
+            {"id": 2, "texto": "Uva"},
+            {"id": 3, "texto": "Pera"},
+            {"id": 4, "texto": "Tomate"},
+            {"id": 5, "texto": "Figo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Simón Bolívar não participou da independência de qual destes países?",
+        "opcoes": [
+            {"id": 1, "texto": "Chile"},
+            {"id": 2, "texto": "Venezuela"},
+            {"id": 3, "texto": "Colômbia"},
+            {"id": 4, "texto": "Bolivia"},
+            {"id": 5, "texto": "Peru"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual cidade é considerada a capital nacional do doce de leite?",
+        "opcoes": [
+            {"id": 1, "texto": "Viçosa - MG"},
+            {"id": 2, "texto": "Paracatu - MG"},
+            {"id": 3, "texto": "Cachoeiro do Itapemirim - ES"},
+            {"id": 4, "texto": "Osasco - SP"},
+            {"id": 5, "texto": "Bom Repouso - MG"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Segundo a Bíblia, quem foi o pai de Caim?",
+        "opcoes": [
+            {"id": 1, "texto": "Adão"},
+            {"id": 2, "texto": "Aarão"},
+            {"id": 3, "texto": "Noé"},
+            {"id": 4, "texto": "Abel"},
+            {"id": 5, "texto": "Moisés"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Um sesquicentenário equivale a quantos anos?",
+        "opcoes": [
+            {"id": 1, "texto": "150"},
+            {"id": 2, "texto": "200"},
+            {"id": 3, "texto": "110"},
+            {"id": 4, "texto": "100"},
+            {"id": 5, "texto": "175"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual era o verdadeiro nome do cantor Tim Maia?",
+        "opcoes": [
+            {"id": 1, "texto": "Sebastião"},
+            {"id": 2, "texto": "Tiago"},
+            {"id": 3, "texto": "Alexandre"},
+            {"id": 4, "texto": "Antonio"},
+            {"id": 5, "texto": "Expedito"}
+        ],
+        "resposta": 1
     }
 ]
