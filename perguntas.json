@@ -4959,5 +4959,38 @@
             {"id": 5, "texto": "Ceará"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Quem escreveu o livro 1984?",
+        "opcoes": [
+            {"id": 1, "texto": "George Orwell"},
+            {"id": 2, "texto": "Aldous Huxley"},
+            {"id": 3, "texto": "Ray Bradburry"},
+            {"id": 4, "texto": "Joseph Conrad"},
+            {"id": 5, "texto": "Hendrik Groen"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual animal toma o poder no livro 'A revolução dos bichos' de George Orwell?",
+        "opcoes": [
+            {"id": 1, "texto": "Porco"},
+            {"id": 2, "texto": "Cavalo"},
+            {"id": 3, "texto": "Galinha"},
+            {"id": 4, "texto": "Vaca"},
+            {"id": 5, "texto": "Cachorro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual escritor sofreu um atentado por sua crítica ao islamismo?",
+        "opcoes": [
+            {"id": 1, "texto": "Salman Rushdie"},
+            {"id": 2, "texto": "Vladimir Nabokov"},
+            {"id": 3, "texto": "Thomas Pynchon"},
+            {"id": 4, "texto": "Mario Vargas Llosa"},
+            {"id": 5, "texto": "Maurice Leblanc"}
+        ],
+        "resposta": 1
     }
 ]
