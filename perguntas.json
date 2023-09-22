@@ -8,7 +8,8 @@
             {"id": 4, "texto": "Lucerna"},
             {"id": 5, "texto": "Montreux"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 1
     },
     {   
         "pergunta": "Quem pintou a Monalisa?",
@@ -19,7 +20,8 @@
             {"id": 4, "texto": "Salvador Dalí"},
             {"id": 5, "texto": "Michelangelo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 2
     },
     {   
         "pergunta": "Quem escreveu a obra Dom Quixote?",
@@ -30,7 +32,8 @@
             {"id": 4, "texto": "José Saramago"},
             {"id": 5, "texto": "Liev Tolstói"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 3
     },
     {   
         "pergunta": "Quanto é 2 elevado à 10?",
@@ -41,7 +44,8 @@
             {"id": 4, "texto": "256"},
             {"id": 5, "texto": "128"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 4
     },
     {   
         "pergunta": "Qual o planeta mais próximo do Sol?",
@@ -52,7 +56,8 @@
             {"id": 4, "texto": "Marte"},
             {"id": 5, "texto": "Saturno"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 5
     },
     {   
         "pergunta": "Quem é considerado o criador da linguagem de programação Python?",
@@ -63,7 +68,8 @@
             {"id": 4, "texto": "Steve Wozniak"},
             {"id": 5, "texto": "James Gosling"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 6
     },
     {   
         "pergunta": "Qual a capital do Piauí?",
@@ -74,7 +80,8 @@
             {"id": 4, "texto": "São Luís"},
             {"id": 5, "texto": "Fortaleza"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 7
     },
     {   
         "pergunta": "Em que ano morreu Josef Stálin?",
@@ -85,7 +92,8 @@
             {"id": 4, "texto": "1951"},
             {"id": 5, "texto": "1947"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 8
     },
     {   
         "pergunta": "Snivy é o inicial de planta de qual geração de Pokémon?",
@@ -96,7 +104,8 @@
             {"id": 4, "texto": "Sexta geração"},
             {"id": 5, "texto": "Sétima geração"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 9
     },
     {   
         "pergunta": "Qual a tradução em português da palavra em inglês 'Shuffle'?",
@@ -107,7 +116,8 @@
             {"id": 4, "texto": "Empurrar"},
             {"id": 5, "texto": "Transportar"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 10
     },
     {   
         "pergunta": "Qual dos países a seguir não faz fronteira terrestre com o Brasil?",
@@ -118,7 +128,8 @@
             {"id": 4, "texto": "Bolivia"},
             {"id": 5, "texto": "Suriname"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 11
     },
     {   
         "pergunta": "Em qual estado fica a cidade de Ji-Paraná?",
@@ -129,7 +140,8 @@
             {"id": 4, "texto": "Paraná"},
             {"id": 5, "texto": "Matro Grosso do Sul"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 12
     },
     {   
         "pergunta": "Qual dos livros a seguir não é do escritor Fiódor Dostoiévski?",
@@ -140,7 +152,8 @@
             {"id": 4, "texto": "O idiota"},
             {"id": 5, "texto": "Noites brancas"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 13
     },
     {   
         "pergunta": "Quais as cores da bandeira de Botswana?",
@@ -151,7 +164,8 @@
             {"id": 4, "texto": "Vermelho, amarelo e azul"},
             {"id": 5, "texto": "Verde, azul e branco"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 14
     },
     {   
         "pergunta": "Qual empresa é a desenvolvedora do jogo League Of Legends?",
@@ -162,7 +176,8 @@
             {"id": 4, "texto": "Epic Games"},
             {"id": 5, "texto": "Fnatic"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 15
     },
     {   
         "pergunta": "Em que ano se encerrou a Guerra do Paraguai?",
@@ -173,7 +188,8 @@
             {"id": 4, "texto": "1899"},
             {"id": 5, "texto": "1855"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 16
     },
     {   
         "pergunta": "Em que ano foi fundado o Google?",
@@ -184,7 +200,8 @@
             {"id": 4, "texto": "2001"},
             {"id": 5, "texto": "2003"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 17
     },
     {   
         "pergunta": "De quem é a frase 'Penso, logo existo.'?",
@@ -195,7 +212,8 @@
             {"id": 4, "texto": "Sócrates"},
             {"id": 5, "texto": "Nicolau Maquiavel"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 18
     },
     {   
         "pergunta": "Atualmente, quantos elementos químicos a tabela periódica possui?",
@@ -206,7 +224,8 @@
             {"id": 4, "texto": "101"},
             {"id": 5, "texto": "103"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 19
     },
     {   
         "pergunta": "Qual a nacionalidade de Che Guevara?",
@@ -217,7 +236,8 @@
             {"id": 4, "texto": "Boliviana"},
             {"id": 5, "texto": "Mexicana"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 20
     },
     {   
         "pergunta": "Qual o pico mais alto do Brasil?",
@@ -228,7 +248,8 @@
             {"id": 4, "texto": "Pico da Bandeira"},
             {"id": 5, "texto": "Pico dos Marins"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 21
     },
     {   
         "pergunta": "Qual local da Ásia tem o português como idioma oficial?",
@@ -239,7 +260,8 @@
             {"id": 4, "texto": "Portugal"},
             {"id": 5, "texto": "Nepal"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 22
     },
     {   
         "pergunta": "Qual era o nome de Aleijadinho?",
@@ -250,7 +272,8 @@
             {"id": 4, "texto": "Manuel Antônio Lisboa"},
             {"id": 5, "texto": "Antônio Manuel Xavier"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 23
     },
     {   
         "pergunta": "Quais os nomes dos três Reis Magos?",
@@ -261,7 +284,8 @@
             {"id": 4, "texto": "Gabriel, Benjamin e Melchior"},
             {"id": 5, "texto": "Melchior, Galileu e Tiago"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 24
     },
     {   
         "pergunta": "As pessoas de qual tipo sanguíneo são consideradas doadores universais?",
@@ -272,7 +296,8 @@
             {"id": 4, "texto": "Tipo AB"},
             {"id": 5, "texto": "Tipo OAB"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 25
     },
     {   
         "pergunta": "Quais os cromossomos que determinam o sexo masculino?",
@@ -283,7 +308,8 @@
             {"id": 4, "texto": "W"},
             {"id": 5, "texto": "K"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 26
     },
     {   
         "pergunta": "Segundo a lenda, quem amamentou os gêmeos Rômulo e Remo?",
@@ -294,7 +320,8 @@
             {"id": 4, "texto": "Uma leoa"},
             {"id": 5, "texto": "Uma cabra"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 27
     },
     {   
         "pergunta": "Que animal gruguleja?",
@@ -305,7 +332,8 @@
             {"id": 4, "texto": "Garça"},
             {"id": 5, "texto": "Tuiuiu"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 28
     },
     {   
         "pergunta": "Jim Morrison era vocalista de qual banda?",
@@ -316,7 +344,8 @@
             {"id": 4, "texto": "Pink Floyd"},
             {"id": 5, "texto": "Led Zeppelin"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 29
     },
     {   
         "pergunta": "As obras Abaporu, Operários e Antropofagia foram pintadas por qual artista brasileiro?",
@@ -327,7 +356,8 @@
             {"id": 4, "texto": "Candido Portinari"},
             {"id": 5, "texto": "Clarice Lispector"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 30
     },
     {   
         "pergunta": "Em que país nasceu a escritora Clarice Lispector?",
@@ -338,7 +368,8 @@
             {"id": 4, "texto": "Rússia"},
             {"id": 5, "texto": "Inglaterra"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 31
     },
     {   
         "pergunta": "Persa é uma raça de qual animal?",
@@ -349,7 +380,8 @@
             {"id": 4, "texto": "Urso"},
             {"id": 5, "texto": "Porco"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 32
     },
     {   
         "pergunta": "A Samsung tem sua sede em qual país?",
@@ -360,7 +392,8 @@
             {"id": 4, "texto": "EUA"},
             {"id": 5, "texto": "Taiwan"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 33
     },
     {   
         "pergunta": "Em que ano foi lançado o primeiro iPhone pela Apple?",
@@ -371,7 +404,8 @@
             {"id": 4, "texto": "2010"},
             {"id": 5, "texto": "2012"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 34
     },
     {   
         "pergunta": "Em que país nasceu a cantora Rihanna?",
@@ -382,7 +416,8 @@
             {"id": 4, "texto": "Jamaica"},
             {"id": 5, "texto": "Honduras"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 35
     },
     {   
         "pergunta": "Quantas categorias tem o prêmio Nobel?",
@@ -393,7 +428,8 @@
             {"id": 4, "texto": "4"},
             {"id": 5, "texto": "8"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 36
     },
     {   
         "pergunta": "Qual letra representa uma rainha no baralho?",
@@ -404,7 +440,8 @@
             {"id": 4, "texto": "R"},
             {"id": 5, "texto": "A"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 37
     },
     {   
         "pergunta": "Qual é o idioma oficial em Bangladesh?",
@@ -415,7 +452,8 @@
             {"id": 4, "texto": "Hurdu"},
             {"id": 5, "texto": "Inglês"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 38
     },
     {   
         "pergunta": "Qual a cor do circulo contido na bandeira de Bangladesh?",
@@ -426,7 +464,8 @@
             {"id": 4, "texto": "Amarelo"},
             {"id": 5, "texto": "Azul"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 39
     },
     {   
         "pergunta": "Que animal é representado pelo número 34 no jogo do bicho?",
@@ -437,7 +476,8 @@
             {"id": 4, "texto": "Borboleta"},
             {"id": 5, "texto": "Elefante"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 40
     },
     {   
         "pergunta": "Em que parte do corpo fica o manguito rotador?",
@@ -448,7 +488,8 @@
             {"id": 4, "texto": "Joelho"},
             {"id": 5, "texto": "Coluna"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 41
     },
     {   
         "pergunta": "Qual foi o último elemento adicionado na tabela periódica?",
@@ -459,7 +500,8 @@
             {"id": 4, "texto": "Gadolínio"},
             {"id": 5, "texto": "Oganessônio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 42
     },
     {   
         "pergunta": "Qual a capital da Mongólia?",
@@ -470,7 +512,8 @@
             {"id": 4, "texto": "Timbu"},
             {"id": 5, "texto": "Rial"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 43
     },
     {   
         "pergunta": "Qual a capital da Austrália?",
@@ -481,7 +524,8 @@
             {"id": 4, "texto": "New Castle"},
             {"id": 5, "texto": "Alberna"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 44
     },
     {   
         "pergunta": "Em Pokémon, qual a cor do Ditto brilhante?",
@@ -492,7 +536,8 @@
             {"id": 4, "texto": "Verde"},
             {"id": 5, "texto": "Cinza"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 45
     },
     {   
         "pergunta": "Qual destes animais assobia?",
@@ -503,7 +548,8 @@
             {"id": 4, "texto": "Pelicano"},
             {"id": 5, "texto": "Rã"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 46
     },
     {   
         "pergunta": "Que tipo de animal é uma Pika?",
@@ -514,7 +560,8 @@
             {"id": 4, "texto": "Inseto"},
             {"id": 5, "texto": "Ave"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 47
     },
     {
         "pergunta": "De acordo com a lei da conservação da energia, a energia não pode ser criada nem destruída, apenas...",
@@ -525,7 +572,8 @@
             {"id": 4, "texto": "Criada"},
             {"id": 5, "texto": "Dissipada"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 48
     },
     {
         "pergunta": "Qual das seguintes leis descreve a relação entre a força aplicada, a massa do objeto e a aceleração resultante?",
@@ -536,7 +584,8 @@
             {"id": 4, "texto": "Lei de Ohm"},
             {"id": 5, "texto": "Lei de Hooke"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 49
     },
     {
         "pergunta": "Quem é o deus da justiça na mitologia nórdica?",
@@ -547,7 +596,8 @@
             {"id": 4, "texto": "Vidar"},
             {"id": 5, "texto": "Tir"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 50
     },
     {
         "pergunta": "Qual dos seguintes signos é tradicionalmente associado ao elemento ar?",
@@ -558,7 +608,8 @@
             {"id": 4, "texto": "Virgem"},
             {"id": 5, "texto": "Sagitário"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 51
     },
     {
         "pergunta": "Qual é a estrela mais próxima da Terra, depois do Sol?",
@@ -569,7 +620,8 @@
             {"id": 4, "texto": "Betelgeuse"},
             {"id": 5, "texto": "Vega"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 52
     },
     {
         "pergunta": "Qual é a maior lua de Júpiter?",
@@ -580,7 +632,8 @@
             {"id": 4, "texto": "Calisto"},
             {"id": 5, "texto": "Titã"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 53
     },
     {
         "pergunta": "Qual é o processo químico que envolve a perda de elétrons por um átomo ou íon?",
@@ -591,7 +644,8 @@
             {"id": 4, "texto": "Catalisação"},
             {"id": 5, "texto": "Combustão"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 54
     },
     {
         "pergunta": "Qual é o pH neutro?",
@@ -602,7 +656,8 @@
             {"id": 4, "texto": "8"},
             {"id": 5, "texto": "14"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 55
     },
     {
         "pergunta": "Quantos elétrons um átomo de hidrogênio tem em sua camada mais externa?",
@@ -613,7 +668,8 @@
             {"id": 4, "texto": "4"},
             {"id": 5, "texto": "3"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 56
     },
     {
         "pergunta": "Qual é o órgão responsável pela produção de insulina e regulação dos níveis de glicose no sangue?",
@@ -624,7 +680,8 @@
             {"id": 4, "texto": "Rim"},
             {"id": 5, "texto": "Estômago"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 57
     },
     {
         "pergunta": "Qual é o maior oceano do mundo?",
@@ -635,7 +692,8 @@
             {"id": 4, "texto": "Antártico"},
             {"id": 5, "texto": "Ártico"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 58
     },
     {
         "pergunta": "Qual é o rio mais longo do mundo?",
@@ -646,7 +704,8 @@
             {"id": 4, "texto": "Rio Mississipi"},
             {"id": 5, "texto": "Rio Danúbio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 59
     },
     {
         "pergunta": "Qual é a capital do Canadá?",
@@ -657,7 +716,8 @@
             {"id": 4, "texto": "Montreal"},
             {"id": 5, "texto": "Calgary"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 60
     },
     {
         "pergunta": "Onde fica o Deserto de Gobi?",
@@ -668,7 +728,8 @@
             {"id": 4, "texto": "Paquistão"},
             {"id": 5, "texto": "Rússia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 61
     },
     {
         "pergunta": "Qual é o país conhecido como 'País das Mil Colinas'?",
@@ -679,7 +740,8 @@
             {"id": 4, "texto": "Chile"},
             {"id": 5, "texto": "Índia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 62
     },
     {
         "pergunta": "Qual é a maior montanha da América do Sul?",
@@ -690,7 +752,8 @@
             {"id": 4, "texto": "Huascarán"},
             {"id": 5, "texto": "Monte Fitz Roy"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 63
     },
     {
         "pergunta": "Quantas letras tem o alfabeto cirílico usado na Rússia?",
@@ -701,7 +764,8 @@
             {"id": 4, "texto": "27"},
             {"id": 5, "texto": "22"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 64
     },
     {
         "pergunta": "Qual a raiz quadrada de 1089?",
@@ -712,7 +776,8 @@
             {"id": 4, "texto": "27"},
             {"id": 5, "texto": "22"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 65
     },
     {
         "pergunta": "Qual empresa criou o ReactJS?",
@@ -723,7 +788,8 @@
             {"id": 4, "texto": "Apple"},
             {"id": 5, "texto": "Intel"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 66
     },
     {
         "pergunta": "Um ano é composto por quantos trimestres?",
@@ -734,7 +800,8 @@
             {"id": 4, "texto": "2"},
             {"id": 5, "texto": "6"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 67
     },
     {
         "pergunta": "A cantora Elis Regina nasceu em qual cidade brasileira?",
@@ -745,7 +812,8 @@
             {"id": 4, "texto": "Belo Horizonte"},
             {"id": 5, "texto": "São Paulo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 68
     },
     {
         "pergunta": "Qual a classificação dada ao medicamento obtido exclusivamente da matéria-prima vegetal?",
@@ -756,7 +824,8 @@
             {"id": 4, "texto": "Alopático"},
             {"id": 5, "texto": "Placebo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 69
     },
     {
         "pergunta": "Em qual região ficava o Quilombo dos Palmares?",
@@ -767,7 +836,8 @@
             {"id": 4, "texto": "Boqueirão da Arara - CE"},
             {"id": 5, "texto": "Serra da Capivara - PI"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 70
     },
     {
         "pergunta": "Qual o verdadeiro nome da cantora Anitta?",
@@ -778,7 +848,8 @@
             {"id": 4, "texto": "Luísa"},
             {"id": 5, "texto": "Ana"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 71
     },
     {
         "pergunta": "O opilião é um tipo de:",
@@ -789,7 +860,8 @@
             {"id": 4, "texto": "Ave"},
             {"id": 5, "texto": "Fruta"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 72
     },
     {
         "pergunta": "A Adidas foi fundada em qual país?",
@@ -800,7 +872,8 @@
             {"id": 4, "texto": "Dinamarca"},
             {"id": 5, "texto": "Canadá"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 73
     },
     {
         "pergunta": "Em que país nasceu o escritor Robert Louis Stevenson?",
@@ -811,7 +884,8 @@
             {"id": 4, "texto": "Irlanda"},
             {"id": 5, "texto": "País de Gales"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 74
     },
     {
         "pergunta": "Qual destes escritores nunca ganhou um Nobel de literatura?",
@@ -822,7 +896,8 @@
             {"id": 4, "texto": "Gabriel Garcia Marquez"},
             {"id": 5, "texto": "William Golding"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 75
     },
     {
         "pergunta": "Qual era o nome do meio de Walt Disney?",
@@ -833,7 +908,8 @@
             {"id": 4, "texto": "Robert"},
             {"id": 5, "texto": "Winston"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 76
     },
     {
         "pergunta": "Quem foi o último Czar da Rússia?",
@@ -844,7 +920,8 @@
             {"id": 4, "texto": "Catarina I"},
             {"id": 5, "texto": "Ladislau I"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 77
     },
     {
         "pergunta": "Como é 500 em algarismos romanos?",
@@ -855,7 +932,8 @@
             {"id": 4, "texto": "T"},
             {"id": 5, "texto": "C"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 78
     },
     {
         "pergunta": "Qual classe literária ganhou o primeiro Nobel de literatura?",
@@ -866,7 +944,8 @@
             {"id": 4, "texto": "Ensaio"},
             {"id": 5, "texto": "Manifesto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 79
     },
     {
         "pergunta": "Qual elemento da tabela periódica recebeu seu nome em homenagem a um gnomo?",
@@ -877,7 +956,8 @@
             {"id": 4, "texto": "Telúrio"},
             {"id": 5, "texto": "Tungstênio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 80
     },
     {
         "pergunta": "Em que estado dos EUA fica a cidade de Kissimmee?",
@@ -888,7 +968,8 @@
             {"id": 4, "texto": "Utah"},
             {"id": 5, "texto": "Nebraska"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 81
     },
     {
         "pergunta": "Qual a capital da Turquia?",
@@ -899,7 +980,8 @@
             {"id": 4, "texto": "Esmirna"},
             {"id": 5, "texto": "Bursa"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 82
     },
     {
         "pergunta": "Qual a capital do Marrocos?",
@@ -910,7 +992,8 @@
             {"id": 4, "texto": "Tanger"},
             {"id": 5, "texto": "Safim"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 83
     },
     {
         "pergunta": "Em que ano foi fabricado o primeiro Fusca no mundo?",
@@ -921,7 +1004,8 @@
             {"id": 4, "texto": "1938"},
             {"id": 5, "texto": "1944"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 84
     },
     {
         "pergunta": "Quem é considerado o Santo padroeiro dos caminhoneiros?",
@@ -932,7 +1016,8 @@
             {"id": 4, "texto": "Santo Isidoro"},
             {"id": 5, "texto": "São Camilo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 85
     },
     {
         "pergunta": "O timo é um órgão que compõe qual sistema do corpo humano?",
@@ -943,7 +1028,8 @@
             {"id": 4, "texto": "Reprodutor"},
             {"id": 5, "texto": "Cardiovascular"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 86
     },
     {
         "pergunta": "Quem foi a primeira pessoa a observar células vivas?",
@@ -954,7 +1040,8 @@
             {"id": 4, "texto": "Alexander Fleming"},
             {"id": 5, "texto": "Oswald de Andrade"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 87
     },
     {
         "pergunta": "O animal com nome científico Phascolarctos cinereus é o:",
@@ -965,7 +1052,8 @@
             {"id": 4, "texto": "Canguru"},
             {"id": 5, "texto": "Urso Polar"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 88
     },
     {
         "pergunta": "Segundo a Bíblia, quem foi o pai de Moisés?",
@@ -976,7 +1064,8 @@
             {"id": 4, "texto": "Jacó"},
             {"id": 5, "texto": "Hebrom"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 89
     },
     {
         "pergunta": "Como se chama quem nasce em São Luís no Maranhão?",
@@ -987,7 +1076,8 @@
             {"id": 4, "texto": "Soteropolitano"},
             {"id": 5, "texto": "Luisense"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 90
     },
     {
         "pergunta": "Qual é o maior rio do mundo em profundidade?",
@@ -998,7 +1088,8 @@
             {"id": 4, "texto": "Rio São Francisco"},
             {"id": 5, "texto": "Rio Mississipi"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 91
     },
     {
         "pergunta": "Em qual estado nasce o Rio São Francisco?",
@@ -1009,7 +1100,8 @@
             {"id": 4, "texto": "São Paulo"},
             {"id": 5, "texto": "Pernambuco"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 92
     },
     {
         "pergunta": "Em que ano a sonda Voyager 2 passou por Netuno?",
@@ -1020,7 +1112,8 @@
             {"id": 4, "texto": "2005"},
             {"id": 5, "texto": "1993"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 93
     },
     {
         "pergunta": "O que é um camu-camu?",
@@ -1031,7 +1124,8 @@
             {"id": 4, "texto": "Aeroplano"},
             {"id": 5, "texto": "Vaso"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 94
     },
     {
         "pergunta": "Em que dia se celebra o dia do dentista no Brasil?",
@@ -1042,7 +1136,8 @@
             {"id": 4, "texto": "21 de janeiro"},
             {"id": 5, "texto": "2 de abril"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 95
     },
     {
         "pergunta": "Quem é considerada a primeira mulher programadora?",
@@ -1053,7 +1148,8 @@
             {"id": 4, "texto": "Kathleen McNulty"},
             {"id": 5, "texto": "Adele Goldberg"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 96
     },
     {
         "pergunta": "Em que estado fica o município de Curitibanos?",
@@ -1064,7 +1160,8 @@
             {"id": 4, "texto": "Matro Grosso do Sul"},
             {"id": 5, "texto": "São Paulo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 97
     },
     {
         "pergunta": "Em que dia e ano aconteceu o desastre nuclear de Chernobyl?",
@@ -1075,7 +1172,8 @@
             {"id": 4, "texto": "28 de maio de 1985"},
             {"id": 5, "texto": "9 de dezembro de 1988"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 98
     },
     {
         "pergunta": "Qual o nome do animal considerado como a primeira ave?",
@@ -1086,7 +1184,8 @@
             {"id": 4, "texto": "Pterodactyl"},
             {"id": 5, "texto": "Dimetrodon"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 99
     },
     {
         "pergunta": "As estrelas-do-mar pertencem a qual grupo?",
@@ -1097,7 +1196,8 @@
             {"id": 4, "texto": "Zigomycota"},
             {"id": 5, "texto": "Protozoário"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 100
     },
     {
         "pergunta": "Quem fez o primeiro gol do Brasil na copa do mundo de 1994?",
@@ -1108,7 +1208,8 @@
             {"id": 4, "texto": "Dunga"},
             {"id": 5, "texto": "Leonardo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 101
     },
     {
         "pergunta": "Em que ano Stephen Hawking assumiu a cadeira de professor lucasiano na Universidade de Cambridge?",
@@ -1119,7 +1220,8 @@
             {"id": 4, "texto": "1999"},
             {"id": 5, "texto": "1959"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 102
     },
     {
         "pergunta": "Quem é o deus grego do vinho?",
@@ -1130,7 +1232,8 @@
             {"id": 4, "texto": "Deméter"},
             {"id": 5, "texto": "Hélios"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 103
     },
     {
         "pergunta": "Quem fez o primeiro gol do Brasil na copa do mundo de 2002?",
@@ -1141,7 +1244,8 @@
             {"id": 4, "texto": "Kaká"},
             {"id": 5, "texto": "Roberto Carlos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 104
     },
     {
         "pergunta": "Qual a capital da Noruega?",
@@ -1152,7 +1256,8 @@
             {"id": 4, "texto": "Tailinn"},
             {"id": 5, "texto": "Copenhague"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 105
     },
     {
         "pergunta": "Qual o nome do navio em que Charles Darwin viajou para a América do Sul?",
@@ -1163,7 +1268,8 @@
             {"id": 4, "texto": "Plymouth"},
             {"id": 5, "texto": "Royal Oak"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 106
     },
     {
         "pergunta": "Quem foram os criadores do Google?",
@@ -1174,7 +1280,8 @@
             {"id": 4, "texto": "Jawed Karim e Steve Chen"},
             {"id": 5, "texto": "Reed Hastings e Marc Randolph"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 107
     },
     {
         "pergunta": "Em qual país africano fica o Monte Kilimanjaro?",
@@ -1185,7 +1292,8 @@
             {"id": 4, "texto": "Ruanda"},
             {"id": 5, "texto": "Namíbia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 108
     },
     {
         "pergunta": "Como é conhecida a Patagônia?",
@@ -1196,7 +1304,8 @@
             {"id": 4, "texto": "Tierra del Montes"},
             {"id": 5, "texto": "Tierra del Cielo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 109
     },
     {
         "pergunta": "Em que dia e ano aconteceu o desastre ambiental de Brumadinho?",
@@ -1207,7 +1316,8 @@
             {"id": 4, "texto": "10 de janeiro de 2020"},
             {"id": 5, "texto": "30 de novembro de 2016"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 110
     },
     {
         "pergunta": "Qual a oitava letra do alfabeto grego?",
@@ -1218,7 +1328,8 @@
             {"id": 4, "texto": "Lambda"},
             {"id": 5, "texto": "Pi"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 111
     },
     {
         "pergunta": "Qual a capital do Paquistão?",
@@ -1229,7 +1340,8 @@
             {"id": 4, "texto": "Faisalabad"},
             {"id": 5, "texto": "Larkana"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 112
     },
     {
         "pergunta": "De qual país é a marca de carros esportivos Koenigsegg?",
@@ -1240,7 +1352,8 @@
             {"id": 4, "texto": "Japão"},
             {"id": 5, "texto": "Canadá"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 113
     },
     {
         "pergunta": "Quantas vezes Albert Einstein visitou ao Brasil?",
@@ -1251,7 +1364,8 @@
             {"id": 4, "texto": "3"},
             {"id": 5, "texto": "4"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 114
     },
     {
         "pergunta": "Qual o idioma oficial falado em Israel?",
@@ -1262,7 +1376,8 @@
             {"id": 4, "texto": "Igbo"},
             {"id": 5, "texto": "Aramaico"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 115
     },
     {
         "pergunta": "Qual esporte rendeu o primeiro ouro olímpico ao Brasil na história?",
@@ -1273,7 +1388,8 @@
             {"id": 4, "texto": "Halterofilismo"},
             {"id": 5, "texto": "Remo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 116
     },
     {
         "pergunta": "Quem foi o décimo terceiro presidente do Brasil?",
@@ -1284,7 +1400,8 @@
             {"id": 4, "texto": "Jânio Quadros"},
             {"id": 5, "texto": "Gaspar Dutra"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 117
     },
     {
         "pergunta": "Qual destas pessoas nunca ganhou o Nobel da Paz?",
@@ -1295,7 +1412,8 @@
             {"id": 4, "texto": "Nelson Mandela"},
             {"id": 5, "texto": "Martin Luther King Jr"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 118
     },
     {
         "pergunta": "Qual é o processo pelo qual um sólido passa diretamente para o estado gasoso, sem passar pelo estado líquido?",
@@ -1306,7 +1424,8 @@
             {"id": 4, "texto": "Condensação"},
             {"id": 5, "texto": "Solidificação"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 119
     },
     {
         "pergunta": "Qual é o elemento químico com símbolo 'Na'?",
@@ -1317,7 +1436,8 @@
             {"id": 4, "texto": "Enxofre"},
             {"id": 5, "texto": "Cádmio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 120
     },
     {
         "pergunta": "Qual é o número atômico do carbono?",
@@ -1328,7 +1448,8 @@
             {"id": 4, "texto": "7"},
             {"id": 5, "texto": "9"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 121
     },
     {
         "pergunta": "Qual é o nome do buraco negro que está mais perto da Terra?",
@@ -1339,7 +1460,8 @@
             {"id": 4, "texto": "Fornax A"},
             {"id": 5, "texto": "TON 618"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 122
     },
     {
         "pergunta": "Qual é o maior número primo menor que 1000?",
@@ -1350,7 +1472,8 @@
             {"id": 4, "texto": "947"},
             {"id": 5, "texto": "987"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 123
     },
     {
         "pergunta": "Que dia se comemora o dia nacional do arquiteto?",
@@ -1361,7 +1484,8 @@
             {"id": 4, "texto": "12 de julho"},
             {"id": 5, "texto": "30 de novembro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 124
     },
     {
         "pergunta": "Qual é o nome do robô do filme 2001: Uma odisseia no espaço?",
@@ -1372,7 +1496,8 @@
             {"id": 4, "texto": "EVA"},
             {"id": 5, "texto": "AVA"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 125
     },
     {
         "pergunta": "Em que ano Nathaniel Baldwin inventou o fone de ouvido?",
@@ -1383,7 +1508,8 @@
             {"id": 4, "texto": "1949"},
             {"id": 5, "texto": "1958"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 126
     },
     {
         "pergunta": "Em que ano foi fundado o São Paulo Futebol Clube?",
@@ -1394,7 +1520,8 @@
             {"id": 4, "texto": "1922"},
             {"id": 5, "texto": "1920"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 127
     },
     {
         "pergunta": "O que é uma piroga?",
@@ -1405,7 +1532,8 @@
             {"id": 4, "texto": "Peixe"},
             {"id": 5, "texto": "Idioma"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 128
     },
     {
         "pergunta": "Quem escreveu o livro Admirável mundo novo?",
@@ -1416,7 +1544,8 @@
             {"id": 4, "texto": "Joseph Conrad"},
             {"id": 5, "texto": "Hendrik Groen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 129
     },
     {
         "pergunta": "Qual destes livros não é de João Guimarães Rosa?",
@@ -1427,7 +1556,8 @@
             {"id": 4, "texto": "Sagarana"},
             {"id": 5, "texto": "Tutameia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 130
     },
     {
         "pergunta": "Como se chama quem nasce em Manaus?",
@@ -1438,7 +1568,8 @@
             {"id": 4, "texto": "Manausino"},
             {"id": 5, "texto": "Amanauara"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 131
     },
     {
         "pergunta": "A estrela mais próxima da terra está a aproximadamente quantos anos-luz de distância?",
@@ -1449,7 +1580,8 @@
             {"id": 4, "texto": "5,5"},
             {"id": 5, "texto": "9,1"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 132
     },
     {
         "pergunta": "Qual é o nome do maior observatório espacial que se encontra no deserto do Atacama?",
@@ -1460,7 +1592,8 @@
             {"id": 4, "texto": "MWO"},
             {"id": 5, "texto": "Arecibo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 133
     },
     {
         "pergunta": "Quantos gols de falta Rogério Ceni fez em sua carreira?",
@@ -1471,7 +1604,8 @@
             {"id": 4, "texto": "112"},
             {"id": 5, "texto": "81"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 134
     },
     {
         "pergunta": "Em qual continente fica a Libéria?",
@@ -1482,7 +1616,8 @@
             {"id": 4, "texto": "Oceania"},
             {"id": 5, "texto": "América Central"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 135
     },
     {
         "pergunta": "Em qual país fica o Rio Ob?",
@@ -1493,7 +1628,8 @@
             {"id": 4, "texto": "Índia"},
             {"id": 5, "texto": "Sérvia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 136
     },
     {
         "pergunta": "Qual ave está retratada em um famoso poema de Edgar Allan Poe?",
@@ -1504,7 +1640,8 @@
             {"id": 4, "texto": "Gaivota"},
             {"id": 5, "texto": "Beija-flor"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 137
     },
     {
         "pergunta": "Qual ave tem o canto mais alto do mundo chegando a 125 decibéis?",
@@ -1515,7 +1652,8 @@
             {"id": 4, "texto": "Cegonha bico-de-sapato"},
             {"id": 5, "texto": "Coruja-do-congo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 138
     },
     {
         "pergunta": "Qual das opções abaixo está escrita da forma correta?",
@@ -1526,7 +1664,8 @@
             {"id": 4, "texto": "Essessão"},
             {"id": 5, "texto": "Excesção"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 139
     },
     {
         "pergunta": "Qual é o processo que ocorre no núcleo das estrelas, onde átomos de hidrogênio se fundem para formar hélio?",
@@ -1537,7 +1676,8 @@
             {"id": 4, "texto": "Sublimação"},
             {"id": 5, "texto": "Ebulição"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 140
     },
     {
         "pergunta": "Que tipo de objeto celeste é formado a partir da explosão de uma estrela gigante?",
@@ -1548,7 +1688,8 @@
             {"id": 4, "texto": "Nebulosa"},
             {"id": 5, "texto": "Cometa"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 141
     },
     {
         "pergunta": "Qual é o plural de 'guarda-chuva'?",
@@ -1559,7 +1700,8 @@
             {"id": 4, "texto": "guarda-chuves"},
             {"id": 5, "texto": "guardas-chuva"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 142
     },
     {
         "pergunta": "Quem liderou a Revolução Russa em 1917, fundando assim a União Soviética?",
@@ -1570,7 +1712,8 @@
             {"id": 4, "texto": "Mikhail Gorbachev"},
             {"id": 5, "texto": "Ivan Turguêniev"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 143
     },
     {
         "pergunta": "Qual país presenteou os EUA com a Estátua da Liberdade?",
@@ -1581,7 +1724,8 @@
             {"id": 4, "texto": "Japão"},
             {"id": 5, "texto": "Espanha"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 144
     },
     {
         "pergunta": "Qual é a capital de Cuba?",
@@ -1592,7 +1736,8 @@
             {"id": 4, "texto": "Camagüey"},
             {"id": 5, "texto": "Varadero"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 145
     },
     {
         "pergunta": "Qual é o nome do movimento guerrilheiro que liderou a Revolução Cubana?",
@@ -1603,7 +1748,8 @@
             {"id": 4, "texto": "Movimento Tupamaro"},
             {"id": 5, "texto": "Movimento Comunista Cubano"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 146
     },
     {
         "pergunta": "Aproximadamente, quantos bits tem em um megabyte?",
@@ -1614,7 +1760,8 @@
             {"id": 4, "texto": "1.000.000"},
             {"id": 5, "texto": "8.000.000.000"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 147
     },
     {
         "pergunta": "Em que ano foi criada a primeira universidade do Brasil?",
@@ -1625,7 +1772,8 @@
             {"id": 4, "texto": "1930"},
             {"id": 5, "texto": "1940"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 148
     },
     {
         "pergunta": "Qual é o pico mais alto do estado de Minas Gerais?",
@@ -1636,7 +1784,8 @@
             {"id": 4, "texto": "Pico do Itaguaré"},
             {"id": 5, "texto": "Pedra de São Domingos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 149
     },
     {
         "pergunta": "Uma pessoa pusilânime é uma pessoa...?",
@@ -1647,7 +1796,8 @@
             {"id": 4, "texto": "Canhota"},
             {"id": 5, "texto": "Sábia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 150
     },
     {
         "pergunta": "Qual destes livros não é de Machado de Assis?",
@@ -1658,7 +1808,8 @@
             {"id": 4, "texto": "Memorial de Aires"},
             {"id": 5, "texto": "A mão e a luva"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 151
     },
     {
         "pergunta": "Qual destes planetas é um planeta gasoso?",
@@ -1669,7 +1820,8 @@
             {"id": 4, "texto": "Terra"},
             {"id": 5, "texto": "Plutão"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 152
     },
     {
         "pergunta": "Com qual idade faleceu Oscar Niemeyer?",
@@ -1680,7 +1832,8 @@
             {"id": 4, "texto": "100"},
             {"id": 5, "texto": "103"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 153
     },
     {
         "pergunta": "Que escritor brasileiro compôs músicas junto com Raul Seixas?",
@@ -1691,7 +1844,8 @@
             {"id": 4, "texto": "João Ubaldo Ribeiro"},
             {"id": 5, "texto": "Caio Fernando de Abreu"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 154
     },
     {
         "pergunta": "Quem escreveu as histórias de Pantagruel e Gargântua?",
@@ -1702,7 +1856,8 @@
             {"id": 4, "texto": "Charles Baudelaire"},
             {"id": 5, "texto": "Gustave Flaubert"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 155
     },
     {
         "pergunta": "Qual era o nome do Suriname antes de se tornar independente?",
@@ -1713,7 +1868,8 @@
             {"id": 4, "texto": "Guiana Inglesa"},
             {"id": 5, "texto": "Guiana Espanhola"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 156
     },
     {
         "pergunta": "Mikhail Baryshnikov destacou-se em qual destas artes?",
@@ -1724,7 +1880,8 @@
             {"id": 4, "texto": "Fotografia"},
             {"id": 5, "texto": "Cinema"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 157
     },
     {
         "pergunta": "Qual destes escritores não era do movimento literário chamado de Romantismo?",
@@ -1735,7 +1892,8 @@
             {"id": 4, "texto": "Álvares de Azevedo"},
             {"id": 5, "texto": "Gonçalves Dias"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 158
     },
     {
         "pergunta": "Qual foi o primeiro longa-metragem brasileiro a concorrer ao Oscar?",
@@ -1746,7 +1904,8 @@
             {"id": 4, "texto": "O Quatrilho"},
             {"id": 5, "texto": "Central do Brasil"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 159
     },
     {
         "pergunta": "Qual é o ramo da biologia que se dedica especificamente a estudar fungos?",
@@ -1757,7 +1916,8 @@
             {"id": 4, "texto": "Mucologia"},
             {"id": 5, "texto": "Funcologia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 160
     },
     {
         "pergunta": "Em grande parte, a atmosfera de Júpiter é composta de hidrogênio e...?",
@@ -1768,7 +1928,8 @@
             {"id": 4, "texto": "Argônio"},
             {"id": 5, "texto": "Radônio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 161
     },
     {
         "pergunta": "O Taekwondo é originário de qual país?",
@@ -1779,7 +1940,8 @@
             {"id": 4, "texto": "Tailândia"},
             {"id": 5, "texto": "Indonésia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 162
     },
     {
         "pergunta": "Qual escala mede o grau de ardência das pimentas?",
@@ -1790,7 +1952,8 @@
             {"id": 4, "texto": "Brinell"},
             {"id": 5, "texto": "Richter"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 163
     },
     {
         "pergunta": "Tegucigalpa é a capital de qual país?",
@@ -1801,7 +1964,8 @@
             {"id": 4, "texto": "República Dominicana"},
             {"id": 5, "texto": "Costa Rica"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 164
     },
     {
         "pergunta": "Qual empresa lançou o primeiro videogame do mundo?",
@@ -1812,7 +1976,8 @@
             {"id": 4, "texto": "IBM"},
             {"id": 5, "texto": "Cube"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 165
     },
     {
         "pergunta": "Quantos países existem no continente africano?",
@@ -1823,7 +1988,8 @@
             {"id": 4, "texto": "63"},
             {"id": 5, "texto": "47"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 166
     },
     {
         "pergunta": "Akira Toriyama é o criador de qual destes animes?",
@@ -1834,7 +2000,8 @@
             {"id": 4, "texto": "Death Note"},
             {"id": 5, "texto": "Sailor Moon"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 167
     },
     {
         "pergunta": "Qual das seguintes obras não foi pintada por Van Gogh?",
@@ -1845,7 +2012,8 @@
             {"id": 4, "texto": "A casa amarela"},
             {"id": 5, "texto": "A noite estrelada"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 168
     },
     {
         "pergunta": "Qual a raiz quadrada de 1048576?",
@@ -1856,7 +2024,8 @@
             {"id": 4, "texto": "1042"},
             {"id": 5, "texto": "1034"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 169
     },
     {
         "pergunta": "Qual a capital de Madagáscar?",
@@ -1867,7 +2036,8 @@
             {"id": 4, "texto": "Mahajanga"},
             {"id": 5, "texto": "Moramanga"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 170
     },
     {
         "pergunta": "O país de Andorra fica entre quais países?",
@@ -1878,7 +2048,8 @@
             {"id": 4, "texto": "Itália e França"},
             {"id": 5, "texto": "Suíça e Itália"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 171
     },
     {
         "pergunta": "Quem escreveu a obra Guerra e Paz?",
@@ -1889,7 +2060,8 @@
             {"id": 4, "texto": "Eduardo Galeano"},
             {"id": 5, "texto": "Albert Camus"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 172
     },
     {
         "pergunta": "Qual escritor criou o personagem Sherlock Holmes?",
@@ -1900,7 +2072,8 @@
             {"id": 4, "texto": "Daniel Defoe"},
             {"id": 5, "texto": "Alan Moore"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 173
     },
     {
         "pergunta": "Ao jorgarmos uma moeda 2 vezes seguidas, qual a probabilidade de cair coroa nas 2 vezes?",
@@ -1911,7 +2084,8 @@
             {"id": 4, "texto": "27,5%"},
             {"id": 5, "texto": "75%"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 174
     },
     {
         "pergunta": "Qual a tradução em português da palavra em espanhol 'Basura'?",
@@ -1922,7 +2096,8 @@
             {"id": 4, "texto": "Bonde"},
             {"id": 5, "texto": "Navio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 175
     },
     {
         "pergunta": "Quantos zeros tem dez trilhões?",
@@ -1933,7 +2108,8 @@
             {"id": 4, "texto": "16"},
             {"id": 5, "texto": "14"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 176
     },
     {
         "pergunta": "Em que país nasceu Nicolau Copérnico?",
@@ -1944,7 +2120,8 @@
             {"id": 4, "texto": "Turquia"},
             {"id": 5, "texto": "Itália"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 177
     },
     {
         "pergunta": "Qual o primeiro nome do fundador da Lamborghini?",
@@ -1955,7 +2132,8 @@
             {"id": 4, "texto": "Giuseppe"},
             {"id": 5, "texto": "Stefano"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 178
     },
     {
         "pergunta": "O Tyranossauro Rex é de qual período?",
@@ -1966,7 +2144,8 @@
             {"id": 4, "texto": "Cenozoico"},
             {"id": 5, "texto": "Mesozoico"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 179
     },
     {
         "pergunta": "Qual era o nome do Uruguai quando pertencia ao território do Brasil?",
@@ -1977,7 +2156,8 @@
             {"id": 4, "texto": "Guarani do Sul"},
             {"id": 5, "texto": "Algarves"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 180
     },
     {
         "pergunta": "Em que ano foi lançado o primeiro filme da saga Star Wars?",
@@ -1988,7 +2168,8 @@
             {"id": 4, "texto": "1975"},
             {"id": 5, "texto": "1974"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 181
     },
     {
         "pergunta": "Quem escreveu o poema 'Tabacaria'?",
@@ -1999,7 +2180,8 @@
             {"id": 4, "texto": "Castro Alves"},
             {"id": 5, "texto": "Mário Quintana"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 182
     },
     {
         "pergunta": "Em que país fica o Cabo Polonio?",
@@ -2010,7 +2192,8 @@
             {"id": 4, "texto": "Colômbia"},
             {"id": 5, "texto": "Venezuela"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 183
     },
     {
         "pergunta": "Quem escreveu o Manifesto comunista junto com Karl Marx?",
@@ -2021,7 +2204,8 @@
             {"id": 4, "texto": "Henri Bergson"},
             {"id": 5, "texto": "Adam Smith"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 184
     },
     {
         "pergunta": "Quem escreveu o livro 'O testamento de um excêntrico'?",
@@ -2032,7 +2216,8 @@
             {"id": 4, "texto": "Art Spiegelman"},
             {"id": 5, "texto": "Robert Musil"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 185
     },
     {
         "pergunta": "Qual destes livros foi escrito por uma mulher?",
@@ -2043,7 +2228,8 @@
             {"id": 4, "texto": "O Golem"},
             {"id": 5, "texto": "O corcunda de Notre Dame"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 186
     },
     {
         "pergunta": "Aracaju é a capital de qual estado brasileiro?",
@@ -2054,7 +2240,8 @@
             {"id": 4, "texto": "Paraíba"},
             {"id": 5, "texto": "Maranhão"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 187
     },
     {
         "pergunta": "Qual animal possui a maior pressão arterial do reino animal?",
@@ -2065,7 +2252,8 @@
             {"id": 4, "texto": "Alce"},
             {"id": 5, "texto": "Cachalote"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 188
     },
     {
         "pergunta": "Qual destes livros não é de José Saramago?",
@@ -2076,7 +2264,8 @@
             {"id": 4, "texto": "Ensaio sobre a lucidez"},
             {"id": 5, "texto": "O homem duplicado"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 189
     },
     {
         "pergunta": "Em que parte do corpo fica a bigorna?",
@@ -2087,7 +2276,8 @@
             {"id": 4, "texto": "Mão"},
             {"id": 5, "texto": "Tornozelo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 190
     },
     {
         "pergunta": "Qual o símbolo do ununócio na tabela periódica?",
@@ -2098,7 +2288,8 @@
             {"id": 4, "texto": "Uo"},
             {"id": 5, "texto": "Un"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 191
     },
     {
         "pergunta": "Jimmy Page era guitarrista de qual destas bandas?",
@@ -2109,7 +2300,8 @@
             {"id": 4, "texto": "Megadeth"},
             {"id": 5, "texto": "Queen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 192
     },
     {
         "pergunta": "Quem escreveu o Dao De Jing?",
@@ -2120,7 +2312,8 @@
             {"id": 4, "texto": "Mao Zedong"},
             {"id": 5, "texto": "Mo Yan"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 193
     },
     {
         "pergunta": "Na Umbanda, qual é a saudação destinada ao Orixá Xangô?",
@@ -2131,7 +2324,8 @@
             {"id": 4, "texto": "Okê Arô"},
             {"id": 5, "texto": "Atóto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 194
     },
     {
         "pergunta": "Qual foi o primeiro evento transmitido a cores pela TV brasileira?",
@@ -2142,7 +2336,8 @@
             {"id": 4, "texto": "Partida entre Santos e Botafogo"},
             {"id": 5, "texto": "Missa com Arcebispo de São Paulo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 195
     },
     {
         "pergunta": "Que cor resulta da mistura de amarelo com azul?",
@@ -2153,7 +2348,8 @@
             {"id": 4, "texto": "Marrom"},
             {"id": 5, "texto": "Rosa"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 196
     },
     {
         "pergunta": "Qual a capital de Rondônia?",
@@ -2164,7 +2360,8 @@
             {"id": 4, "texto": "Boa Vista"},
             {"id": 5, "texto": "Campo Grande"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 197
     },
     {
         "pergunta": "O que significa a sigla HTML em páginas web?",
@@ -2175,7 +2372,8 @@
             {"id": 4, "texto": "Hyper Transfer Markup Language"},
             {"id": 5, "texto": "Home Tool Markup Language"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 198
     },
     {
         "pergunta": "Qual protocolo da internet é usado para enviar e receber e-mails?",
@@ -2186,7 +2384,8 @@
             {"id": 4, "texto": "UDP"},
             {"id": 5, "texto": "TPC"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 199
     },
     {
         "pergunta": "O que significa a sigla CPU em computadores?",
@@ -2197,7 +2396,8 @@
             {"id": 4, "texto": "Common Peripheal Unit"},
             {"id": 5, "texto": "Central Peripheal Unit"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 200
     },
     {
         "pergunta": "Qual a linguagem de programação usada para desenvolver aplicativos nativos para iOS?",
@@ -2208,7 +2408,8 @@
             {"id": 4, "texto": "Python"},
             {"id": 5, "texto": "Ruby"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 201
     },
     {
         "pergunta": "O processo de converter código fonte em linguagem de máquina é chamado de...?",
@@ -2219,7 +2420,8 @@
             {"id": 4, "texto": "Decodificação"},
             {"id": 5, "texto": "Depuração"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 202
     },
     {
         "pergunta": "Quem assumiu o trono do Brasil por meio do golpe da maioridade?",
@@ -2230,7 +2432,8 @@
             {"id": 4, "texto": "Deodoro da Fonseca"},
             {"id": 5, "texto": "Floriano Peixoto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 203
     },
     {
         "pergunta": "Em que ano teve início a Revolução Francesa?",
@@ -2241,7 +2444,8 @@
             {"id": 4, "texto": "1866"},
             {"id": 5, "texto": "1755"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 204
     },
     {
         "pergunta": "Winston Churchill ganhou o Nobel em qual categoria?",
@@ -2252,7 +2456,8 @@
             {"id": 4, "texto": "Física"},
             {"id": 5, "texto": "Química"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 205
     },
     {
         "pergunta": "Qual civilização construiu a cidade de Machu Picchu?",
@@ -2263,7 +2468,8 @@
             {"id": 4, "texto": "Colombinos"},
             {"id": 5, "texto": "Guatemaltecos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 206
     },
     {
         "pergunta": "Quem é o diretor do filme V de vingança?",
@@ -2274,7 +2480,8 @@
             {"id": 4, "texto": "Peter Jackson"},
             {"id": 5, "texto": "Anthony Russo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 207
     },
     {
         "pergunta": "Qual destes políticos é membro da Academia Brasileira de Letras?",
@@ -2285,7 +2492,8 @@
             {"id": 4, "texto": "Itamar Franco"},
             {"id": 5, "texto": "Aécio Neves"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 208
     },
     {
         "pergunta": "Qual o nome de batismo da cantora Lady Gaga?",
@@ -2296,7 +2504,8 @@
             {"id": 4, "texto": "Emma"},
             {"id": 5, "texto": "Charlotte"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 209
     },
     {
         "pergunta": "Qual destes não é membro do grupo Racionais Mc's?",
@@ -2307,7 +2516,8 @@
             {"id": 4, "texto": "Ice Blue"},
             {"id": 5, "texto": "Edi Rock"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 210
     },
     {
         "pergunta": "Qual o maior município do Brasil em área territorial?",
@@ -2318,7 +2528,8 @@
             {"id": 4, "texto": "Caracaraí - RR"},
             {"id": 5, "texto": "Paranatinga - MT"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 211
     },
     {
         "pergunta": "Qual o menor município do Brasil em área territorial?",
@@ -2329,7 +2540,8 @@
             {"id": 4, "texto": "São Pedro da Serra - RS"},
             {"id": 5, "texto": "Mesquita - RJ"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 212
     },
     {
         "pergunta": "Em qual país nasceu o criador do cubo mágico?",
@@ -2340,7 +2552,8 @@
             {"id": 4, "texto": "Alemanha"},
             {"id": 5, "texto": "Bélgica"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 213
     },
     {
         "pergunta": "Qual o nome do criador do cubo mágico?",
@@ -2351,7 +2564,8 @@
             {"id": 4, "texto": "Alexey Pajitnov"},
             {"id": 5, "texto": "Sam Altman"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 214
     },
     {
         "pergunta": "No contexto de Banco de Dados, o que significa SQL?",
@@ -2362,7 +2576,8 @@
             {"id": 4, "texto": "Specific Query Logic"},
             {"id": 5, "texto": "Systematic Query Logic"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 215
     },
     {
         "pergunta": "Em que país nasceu Santo Agostinho?",
@@ -2373,7 +2588,8 @@
             {"id": 4, "texto": "Turquia"},
             {"id": 5, "texto": "Georgia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 216
     },
     {
         "pergunta": "Quem é considerada a Santa padroeira dos músicos?",
@@ -2384,7 +2600,8 @@
             {"id": 4, "texto": "Santa Teresa"},
             {"id": 5, "texto": "Santa Edwiges"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 217
     },
     {
         "pergunta": "Quantos livros compõem o Antigo Testamento da Bíblia?",
@@ -2395,7 +2612,8 @@
             {"id": 4, "texto": "12"},
             {"id": 5, "texto": "52"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 218
     },
     {
         "pergunta": "Quantos livros compõem o Novo Testamento da Bíblia?",
@@ -2406,7 +2624,8 @@
             {"id": 4, "texto": "12"},
             {"id": 5, "texto": "52"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 219
     },
     {
         "pergunta": "A ilha de Seychelles fica em qual continente?",
@@ -2417,7 +2636,8 @@
             {"id": 4, "texto": "Oceania"},
             {"id": 5, "texto": "Europa"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 220
     },
     {
         "pergunta": "Qual a maior cidade do mundo em quantidade populacional?",
@@ -2428,7 +2648,8 @@
             {"id": 4, "texto": "Xangai"},
             {"id": 5, "texto": "Cidade do México"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 221
     },
     {
         "pergunta": "Que nome se da ao polígono com 22 lados?",
@@ -2439,7 +2660,8 @@
             {"id": 4, "texto": "Undecágono"},
             {"id": 5, "texto": "Dodecágono"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 222
     },
     {
         "pergunta": "O que é o objeto Ocarina?",
@@ -2450,7 +2672,8 @@
             {"id": 4, "texto": "Embarcação"},
             {"id": 5, "texto": "Tipo de motocicleta"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 223
     },
     {
         "pergunta": "Qual destes não era um heteronômio de Fernando Pessoa?",
@@ -2461,7 +2684,8 @@
             {"id": 4, "texto": "Álvaro de Campos"},
             {"id": 5, "texto": "Bernardo Soares"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 224
     },
     {
         "pergunta": "Quem foi Burle Marx?",
@@ -2472,7 +2696,8 @@
             {"id": 4, "texto": "Escritor"},
             {"id": 5, "texto": "Maestro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 225
     },
     {
         "pergunta": "Qual cidade japonesa foi atingida por um tsunami seguido de um acidente nuclear?",
@@ -2483,7 +2708,8 @@
             {"id": 4, "texto": "Fukuoka"},
             {"id": 5, "texto": "Sapporo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 226
     },
     {
         "pergunta": "Que tipo de governo se baseia em leis religiosas para governar?",
@@ -2494,7 +2720,8 @@
             {"id": 4, "texto": "Monarquia"},
             {"id": 5, "texto": "Presidencialista"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 227
     },
     {
         "pergunta": "Em que país ocorre o campeonato mundial de carregamento de esposas?",
@@ -2505,7 +2732,8 @@
             {"id": 4, "texto": "Islândia"},
             {"id": 5, "texto": "Lituânia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 228
     },
     {
         "pergunta": "Em que cidade brasileira nasceu Dinho Ouro Preto, vocalista do Capital Inicial?",
@@ -2516,7 +2744,8 @@
             {"id": 4, "texto": "Ouro Preto"},
             {"id": 5, "texto": "Vitória"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 229
     },
     {
         "pergunta": "Qual é o número atômico do einstênio?",
@@ -2527,7 +2756,8 @@
             {"id": 4, "texto": "77"},
             {"id": 5, "texto": "111"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 230
     },
     {
         "pergunta": "Em que ano foi criado o Zé Gotinha?",
@@ -2538,7 +2768,8 @@
             {"id": 4, "texto": "1995"},
             {"id": 5, "texto": "1999"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 231
     },
     {
         "pergunta": "Quanto é 3 elevado a 4?",
@@ -2549,7 +2780,8 @@
             {"id": 4, "texto": "32"},
             {"id": 5, "texto": "60"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 232
     },
     {
         "pergunta": "Qual a capital da Malásia?",
@@ -2560,7 +2792,8 @@
             {"id": 4, "texto": "Jacarta"},
             {"id": 5, "texto": "Bangkok"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 233
     },
     {
         "pergunta": "A ilha de Java pertence a qual país?",
@@ -2571,7 +2804,8 @@
             {"id": 4, "texto": "Nova Zelândia"},
             {"id": 5, "texto": "Cuba"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 234
     },
     {
         "pergunta": "Qual o signo de alguém que nasce entre 20 de fevereiro e 20 de março?",
@@ -2582,7 +2816,8 @@
             {"id": 4, "texto": "Capricórnio"},
             {"id": 5, "texto": "Sagitário"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 235
     },
     {
         "pergunta": "Em que ano foi fundado o Partido dos Trabalhadores?",
@@ -2593,7 +2828,8 @@
             {"id": 4, "texto": "1970"},
             {"id": 5, "texto": "1988"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 236
     },
     {
         "pergunta": "O Partido Comunista do Brasil é o...?",
@@ -2604,7 +2840,8 @@
             {"id": 4, "texto": "PCBR"},
             {"id": 5, "texto": "PCdoBr"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 237
     },
     {
         "pergunta": "Em que país fica a maior piscina do mundo?",
@@ -2615,7 +2852,8 @@
             {"id": 4, "texto": "Austrália"},
             {"id": 5, "texto": "Espanha"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 238
     },
     {
         "pergunta": "Juntos temos 1000 reais, você tem 950 reais a mais do que eu. Quanto eu tenho?",
@@ -2626,7 +2864,8 @@
             {"id": 4, "texto": "45 reais"},
             {"id": 5, "texto": "35 reais"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 239
     },
     {
         "pergunta": "Qual marca criou o cinto de segurança como conhecemos hoje?",
@@ -2637,7 +2876,8 @@
             {"id": 4, "texto": "Audi"},
             {"id": 5, "texto": "BMW"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 240
     },
     {
         "pergunta": "Qual o nome do criador do Linux?",
@@ -2648,7 +2888,8 @@
             {"id": 4, "texto": "Ronald Wayne"},
             {"id": 5, "texto": "Paul Allen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 241
     },
     {
         "pergunta": "Quem projetou o Fusca?",
@@ -2659,7 +2900,8 @@
             {"id": 4, "texto": "Giorgetto Giugario"},
             {"id": 5, "texto": "Merle Robbins"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 242
     },
     {
         "pergunta": "Em que país ocorreu a Copa do Mundo de 1978?",
@@ -2670,7 +2912,8 @@
             {"id": 4, "texto": "Colômbia"},
             {"id": 5, "texto": "Espanha"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 243
     },
     {
         "pergunta": "Qual o nome do vocalista do Arctic Monkeys?",
@@ -2681,7 +2924,8 @@
             {"id": 4, "texto": "Billie Joe Armstrong"},
             {"id": 5, "texto": "Corey Taylor"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 244
     },
     {
         "pergunta": "Qual destas pessoas nunca pisou na lua?",
@@ -2692,7 +2936,8 @@
             {"id": 4, "texto": "Alan Shepard"},
             {"id": 5, "texto": "James Irwin"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 245
     },
     {
         "pergunta": "Como é conhecida a indústria cinematográfica indiana?",
@@ -2703,7 +2948,8 @@
             {"id": 4, "texto": "Pollywood"},
             {"id": 5, "texto": "Dollywood"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 246
     },
     {
         "pergunta": "Quem escreveu a obra Édipo Rei?",
@@ -2714,7 +2960,8 @@
             {"id": 4, "texto": "Eurípedes"},
             {"id": 5, "texto": "Antígona"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 247
     },
     {
         "pergunta": "Qual o primeiro nome de Madame Bovary?",
@@ -2725,7 +2972,8 @@
             {"id": 4, "texto": "Eva"},
             {"id": 5, "texto": "Anne"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 248
     },
     {
         "pergunta": "Qual destes livros não é de Charles Dickens?",
@@ -2736,7 +2984,8 @@
             {"id": 4, "texto": "Um conto de natal"},
             {"id": 5, "texto": "A casa soturna"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 249
     },
     {
         "pergunta": "Qual destes livros foi escrito por Virginia Woolf?",
@@ -2747,7 +2996,8 @@
             {"id": 4, "texto": "Anna Kariênina"},
             {"id": 5, "texto": "Madame Bovary"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 250
     },
     {
         "pergunta": "Qual o nome científico da capivara?",
@@ -2758,7 +3008,8 @@
             {"id": 4, "texto": "Pitangus sulphuratus"},
             {"id": 5, "texto": "Myrmecophaga tridactyla"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 251
     },
     {
         "pergunta": "Qual jogador francês tem Kylian como primeiro nome?",
@@ -2769,7 +3020,8 @@
             {"id": 4, "texto": "Griezmann"},
             {"id": 5, "texto": "Pavard"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 252
     },
     {
         "pergunta": "FalleN é jogador profissional de qual e-sport?",
@@ -2780,7 +3032,8 @@
             {"id": 4, "texto": "Minecraft"},
             {"id": 5, "texto": "FIFA"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 253
     },
     {
         "pergunta": "Qual o sobrenome do jogador Cristiano Ronaldo?",
@@ -2791,7 +3044,8 @@
             {"id": 4, "texto": "Acosta"},
             {"id": 5, "texto": "Álvares"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 254
     },
     {
         "pergunta": "Em que ano o Corinthians jogou a série B do campeonato brasileiro?",
@@ -2802,7 +3056,8 @@
             {"id": 4, "texto": "2006"},
             {"id": 5, "texto": "2007"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 255
     },
     {
         "pergunta": "Qual a tradução em português da palavra em russo 'сок'?",
@@ -2813,7 +3068,8 @@
             {"id": 4, "texto": "Bandeira"},
             {"id": 5, "texto": "Sino"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 256
     },
     {
         "pergunta": "Em que ano ocorreu a última erupção do vulcão Villarrica?",
@@ -2824,7 +3080,8 @@
             {"id": 4, "texto": "2005"},
             {"id": 5, "texto": "2001"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 257
     },
     {
         "pergunta": "Qual o nome do maior diamante do mundo?",
@@ -2835,7 +3092,8 @@
             {"id": 4, "texto": "Spectre"},
             {"id": 5, "texto": "Corniche"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 258
     },
     {
         "pergunta": "Qual destas marcas começou como fabricante de motores para aviões?",
@@ -2846,7 +3104,8 @@
             {"id": 4, "texto": "Citroën"},
             {"id": 5, "texto": "Chrysler"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 259
     },
     {
         "pergunta": "Qual escritor foi um grande amigo de J.R.R. Tolkien no decorrer da vida?",
@@ -2857,7 +3116,8 @@
             {"id": 4, "texto": "Antoine de Saint-Exupéry"},
             {"id": 5, "texto": "James Joyce"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 260
     },
     {
         "pergunta": "Qual o nome do meio da escritora Mary Shelley?",
@@ -2868,7 +3128,8 @@
             {"id": 4, "texto": "Wuthering"},
             {"id": 5, "texto": "Adeline"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 261
     },
     {
         "pergunta": "Quanto tempo em média demora pra luz do sol chegar na Terra?",
@@ -2879,7 +3140,8 @@
             {"id": 4, "texto": "12 segundos"},
             {"id": 5, "texto": "5 minutos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 262
     },
     {
         "pergunta": "Qual destas marcas não é italiana?",
@@ -2890,7 +3152,8 @@
             {"id": 4, "texto": "Fiat"},
             {"id": 5, "texto": "Pagani"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 263
     },
     {
         "pergunta": "Quem foi o filósofo grego considerado o pai da filosofia ocidental?",
@@ -2901,7 +3164,8 @@
             {"id": 4, "texto": "Aristóteles"},
             {"id": 5, "texto": "Pitágoras"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 264
     },
     {
         "pergunta": "Qual filósofo grego é conhecido por sua obra 'A República'?",
@@ -2912,7 +3176,8 @@
             {"id": 4, "texto": "Heráclito"},
             {"id": 5, "texto": "Epicuro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 265
     },
     {
         "pergunta": "Qual é a corrente filosófica que defende que o conhecimento deriva da experiência sensorial e da observação?",
@@ -2923,7 +3188,8 @@
             {"id": 4, "texto": "Idealismo"},
             {"id": 5, "texto": "Positivismo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 266
     },
     {
         "pergunta": "Qual foi o tratado que pôs fim à Primeira Guerra Mundial?",
@@ -2934,7 +3200,8 @@
             {"id": 4, "texto": "Tratado de Yalta"},
             {"id": 5, "texto": "Tratado de Berlim"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 267
     },
     {
         "pergunta": "Que país é representado pelo 'S' na sigla BRICS?",
@@ -2945,7 +3212,8 @@
             {"id": 4, "texto": "Suíça"},
             {"id": 5, "texto": "Sérvia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 268
     },
     {
         "pergunta": "Qual o nome da maior árvore do Brasil?",
@@ -2956,7 +3224,8 @@
             {"id": 4, "texto": "Jequitibá-rosa"},
             {"id": 5, "texto": "Gameleira"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 269
     },
     {
         "pergunta": "Qual foi a primeira capital de Minas Gerais?",
@@ -2967,7 +3236,8 @@
             {"id": 4, "texto": "São João Del Rei"},
             {"id": 5, "texto": "Sabará"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 270
     },
     {
         "pergunta": "Como é mais conhecido o estádio Cícero Pompeu de Toledo?",
@@ -2978,7 +3248,8 @@
             {"id": 4, "texto": "Castelão"},
             {"id": 5, "texto": "Engenhão"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 271
     },
     {
         "pergunta": "Qual era o verdadeiro nome do cantor Cazuza?",
@@ -2989,7 +3260,8 @@
             {"id": 4, "texto": "Jorge"},
             {"id": 5, "texto": "Fábio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 272
     },
     {
         "pergunta": "Como era mais conhecido o rapper Mauro Mateus dos Santos?",
@@ -3000,7 +3272,8 @@
             {"id": 4, "texto": "MV Bill"},
             {"id": 5, "texto": "Chico Science"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 273
     },
     {
         "pergunta": "Qual animal levado por Pablo Escobar tem se tornado um problema para a fauna da Colômbia?",
@@ -3011,7 +3284,8 @@
             {"id": 4, "texto": "Elefante"},
             {"id": 5, "texto": "Crocodilo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 274
     },
     {
         "pergunta": "O nome do croissant foi dado pelos franceses como sátira com qual país?",
@@ -3022,7 +3296,8 @@
             {"id": 4, "texto": "Rússia"},
             {"id": 5, "texto": "Egito"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 275
     },
     {
         "pergunta": "O que é uma epístola?",
@@ -3033,7 +3308,8 @@
             {"id": 4, "texto": "Caneta"},
             {"id": 5, "texto": "Chapéu"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 276
     },
     {
         "pergunta": "Em qual estado fica a torre ATTO?",
@@ -3044,7 +3320,8 @@
             {"id": 4, "texto": "Rio Grande do Norte"},
             {"id": 5, "texto": "Piauí"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 277
     },
     {
         "pergunta": "Como se escreve 'água' em francês?",
@@ -3055,7 +3332,8 @@
             {"id": 4, "texto": "Œuf"},
             {"id": 5, "texto": "Aboyer"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 278
     },
     {
         "pergunta": "Com qual destes filósofos Dom Pedro II teve uma amizade?",
@@ -3066,7 +3344,8 @@
             {"id": 4, "texto": "Baruch Espinoza"},
             {"id": 5, "texto": "John Locke"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 279
     },
     {
         "pergunta": "Qual destes rios passa por Londres?",
@@ -3077,7 +3356,8 @@
             {"id": 4, "texto": "Drina"},
             {"id": 5, "texto": "Tejo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 280
     },
     {
         "pergunta": "Qual destes artistas japoneses pintou a obra 'A grande onda de Kanagawa'?",
@@ -3088,7 +3368,8 @@
             {"id": 4, "texto": "Hiroshi Yoshida"},
             {"id": 5, "texto": "Junichiro Tanizaki"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 281
     },
     {
         "pergunta": "Qual destes livros não é de Liev Tolstói?",
@@ -3099,7 +3380,8 @@
             {"id": 4, "texto": "A morte de Ivan Ilitch"},
             {"id": 5, "texto": "A Sonata a Kreutzer"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 282
     },
     {
         "pergunta": "Qual o nome do som que a baleia faz?",
@@ -3110,7 +3392,8 @@
             {"id": 4, "texto": "Estridular"},
             {"id": 5, "texto": "Bramar"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 283
     },
     {
         "pergunta": "Qual o coletivo de borboletas?",
@@ -3121,7 +3404,8 @@
             {"id": 4, "texto": "Plantel"},
             {"id": 5, "texto": "Pulguedo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 284
     },
     {
         "pergunta": "No que é especializado um médico nefrologista?",
@@ -3132,7 +3416,8 @@
             {"id": 4, "texto": "Meninge"},
             {"id": 5, "texto": "Vértebras"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 285
     },
     {
         "pergunta": "O lago Titicaca fica entre quais países?",
@@ -3143,7 +3428,8 @@
             {"id": 4, "texto": "Argentina e Chile"},
             {"id": 5, "texto": "Equador e Peru"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 286
     },
     {
         "pergunta": "Qual o nome do maior lago da África?",
@@ -3154,7 +3440,8 @@
             {"id": 4, "texto": "Lago Rift"},
             {"id": 5, "texto": "Lago Kivu"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 287
     },
     {
         "pergunta": "Em que estado fica a cidade de Brodowski?",
@@ -3165,7 +3452,8 @@
             {"id": 4, "texto": "Paraná"},
             {"id": 5, "texto": "Rio de Janeiro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 288
     },
     {
         "pergunta": "Em que país ocorre o torneio de Roland Garros de tênis?",
@@ -3176,7 +3464,8 @@
             {"id": 4, "texto": "Itália"},
             {"id": 5, "texto": "Áustria"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 289
     },
     {
         "pergunta": "De qual livro é a frase 'Deixai toda a esperança vós que entrais.'?",
@@ -3187,7 +3476,8 @@
             {"id": 4, "texto": "Os irmãos Karamázov"},
             {"id": 5, "texto": "Memórias Póstumas de Brás Cubas"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 290
     },
     {
         "pergunta": "Em qual estado fica o Santuário do Divino Pai Eterno?",
@@ -3198,7 +3488,8 @@
             {"id": 4, "texto": "Espirito Santo"},
             {"id": 5, "texto": "Bahia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 291
     },
     {
         "pergunta": "Em que ano ocorreu a primeira edição do Rock In Rio?",
@@ -3209,7 +3500,8 @@
             {"id": 4, "texto": "1995"},
             {"id": 5, "texto": "1987"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 292
     },
     {
         "pergunta": "De quem foi o primeiro show na primeira edição do Rock In Rio?",
@@ -3220,7 +3512,8 @@
             {"id": 4, "texto": "Lulu Santos"},
             {"id": 5, "texto": "Rita Lee"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 293
     },
     {
         "pergunta": "Qual destas é considerada a maior raça de gato do mundo?",
@@ -3231,7 +3524,8 @@
             {"id": 4, "texto": "Angorá"},
             {"id": 5, "texto": "Scottish Fold"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 294
     },
     {
         "pergunta": "Qual a moeda oficial do Peru?",
@@ -3242,7 +3536,8 @@
             {"id": 4, "texto": "Dólar"},
             {"id": 5, "texto": "Real"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 295
     },
     {
         "pergunta": "Qual o segundo idioma oficial do Paraguai?",
@@ -3253,7 +3548,8 @@
             {"id": 4, "texto": "Tupi"},
             {"id": 5, "texto": "Catalão"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 296
     },
     {
         "pergunta": "Qual o nome do ator que interpretava o Seu Madruga no seriado Chaves?",
@@ -3264,7 +3560,8 @@
             {"id": 4, "texto": "Rubén Aguirre"},
             {"id": 5, "texto": "Raul Padilla"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 297
     },
     {
         "pergunta": "Quem é considerado como o Libertador da América?",
@@ -3275,7 +3572,8 @@
             {"id": 4, "texto": "Cornelio Saavedra"},
             {"id": 5, "texto": "Juan Antonio Lavalleja"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 298
     },
     {
         "pergunta": "Em qual cidade acontece o evento literário da FLIP?",
@@ -3286,7 +3584,8 @@
             {"id": 4, "texto": "Pelotas - RS"},
             {"id": 5, "texto": "Florianópolis - SC"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 299
     },
     {
         "pergunta": "Com qual país o Brasil divide a usina de Itaipu?",
@@ -3297,7 +3596,8 @@
             {"id": 4, "texto": "Bolivia"},
             {"id": 5, "texto": "Peru"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 300
     },
     {
         "pergunta": "Quem é a escritora esposa do também escritor Paul Auster?",
@@ -3308,7 +3608,8 @@
             {"id": 4, "texto": "Simone Schwarz-Bart"},
             {"id": 5, "texto": "Olga Tokarczuk"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 301
     },
     {
         "pergunta": "Qual cidade é sempre citada pelo carteiro Jaiminho no seriado Chaves?",
@@ -3319,7 +3620,8 @@
             {"id": 4, "texto": "Teotihuacan"},
             {"id": 5, "texto": "Querétaro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 302
     },
     {
         "pergunta": "Qual destes livros não é de Jorge Amado?",
@@ -3330,7 +3632,8 @@
             {"id": 4, "texto": "Tenda dos milagres"},
             {"id": 5, "texto": "Tocaia grande"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 303
     },
     {
         "pergunta": "Qual é considerada a primeira grande editora de livros do Brasil?",
@@ -3341,7 +3644,8 @@
             {"id": 4, "texto": "Companhia das Letras"},
             {"id": 5, "texto": "José Olympio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 304
     },
     {
         "pergunta": "Qual o verdadeiro nome do cantor Xororó?",
@@ -3352,7 +3656,8 @@
             {"id": 4, "texto": "Welson"},
             {"id": 5, "texto": "Emival"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 305
     },
     {
         "pergunta": "Qual a capital da Croácia?",
@@ -3363,7 +3668,8 @@
             {"id": 4, "texto": "Dubrovr"},
             {"id": 5, "texto": "Debrecen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 306
     },
     {
         "pergunta": "Quem pintou a Capela Sistina?",
@@ -3374,7 +3680,8 @@
             {"id": 4, "texto": "Donatelo"},
             {"id": 5, "texto": "Botticelli"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 307
     },
     {
         "pergunta": "Qual a obra mais conhecida de Aleksandr Soljenítsyn?",
@@ -3385,7 +3692,8 @@
             {"id": 4, "texto": "Ponte sobre o Drina"},
             {"id": 5, "texto": "Oblómov"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 308
     },
     {
         "pergunta": "Como é mais conhecido o cantor Peter Gene Hernandez?",
@@ -3396,7 +3704,8 @@
             {"id": 4, "texto": "Jay-Z"},
             {"id": 5, "texto": "Snoop Dogg"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 309
     },
     {
         "pergunta": "Qual é o planeta mais quente do Sistema Solar?",
@@ -3407,7 +3716,8 @@
             {"id": 4, "texto": "Júpiter"},
             {"id": 5, "texto": "Saturno"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 310
     },
     {
         "pergunta": "Qual time o São Paulo Futebol Clube venceu no seu primeiro título mundial?",
@@ -3418,7 +3728,8 @@
             {"id": 4, "texto": "Real Madrid"},
             {"id": 5, "texto": "Manchester United"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 311
     },
     {
         "pergunta": "Qual música dos Beatles foi enviada para o espaço?",
@@ -3429,7 +3740,8 @@
             {"id": 4, "texto": "Help!"},
             {"id": 5, "texto": "The Long And Winding Road"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 312
     },
     {
         "pergunta": "Como se escreve 'rua' em espanhol?",
@@ -3440,7 +3752,8 @@
             {"id": 4, "texto": "Traveza"},
             {"id": 5, "texto": "Plaza"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 313
     },
     {
         "pergunta": "Qual a capital da Bielorrússia?",
@@ -3451,7 +3764,8 @@
             {"id": 4, "texto": "Valozýn"},
             {"id": 5, "texto": "Orsha"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 314
     },
     {
         "pergunta": "Qual a capital da Estônia?",
@@ -3462,7 +3776,8 @@
             {"id": 4, "texto": "Udema"},
             {"id": 5, "texto": "Rakvere"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 315
     },
     {
         "pergunta": "Em que ano Guga conquistou seu primeiro título de Roland Garros?",
@@ -3473,7 +3788,8 @@
             {"id": 4, "texto": "2002"},
             {"id": 5, "texto": "2003"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 316
     },
     {
         "pergunta": "Em que ano a Índia conquistou sua independência?",
@@ -3484,7 +3800,8 @@
             {"id": 4, "texto": "1961"},
             {"id": 5, "texto": "1929"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 317
     },
     {
         "pergunta": "Em que ano foi fundado o Estado de Israel?",
@@ -3495,7 +3812,8 @@
             {"id": 4, "texto": "1960"},
             {"id": 5, "texto": "1928"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 318
     },
     {
         "pergunta": "Qual o nome do meio do apresentador Celso Portiolli?",
@@ -3506,7 +3824,8 @@
             {"id": 4, "texto": "Ferretti"},
             {"id": 5, "texto": "Marchi"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 319
     },
     {
         "pergunta": "Quantos idiomas oficiais a Suíça possui?",
@@ -3517,7 +3836,8 @@
             {"id": 4, "texto": "Cinco"},
             {"id": 5, "texto": "Seis"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 320
     },
     {
         "pergunta": "Qual país foi o último a abolir a escravidão na América do Sul?",
@@ -3528,7 +3848,8 @@
             {"id": 4, "texto": "Venezuela"},
             {"id": 5, "texto": "Colômbia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 321
     },
     {
         "pergunta": "Quem é considerado o inventor do touch screen?",
@@ -3539,7 +3860,8 @@
             {"id": 4, "texto": "Hedy Lamarr"},
             {"id": 5, "texto": "Kevin Systrom"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 322
     },
     {
         "pergunta": "Como é mais conhecida a atriz Bruna Reis Maia?",
@@ -3550,7 +3872,8 @@
             {"id": 4, "texto": "Camila Queiroz"},
             {"id": 5, "texto": "Larissa Manoela"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 323
     },
     {
         "pergunta": "Qual é o sobrenome do ex-jogador Ronaldinho Gaúcho?",
@@ -3561,7 +3884,8 @@
             {"id": 4, "texto": "Gonçalves"},
             {"id": 5, "texto": "Santos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 324
     },
     {
         "pergunta": "Quantos biomas existem no Brasil?",
@@ -3572,7 +3896,8 @@
             {"id": 4, "texto": "3"},
             {"id": 5, "texto": "7"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 325
     },
     {
         "pergunta": "O animal com nome científico Folivora é o:",
@@ -3583,7 +3908,8 @@
             {"id": 4, "texto": "Tamanduá bandeira"},
             {"id": 5, "texto": "Lobo guará"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 326
     },
     {
         "pergunta": "Qual é considerada a maior favela da cidade de São Paulo?",
@@ -3594,7 +3920,8 @@
             {"id": 4, "texto": "Capão Redondo"},
             {"id": 5, "texto": "Jardim Esmeralda"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 327
     },
     {
         "pergunta": "Contra qual time o São Paulo Futebol Clube jogou a final da Copa Libertadores de 1993?",
@@ -3605,7 +3932,8 @@
             {"id": 4, "texto": "Cerro Porteño"},
             {"id": 5, "texto": "Peñarol"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 328
     },
     {
         "pergunta": "Em que ano foi fundada a cidade de São Paulo?",
@@ -3616,7 +3944,8 @@
             {"id": 4, "texto": "1588"},
             {"id": 5, "texto": "1562"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 329
     },
     {
         "pergunta": "Quando é o dia do Saci?",
@@ -3627,7 +3956,8 @@
             {"id": 4, "texto": "30 de agosto"},
             {"id": 5, "texto": "29 de setembro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 330
     },
     {
         "pergunta": "Qual clube foi campeão do Campeonato Brasileiro de 2012?",
@@ -3638,7 +3968,8 @@
             {"id": 4, "texto": "Cruzeiro"},
             {"id": 5, "texto": "Grêmio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 331
     },
     {
         "pergunta": "Qual é o nome da ex-esposa de Bill Gates?",
@@ -3649,7 +3980,8 @@
             {"id": 4, "texto": "Sarah"},
             {"id": 5, "texto": "Elizabeth"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 332
     },
     {
         "pergunta": "Qual destes livros foi escrito por Monteiro Lobato?",
@@ -3660,7 +3992,8 @@
             {"id": 4, "texto": "O aeronauta"},
             {"id": 5, "texto": "Maus"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 333
     },
     {
         "pergunta": "Serj Tankian é o vocalista de qual destas bandas?",
@@ -3671,7 +4004,8 @@
             {"id": 4, "texto": "Limp Bizkit"},
             {"id": 5, "texto": "Red Hot Chili Peppers"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 334
     },
     {
         "pergunta": "Qual destes filmes não foi dirigido por David Fincher?",
@@ -3682,7 +4016,8 @@
             {"id": 4, "texto": "Clube da luta"},
             {"id": 5, "texto": "O curioso caso de Benjamin Button"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 335
     },
     {
         "pergunta": "Qual destas é uma cor secundária?",
@@ -3693,7 +4028,8 @@
             {"id": 4, "texto": "Azul"},
             {"id": 5, "texto": "Amarelo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 336
     },
     {
         "pergunta": "Em qual país fica a única escola do ballet Bolshoi fora da Rússia?",
@@ -3704,7 +4040,8 @@
             {"id": 4, "texto": "Japão"},
             {"id": 5, "texto": "Argentina"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 337
     },
     {
         "pergunta": "Em qual estado do Brasil fica a cidade de Buenos Aires?",
@@ -3715,7 +4052,8 @@
             {"id": 4, "texto": "Santa Catarina"},
             {"id": 5, "texto": "Espírito Santo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 338
     },
     {
         "pergunta": "Qual o nome do meio do ex-goleiro e treinador Rogério Ceni?",
@@ -3726,7 +4064,8 @@
             {"id": 4, "texto": "Paiva"},
             {"id": 5, "texto": "Mergen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 339
     },
     {
         "pergunta": "Qual foi o primeiro livro publicado por Stephen Hawking?",
@@ -3737,7 +4076,8 @@
             {"id": 4, "texto": "Desvendando o universo"},
             {"id": 5, "texto": "Pálido ponto azul"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 340
     },
     {
         "pergunta": "Qual o primeiro nome da cantora Melody?",
@@ -3748,7 +4088,8 @@
             {"id": 4, "texto": "Julia"},
             {"id": 5, "texto": "Alice"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 341
     },
     {
         "pergunta": "Qual o primeiro nome da cantora Jojo Todynho?",
@@ -3759,7 +4100,8 @@
             {"id": 4, "texto": "Josiane"},
             {"id": 5, "texto": "Joeli"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 342
     },
     {
         "pergunta": "Quantos idiomas oficiais a África do Sul possui?",
@@ -3770,7 +4112,8 @@
             {"id": 4, "texto": "14"},
             {"id": 5, "texto": "9"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 343
     },
     {
         "pergunta": "O que é uma flâmula?",
@@ -3781,7 +4124,8 @@
             {"id": 4, "texto": "Talher"},
             {"id": 5, "texto": "Caneta"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 344
     },
     {
         "pergunta": "Em qual país fica a cidade de Odessa?",
@@ -3792,7 +4136,8 @@
             {"id": 4, "texto": "Turquia"},
             {"id": 5, "texto": "Grécia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 345
     },
     {
         "pergunta": "Qual cidade brasileira é conhecida como 'cidade imperial'?",
@@ -3803,7 +4148,8 @@
             {"id": 4, "texto": "Salvador"},
             {"id": 5, "texto": "Angra dos Reis"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 346
     },
     {
         "pergunta": "Que dia se comemora o dia nacional do advogado?",
@@ -3814,7 +4160,8 @@
             {"id": 4, "texto": "30 de julho"},
             {"id": 5, "texto": "5 de dezembro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 347
     },
     {
         "pergunta": "Qual a capital da Jamaica?",
@@ -3825,7 +4172,8 @@
             {"id": 4, "texto": "Porto Príncipe"},
             {"id": 5, "texto": "San José"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 348
     },
     {
         "pergunta": "Qual a capital da Coreia do Norte?",
@@ -3836,7 +4184,8 @@
             {"id": 4, "texto": "Kaesong"},
             {"id": 5, "texto": "Gwangyang"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 349
     },
     {
         "pergunta": "Qual compositor compôs a obra 'O lago dos cisnes'?",
@@ -3847,7 +4196,8 @@
             {"id": 4, "texto": "Wolfgang Mozart"},
             {"id": 5, "texto": "Johann Bach"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 350
     },
     {
         "pergunta": "Dave Grohl era baterista de qual banda antes do Foo Fighters?",
@@ -3858,7 +4208,8 @@
             {"id": 4, "texto": "Soundgarden"},
             {"id": 5, "texto": "Metallica"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 351
     },
     {
         "pergunta": "Em qual cidade aconteceu o atentado contra o arquiduque Franz Ferdinand?",
@@ -3869,7 +4220,8 @@
             {"id": 4, "texto": "Viena"},
             {"id": 5, "texto": "Praga"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 352
     },
     {
         "pergunta": "Em qual cidade fica o estádio do Mangueirão?",
@@ -3880,7 +4232,8 @@
             {"id": 4, "texto": "Salvador"},
             {"id": 5, "texto": "Brasília"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 353
     },
     {
         "pergunta": "Em qual país nasceu o escritor Albert Camus?",
@@ -3891,7 +4244,8 @@
             {"id": 4, "texto": "Chade"},
             {"id": 5, "texto": "Suíça"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 354
     },
     {
         "pergunta": "Qual destes livros não é de Albert Camus?",
@@ -3902,7 +4256,8 @@
             {"id": 4, "texto": "A peste"},
             {"id": 5, "texto": "O estrangeiro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 355
     },
     {
         "pergunta": "Em que ano aconteceu o caso do ET de Varginha?",
@@ -3913,7 +4268,8 @@
             {"id": 4, "texto": "1997"},
             {"id": 5, "texto": "1998"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 356
     },
     {
         "pergunta": "Qual é o elemento químico com símbolo 'Pb'?",
@@ -3924,7 +4280,8 @@
             {"id": 4, "texto": "Radônio"},
             {"id": 5, "texto": "Fósforo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 357
     },
     {
         "pergunta": "Qual destar árvores é um símbolo do Natal?",
@@ -3935,7 +4292,8 @@
             {"id": 4, "texto": "Coqueiro"},
             {"id": 5, "texto": "Seringueira"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 358
     },
     {
         "pergunta": "Quem nasce no estado do Rio Grande do Norte é chamado de...?",
@@ -3946,7 +4304,8 @@
             {"id": 4, "texto": "Soteropolitano"},
             {"id": 5, "texto": "Gaúcho"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 359
     },
     {
         "pergunta": "Qual sistema criado em 1914 revolucionou a indústria automobilística na época?",
@@ -3957,7 +4316,8 @@
             {"id": 4, "texto": "Volvismo"},
             {"id": 5, "texto": "Fiatismo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 360
     },
     {
         "pergunta": "Qual é a cidade mais alta do Brasil?",
@@ -3968,7 +4328,8 @@
             {"id": 4, "texto": "Camanducaia - MG"},
             {"id": 5, "texto": "Itamonte - MG"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 361
     },
     {
         "pergunta": "Quem nasce no estado do Rio de Janeiro é chamado de...?",
@@ -3979,7 +4340,8 @@
             {"id": 4, "texto": "Flamengo"},
             {"id": 5, "texto": "Janeirense"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 362
     },
     {
         "pergunta": "Qual temperatura equivale ao chamado zero absoluto?",
@@ -3990,7 +4352,8 @@
             {"id": 4, "texto": "-181,33° C"},
             {"id": 5, "texto": "-352° C"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 363
     },
     {
         "pergunta": "Como se escreve 'presente' em francês?",
@@ -4001,7 +4364,8 @@
             {"id": 4, "texto": "Grille"},
             {"id": 5, "texto": "Passé"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 364
     },
     {
         "pergunta": "O que um entomologista estuda?",
@@ -4012,7 +4376,8 @@
             {"id": 4, "texto": "Aves"},
             {"id": 5, "texto": "Rochas vulcânicas"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 365
     },
     {
         "pergunta": "Quem escreveu a obra Os Miseráveis?",
@@ -4023,7 +4388,8 @@
             {"id": 4, "texto": "Walter Scott"},
             {"id": 5, "texto": "Fiódor Dostoiévski"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 366
     },
     {
         "pergunta": "Quem foi o artilheiro da Copa do Mundo de 1990?",
@@ -4034,7 +4400,8 @@
             {"id": 4, "texto": "Roger Mila"},
             {"id": 5, "texto": "Renato Gaúcho"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 367
     },
     {
         "pergunta": "Em que ano Lionel Messi ganhou sua primeira bola de ouro?",
@@ -4045,7 +4412,8 @@
             {"id": 4, "texto": "2012"},
             {"id": 5, "texto": "2013"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 368
     },
     {
         "pergunta": "Qual destas palavras é sinônimo de 'côdea'?",
@@ -4056,7 +4424,8 @@
             {"id": 4, "texto": "Crupe"},
             {"id": 5, "texto": "Queijo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 369
     },
     {
         "pergunta": "Qual instituição é a responsável por marcar as datas pro carnaval?",
@@ -4067,7 +4436,8 @@
             {"id": 4, "texto": "Superior Tribunal Federal"},
             {"id": 5, "texto": "Associação Carnavalesca "}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 370
     },
     {
         "pergunta": "Em que ano foi fundado o Museu Nacional por Dom João VI?",
@@ -4078,7 +4448,8 @@
             {"id": 4, "texto": "1868"},
             {"id": 5, "texto": "1810"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 371
     },
     {
         "pergunta": "A cédula de 100 mil dólares é estampada com o rosto de qual ex-presidente norte-americano?",
@@ -4089,7 +4460,8 @@
             {"id": 4, "texto": "Franklin Roosevelt"},
             {"id": 5, "texto": "Benjamin Harrison"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 372
     },
     {
         "pergunta": "Em qual cidade nasceu o escritor russo Fiódor Dostoiévski?",
@@ -4100,7 +4472,8 @@
             {"id": 4, "texto": "Sóchi"},
             {"id": 5, "texto": "Vladivostok"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 373
     },
     {
         "pergunta": "Em qual time Pelé encerrou sua carreira?",
@@ -4111,7 +4484,8 @@
             {"id": 4, "texto": "Atlanta United"},
             {"id": 5, "texto": "Charlotte FC"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 374
     },
     {
         "pergunta": "Qual destes não é um arquiteto brasileiro?",
@@ -4122,7 +4496,8 @@
             {"id": 4, "texto": "Ruy Ohtake"},
             {"id": 5, "texto": "Rosa Kliass"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 375
     },
     {
         "pergunta": "No museu de qual cidade fica a estátua da Vênus de Willendorf?",
@@ -4133,7 +4508,8 @@
             {"id": 4, "texto": "Budapeste"},
             {"id": 5, "texto": "Praga"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 376
     },
     {
         "pergunta": "Qual destes escritores não nasceu em Minas Gerais?",
@@ -4144,7 +4520,8 @@
             {"id": 4, "texto": "Rubem Fonseca"},
             {"id": 5, "texto": "Darcy Ribeiro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 377
     },
     {
         "pergunta": "Como se chama a linha invisível que divide a Terra em dois hemisférios?",
@@ -4155,7 +4532,8 @@
             {"id": 4, "texto": "Trópico Polar"},
             {"id": 5, "texto": "Círculo Ártico"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 378
     },
     {
         "pergunta": "Qual o nome da cidade fictícia contida no livro 'Cem anos de solidão'?",
@@ -4166,7 +4544,8 @@
             {"id": 4, "texto": "Araruna"},
             {"id": 5, "texto": "Antares"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 379
     },
     {
         "pergunta": "Qual foi o horário exato (no horário local) em que o primeiro avião atingiu o World Trade Center?",
@@ -4177,7 +4556,8 @@
             {"id": 4, "texto": "8h33min"},
             {"id": 5, "texto": "9h16min"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 380
     },
     {
         "pergunta": "Qual destas escritoras nunca ganhou um Nobel de literatura?",
@@ -4188,7 +4568,8 @@
             {"id": 4, "texto": "Wislawa Szymborska"},
             {"id": 5, "texto": "Toni Morrison"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 381
     },
     {
         "pergunta": "Em qual estado nasceu o cantor Belchior?",
@@ -4199,7 +4580,8 @@
             {"id": 4, "texto": "Sergipe"},
             {"id": 5, "texto": "Pernambuco"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 382
     },
     {
         "pergunta": "Como se escreve 'ampulheta' em espanhol?",
@@ -4210,7 +4592,8 @@
             {"id": 4, "texto": "Reloj viejo"},
             {"id": 5, "texto": "Reloj"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 383
     },
     {
         "pergunta": "Quem compôs a música 'Como nossos pais'?",
@@ -4221,7 +4604,8 @@
             {"id": 4, "texto": "Toquinho"},
             {"id": 5, "texto": "Maria Bethânia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 384
     },
     {
         "pergunta": "Qual a capital do Peru?",
@@ -4232,7 +4616,8 @@
             {"id": 4, "texto": "Arequipa"},
             {"id": 5, "texto": "Trujillo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 385
     },
     {
         "pergunta": "Qual a capital dos Estados Unidos?",
@@ -4243,7 +4628,8 @@
             {"id": 4, "texto": "Miami"},
             {"id": 5, "texto": "Chicago"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 386
     },
     {
         "pergunta": "Como era conhecido o cantor Alexandre Magno Abrão?",
@@ -4254,7 +4640,8 @@
             {"id": 4, "texto": "Chico Science"},
             {"id": 5, "texto": "Claudinho"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 387
     },
     {
         "pergunta": "Qual a capital do Equador?",
@@ -4265,7 +4652,8 @@
             {"id": 4, "texto": "Ibarra"},
             {"id": 5, "texto": "Portoviejo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 388
     },
     {
         "pergunta": "Em que ano foi fundada a cidade de Belo Horizonte?",
@@ -4276,7 +4664,8 @@
             {"id": 4, "texto": "1889"},
             {"id": 5, "texto": "1917"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 389
     },
     {
         "pergunta": "Qual a capital da Nigéria?",
@@ -4287,7 +4676,8 @@
             {"id": 4, "texto": "Zaria"},
             {"id": 5, "texto": "Sokoto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 390
     },
     {
         "pergunta": "Qual foi a primeira capital do Brasil?",
@@ -4298,7 +4688,8 @@
             {"id": 4, "texto": "Fortaleza"},
             {"id": 5, "texto": "Recife"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 391
     },
     {
         "pergunta": "Qual a capital da Espanha?",
@@ -4309,7 +4700,8 @@
             {"id": 4, "texto": "Valência"},
             {"id": 5, "texto": "Zaragoza"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 392
     },
     {
         "pergunta": "Qual é o elemento químico com símbolo 'P'?",
@@ -4320,7 +4712,8 @@
             {"id": 4, "texto": "Césio"},
             {"id": 5, "texto": "Polônio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 393
     },
     {
         "pergunta": "Qual é o elemento químico com símbolo 'Au'?",
@@ -4331,7 +4724,8 @@
             {"id": 4, "texto": "Alumínio"},
             {"id": 5, "texto": "Európio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 394
     },
     {
         "pergunta": "Qual destes livros não é de Gabriel Garcia Marquez?",
@@ -4342,7 +4736,8 @@
             {"id": 4, "texto": "Relato de um náufrago"},
             {"id": 5, "texto": "Do amor e outros demônios"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 395
     },
     {
         "pergunta": "Qual destes livros não é de Ariano Suassuna?",
@@ -4353,7 +4748,8 @@
             {"id": 4, "texto": "Uma mulher vestida de sol"},
             {"id": 5, "texto": "Auto da Compadecida"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 396
     },
     {
         "pergunta": "Em que ano foi lançado o ChatGPT?",
@@ -4364,7 +4760,8 @@
             {"id": 4, "texto": "2019"},
             {"id": 5, "texto": "2021"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 397
     },
     {
         "pergunta": "Qual foi o primeiro longa-metragem animado lançado por Walt Disney?",
@@ -4375,7 +4772,8 @@
             {"id": 4, "texto": "A Dama e o Vagabundo"},
             {"id": 5, "texto": "Alice no País das Maravilhas"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 398
     },
     {
         "pergunta": "Em que ano aconteceu a queda do muro de Berlim?",
@@ -4386,7 +4784,8 @@
             {"id": 4, "texto": "1993"},
             {"id": 5, "texto": "1980"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 399
     },
     {
         "pergunta": "Em qual país fica a maior queda d'água do mundo?",
@@ -4397,7 +4796,8 @@
             {"id": 4, "texto": "Estados Unidos"},
             {"id": 5, "texto": "Myanmar"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 400
     },
     {
         "pergunta": "Qual destes países não fazia parte da União Soviética?",
@@ -4408,7 +4808,8 @@
             {"id": 4, "texto": "Letônia"},
             {"id": 5, "texto": "Geórgia"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 401
     },
     {
         "pergunta": "Em qual cidade brasileira existem usinas nucleares em operação?",
@@ -4419,7 +4820,8 @@
             {"id": 4, "texto": "Volta Redonda - RJ"},
             {"id": 5, "texto": "Guarapari - ES"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 402
     },
     {
         "pergunta": "Qual destas escritoras nasceu no Vale do Paraíba - SP?",
@@ -4430,7 +4832,8 @@
             {"id": 4, "texto": "Lygia Fagundes Telles"},
             {"id": 5, "texto": "Hilda Hilst"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 403
     },
     {
         "pergunta": "Qual destes livros foi escrito por Joseph Conrad?",
@@ -4441,7 +4844,8 @@
             {"id": 4, "texto": "Graça infinita"},
             {"id": 5, "texto": "A consciência de Zeno"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 404
     },
     {
         "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2006?",
@@ -4452,7 +4856,8 @@
             {"id": 4, "texto": "Luca Toni"},
             {"id": 5, "texto": "Ronaldo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 405
     },
     {
         "pergunta": "Em que ano a Volkswagen lançou o Gol?",
@@ -4463,7 +4868,8 @@
             {"id": 4, "texto": "1986"},
             {"id": 5, "texto": "1988"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 406
     },
     {
         "pergunta": "Em que ano foi fabricado o último Fusca no mundo?",
@@ -4474,7 +4880,8 @@
             {"id": 4, "texto": "1997"},
             {"id": 5, "texto": "2005"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 407
     },
     {
         "pergunta": "Quem foi o artilheiro da Copa do Mundo de 2014?",
@@ -4485,7 +4892,8 @@
             {"id": 4, "texto": "Van Persie"},
             {"id": 5, "texto": "Karim Benzema"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 408
     },
     {
         "pergunta": "Qual a capital da Arábia Saudita?",
@@ -4496,7 +4904,8 @@
             {"id": 4, "texto": "Rijal"},
             {"id": 5, "texto": "Jidá"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 409
     },
     {
         "pergunta": "Quem escreveu a obra Moby Dick?",
@@ -4507,7 +4916,8 @@
             {"id": 4, "texto": "Walt Whitman"},
             {"id": 5, "texto": "Ernest Hemingway"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 410
     },
     {
         "pergunta": "Qual era o primeiro nome de Che Guevara?",
@@ -4518,7 +4928,8 @@
             {"id": 4, "texto": "Camilo"},
             {"id": 5, "texto": "Roberto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 411
     },
     {
         "pergunta": "Em qual esporte se destacou Maria Lenk?",
@@ -4529,7 +4940,8 @@
             {"id": 4, "texto": "Atletismo"},
             {"id": 5, "texto": "Salto em distância"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 412
     },
     {
         "pergunta": "Em qual estado nasceu o escritor Jorge Amado?",
@@ -4540,7 +4952,8 @@
             {"id": 4, "texto": "São Paulo"},
             {"id": 5, "texto": "Pernambuco"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 413
     },
     {
         "pergunta": "Qual a maior ave do Brasil em envergadura?",
@@ -4551,7 +4964,8 @@
             {"id": 4, "texto": "Tuiuiu"},
             {"id": 5, "texto": "Anhuma"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 414
     },
     {
         "pergunta": "Contra qual time o São Paulo Futebol Clube jogou a final da Copa Libertadores de 2005?",
@@ -4562,7 +4976,8 @@
             {"id": 4, "texto": "Nacional"},
             {"id": 5, "texto": "River Plate"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 415
     },
     {
         "pergunta": "Quantos gols fez o artilheiro Germán Cano no Campeonato Brasileiro de 2022?",
@@ -4573,7 +4988,8 @@
             {"id": 4, "texto": "20"},
             {"id": 5, "texto": "17"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 416
     },
     {
         "pergunta": "Quem foi o primeiro escritor russo a ganhar um Nobel de Literatura?",
@@ -4584,7 +5000,8 @@
             {"id": 4, "texto": "Joseph Brodsky"},
             {"id": 5, "texto": "Friedrich Gorenstein"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 417
     },
     {
         "pergunta": "Qual destes livros não é de Clarice Lispector?",
@@ -4595,7 +5012,8 @@
             {"id": 4, "texto": "A paixão segundo G.H."},
             {"id": 5, "texto": "Um sopro de vida"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 418
     },
     {
         "pergunta": "Contra qual time o Fluminense jogou a final da Copa Libertadores de 2008?",
@@ -4606,7 +5024,8 @@
             {"id": 4, "texto": "São Paulo"},
             {"id": 5, "texto": "Peñarol"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 419
     },
     {
         "pergunta": "Qual a moeda oficial da Índia?",
@@ -4617,7 +5036,8 @@
             {"id": 4, "texto": "Dirham"},
             {"id": 5, "texto": "Lira"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 420
     },
     {
         "pergunta": "Qual a capital da China?",
@@ -4628,7 +5048,8 @@
             {"id": 4, "texto": "Hangzhou"},
             {"id": 5, "texto": "Xian"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 421
     },
     {
         "pergunta": "Quem foi o artilheiro do Campeonato Brasileiro de 2017?",
@@ -4639,7 +5060,8 @@
             {"id": 4, "texto": "Diego Souza"},
             {"id": 5, "texto": "Bruno Henrique"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 422
     },
     {
         "pergunta": "Qual o nome do fruto da Oliveira?",
@@ -4650,7 +5072,8 @@
             {"id": 4, "texto": "Tomate"},
             {"id": 5, "texto": "Figo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 423
     },
     {
         "pergunta": "Simón Bolívar não participou da independência de qual destes países?",
@@ -4661,7 +5084,8 @@
             {"id": 4, "texto": "Bolivia"},
             {"id": 5, "texto": "Peru"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 424
     },
     {
         "pergunta": "Qual cidade é considerada a capital nacional do doce de leite?",
@@ -4672,7 +5096,8 @@
             {"id": 4, "texto": "Osasco - SP"},
             {"id": 5, "texto": "Bom Repouso - MG"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 425
     },
     {
         "pergunta": "Segundo a Bíblia, quem foi o pai de Caim?",
@@ -4683,7 +5108,8 @@
             {"id": 4, "texto": "Abel"},
             {"id": 5, "texto": "Moisés"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 426
     },
     {
         "pergunta": "Um sesquicentenário equivale a quantos anos?",
@@ -4694,7 +5120,8 @@
             {"id": 4, "texto": "100"},
             {"id": 5, "texto": "175"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 427
     },
     {
         "pergunta": "Qual era o verdadeiro nome do cantor Tim Maia?",
@@ -4705,7 +5132,8 @@
             {"id": 4, "texto": "Antonio"},
             {"id": 5, "texto": "Expedito"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 428
     },
     {
         "pergunta": "Em qual destes times o sueco Zlatan Ibrahimovic não jogou?",
@@ -4716,7 +5144,8 @@
             {"id": 4, "texto": "Barcelona"},
             {"id": 5, "texto": "LA Galaxy"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 429
     },
     {
         "pergunta": "O que estuda um ornitólogo?",
@@ -4727,7 +5156,8 @@
             {"id": 4, "texto": "Bactérias"},
             {"id": 5, "texto": "Anfíbios"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 430
     },
     {
         "pergunta": "Quem é Araquém Alcântara?",
@@ -4738,7 +5168,8 @@
             {"id": 4, "texto": "Cineasta"},
             {"id": 5, "texto": "Pintor"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 431
     },
     {
         "pergunta": "Qual o nome do influencer literário conhecido como Bookster?",
@@ -4749,7 +5180,8 @@
             {"id": 4, "texto": "Christian Assunção"},
             {"id": 5, "texto": "Thiago Ramos"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 432
     },
     {
         "pergunta": "Qual é o número atômico do hidrogênio?",
@@ -4760,7 +5192,8 @@
             {"id": 4, "texto": "4"},
             {"id": 5, "texto": "5"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 433
     },
     {
         "pergunta": "Qual é o gás mais abundante na atmosfera da Terra?",
@@ -4771,7 +5204,8 @@
             {"id": 4, "texto": "Hidrogênio"},
             {"id": 5, "texto": "Argônio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 434
     },
     {
         "pergunta": "Qual é a terceira Lei de Newton?",
@@ -4782,7 +5216,8 @@
             {"id": 4, "texto": "Conservação de energia"},
             {"id": 5, "texto": "Gravidade"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 435
     },
     {
         "pergunta": "Qual é a unidade internacional de medida da força?",
@@ -4793,7 +5228,8 @@
             {"id": 4, "texto": "Watt (W)"},
             {"id": 5, "texto": "Hertz (Hz)"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 436
     },
     {
         "pergunta": "Qual conceito filosófico se refere à busca pela felicidade como o objetivo supremo da vida humana?",
@@ -4804,7 +5240,8 @@
             {"id": 4, "texto": "Determinismo"},
             {"id": 5, "texto": "Existencialismo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 437
     },
     {
         "pergunta": "Qual pintor renascentista italiano é famoso por sua obra 'O Nascimento de Vênus'?",
@@ -4815,7 +5252,8 @@
             {"id": 4, "texto": "Michelangelo"},
             {"id": 5, "texto": "Caravaggio"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 438
     },
     {
         "pergunta": "Qual destes é um pintor surrealista?",
@@ -4826,7 +5264,8 @@
             {"id": 4, "texto": "Claude Monet"},
             {"id": 5, "texto": "Henri Matisse"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 439
     },
     {
         "pergunta": "Qual pintor espanhol é famoso por suas obras cubistas, como 'Guernica'?",
@@ -4837,7 +5276,8 @@
             {"id": 4, "texto": "Antoni Gaudí"},
             {"id": 5, "texto": "Diego Rivera"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 440
     },
     {
         "pergunta": "Qual é a capital do Egito?",
@@ -4848,7 +5288,8 @@
             {"id": 4, "texto": "Aswan"},
             {"id": 5, "texto": "Giza"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 441
     },
     {
         "pergunta": "Qual é a capital da Argélia?",
@@ -4859,7 +5300,8 @@
             {"id": 4, "texto": "Annaba"},
             {"id": 5, "texto": "Tlemcen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 442
     },
     {
         "pergunta": "Qual é a capital da Líbia?",
@@ -4870,7 +5312,8 @@
             {"id": 4, "texto": "Sabha"},
             {"id": 5, "texto": "Surt"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 443
     },
     {
         "pergunta": "Qual é a capital da Tunísia?",
@@ -4881,7 +5324,8 @@
             {"id": 4, "texto": "Gabès"},
             {"id": 5, "texto": "Bizerte"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 444
     },
     {
         "pergunta": "Qual é a capital do Zimbábue?",
@@ -4892,7 +5336,8 @@
             {"id": 4, "texto": "Gweru"},
             {"id": 5, "texto": "Masvingo"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 445
     },
     {
         "pergunta": "Em qual rodovia morreu Juscelino Kubitschek?",
@@ -4903,7 +5348,8 @@
             {"id": 4, "texto": "Fernão Dias"},
             {"id": 5, "texto": "Carvalho Pinto"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 446
     },
     {
         "pergunta": "Quem foi o presidente do Brasil durante a Segunda Guerra Mundial?",
@@ -4914,7 +5360,8 @@
             {"id": 4, "texto": "Juscelino Kubitschek"},
             {"id": 5, "texto": "Washington Luís"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 447
     },
     {
         "pergunta": "Quantas vezes Bob Marley visitou o Brasil?",
@@ -4925,7 +5372,8 @@
             {"id": 4, "texto": "Zero"},
             {"id": 5, "texto": "Quatro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 448
     },
     {
         "pergunta": "Como se escreve 'ninguém' em espanhol?",
@@ -4936,7 +5384,8 @@
             {"id": 4, "texto": "Ninguem"},
             {"id": 5, "texto": "Nin uno"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 449
     },
     {
         "pergunta": "Quem é o maior pontuador da história do basquete?",
@@ -4947,7 +5396,8 @@
             {"id": 4, "texto": "Kobe Bryant"},
             {"id": 5, "texto": "Yao Ming"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 450
     },
     {
         "pergunta": "Qual estado brasileiro é o maior na produção de energia eólica?",
@@ -4958,7 +5408,8 @@
             {"id": 4, "texto": "Espírito Santo"},
             {"id": 5, "texto": "Ceará"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 451
     },
     {
         "pergunta": "Quem escreveu o livro 1984?",
@@ -4969,7 +5420,8 @@
             {"id": 4, "texto": "Joseph Conrad"},
             {"id": 5, "texto": "Hendrik Groen"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 452
     },
     {
         "pergunta": "Qual animal toma o poder no livro 'A revolução dos bichos' de George Orwell?",
@@ -4980,7 +5432,8 @@
             {"id": 4, "texto": "Vaca"},
             {"id": 5, "texto": "Cachorro"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 453
     },
     {
         "pergunta": "Qual escritor sofreu um atentado por sua crítica ao islamismo?",
@@ -4991,6 +5444,31 @@
             {"id": 4, "texto": "Mario Vargas Llosa"},
             {"id": 5, "texto": "Maurice Leblanc"}
         ],
-        "resposta": 1
+        "resposta": 1,
+        "resposta_id": 454
+    },
+    {
+        "pergunta": "Quanto equivale 100 graus Fahrenheit em Celsius?",
+        "opcoes": [
+            {"id": 1, "texto": "37,77"},
+            {"id": 2, "texto": "32,3"},
+            {"id": 3, "texto": "33,33"},
+            {"id": 4, "texto": "38,12"},
+            {"id": 5, "texto": "28,28"}
+        ],
+        "resposta": 1,
+        "resposta_id": 455
+    },
+    {
+        "pergunta": "Como se chama quem nasce na cidade de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "Paulistano"},
+            {"id": 2, "texto": "Paulista"},
+            {"id": 3, "texto": "Paulino"},
+            {"id": 4, "texto": "São-paulino"},
+            {"id": 5, "texto": "São-paulista"}
+        ],
+        "resposta": 1,
+        "resposta_id": 456
     }
 ]
