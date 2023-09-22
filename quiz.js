@@ -116,10 +116,10 @@ function mostrarResultadoFinal() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    const iniciarQuizButton = document.getElementById("iniciar-quiz");
-    const quantidadeInput = document.getElementById("quantidade-perguntas");
+    const iniciarQuizButton = document.querySelector("#iniciar-quiz");
+    const quantidadeInput = document.querySelector("#quantidade-perguntas");
     const qtdPerguntasContainer = document.querySelector(".qtd-perguntas");
-    const quizContent = document.getElementById("quiz-content");
+    const quizContent = document.querySelector("#quiz-content");
 
     quantidadeInput.addEventListener("keyup", (event) => {
         if (event.key === "Enter") {

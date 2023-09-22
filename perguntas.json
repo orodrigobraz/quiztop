@@ -4739,5 +4739,225 @@
             {"id": 5, "texto": "Pintor"}
         ],
         "resposta": 1
+    },
+    {
+        "pergunta": "Qual o nome do influencer literário conhecido como Bookster?",
+        "opcoes": [
+            {"id": 1, "texto": "Pedro Pacífico"},
+            {"id": 2, "texto": "Yuri Al'Hanati"},
+            {"id": 3, "texto": "Rodrigo Casarin"},
+            {"id": 4, "texto": "Christian Assunção"},
+            {"id": 5, "texto": "Thiago Ramos"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o número atômico do hidrogênio?",
+        "opcoes": [
+            {"id": 1, "texto": "1"},
+            {"id": 2, "texto": "2"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "4"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é o gás mais abundante na atmosfera da Terra?",
+        "opcoes": [
+            {"id": 1, "texto": "Nitrogênio"},
+            {"id": 2, "texto": "Oxigênio"},
+            {"id": 3, "texto": "Dióxido de carbono"},
+            {"id": 4, "texto": "Hidrogênio"},
+            {"id": 5, "texto": "Argônio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a terceira Lei de Newton?",
+        "opcoes": [
+            {"id": 1, "texto": "Ação e reação"},
+            {"id": 2, "texto": "Inércia"},
+            {"id": 3, "texto": "Aceleração"},
+            {"id": 4, "texto": "Conservação de energia"},
+            {"id": 5, "texto": "Gravidade"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a unidade internacional de medida da força?",
+        "opcoes": [
+            {"id": 1, "texto": "Newton (N)"},
+            {"id": 2, "texto": "Joule (J)"},
+            {"id": 3, "texto": "Pascal (Pa)"},
+            {"id": 4, "texto": "Watt (W)"},
+            {"id": 5, "texto": "Hertz (Hz)"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual conceito filosófico se refere à busca pela felicidade como o objetivo supremo da vida humana?",
+        "opcoes": [
+            {"id": 1, "texto": "Eudaimonia"},
+            {"id": 2, "texto": "Nihilismo"},
+            {"id": 3, "texto": "Utilitarismo"},
+            {"id": 4, "texto": "Determinismo"},
+            {"id": 5, "texto": "Existencialismo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual pintor renascentista italiano é famoso por sua obra 'O Nascimento de Vênus'?",
+        "opcoes": [
+            {"id": 1, "texto": "Sandro Botticelli"},
+            {"id": 2, "texto": "Leonardo da Vinci"},
+            {"id": 3, "texto": "Rafael Sanzio"},
+            {"id": 4, "texto": "Michelangelo"},
+            {"id": 5, "texto": "Caravaggio"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual destes é um pintor surrealista?",
+        "opcoes": [
+            {"id": 1, "texto": "Salvador Dalí"},
+            {"id": 2, "texto": "Pablo Picasso"},
+            {"id": 3, "texto": "Vincent van Gogh"},
+            {"id": 4, "texto": "Claude Monet"},
+            {"id": 5, "texto": "Henri Matisse"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual pintor espanhol é famoso por suas obras cubistas, como 'Guernica'?",
+        "opcoes": [
+            {"id": 1, "texto": "Pablo Picasso"},
+            {"id": 2, "texto": "Joan Miró"},
+            {"id": 3, "texto": "Salvador Dalí"},
+            {"id": 4, "texto": "Antoni Gaudí"},
+            {"id": 5, "texto": "Diego Rivera"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital do Egito?",
+        "opcoes": [
+            {"id": 1, "texto": "Cairo"},
+            {"id": 2, "texto": "Alexandria"},
+            {"id": 3, "texto": "Luxor"},
+            {"id": 4, "texto": "Aswan"},
+            {"id": 5, "texto": "Giza"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital da Argélia?",
+        "opcoes": [
+            {"id": 1, "texto": "Argel"},
+            {"id": 2, "texto": "Orã"},
+            {"id": 3, "texto": "Constantina"},
+            {"id": 4, "texto": "Annaba"},
+            {"id": 5, "texto": "Tlemcen"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital da Líbia?",
+        "opcoes": [
+            {"id": 1, "texto": "Trípoli"},
+            {"id": 2, "texto": "Benghazi"},
+            {"id": 3, "texto": "Misurata"},
+            {"id": 4, "texto": "Sabha"},
+            {"id": 5, "texto": "Surt"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital da Tunísia?",
+        "opcoes": [
+            {"id": 1, "texto": "Tunes"},
+            {"id": 2, "texto": "Sfax"},
+            {"id": 3, "texto": "Sousse"},
+            {"id": 4, "texto": "Gabès"},
+            {"id": 5, "texto": "Bizerte"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual é a capital do Zimbábue?",
+        "opcoes": [
+            {"id": 1, "texto": "Harare"},
+            {"id": 2, "texto": "Bulawayo"},
+            {"id": 3, "texto": "Mutare"},
+            {"id": 4, "texto": "Gweru"},
+            {"id": 5, "texto": "Masvingo"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Em qual rodovia morreu Juscelino Kubitschek?",
+        "opcoes": [
+            {"id": 1, "texto": "Presidente Dutra"},
+            {"id": 2, "texto": "Bandeirantes"},
+            {"id": 3, "texto": "Imigrantes"},
+            {"id": 4, "texto": "Fernão Dias"},
+            {"id": 5, "texto": "Carvalho Pinto"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem foi o presidente do Brasil durante a Segunda Guerra Mundial?",
+        "opcoes": [
+            {"id": 1, "texto": "Getúlio Vargas"},
+            {"id": 2, "texto": "Jânio Quadros"},
+            {"id": 3, "texto": "João Goulart"},
+            {"id": 4, "texto": "Juscelino Kubitschek"},
+            {"id": 5, "texto": "Washington Luís"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quantas vezes Bob Marley visitou o Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Uma"},
+            {"id": 2, "texto": "Duas"},
+            {"id": 3, "texto": "Três"},
+            {"id": 4, "texto": "Zero"},
+            {"id": 5, "texto": "Quatro"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Como se escreve 'ninguém' em espanhol?",
+        "opcoes": [
+            {"id": 1, "texto": "Nadie"},
+            {"id": 2, "texto": "Ninguno"},
+            {"id": 3, "texto": "Nada"},
+            {"id": 4, "texto": "Ninguem"},
+            {"id": 5, "texto": "Nin uno"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Quem é o maior pontuador da história do basquete?",
+        "opcoes": [
+            {"id": 1, "texto": "Oscar Schmidt"},
+            {"id": 2, "texto": "Lebron James"},
+            {"id": 3, "texto": "Michael Jordan"},
+            {"id": 4, "texto": "Kobe Bryant"},
+            {"id": 5, "texto": "Yao Ming"}
+        ],
+        "resposta": 1
+    },
+    {
+        "pergunta": "Qual estado brasileiro é o maior na produção de energia eólica?",
+        "opcoes": [
+            {"id": 1, "texto": "Rio Grande do Norte"},
+            {"id": 2, "texto": "Rio Grande do Sul"},
+            {"id": 3, "texto": "Maranhão"},
+            {"id": 4, "texto": "Espírito Santo"},
+            {"id": 5, "texto": "Ceará"}
+        ],
+        "resposta": 1
     }
 ]
