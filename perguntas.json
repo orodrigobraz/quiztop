@@ -1038,7 +1038,7 @@
             {"id": 2, "texto": "Edward Jenner"},
             {"id": 3, "texto": "Louis Pasteur"},
             {"id": 4, "texto": "Alexander Fleming"},
-            {"id": 5, "texto": "Oswald de Andrade"}
+            {"id": 5, "texto": "Oswald Cruz"}
         ],
         "resposta": 1,
         "resposta_id": 87
@@ -1356,7 +1356,7 @@
         "resposta_id": 113
     },
     {
-        "pergunta": "Quantas vezes Albert Einstein visitou ao Brasil?",
+        "pergunta": "Quantas vezes Albert Einstein visitou o Brasil?",
         "opcoes": [
             {"id": 1, "texto": "2"},
             {"id": 2, "texto": "1"},
@@ -2196,7 +2196,7 @@
         "resposta_id": 183
     },
     {
-        "pergunta": "Quem escreveu o Manifesto comunista junto com Karl Marx?",
+        "pergunta": "Quem escreveu o Manifesto Comunista junto com Karl Marx?",
         "opcoes": [
             {"id": 1, "texto": "Friedrich Engels"},
             {"id": 2, "texto": "Leon Trotsky"},
@@ -2904,7 +2904,7 @@
         "resposta_id": 242
     },
     {
-        "pergunta": "Em que país ocorreu a Copa do Mundo de 1978?",
+        "pergunta": "Em qual país ocorreu a Copa do Mundo de 1978?",
         "opcoes": [
             {"id": 1, "texto": "Argentina"},
             {"id": 2, "texto": "Chile"},
@@ -5424,7 +5424,7 @@
         "resposta_id": 452
     },
     {
-        "pergunta": "Qual animal toma o poder no livro 'A revolução dos bichos' de George Orwell?",
+        "pergunta": "Qual animal toma o poder da fazenda no livro 'A revolução dos bichos' de George Orwell?",
         "opcoes": [
             {"id": 1, "texto": "Porco"},
             {"id": 2, "texto": "Cavalo"},
@@ -5470,5 +5470,425 @@
         ],
         "resposta": 1,
         "resposta_id": 456
+    },
+    {
+        "pergunta": "Dirham é a moeda oficial de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Emirados Árabes Unidos"},
+            {"id": 2, "texto": "Arábia Saudita"},
+            {"id": 3, "texto": "Marrocos"},
+            {"id": 4, "texto": "Quirquistão"},
+            {"id": 5, "texto": "África do Sul"}
+        ],
+        "resposta": 1,
+        "resposta_id": 457
+    },
+    {
+        "pergunta": "Qual destes municípios não fica no estado do Rio de Janeiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Bambuí"},
+            {"id": 2, "texto": "Araruama"},
+            {"id": 3, "texto": "Guapimirim"},
+            {"id": 4, "texto": "Itaperuna"},
+            {"id": 5, "texto": "Japeri"}
+        ],
+        "resposta": 1,
+        "resposta_id": 458
+    },
+    {
+        "pergunta": "Qual destes municípios não fica no estado de Minas Gerais?",
+        "opcoes": [
+            {"id": 1, "texto": "Jupiá"},
+            {"id": 2, "texto": "Bambuí"},
+            {"id": 3, "texto": "Aguanil"},
+            {"id": 4, "texto": "Canápolis"},
+            {"id": 5, "texto": "Ipuiuna"}
+        ],
+        "resposta": 1,
+        "resposta_id": 459
+    },
+    {
+        "pergunta": "Qual destes municípios não fica no estado de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "Camaragibe"},
+            {"id": 2, "texto": "Alambari"},
+            {"id": 3, "texto": "Bofete"},
+            {"id": 4, "texto": "Mococa"},
+            {"id": 5, "texto": "Palmital"}
+        ],
+        "resposta": 1,
+        "resposta_id": 460
+    },
+    {
+        "pergunta": "Qual destes filmes não foi dirigido por Christopher Nolan?",
+        "opcoes": [
+            {"id": 1, "texto": "Mank"},
+            {"id": 2, "texto": "Dunkirk"},
+            {"id": 3, "texto": "Tenet"},
+            {"id": 4, "texto": "Interestelar"},
+            {"id": 5, "texto": "A origem"}
+        ],
+        "resposta": 1,
+        "resposta_id": 461
+    },
+    {
+        "pergunta": "Qual destes filmes não foi dirigido por Quentin Tarantino?",
+        "opcoes": [
+            {"id": 1, "texto": "Clube da luta"},
+            {"id": 2, "texto": "Pulp Fiction"},
+            {"id": 3, "texto": "Bastardos Inglórios"},
+            {"id": 4, "texto": "Django livre"},
+            {"id": 5, "texto": "Os oito odiados"}
+        ],
+        "resposta": 1,
+        "resposta_id": 462
+    },
+    {
+        "pergunta": "Qual escritor deu um soco no escritor Gabriel Garcia Marquez?",
+        "opcoes": [
+            {"id": 1, "texto": "Mario Vargas Llosa"},
+            {"id": 2, "texto": "Eduardo Galeano"},
+            {"id": 3, "texto": "Pablo Neruda"},
+            {"id": 4, "texto": "Octavio Paz"},
+            {"id": 5, "texto": "Jorge Luis Borges"}
+        ],
+        "resposta": 1,
+        "resposta_id": 463
+    },
+    {
+        "pergunta": "Em que ano foi fundada a Microsoft?",
+        "opcoes": [
+            {"id": 1, "texto": "1975"},
+            {"id": 2, "texto": "1980"},
+            {"id": 3, "texto": "1985"},
+            {"id": 4, "texto": "1970"},
+            {"id": 5, "texto": "1990"}
+        ],
+        "resposta": 1,
+        "resposta_id": 464
+    },
+    {
+        "pergunta": "Qual destes livros não é de Eduardo Galeano?",
+        "opcoes": [
+            {"id": 1, "texto": "A guerra do fim do mundo"},
+            {"id": 2, "texto": "As veias abertas da América Latina"},
+            {"id": 3, "texto": "O livro dos abraços"},
+            {"id": 4, "texto": "Os filhos dos dias"},
+            {"id": 5, "texto": "O caçador de histórias"}
+        ],
+        "resposta": 1,
+        "resposta_id": 465
+    },
+    {
+        "pergunta": "Qual a capital legislativa da África do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Cidade do Cabo"},
+            {"id": 2, "texto": "Pretória"},
+            {"id": 3, "texto": "Bloemfontein"},
+            {"id": 4, "texto": "Johanesburgo"},
+            {"id": 5, "texto": "Durban"}
+        ],
+        "resposta": 1,
+        "resposta_id": 466
+    },
+    {
+        "pergunta": "Quem é considerado o inventor oficial do telefone?",
+        "opcoes": [
+            {"id": 1, "texto": "Alexander Graham Bell"},
+            {"id": 2, "texto": "William Greener"},
+            {"id": 3, "texto": "Thomas Edison"},
+            {"id": 4, "texto": "Willis Carrier"},
+            {"id": 5, "texto": "Nikola Tesla"}
+        ],
+        "resposta": 1,
+        "resposta_id": 467
+    },
+    {
+        "pergunta": "No livro 'A divina comédia', quem acompanha Dante em sua passagem pelo inferno?",
+        "opcoes": [
+            {"id": 1, "texto": "Virgílio"},
+            {"id": 2, "texto": "Héracles"},
+            {"id": 3, "texto": "Eurípedes"},
+            {"id": 4, "texto": "Beowulf"},
+            {"id": 5, "texto": "Ovídio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 468
+    },
+    {
+        "pergunta": "Qual o estado com o maior número de municípios do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Minas Gerais"},
+            {"id": 2, "texto": "São Paulo"},
+            {"id": 3, "texto": "Rio de Janeiro"},
+            {"id": 4, "texto": "Paraná"},
+            {"id": 5, "texto": "Bahia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 469
+    },
+    {
+        "pergunta": "Qual o estado com o menor número de municípios do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Roraima"},
+            {"id": 2, "texto": "Acre"},
+            {"id": 3, "texto": "Amapá"},
+            {"id": 4, "texto": "Sergipe"},
+            {"id": 5, "texto": "Rondônia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 470
+    },
+    {
+        "pergunta": "Quais os nomes dos irmãos Grimm?",
+        "opcoes": [
+            {"id": 1, "texto": "Jacob e Wilhelm"},
+            {"id": 2, "texto": "Johann e Ernest"},
+            {"id": 3, "texto": "Joseph e Isaac"},
+            {"id": 4, "texto": "Ivan e Alexei"},
+            {"id": 5, "texto": "Jared e Simon"}
+        ],
+        "resposta": 1,
+        "resposta_id": 471
+    },
+    {
+        "pergunta": "Paramaribo é a capital de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Suriname"},
+            {"id": 2, "texto": "Guiana"},
+            {"id": 3, "texto": "Guatemala"},
+            {"id": 4, "texto": "El Salvador"},
+            {"id": 5, "texto": "Panamá"}
+        ],
+        "resposta": 1,
+        "resposta_id": 472
+    },
+    {
+        "pergunta": "Qual é considerado o país mais oriental do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Kiribati"},
+            {"id": 2, "texto": "Fiji"},
+            {"id": 3, "texto": "Samoa"},
+            {"id": 4, "texto": "Tonga"},
+            {"id": 5, "texto": "Vanuatu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 473
+    },
+    {
+        "pergunta": "A ilha de Páscoa pertence a qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Chile"},
+            {"id": 2, "texto": "Peru"},
+            {"id": 3, "texto": "Argentina"},
+            {"id": 4, "texto": "Austrália"},
+            {"id": 5, "texto": "Nova Zelândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 474
+    },
+    {
+        "pergunta": "Em qual país ocorreu a Copa do Mundo de 1998?",
+        "opcoes": [
+            {"id": 1, "texto": "França"},
+            {"id": 2, "texto": "Alemanha"},
+            {"id": 3, "texto": "Inglaterra"},
+            {"id": 4, "texto": "Itália"},
+            {"id": 5, "texto": "Suíça"}
+        ],
+        "resposta": 1,
+        "resposta_id": 475
+    },
+    {
+        "pergunta": "Muhammad Yunus ganhou o Nobel em qual categoria?",
+        "opcoes": [
+            {"id": 1, "texto": "Paz"},
+            {"id": 2, "texto": "Literatura"},
+            {"id": 3, "texto": "Economia"},
+            {"id": 4, "texto": "Medicina"},
+            {"id": 5, "texto": "Física"}
+        ],
+        "resposta": 1,
+        "resposta_id": 476
+    },
+    {
+        "pergunta": "Quantas letras tem a maior palavra dicionarizada da língua portuguesa?",
+        "opcoes": [
+            {"id": 1, "texto": "46"},
+            {"id": 2, "texto": "50"},
+            {"id": 3, "texto": "42"},
+            {"id": 4, "texto": "38"},
+            {"id": 5, "texto": "34"}
+        ],
+        "resposta": 1,
+        "resposta_id": 477
+    },
+    {
+        "pergunta": "Nando Reis iniciou sua carreira musical em qual banda?",
+        "opcoes": [
+            {"id": 1, "texto": "Titãs"},
+            {"id": 2, "texto": "Barão Vermelho"},
+            {"id": 3, "texto": "Os Paralamas do Sucesso"},
+            {"id": 4, "texto": "Blitz"},
+            {"id": 5, "texto": "Ira!"}
+        ],
+        "resposta": 1,
+        "resposta_id": 478
+    },
+    {
+        "pergunta": "Qual a capital do Vietnã?",
+        "opcoes": [
+            {"id": 1, "texto": "Hanói"},
+            {"id": 2, "texto": "Vienciana"},
+            {"id": 3, "texto": "Phnom Penh"},
+            {"id": 4, "texto": "Naipidau"},
+            {"id": 5, "texto": "Lhasa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 479
+    },
+    {
+        "pergunta": "Lhasa Apso é uma raça de qual animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Cachorro"},
+            {"id": 2, "texto": "Gato"},
+            {"id": 3, "texto": "Cavalo"},
+            {"id": 4, "texto": "Vaca"},
+            {"id": 5, "texto": "Lhama"}
+        ],
+        "resposta": 1,
+        "resposta_id": 480
+    },
+    {
+        "pergunta": "De qual país é a escritora Bahiyyih Nakhjavani?",
+        "opcoes": [
+            {"id": 1, "texto": "Irã"},
+            {"id": 2, "texto": "Iémen"},
+            {"id": 3, "texto": "Uzbequistão"},
+            {"id": 4, "texto": "Índia"},
+            {"id": 5, "texto": "Bahrein"}
+        ],
+        "resposta": 1,
+        "resposta_id": 481
+    },
+    {
+        "pergunta": "Appaloosa é uma raça de qual animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Cavalo"},
+            {"id": 2, "texto": "Gato"},
+            {"id": 3, "texto": "Cachorro"},
+            {"id": 4, "texto": "Vaca"},
+            {"id": 5, "texto": "Porco"}
+        ],
+        "resposta": 1,
+        "resposta_id": 482
+    },
+    {
+        "pergunta": "Qual destes livros não é de William Shakespeare?",
+        "opcoes": [
+            {"id": 1, "texto": "O asno de ouro"},
+            {"id": 2, "texto": "Rei Lear"},
+            {"id": 3, "texto": "Sonho de uma noite de verão"},
+            {"id": 4, "texto": "O mercador de Veneza"},
+            {"id": 5, "texto": "A megera domada"}
+        ],
+        "resposta": 1,
+        "resposta_id": 483
+    },
+    {
+        "pergunta": "Qual destes livros não é de William Faulkner?",
+        "opcoes": [
+            {"id": 1, "texto": "Ratos e homens"},
+            {"id": 2, "texto": "O som e a fúria"},
+            {"id": 3, "texto": "Luz em agosto"},
+            {"id": 4, "texto": "Absalão, absalão"},
+            {"id": 5, "texto": "Enquanto agonizo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 484
+    },
+    {
+        "pergunta": "Eric Arthur Blair é o nome verdadeiro de qual destes escritores?",
+        "opcoes": [
+            {"id": 1, "texto": "George Orwell"},
+            {"id": 2, "texto": "Aldous Huxley"},
+            {"id": 3, "texto": "Ray Bradburry"},
+            {"id": 4, "texto": "Isaac Asimov"},
+            {"id": 5, "texto": "Charles Dickens"}
+        ],
+        "resposta": 1,
+        "resposta_id": 485
+    },
+    {
+        "pergunta": "Em qual país nasceu o escritor George Orwell?",
+        "opcoes": [
+            {"id": 1, "texto": "Índia"},
+            {"id": 2, "texto": "África do Sul"},
+            {"id": 3, "texto": "Inglaterra"},
+            {"id": 4, "texto": "Irlanda"},
+            {"id": 5, "texto": "Escócia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 486
+    },
+    {
+        "pergunta": "O ex-jogador Gareth Bale é natural de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "País de Gales"},
+            {"id": 2, "texto": "Inglaterra"},
+            {"id": 3, "texto": "Escócia"},
+            {"id": 4, "texto": "Irlanda"},
+            {"id": 5, "texto": "Islândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 487
+    },
+    {
+        "pergunta": "Qual destes não é um país nórdico?",
+        "opcoes": [
+            {"id": 1, "texto": "Lituânia"},
+            {"id": 2, "texto": "Noruega"},
+            {"id": 3, "texto": "Suécia"},
+            {"id": 4, "texto": "Dinamarca"},
+            {"id": 5, "texto": "Finlândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 488
+    },
+    {
+        "pergunta": "Qual destes países não é banhado pelo Mar Mediterrâneo?",
+        "opcoes": [
+            {"id": 1, "texto": "Macedônia"},
+            {"id": 2, "texto": "Croácia"},
+            {"id": 3, "texto": "Albânia"},
+            {"id": 4, "texto": "Líbano"},
+            {"id": 5, "texto": "Líbia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 489
+    },
+    {
+        "pergunta": "Em qual cidade brasileira nasceu o humorista Afonso Padilha?",
+        "opcoes": [
+            {"id": 1, "texto": "Curitiba"},
+            {"id": 2, "texto": "Porto Alegre"},
+            {"id": 3, "texto": "São Paulo"},
+            {"id": 4, "texto": "Balneário Camboriú"},
+            {"id": 5, "texto": "Maringá"}
+        ],
+        "resposta": 1,
+        "resposta_id": 490
+    },
+    {
+        "pergunta": "Quem fundou a Microsoft junto com Bill Gates?",
+        "opcoes": [
+            {"id": 1, "texto": "Paul Allen"},
+            {"id": 2, "texto": "Steve Jobs"},
+            {"id": 3, "texto": "Steve Wozniak"},
+            {"id": 4, "texto": "Dustin Moskovitz"},
+            {"id": 5, "texto": "Ronald Wayne"}
+        ],
+        "resposta": 1,
+        "resposta_id": 491
     }
 ]
