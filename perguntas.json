@@ -5890,5 +5890,29 @@
         ],
         "resposta": 1,
         "resposta_id": 491
+    },
+    {
+        "pergunta": "EM que ano foi fundada a Nike?",
+        "opcoes": [
+            {"id": 1, "texto": "1964"},
+            {"id": 2, "texto": "1968"},
+            {"id": 3, "texto": "1972"},
+            {"id": 4, "texto": "1976"},
+            {"id": 5, "texto": "1978"}
+        ],
+        "resposta": 1,
+        "resposta_id": 492
+    },
+    {
+        "pergunta": "Quem foi o primeiro presidente da ditadura militar no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Castelo Branco"},
+            {"id": 2, "texto": "Costa e Silva"},
+            {"id": 3, "texto": "Médici"},
+            {"id": 4, "texto": "Geisel"},
+            {"id": 5, "texto": "Figueiredo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 493
     }
 ]
