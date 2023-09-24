@@ -5892,7 +5892,7 @@
         "resposta_id": 491
     },
     {
-        "pergunta": "EM que ano foi fundada a Nike?",
+        "pergunta": "Em que ano foi fundada a Nike?",
         "opcoes": [
             {"id": 1, "texto": "1964"},
             {"id": 2, "texto": "1968"},
