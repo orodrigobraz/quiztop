@@ -5914,5 +5914,125 @@
         ],
         "resposta": 1,
         "resposta_id": 493
+    },
+    {
+        "pergunta": "Qual a capital do Afeganistão?",
+        "opcoes": [
+            {"id": 1, "texto": "Cabul"},
+            {"id": 2, "texto": "Bagdá"},
+            {"id": 3, "texto": "Teerã"},
+            {"id": 4, "texto": "Islamabad"},
+            {"id": 5, "texto": "Herat"}
+        ],
+        "resposta": 1,
+        "resposta_id": 494
+    },
+    {
+        "pergunta": "Qual destes não é um país Andino?",
+        "opcoes": [
+            {"id": 1, "texto": "Uruguai"},
+            {"id": 2, "texto": "Chile"},
+            {"id": 3, "texto": "Bolivia"},
+            {"id": 4, "texto": "Equador"},
+            {"id": 5, "texto": "Peru"}
+        ],
+        "resposta": 1,
+        "resposta_id": 495
+    },
+    {
+        "pergunta": "De qual país é o escritor Augusto Roa Bastos?",
+        "opcoes": [
+            {"id": 1, "texto": "Paraguai"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Argentina"},
+            {"id": 4, "texto": "Uruguai"},
+            {"id": 5, "texto": "Venezuela"}
+        ],
+        "resposta": 1,
+        "resposta_id": 496
+    },
+    {
+        "pergunta": "Qual destes escritores ganhou um Nobel de literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "Miguel Ángel Asturias"},
+            {"id": 2, "texto": "Eduardo Galeano"},
+            {"id": 3, "texto": "Augusto Roa Bastos"},
+            {"id": 4, "texto": "Rómulo Gallegos"},
+            {"id": 5, "texto": "Macedonio Fernández"}
+        ],
+        "resposta": 1,
+        "resposta_id": 497
+    },
+    {
+        "pergunta": "Segundo a Bíblia, qual foi o primeiro milagre realizado por Jesus?",
+        "opcoes": [
+            {"id": 1, "texto": "Água em vinho"},
+            {"id": 2, "texto": "Curar um leproso"},
+            {"id": 3, "texto": "Andar sobre a água"},
+            {"id": 4, "texto": "Multiplicação dos pães"},
+            {"id": 5, "texto": "Ressurreição de Lázaro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 498
+    },
+    {
+        "pergunta": "Em qual cidade se localiza o maior laboratório de astrofísica do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Itajubá - MG"},
+            {"id": 2, "texto": "Sobral - CE"},
+            {"id": 3, "texto": "Santa Maria - RS"},
+            {"id": 4, "texto": "Brotas - SP"},
+            {"id": 5, "texto": "Guarapuava - PR"}
+        ],
+        "resposta": 1,
+        "resposta_id": 499
+    },
+    {
+        "pergunta": "Qual time revelou Cristiano Ronaldo?",
+        "opcoes": [
+            {"id": 1, "texto": "Sporting"},
+            {"id": 2, "texto": "Porto"},
+            {"id": 3, "texto": "Racing"},
+            {"id": 4, "texto": "Benfica"},
+            {"id": 5, "texto": "Braga"}
+        ],
+        "resposta": 1,
+        "resposta_id": 500
+    },
+    {
+        "pergunta": "Contra qual time o Corinthians jogou a final da Copa Libertadores de 2012?",
+        "opcoes": [
+            {"id": 1, "texto": "Boca Juniors"},
+            {"id": 2, "texto": "River Plate"},
+            {"id": 3, "texto": "Atlético Nacional"},
+            {"id": 4, "texto": "Palmeiras"},
+            {"id": 5, "texto": "Olimpia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 501
+    },
+    {
+        "pergunta": "Qual é o pico mais alto do estado de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "Pedra da Mina"},
+            {"id": 2, "texto": "Pico dos Marins"},
+            {"id": 3, "texto": "Pedra do Baú"},
+            {"id": 4, "texto": "Pico do Itaguaré"},
+            {"id": 5, "texto": "Pico Agudo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 502
+    },
+    {
+        "pergunta": "Qual destes ex-jogadores da NBA já ganhou um Oscar?",
+        "opcoes": [
+            {"id": 1, "texto": "Kobe Bryant"},
+            {"id": 2, "texto": "Michael Jordan"},
+            {"id": 3, "texto": "Shaquille O'Neal"},
+            {"id": 4, "texto": "Magic Johnson"},
+            {"id": 5, "texto": "Bill Russell"}
+        ],
+        "resposta": 1,
+        "resposta_id": 503
     }
 ]

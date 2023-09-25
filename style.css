@@ -135,6 +135,7 @@ button:hover {
 footer {
     color: rgb(107, 106, 106);
     text-align: center;
+    font-size: .8em;
     padding: 10px;
     position: fixed;
     bottom: 0;
