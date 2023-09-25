@@ -6034,5 +6034,101 @@
         ],
         "resposta": 1,
         "resposta_id": 503
+    },
+    {
+        "pergunta": "Qual a formação de Brian May, guitarrista do Queen?",
+        "opcoes": [
+            {"id": 1, "texto": "Astrofísica"},
+            {"id": 2, "texto": "Odontologia"},
+            {"id": 3, "texto": "Arqueologia"},
+            {"id": 4, "texto": "Arquitetura"},
+            {"id": 5, "texto": "Engenharia civil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 504
+    },
+    {
+        "pergunta": "Qual o nome da empresa onde se passa a história do seriado 'The Office'?",
+        "opcoes": [
+            {"id": 1, "texto": "Dunder Mifflin"},
+            {"id": 2, "texto": "Michael Scott Paper Company"},
+            {"id": 3, "texto": "Umbrella Corporation"},
+            {"id": 4, "texto": "Oscorp Industries"},
+            {"id": 5, "texto": "Wayne Enterprises"}
+        ],
+        "resposta": 1,
+        "resposta_id": 505
+    },
+    {
+        "pergunta": "Em que ano aconteceu o caso do Padre do Balão?",
+        "opcoes": [
+            {"id": 1, "texto": "2008"},
+            {"id": 2, "texto": "2012"},
+            {"id": 3, "texto": "2010"},
+            {"id": 4, "texto": "2006"},
+            {"id": 5, "texto": "2014"}
+        ],
+        "resposta": 1,
+        "resposta_id": 506
+    },
+    {
+        "pergunta": "Qual planeta é chamado de 'planeta vermelho'?",
+        "opcoes": [
+            {"id": 1, "texto": "Marte"},
+            {"id": 2, "texto": "Vênus"},
+            {"id": 3, "texto": "Mercúrio"},
+            {"id": 4, "texto": "Júpiter"},
+            {"id": 5, "texto": "Saturno"}
+        ],
+        "resposta": 1,
+        "resposta_id": 507
+    },
+    {
+        "pergunta": "Quanto mede a maior ponte do mundo em comprimento?",
+        "opcoes": [
+            {"id": 1, "texto": "170km"},
+            {"id": 2, "texto": "130km"},
+            {"id": 3, "texto": "100km"},
+            {"id": 4, "texto": "195km"},
+            {"id": 5, "texto": "82km"}
+        ],
+        "resposta": 1,
+        "resposta_id": 508
+    },
+    {
+        "pergunta": "Em qual país fica a maior ponte do mundo em comprimento?",
+        "opcoes": [
+            {"id": 1, "texto": "China"},
+            {"id": 2, "texto": "Nova Zelândia"},
+            {"id": 3, "texto": "Noruega"},
+            {"id": 4, "texto": "Canadá"},
+            {"id": 5, "texto": "Japão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 509
+    },
+    {
+        "pergunta": "Qual a extensão da ponte Rio-Niterói?",
+        "opcoes": [
+            {"id": 1, "texto": "13,29km"},
+            {"id": 2, "texto": "21,58km"},
+            {"id": 3, "texto": "9,72km"},
+            {"id": 4, "texto": "15,44km"},
+            {"id": 5, "texto": "18,05km"}
+        ],
+        "resposta": 1,
+        "resposta_id": 510
+    },
+    {
+        "pergunta": "Aproximadamente, qual a extensão do estreito de Gibraltar?",
+        "opcoes": [
+            {"id": 1, "texto": "15km"},
+            {"id": 2, "texto": "11km"},
+            {"id": 3, "texto": "19km"},
+            {"id": 4, "texto": "23km"},
+            {"id": 5, "texto": "27km"}
+        ],
+        "resposta": 1,
+        "resposta_id": 511
     }
 ]
