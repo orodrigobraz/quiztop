@@ -6138,7 +6138,7 @@
             {"id": 2, "texto": "Ser promovido"},
             {"id": 3, "texto": "Ser demitido"},
             {"id": 4, "texto": "Comer bem"},
-            {"id": 5, "texto": "Vaijar"}
+            {"id": 5, "texto": "Viajar"}
         ],
         "resposta": 1,
         "resposta_id": 512
