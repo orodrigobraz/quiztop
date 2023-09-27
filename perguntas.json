@@ -6130,5 +6130,113 @@
         ],
         "resposta": 1,
         "resposta_id": 511
+    },
+    {
+        "pergunta": "Em Portugal, o que significa a expressão 'dar o peido mestre'?",
+        "opcoes": [
+            {"id": 1, "texto": "Morrer"},
+            {"id": 2, "texto": "Ser promovido"},
+            {"id": 3, "texto": "Ser demitido"},
+            {"id": 4, "texto": "Comer bem"},
+            {"id": 5, "texto": "Vaijar"}
+        ],
+        "resposta": 1,
+        "resposta_id": 512
+    },
+    {
+        "pergunta": "Como é mais conhecida a cantora Priscilla Novaes Leone?",
+        "opcoes": [
+            {"id": 1, "texto": "Pitty"},
+            {"id": 2, "texto": "Sandy"},
+            {"id": 3, "texto": "Ludmila"},
+            {"id": 4, "texto": "Negra Li"},
+            {"id": 5, "texto": "Anitta"}
+        ],
+        "resposta": 1,
+        "resposta_id": 513
+    },
+    {
+        "pergunta": "Qual é o primeiro nome do cantor Criolo?",
+        "opcoes": [
+            {"id": 1, "texto": "Kleber"},
+            {"id": 2, "texto": "Kaique"},
+            {"id": 3, "texto": "Kelvin"},
+            {"id": 4, "texto": "Kaio"},
+            {"id": 5, "texto": "Kenedi"}
+        ],
+        "resposta": 1,
+        "resposta_id": 514
+    },
+    {
+        "pergunta": "A síndrome de Crigler-Najjar é uma doença que atinge qual órgão do corpo humano?",
+        "opcoes": [
+            {"id": 1, "texto": "Fígado"},
+            {"id": 2, "texto": "Coração"},
+            {"id": 3, "texto": "Cérebro"},
+            {"id": 4, "texto": "Pulmão"},
+            {"id": 5, "texto": "Estômago"}
+        ],
+        "resposta": 1,
+        "resposta_id": 515
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em húngaro 'Felhő'?",
+        "opcoes": [
+            {"id": 1, "texto": "Nuvem"},
+            {"id": 2, "texto": "Folha"},
+            {"id": 3, "texto": "Meia"},
+            {"id": 4, "texto": "Caderno"},
+            {"id": 5, "texto": "Boné"}
+        ],
+        "resposta": 1,
+        "resposta_id": 516
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em húngaro 'Sapka'?",
+        "opcoes": [
+            {"id": 1, "texto": "Boné"},
+            {"id": 2, "texto": "Folha"},
+            {"id": 3, "texto": "Meia"},
+            {"id": 4, "texto": "Caderno"},
+            {"id": 5, "texto": "Nuvem"}
+        ],
+        "resposta": 1,
+        "resposta_id": 517
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em italiano 'avvocato'?",
+        "opcoes": [
+            {"id": 1, "texto": "Advogado"},
+            {"id": 2, "texto": "Abacate"},
+            {"id": 3, "texto": "Abacaxi"},
+            {"id": 4, "texto": "Avião"},
+            {"id": 5, "texto": "Bisavô"}
+        ],
+        "resposta": 1,
+        "resposta_id": 518
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em turco 'teşekkürler'?",
+        "opcoes": [
+            {"id": 1, "texto": "Obrigado"},
+            {"id": 2, "texto": "Tesoura"},
+            {"id": 3, "texto": "Sapato"},
+            {"id": 4, "texto": "Melância"},
+            {"id": 5, "texto": "Besouro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 519
+    },
+    {
+        "pergunta": "Qual a tradução em português da palavra em inglês 'Dragonfly'?",
+        "opcoes": [
+            {"id": 1, "texto": "Libélula"},
+            {"id": 2, "texto": "Beija-flor"},
+            {"id": 3, "texto": "Louva-a-Deus"},
+            {"id": 4, "texto": "Mosca"},
+            {"id": 5, "texto": "Besouro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 520
     }
 ]
