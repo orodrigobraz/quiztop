@@ -6238,5 +6238,29 @@
         ],
         "resposta": 1,
         "resposta_id": 520
+    },
+    {
+        "pergunta": "O que se fabrica em uma olaria?",
+        "opcoes": [
+            {"id": 1, "texto": "Tijolos"},
+            {"id": 2, "texto": "Óculos"},
+            {"id": 3, "texto": "Sapatos"},
+            {"id": 4, "texto": "Fantasias"},
+            {"id": 5, "texto": "Facas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 521
+    },
+    {
+        "pergunta": "Qual ator interpretou o Batman na trilogia de Christopher Nolan?",
+        "opcoes": [
+            {"id": 1, "texto": "Christian Bale"},
+            {"id": 2, "texto": "Ben Affleck"},
+            {"id": 3, "texto": "Robert Pattinson"},
+            {"id": 4, "texto": "George Clooney"},
+            {"id": 5, "texto": "Michael Keaton"}
+        ],
+        "resposta": 1,
+        "resposta_id": 522
     }
 ]
