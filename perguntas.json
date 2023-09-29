@@ -6262,5 +6262,221 @@
         ],
         "resposta": 1,
         "resposta_id": 522
+    },
+    {
+        "pergunta": "Qual das opções abaixo está escrita da forma correta?",
+        "opcoes": [
+            {"id": 1, "texto": "Muçarela"},
+            {"id": 2, "texto": "Mussarela"},
+            {"id": 3, "texto": "Moçarela"},
+            {"id": 4, "texto": "Mossarela"},
+            {"id": 5, "texto": "Muzzarela"}
+        ],
+        "resposta": 1,
+        "resposta_id": 523
+    },
+    {
+        "pergunta": "Qual o plural de 'qualquer'?",
+        "opcoes": [
+            {"id": 1, "texto": "Quaisquer"},
+            {"id": 2, "texto": "Qualquer"},
+            {"id": 3, "texto": "Qualqueres"},
+            {"id": 4, "texto": "Quaisqueres"},
+            {"id": 5, "texto": "Qualquers"}
+        ],
+        "resposta": 1,
+        "resposta_id": 524
+    },
+    {
+        "pergunta": "Quem foi o guitarrista do Rage Against The Machine?",
+        "opcoes": [
+            {"id": 1, "texto": "Tom Morello"},
+            {"id": 2, "texto": "Dave Murray"},
+            {"id": 3, "texto": "Tony Iommi"},
+            {"id": 4, "texto": "John Frusciante"},
+            {"id": 5, "texto": "Kirk Hammett"}
+        ],
+        "resposta": 1,
+        "resposta_id": 525
+    },
+    {
+        "pergunta": "Quem é o maior medalhista da história do X Games?",
+        "opcoes": [
+            {"id": 1, "texto": "Bob Burnquist"},
+            {"id": 2, "texto": "Sandro Dias"},
+            {"id": 3, "texto": "Tony Hawk"},
+            {"id": 4, "texto": "Nyjah Huston"},
+            {"id": 5, "texto": "Danny Way"}
+        ],
+        "resposta": 1,
+        "resposta_id": 526
+    },
+    {
+        "pergunta": "Em que ano Gabriel Medina conquistou seu primeiro mundial de surf?",
+        "opcoes": [
+            {"id": 1, "texto": "2014"},
+            {"id": 2, "texto": "2016"},
+            {"id": 3, "texto": "2012"},
+            {"id": 4, "texto": "2018"},
+            {"id": 5, "texto": "2020"}
+        ],
+        "resposta": 1,
+        "resposta_id": 527
+    },
+    {
+        "pergunta": "Do que é derivado o Tucupi?",
+        "opcoes": [
+            {"id": 1, "texto": "Mandioca brava"},
+            {"id": 2, "texto": "Beterraba"},
+            {"id": 3, "texto": "Batata doce"},
+            {"id": 4, "texto": "Jambu"},
+            {"id": 5, "texto": "Castanha-do-pará"}
+        ],
+        "resposta": 1,
+        "resposta_id": 528
+    },
+    {
+        "pergunta": "Quantos anos o skatista Tony Hawk tinha quando realizou pela primeira fez a manobra 900°?",
+        "opcoes": [
+            {"id": 1, "texto": "31 anos"},
+            {"id": 2, "texto": "25 anos"},
+            {"id": 3, "texto": "18 anos"},
+            {"id": 4, "texto": "34 anos"},
+            {"id": 5, "texto": "27 anos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 529
+    },
+    {
+        "pergunta": "Quantas vezes Gabriel Medina foi campeão mundial de surf?",
+        "opcoes": [
+            {"id": 1, "texto": "3"},
+            {"id": 2, "texto": "2"},
+            {"id": 3, "texto": "1"},
+            {"id": 4, "texto": "0"},
+            {"id": 5, "texto": "4"}
+        ],
+        "resposta": 1,
+        "resposta_id": 530
+    },
+    {
+        "pergunta": "Segundo a Bíblia, qual é o número da Besta?",
+        "opcoes": [
+            {"id": 1, "texto": "666"},
+            {"id": 2, "texto": "333"},
+            {"id": 3, "texto": "777"},
+            {"id": 4, "texto": "49"},
+            {"id": 5, "texto": "23"}
+        ],
+        "resposta": 1,
+        "resposta_id": 531
+    },
+    {
+        "pergunta": "Qual destes livros não é de Umberto Eco?",
+        "opcoes": [
+            {"id": 1, "texto": "Na terra do cervo branco"},
+            {"id": 2, "texto": "O pêndulo de Foucault"},
+            {"id": 3, "texto": "O cemitério de Praga"},
+            {"id": 4, "texto": "A ilha do dia anterior"},
+            {"id": 5, "texto": "O nome da rosa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 532
+    },
+    {
+        "pergunta": "Qual destes livros não é de Hermann Hesse?",
+        "opcoes": [
+            {"id": 1, "texto": "Kaputt"},
+            {"id": 2, "texto": "Sidarta"},
+            {"id": 3, "texto": "Demian"},
+            {"id": 4, "texto": "O lobo da estepe"},
+            {"id": 5, "texto": "Knulp"}
+        ],
+        "resposta": 1,
+        "resposta_id": 533
+    },
+    {
+        "pergunta": "Qual a capital do Nepal?",
+        "opcoes": [
+            {"id": 1, "texto": "Katmandu"},
+            {"id": 2, "texto": "Timbu"},
+            {"id": 3, "texto": "Lhasa"},
+            {"id": 4, "texto": "Ulambator"},
+            {"id": 5, "texto": "Kuala Lumpur"}
+        ],
+        "resposta": 1,
+        "resposta_id": 534
+    },
+    {
+        "pergunta": "Qual cor era extraída do Pau-brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Vermelho"},
+            {"id": 2, "texto": "Branco"},
+            {"id": 3, "texto": "Amarelo"},
+            {"id": 4, "texto": "Preto"},
+            {"id": 5, "texto": "Verde"}
+        ],
+        "resposta": 1,
+        "resposta_id": 535
+    },
+    {
+        "pergunta": "Qual destes times não é tricolor?",
+        "opcoes": [
+            {"id": 1, "texto": "Vila Nova"},
+            {"id": 2, "texto": "Joinville"},
+            {"id": 3, "texto": "Santa Cruz"},
+            {"id": 4, "texto": "Fortaleza"},
+            {"id": 5, "texto": "Sampaio Corrêa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 536
+    },
+    {
+        "pergunta": "Qual é a maior montanha da América do Norte?",
+        "opcoes": [
+            {"id": 1, "texto": "Monte Denali"},
+            {"id": 2, "texto": "Monte Rushmore"},
+            {"id": 3, "texto": "Monte Fairweather"},
+            {"id": 4, "texto": "Mauna Kea"},
+            {"id": 5, "texto": "Monte Sanford"}
+        ],
+        "resposta": 1,
+        "resposta_id": 537
+    },
+    {
+        "pergunta": "Quem foi Nise da Silveira?",
+        "opcoes": [
+            {"id": 1, "texto": "Psiquiatra"},
+            {"id": 2, "texto": "Juíza"},
+            {"id": 3, "texto": "Senadora"},
+            {"id": 4, "texto": "Paisagista"},
+            {"id": 5, "texto": "Metemática"}
+        ],
+        "resposta": 1,
+        "resposta_id": 538
+    },
+    {
+        "pergunta": "Os Estados Unidos compraram o Alasca de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Rússia"},
+            {"id": 2, "texto": "Canadá"},
+            {"id": 3, "texto": "México"},
+            {"id": 4, "texto": "Inglaterra"},
+            {"id": 5, "texto": "França"}
+        ],
+        "resposta": 1,
+        "resposta_id": 539
+    },
+    {
+        "pergunta": "Qual o outro idioma oficial do Canadá, além do inglês?",
+        "opcoes": [
+            {"id": 1, "texto": "Francês"},
+            {"id": 2, "texto": "Espanhol"},
+            {"id": 3, "texto": "Alemão"},
+            {"id": 4, "texto": "Português"},
+            {"id": 5, "texto": "Holandês"}
+        ],
+        "resposta": 1,
+        "resposta_id": 540
     }
 ]
