@@ -6478,5 +6478,77 @@
         ],
         "resposta": 1,
         "resposta_id": 540
+    },
+    {
+        "pergunta": "Em qual país nasceu o cantor Justin Bieber?",
+        "opcoes": [
+            {"id": 1, "texto": "Canadá"},
+            {"id": 2, "texto": "Estados Unidos"},
+            {"id": 3, "texto": "Inglaterra"},
+            {"id": 4, "texto": "Austrália"},
+            {"id": 5, "texto": "Nova Zelândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 541
+    },
+    {
+        "pergunta": "Humberto Gessinger é um dos fundadores de qual destas bandas?",
+        "opcoes": [
+            {"id": 1, "texto": "Engenheiros do Hawaii"},
+            {"id": 2, "texto": "Legião Urbana"},
+            {"id": 3, "texto": "Charlie Brown Jr"},
+            {"id": 4, "texto": "Planet Hemp"},
+            {"id": 5, "texto": "Titãs"}
+        ],
+        "resposta": 1,
+        "resposta_id": 542
+    },
+    {
+        "pergunta": "Qual destas bandas não tem um album Acústico MTV?",
+        "opcoes": [
+            {"id": 1, "texto": "Jota Quest"},
+            {"id": 2, "texto": "Charlie Brown Jr"},
+            {"id": 3, "texto": "Capital Inicial"},
+            {"id": 4, "texto": "Novos Baianos"},
+            {"id": 5, "texto": "Engenheiros do Hawaii"}
+        ],
+        "resposta": 1,
+        "resposta_id": 543
+    },
+    {
+        "pergunta": "O que é um pincenê?",
+        "opcoes": [
+            {"id": 1, "texto": "Tipo de óculos"},
+            {"id": 2, "texto": "Tipo de vaso"},
+            {"id": 3, "texto": "Instrumento musical"},
+            {"id": 4, "texto": "Instrumento de pintura"},
+            {"id": 5, "texto": "Embarcação"}
+        ],
+        "resposta": 1,
+        "resposta_id": 544
+    },
+    {
+        "pergunta": "O Tocantins pertence a qual região do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Norte"},
+            {"id": 2, "texto": "Nordeste"},
+            {"id": 3, "texto": "Centro-oeste"},
+            {"id": 4, "texto": "Sudeste"},
+            {"id": 5, "texto": "Sul"}
+        ],
+        "resposta": 1,
+        "resposta_id": 545
+    },
+    {
+        "pergunta": "Em que ano foi criado o Distrito Federal?",
+        "opcoes": [
+            {"id": 1, "texto": "1960"},
+            {"id": 2, "texto": "1950"},
+            {"id": 3, "texto": "1940"},
+            {"id": 4, "texto": "1970"},
+            {"id": 5, "texto": "1980"}
+        ],
+        "resposta": 1,
+        "resposta_id": 546
     }
 ]
