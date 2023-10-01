@@ -6550,5 +6550,485 @@
         ],
         "resposta": 1,
         "resposta_id": 546
+    },
+    {
+        "pergunta": "O escritor Abdulrazak Gurnah, vencedor do Nobel de literatura de 2021, é de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Tanzânia"},
+            {"id": 2, "texto": "Somália"},
+            {"id": 3, "texto": "Namíbia"},
+            {"id": 4, "texto": "Nigéria"},
+            {"id": 5, "texto": "Camarões"}
+        ],
+        "resposta": 1,
+        "resposta_id": 547
+    },
+    {
+        "pergunta": "Como se escreve 'terça-feira' em espanhol?",
+        "opcoes": [
+            {"id": 1, "texto": "Martes"},
+            {"id": 2, "texto": "Lunes"},
+            {"id": 3, "texto": "Miércoles"},
+            {"id": 4, "texto": "Jueves"},
+            {"id": 5, "texto": "Viernes"}
+        ],
+        "resposta": 1,
+        "resposta_id": 548
+    },
+    {
+        "pergunta": "Em Star Wars, qual era o nome de Darth Vader?",
+        "opcoes": [
+            {"id": 1, "texto": "Anakin Skywalker"},
+            {"id": 2, "texto": "Luke Skywalker"},
+            {"id": 3, "texto": "Obi-Wan Kenobi"},
+            {"id": 4, "texto": "Qui-Gon Jinn"},
+            {"id": 5, "texto": "Jar Jar Binks"}
+        ],
+        "resposta": 1,
+        "resposta_id": 549
+    },
+    {
+        "pergunta": "Qual cadeira Machado de Assis ocupava na Academia Brasileira de Letras?",
+        "opcoes": [
+            {"id": 1, "texto": "23"},
+            {"id": 2, "texto": "1"},
+            {"id": 3, "texto": "11"},
+            {"id": 4, "texto": "29"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "resposta_id": 550
+    },
+    {
+        "pergunta": "Quem assumiu o vocal do AC/DC com a morte de Bon Scott?",
+        "opcoes": [
+            {"id": 1, "texto": "Brian Johnson"},
+            {"id": 2, "texto": "Axl Rose"},
+            {"id": 3, "texto": "Bruce Dickinson"},
+            {"id": 4, "texto": "Cliff Williams"},
+            {"id": 5, "texto": "Angus Young"}
+        ],
+        "resposta": 1,
+        "resposta_id": 551
+    },
+    {
+        "pergunta": "Qual a capital do Paraguai?",
+        "opcoes": [
+            {"id": 1, "texto": "Asunción"},
+            {"id": 2, "texto": "Lima"},
+            {"id": 3, "texto": "Ciudad del Este"},
+            {"id": 4, "texto": "Encarnación"},
+            {"id": 5, "texto": "Paraguarí"}
+        ],
+        "resposta": 1,
+        "resposta_id": 552
+    },
+    {
+        "pergunta": "Segundo o Livro dos Recordes, quantos gols Pelé marcou na carreira?",
+        "opcoes": [
+            {"id": 1, "texto": "1283"},
+            {"id": 2, "texto": "1194"},
+            {"id": 3, "texto": "1075"},
+            {"id": 4, "texto": "1362"},
+            {"id": 5, "texto": "1456"}
+        ],
+        "resposta": 1,
+        "resposta_id": 553
+    },
+    {
+        "pergunta": "Contra qual time Romário marcou seu milésimo gol?",
+        "opcoes": [
+            {"id": 1, "texto": "Sport"},
+            {"id": 2, "texto": "Flamengo"},
+            {"id": 3, "texto": "Santos"},
+            {"id": 4, "texto": "Botafogo"},
+            {"id": 5, "texto": "Náutico"}
+        ],
+        "resposta": 1,
+        "resposta_id": 554
+    },
+    {
+        "pergunta": "Qual instrumento Cliff Williams tocava no AC/DC?",
+        "opcoes": [
+            {"id": 1, "texto": "Baixo"},
+            {"id": 2, "texto": "Guitarra"},
+            {"id": 3, "texto": "Bateria"},
+            {"id": 4, "texto": "Violino"},
+            {"id": 5, "texto": "Trompete"}
+        ],
+        "resposta": 1,
+        "resposta_id": 555
+    },
+    {
+        "pergunta": "Qual a capital da Angola?",
+        "opcoes": [
+            {"id": 1, "texto": "Luanda"},
+            {"id": 2, "texto": "Labianca"},
+            {"id": 3, "texto": "Maputo"},
+            {"id": 4, "texto": "Lusaka"},
+            {"id": 5, "texto": "Benguel"}
+        ],
+        "resposta": 1,
+        "resposta_id": 556
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Botafogo de Futebol e Regatas?",
+        "opcoes": [
+            {"id": 1, "texto": "1904"},
+            {"id": 2, "texto": "1900"},
+            {"id": 3, "texto": "1908"},
+            {"id": 4, "texto": "1912"},
+            {"id": 5, "texto": "1916"}
+        ],
+        "resposta": 1,
+        "resposta_id": 557
+    },
+    {
+        "pergunta": "Em que ano foi lançado o primeiro livro da saga Harry Potter?",
+        "opcoes": [
+            {"id": 1, "texto": "1997"},
+            {"id": 2, "texto": "2000"},
+            {"id": 3, "texto": "2001"},
+            {"id": 4, "texto": "1995"},
+            {"id": 5, "texto": "1999"}
+        ],
+        "resposta": 1,
+        "resposta_id": 558
+    },
+    {
+        "pergunta": "Qual time foi campeão da Champions League na campanha 14-15?",
+        "opcoes": [
+            {"id": 1, "texto": "Barcelona"},
+            {"id": 2, "texto": "Real Madrid"},
+            {"id": 3, "texto": "Bayern de Munique"},
+            {"id": 4, "texto": "Internazionale"},
+            {"id": 5, "texto": "Milan"}
+        ],
+        "resposta": 1,
+        "resposta_id": 559
+    },
+    {
+        "pergunta": "Segundo a Bíblia, qual o nome do rio em que Jesus foi batizado?",
+        "opcoes": [
+            {"id": 1, "texto": "Jordão"},
+            {"id": 2, "texto": "Nilo"},
+            {"id": 3, "texto": "Eufrates"},
+            {"id": 4, "texto": "Gehon"},
+            {"id": 5, "texto": "Phison"}
+        ],
+        "resposta": 1,
+        "resposta_id": 560
+    },
+    {
+        "pergunta": "Qual o idioma oficial falado em Moçambique?",
+        "opcoes": [
+            {"id": 1, "texto": "Português"},
+            {"id": 2, "texto": "Inglês"},
+            {"id": 3, "texto": "Francês"},
+            {"id": 4, "texto": "Espanhol"},
+            {"id": 5, "texto": "Árabe"}
+        ],
+        "resposta": 1,
+        "resposta_id": 561
+    },
+    {
+        "pergunta": "Qual o nome do baterista da banda Restart?",
+        "opcoes": [
+            {"id": 1, "texto": "Thomas"},
+            {"id": 2, "texto": "Koba"},
+            {"id": 3, "texto": "Pe Lu"},
+            {"id": 4, "texto": "Pe Lanza"},
+            {"id": 5, "texto": "Di Ferrero"}
+        ],
+        "resposta": 1,
+        "resposta_id": 562
+    },
+    {
+        "pergunta": "Qual time foi campeão da série B do Campeonato Brasileiro de 2020?",
+        "opcoes": [
+            {"id": 1, "texto": "Chapecoense - SC"},
+            {"id": 2, "texto": "Juventude - RS"},
+            {"id": 3, "texto": "América - MG"},
+            {"id": 4, "texto": "Avaí - SC"},
+            {"id": 5, "texto": "Cruzeiro - MG"}
+        ],
+        "resposta": 1,
+        "resposta_id": 563
+    },
+    {
+        "pergunta": "Qual a capital de Moçambique?",
+        "opcoes": [
+            {"id": 1, "texto": "Maputo"},
+            {"id": 2, "texto": "Luanda"},
+            {"id": 3, "texto": "Harare"},
+            {"id": 4, "texto": "Matola"},
+            {"id": 5, "texto": "Chimolo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 564
+    },
+    {
+        "pergunta": "Qual destes é um imposto estadual?",
+        "opcoes": [
+            {"id": 1, "texto": "IPVA"},
+            {"id": 2, "texto": "IPTU"},
+            {"id": 3, "texto": "ISS"},
+            {"id": 4, "texto": "IPI"},
+            {"id": 5, "texto": "ITBI"}
+        ],
+        "resposta": 1,
+        "resposta_id": 565
+    },
+    {
+        "pergunta": "Em qual time Romário jogava quando marcou seu milésimo gol?",
+        "opcoes": [
+            {"id": 1, "texto": "Vasco"},
+            {"id": 2, "texto": "Flamengo"},
+            {"id": 3, "texto": "Fluminense"},
+            {"id": 4, "texto": "América - RJ"},
+            {"id": 5, "texto": "Botafogo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 566
+    },
+    {
+        "pergunta": "O rosto de qual ex-presidente dos EUA está estanpado na cédula de 10 dólares?",
+        "opcoes": [
+            {"id": 1, "texto": "Alexander Hamilton"},
+            {"id": 2, "texto": "Andrew Jackson"},
+            {"id": 3, "texto": "Abraham Lincoln"},
+            {"id": 4, "texto": "Thomas Jefferson"},
+            {"id": 5, "texto": "George Washington"}
+        ],
+        "resposta": 1,
+        "resposta_id": 567
+    },
+    {
+        "pergunta": "Qual animal está estampado na cédula de 5 reais?",
+        "opcoes": [
+            {"id": 1, "texto": "Garça"},
+            {"id": 2, "texto": "Beija-flor"},
+            {"id": 3, "texto": "Tartaruga"},
+            {"id": 4, "texto": "Arara"},
+            {"id": 5, "texto": "Mico-leão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 568
+    },
+    {
+        "pergunta": "Em qual time Alexandre Pato iniciou sua carreira?",
+        "opcoes": [
+            {"id": 1, "texto": "Internacional"},
+            {"id": 2, "texto": "Grêmio"},
+            {"id": 3, "texto": "São Paulo"},
+            {"id": 4, "texto": "Corinthians"},
+            {"id": 5, "texto": "Coritiba"}
+        ],
+        "resposta": 1,
+        "resposta_id": 569
+    },
+    {
+        "pergunta": "Qual o verdadeiro nome do rapper Djonga?",
+        "opcoes": [
+            {"id": 1, "texto": "Gustavo"},
+            {"id": 2, "texto": "Daniel"},
+            {"id": 3, "texto": "Diogo"},
+            {"id": 4, "texto": "Guilherme"},
+            {"id": 5, "texto": "Douglas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 570
+    },
+    {
+        "pergunta": "Qual foi a primeira capital do estado de São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "São Vicente"},
+            {"id": 2, "texto": "Santos"},
+            {"id": 3, "texto": "São Sebastião"},
+            {"id": 4, "texto": "São Bernardo"},
+            {"id": 5, "texto": "São Paulo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 571
+    },
+    {
+        "pergunta": "Em qual estado fica o maior sítio arqueológico do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Piauí"},
+            {"id": 2, "texto": "Maranhão"},
+            {"id": 3, "texto": "Ceará"},
+            {"id": 4, "texto": "Tocantins"},
+            {"id": 5, "texto": "Minas Gerais"}
+        ],
+        "resposta": 1,
+        "resposta_id": 572
+    },
+    {
+        "pergunta": "Quantas vezes o Brasil conquistou a Copa das Confederações?",
+        "opcoes": [
+            {"id": 1, "texto": "4"},
+            {"id": 2, "texto": "5"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "2"},
+            {"id": 5, "texto": "1"}
+        ],
+        "resposta": 1,
+        "resposta_id": 573
+    },
+    {
+        "pergunta": "A ilha de Fernando de Noronha pertence a qual estado brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Pernambuco"},
+            {"id": 2, "texto": "Rio Grande do Norte"},
+            {"id": 3, "texto": "Ceará"},
+            {"id": 4, "texto": "Alagoas"},
+            {"id": 5, "texto": "Paraíba"}
+        ],
+        "resposta": 1,
+        "resposta_id": 574
+    },
+    {
+        "pergunta": "Qual time brasileiro tem mais títulos do Mundial de Clubes da FIFA?",
+        "opcoes": [
+            {"id": 1, "texto": "São Paulo"},
+            {"id": 2, "texto": "Santos"},
+            {"id": 3, "texto": "Flamengo"},
+            {"id": 4, "texto": "Grêmio"},
+            {"id": 5, "texto": "Internacional"}
+        ],
+        "resposta": 1,
+        "resposta_id": 575
+    },
+    {
+        "pergunta": "Em que ano foi fundada a Petrobras?",
+        "opcoes": [
+            {"id": 1, "texto": "1953"},
+            {"id": 2, "texto": "1963"},
+            {"id": 3, "texto": "1943"},
+            {"id": 4, "texto": "1973"},
+            {"id": 5, "texto": "1983"}
+        ],
+        "resposta": 1,
+        "resposta_id": 576
+    },
+    {
+        "pergunta": "Em qual destes times Ronaldo Fenômeno não jogou?",
+        "opcoes": [
+            {"id": 1, "texto": "PSG"},
+            {"id": 2, "texto": "PSV"},
+            {"id": 3, "texto": "Milan"},
+            {"id": 4, "texto": "Barcelona"},
+            {"id": 5, "texto": "Internazionale"}
+        ],
+        "resposta": 1,
+        "resposta_id": 577
+    },
+    {
+        "pergunta": "Qual a capital de Bangladesh?",
+        "opcoes": [
+            {"id": 1, "texto": "Dhaka"},
+            {"id": 2, "texto": "Rajshahi"},
+            {"id": 3, "texto": "Rangpur"},
+            {"id": 4, "texto": "Naogaon"},
+            {"id": 5, "texto": "Khulna"}
+        ],
+        "resposta": 1,
+        "resposta_id": 578
+    },
+    {
+        "pergunta": "Qual o nome do maior edifício do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Burj Khalifa"},
+            {"id": 2, "texto": "Shanghai Tower"},
+            {"id": 3, "texto": "Empire State Building"},
+            {"id": 4, "texto": "Lakhta Center"},
+            {"id": 5, "texto": "Burj Al Arab"}
+        ],
+        "resposta": 1,
+        "resposta_id": 579
+    },
+    {
+        "pergunta": "Qual a capital do Mato Grosso do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Campo Grande"},
+            {"id": 2, "texto": "Cuiabá"},
+            {"id": 3, "texto": "Boa Vista"},
+            {"id": 4, "texto": "Palmas"},
+            {"id": 5, "texto": "Porto Velho"}
+        ],
+        "resposta": 1,
+        "resposta_id": 580
+    },
+    {
+        "pergunta": "A formiga-feiticeira é uma espécie de que?",
+        "opcoes": [
+            {"id": 1, "texto": "Vespa"},
+            {"id": 2, "texto": "Abelha"},
+            {"id": 3, "texto": "Formiga"},
+            {"id": 4, "texto": "Besouro"},
+            {"id": 5, "texto": "Percevejo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 581
+    },
+    {
+        "pergunta": "Qual destas músicas não é do grupo Racionais MC's?",
+        "opcoes": [
+            {"id": 1, "texto": "O quinto vigia"},
+            {"id": 2, "texto": "Diário de um detento"},
+            {"id": 3, "texto": "Negro drama"},
+            {"id": 4, "texto": "Da ponte pra cá"},
+            {"id": 5, "texto": "Fórmula mágica da paz"}
+        ],
+        "resposta": 1,
+        "resposta_id": 582
+    },
+    {
+        "pergunta": "Qual a capital da Alemanha?",
+        "opcoes": [
+            {"id": 1, "texto": "Berlim"},
+            {"id": 2, "texto": "Frankfurt"},
+            {"id": 3, "texto": "Hamburgo"},
+            {"id": 4, "texto": "Munique"},
+            {"id": 5, "texto": "Stuttgart"}
+        ],
+        "resposta": 1,
+        "resposta_id": 583
+    },
+    {
+        "pergunta": "Qual time tem mais títulos da Copa do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Cruzeiro"},
+            {"id": 2, "texto": "Flamengo"},
+            {"id": 3, "texto": "Grêmio"},
+            {"id": 4, "texto": "Palmeiras"},
+            {"id": 5, "texto": "Paysandu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 584
+    },
+    {
+        "pergunta": "Em que ano o telescópio James Webb foi lançado ao espaço?",
+        "opcoes": [
+            {"id": 1, "texto": "2021"},
+            {"id": 2, "texto": "2023"},
+            {"id": 3, "texto": "2019"},
+            {"id": 4, "texto": "2017"},
+            {"id": 5, "texto": "2015"}
+        ],
+        "resposta": 1,
+        "resposta_id": 585
+    },
+    {
+        "pergunta": "Qual a capital do Haiti?",
+        "opcoes": [
+            {"id": 1, "texto": "Porto Príncipe"},
+            {"id": 2, "texto": "Santo Domingos"},
+            {"id": 3, "texto": "San Juan"},
+            {"id": 4, "texto": "Belmopan"},
+            {"id": 5, "texto": "San Salvador"}
+        ],
+        "resposta": 1,
+        "resposta_id": 586
     }
 ]
