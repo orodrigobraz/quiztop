@@ -7030,5 +7030,29 @@
         ],
         "resposta": 1,
         "resposta_id": 586
+    },
+    {
+        "pergunta": "Qual empresa criou o primeiro telefone celular no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Motorola"},
+            {"id": 2, "texto": "Nokia"},
+            {"id": 3, "texto": "Samsung"},
+            {"id": 4, "texto": "Apple"},
+            {"id": 5, "texto": "Blackberry"}
+        ],
+        "resposta": 1,
+        "resposta_id": 587
+    },
+    {
+        "pergunta": "Em qual país fica a sede da Nokia?",
+        "opcoes": [
+            {"id": 1, "texto": "Finlândia"},
+            {"id": 2, "texto": "Coreia do Sul"},
+            {"id": 3, "texto": "Japão"},
+            {"id": 4, "texto": "China"},
+            {"id": 5, "texto": "Estados Unidos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 588
     }
 ]
