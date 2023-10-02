@@ -4188,7 +4188,7 @@
         "resposta_id": 349
     },
     {
-        "pergunta": "Qual compositor compôs a obra 'O lago dos cisnes'?",
+        "pergunta": "Quem compôs a obra 'O lago dos cisnes'?",
         "opcoes": [
             {"id": 1, "texto": "Piotr Tchaikovski"},
             {"id": 2, "texto": "Frédéric Chopin"},
@@ -7090,5 +7090,137 @@
         ],
         "resposta": 1,
         "resposta_id": 591
+    },
+    {
+        "pergunta": "Que tipo de animal é o Quokka?",
+        "opcoes": [
+            {"id": 1, "texto": "Mamífero"},
+            {"id": 2, "texto": "Peixe"},
+            {"id": 3, "texto": "Réptil"},
+            {"id": 4, "texto": "Ave"},
+            {"id": 5, "texto": "Anfíbio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 592
+    },
+    {
+        "pergunta": "Qual o símbolo do potássio na tabela periódica?",
+        "opcoes": [
+            {"id": 1, "texto": "K"},
+            {"id": 2, "texto": "P"},
+            {"id": 3, "texto": "Pt"},
+            {"id": 4, "texto": "Po"},
+            {"id": 5, "texto": "Ps"}
+        ],
+        "resposta": 1,
+        "resposta_id": 593
+    },
+    {
+        "pergunta": "Qual a capital da Nova Zelândia?",
+        "opcoes": [
+            {"id": 1, "texto": "Wellington"},
+            {"id": 2, "texto": "Auckland"},
+            {"id": 3, "texto": "Oakland"},
+            {"id": 4, "texto": "Queenstown"},
+            {"id": 5, "texto": "Hamilton"}
+        ],
+        "resposta": 1,
+        "resposta_id": 594
+    },
+    {
+        "pergunta": "Qual a capital judiciária da África do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Bloemfontein"},
+            {"id": 2, "texto": "Cidade do Cabo"},
+            {"id": 3, "texto": "Pretória"},
+            {"id": 4, "texto": "Johanesburgo"},
+            {"id": 5, "texto": "Durban"}
+        ],
+        "resposta": 1,
+        "resposta_id": 595
+    },
+    {
+        "pergunta": "Qual a capital administrativa da África do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Pretória"},
+            {"id": 2, "texto": "Cidade do Cabo"},
+            {"id": 3, "texto": "Bloemfontein"},
+            {"id": 4, "texto": "Johanesburgo"},
+            {"id": 5, "texto": "Durban"}
+        ],
+        "resposta": 1,
+        "resposta_id": 596
+    },
+    {
+        "pergunta": "Qual a capital legislativa e administrativa da Bolívia?",
+        "opcoes": [
+            {"id": 1, "texto": "La Paz"},
+            {"id": 2, "texto": "Sucre"},
+            {"id": 3, "texto": "Potosí"},
+            {"id": 4, "texto": "Uyuni"},
+            {"id": 5, "texto": "Oruro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 597
+    },
+    {
+        "pergunta": "Qual a capital judiciária da Bolívia?",
+        "opcoes": [
+            {"id": 1, "texto": "Sucre"},
+            {"id": 2, "texto": "La Paz"},
+            {"id": 3, "texto": "Potosí"},
+            {"id": 4, "texto": "Uyuni"},
+            {"id": 5, "texto": "Oruro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 598
+    },
+    {
+        "pergunta": "Em qual estado dos EUA fica a sede da Apple?",
+        "opcoes": [
+            {"id": 1, "texto": "Califórnia"},
+            {"id": 2, "texto": "Flórida"},
+            {"id": 3, "texto": "Nova York"},
+            {"id": 4, "texto": "Massachussetts"},
+            {"id": 5, "texto": "Oregon"}
+        ],
+        "resposta": 1,
+        "resposta_id": 599
+    },
+    {
+        "pergunta": "Qual animal é representado pelo número 1 no jogo do bicho?",
+        "opcoes": [
+            {"id": 1, "texto": "Avestruz"},
+            {"id": 2, "texto": "Águia"},
+            {"id": 3, "texto": "Borboleta"},
+            {"id": 4, "texto": "Elefante"},
+            {"id": 5, "texto": "Coelho"}
+        ],
+        "resposta": 1,
+        "resposta_id": 600
+    },
+    {
+        "pergunta": "Qual destes não é um tipo de queijo?",
+        "opcoes": [
+            {"id": 1, "texto": "Ciabatta"},
+            {"id": 2, "texto": "Roquefort"},
+            {"id": 3, "texto": "Chevre"},
+            {"id": 4, "texto": "Gruyere"},
+            {"id": 5, "texto": "Camembert"}
+        ],
+        "resposta": 1,
+        "resposta_id": 601
+    },
+    {
+        "pergunta": "Qual o nome do meio do apresentador Faustão?",
+        "opcoes": [
+            {"id": 1, "texto": "Corrêa"},
+            {"id": 2, "texto": "Sampaio"},
+            {"id": 3, "texto": "Albuquerque"},
+            {"id": 4, "texto": "Maury"},
+            {"id": 5, "texto": "Porto"}
+        ],
+        "resposta": 1,
+        "resposta_id": 602
     }
 ]
