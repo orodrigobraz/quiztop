@@ -7054,5 +7054,41 @@
         ],
         "resposta": 1,
         "resposta_id": 588
+    },
+    {
+        "pergunta": "Quem foi o antecessor de Ronald Reagan como presidente dos Estados Unidos?",
+        "opcoes": [
+            {"id": 1, "texto": "Jimmy Carter"},
+            {"id": 2, "texto": "Gerald Ford"},
+            {"id": 3, "texto": "Richard Nixon"},
+            {"id": 4, "texto": "Lyndon Johnson"},
+            {"id": 5, "texto": "John Kennedy"}
+        ],
+        "resposta": 1,
+        "resposta_id": 589
+    },
+    {
+        "pergunta": "Quem foi o quadragésimo segundo presidente dos Estados Unidos?",
+        "opcoes": [
+            {"id": 1, "texto": "Bill Clinton"},
+            {"id": 2, "texto": "Barack Obama"},
+            {"id": 3, "texto": "George W. Bush"},
+            {"id": 4, "texto": "Donald Trump"},
+            {"id": 5, "texto": "Harry Truman"}
+        ],
+        "resposta": 1,
+        "resposta_id": 590
+    },
+    {
+        "pergunta": "Em qual cidade fica o Museu do Amanhã?",
+        "opcoes": [
+            {"id": 1, "texto": "Rio de Janeiro"},
+            {"id": 2, "texto": "Niterói"},
+            {"id": 3, "texto": "Santos"},
+            {"id": 4, "texto": "São Paulo"},
+            {"id": 5, "texto": "Angra dos Reis"}
+        ],
+        "resposta": 1,
+        "resposta_id": 591
     }
 ]
