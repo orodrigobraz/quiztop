@@ -7222,5 +7222,41 @@
         ],
         "resposta": 1,
         "resposta_id": 602
+    },
+    {
+        "pergunta": "O que é um Ocapi?",
+        "opcoes": [
+            {"id": 1, "texto": "Mamífero"},
+            {"id": 2, "texto": "Instrumento musical"},
+            {"id": 3, "texto": "Fruta"},
+            {"id": 4, "texto": "Tipo de habitação"},
+            {"id": 5, "texto": "Vaso"}
+        ],
+        "resposta": 1,
+        "resposta_id": 603
+    },
+    {
+        "pergunta": "De qual novela era a vilã Nazaré Tedesco?",
+        "opcoes": [
+            {"id": 1, "texto": "Senhora do destino"},
+            {"id": 2, "texto": "Mulheres apaixonadas"},
+            {"id": 3, "texto": "Laços de família"},
+            {"id": 4, "texto": "América"},
+            {"id": 5, "texto": "Avenida Brasil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 604
+    },
+    {
+        "pergunta": "Quanto tempo durou o reinado da rainha Elizabeth II?",
+        "opcoes": [
+            {"id": 1, "texto": "70 anos"},
+            {"id": 2, "texto": "60 anos"},
+            {"id": 3, "texto": "50 anos"},
+            {"id": 4, "texto": "80 anos"},
+            {"id": 5, "texto": "40 anos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 605
     }
 ]
