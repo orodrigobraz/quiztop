@@ -7602,7 +7602,7 @@
             {"id": 2, "texto": "Eduardo Saverin"},
             {"id": 3, "texto": "Cristiano Amon"},
             {"id": 4, "texto": "Felippe Regazio"},
-            {"id": 5, "texto": "Pensilvânia"}
+            {"id": 5, "texto": "Robert Pera"}
         ],
         "resposta": 1,
         "resposta_id": 634
@@ -8230,5 +8230,425 @@
         ],
         "resposta": 1,
         "resposta_id": 686
+    },
+    {
+        "pergunta": "Qual o nome da dupla que compõe Os Barões da Pisadinha?",
+        "opcoes": [
+            {"id": 1, "texto": "Rodrigo e Felipe"},
+            {"id": 2, "texto": "Jorge e Vitor"},
+            {"id": 3, "texto": "Ismael e Bruno"},
+            {"id": 4, "texto": "Gustavo e Silvano"},
+            {"id": 5, "texto": "Kevin e Marcio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 687
+    },
+    {
+        "pergunta": "Qual o principal ingrediente do prato árabe Homus?",
+        "opcoes": [
+            {"id": 1, "texto": "Grão-de-bico"},
+            {"id": 2, "texto": "Feijão"},
+            {"id": 3, "texto": "Berinjela"},
+            {"id": 4, "texto": "Coalhada"},
+            {"id": 5, "texto": "Pimenta"}
+        ],
+        "resposta": 1,
+        "resposta_id": 688
+    },
+    {
+        "pergunta": "No império romano, como se chamava a carroça puxada por dois cavalos?",
+        "opcoes": [
+            {"id": 1, "texto": "Biga"},
+            {"id": 2, "texto": "Biliga"},
+            {"id": 3, "texto": "Cavaliga"},
+            {"id": 4, "texto": "Duoliga"},
+            {"id": 5, "texto": "Caligula"}
+        ],
+        "resposta": 1,
+        "resposta_id": 689
+    },
+    {
+        "pergunta": "Qual o mineral necessário para a produção da hemoglobina?",
+        "opcoes": [
+            {"id": 1, "texto": "Ferro"},
+            {"id": 2, "texto": "Potássio"},
+            {"id": 3, "texto": "Magnésio"},
+            {"id": 4, "texto": "Cálcio"},
+            {"id": 5, "texto": "Sódio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 690
+    },
+    {
+        "pergunta": "Qual destes anos pertence ao século 18?",
+        "opcoes": [
+            {"id": 1, "texto": "1734"},
+            {"id": 2, "texto": "1626"},
+            {"id": 3, "texto": "1830"},
+            {"id": 4, "texto": "1902"},
+            {"id": 5, "texto": "1598"}
+        ],
+        "resposta": 1,
+        "resposta_id": 691
+    },
+    {
+        "pergunta": "Elza Soares foi casada com qual grande jogador de futebol brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Garrincha"},
+            {"id": 2, "texto": "Pelé"},
+            {"id": 3, "texto": "Zico"},
+            {"id": 4, "texto": "Tostão"},
+            {"id": 5, "texto": "Sócrates"}
+        ],
+        "resposta": 1,
+        "resposta_id": 692
+    },
+    {
+        "pergunta": "A lei de pureza da Baviera estabelece limites para a pureza de qual bebida?",
+        "opcoes": [
+            {"id": 1, "texto": "Cerveja"},
+            {"id": 2, "texto": "Vinho"},
+            {"id": 3, "texto": "Whisky"},
+            {"id": 4, "texto": "Champagne"},
+            {"id": 5, "texto": "Água com gás"}
+        ],
+        "resposta": 1,
+        "resposta_id": 693
+    },
+    {
+        "pergunta": "Em qual continente vive o animal conhecido como diabo-da-Tasmânia?",
+        "opcoes": [
+            {"id": 1, "texto": "Oceania"},
+            {"id": 2, "texto": "América do Norte"},
+            {"id": 3, "texto": "África"},
+            {"id": 4, "texto": "Ásia"},
+            {"id": 5, "texto": "Europa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 694
+    },
+    {
+        "pergunta": "Alfa e Delta são letras que pertencem a qual alfabeto?",
+        "opcoes": [
+            {"id": 1, "texto": "Grego"},
+            {"id": 2, "texto": "Cirílico"},
+            {"id": 3, "texto": "Latino"},
+            {"id": 4, "texto": "Hebraico"},
+            {"id": 5, "texto": "Árabe"}
+        ],
+        "resposta": 1,
+        "resposta_id": 695
+    },
+    {
+        "pergunta": "Em que ano Cristóvão Colombo chegou à América?",
+        "opcoes": [
+            {"id": 1, "texto": "1492"},
+            {"id": 2, "texto": "1420"},
+            {"id": 3, "texto": "1498"},
+            {"id": 4, "texto": "1500"},
+            {"id": 5, "texto": "1502"}
+        ],
+        "resposta": 1,
+        "resposta_id": 696
+    },
+    {
+        "pergunta": "Quanto é 50 dividido por 0,5?",
+        "opcoes": [
+            {"id": 1, "texto": "100"},
+            {"id": 2, "texto": "25"},
+            {"id": 3, "texto": "10"},
+            {"id": 4, "texto": "75"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "resposta_id": 697
+    },
+    {
+        "pergunta": "Qual o feminino de compadre?",
+        "opcoes": [
+            {"id": 1, "texto": "Comadre"},
+            {"id": 2, "texto": "Confreira"},
+            {"id": 3, "texto": "Compadressa"},
+            {"id": 4, "texto": "Compadrinha"},
+            {"id": 5, "texto": "Compadra"}
+        ],
+        "resposta": 1,
+        "resposta_id": 698
+    },
+    {
+        "pergunta": "Gotham City é a cidade natal de qual super-herói?",
+        "opcoes": [
+            {"id": 1, "texto": "Batman"},
+            {"id": 2, "texto": "Superman"},
+            {"id": 3, "texto": "Homem-aranha"},
+            {"id": 4, "texto": "Flash"},
+            {"id": 5, "texto": "Lanterna Verde"}
+        ],
+        "resposta": 1,
+        "resposta_id": 699
+    },
+    {
+        "pergunta": "No início do jogo de xadrez, qual é a peça que está em maior número?",
+        "opcoes": [
+            {"id": 1, "texto": "Peão"},
+            {"id": 2, "texto": "Torre"},
+            {"id": 3, "texto": "Cavalo"},
+            {"id": 4, "texto": "Bispo"},
+            {"id": 5, "texto": "Rainha"}
+        ],
+        "resposta": 1,
+        "resposta_id": 700
+    },
+    {
+        "pergunta": "Qual o nome do líder supremo da Coreia do Norte?",
+        "opcoes": [
+            {"id": 1, "texto": "Kim Jong-un"},
+            {"id": 2, "texto": "Kim Yo-jong"},
+            {"id": 3, "texto": "Ho Chi Minh"},
+            {"id": 4, "texto": "Yoon Suk-yeol"},
+            {"id": 5, "texto": "Mao Tse-Tung"}
+        ],
+        "resposta": 1,
+        "resposta_id": 701
+    },
+    {
+        "pergunta": "Qual o nome do traje preto usado pelos membros do poder judiciário?",
+        "opcoes": [
+            {"id": 1, "texto": "Toga"},
+            {"id": 2, "texto": "Paletó"},
+            {"id": 3, "texto": "Fraque"},
+            {"id": 4, "texto": "Capa"},
+            {"id": 5, "texto": "Smoking"}
+        ],
+        "resposta": 1,
+        "resposta_id": 702
+    },
+    {
+        "pergunta": "Nos videogames, qual personagem ganha poderes através de cogumelos?",
+        "opcoes": [
+            {"id": 1, "texto": "Mario"},
+            {"id": 2, "texto": "Sonic"},
+            {"id": 3, "texto": "Link"},
+            {"id": 4, "texto": "Donkey Kong"},
+            {"id": 5, "texto": "Pac-man"}
+        ],
+        "resposta": 1,
+        "resposta_id": 703
+    },
+    {
+        "pergunta": "O Rio Xingu é afluente de qual rio brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Amazonas"},
+            {"id": 2, "texto": "São Francisco"},
+            {"id": 3, "texto": "Paraná"},
+            {"id": 4, "texto": "Tocantins"},
+            {"id": 5, "texto": "Sapucaí"}
+        ],
+        "resposta": 1,
+        "resposta_id": 704
+    },
+    {
+        "pergunta": "O obelisco do Ibirapuera em São Paulo foi construído em homenagem a qual evento?",
+        "opcoes": [
+            {"id": 1, "texto": "Revolução de 1932"},
+            {"id": 2, "texto": "Independência do Brasil"},
+            {"id": 3, "texto": "Copa do Mundo de 1950"},
+            {"id": 4, "texto": "Semana de Arte Moderna"},
+            {"id": 5, "texto": "Descobrimento do Brasil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 705
+    },
+    {
+        "pergunta": "A pintura 'A última ceia' de Leonardo Da Vinci foi pintada em...?",
+        "opcoes": [
+            {"id": 1, "texto": "Uma parede"},
+            {"id": 2, "texto": "Uma tela"},
+            {"id": 3, "texto": "Uma porta"},
+            {"id": 4, "texto": "Um teto"},
+            {"id": 5, "texto": "No chão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 706
+    },
+    {
+        "pergunta": "Quantas cores oficiais há na bandeira brasileira?",
+        "opcoes": [
+            {"id": 1, "texto": "Quatro"},
+            {"id": 2, "texto": "Cinco"},
+            {"id": 3, "texto": "Três"},
+            {"id": 4, "texto": "Duas"},
+            {"id": 5, "texto": "Uma"}
+        ],
+        "resposta": 1,
+        "resposta_id": 707
+    },
+    {
+        "pergunta": "Qual era a profissão do ambientalista Chico Mendes?",
+        "opcoes": [
+            {"id": 1, "texto": "Seringueiro"},
+            {"id": 2, "texto": "Caçador"},
+            {"id": 3, "texto": "Biólogo"},
+            {"id": 4, "texto": "Cinegrafista"},
+            {"id": 5, "texto": "Pescador"}
+        ],
+        "resposta": 1,
+        "resposta_id": 708
+    },
+    {
+        "pergunta": "Quantos ângulos internos possui um paralelogramo?",
+        "opcoes": [
+            {"id": 1, "texto": "Quatro"},
+            {"id": 2, "texto": "Cinco"},
+            {"id": 3, "texto": "Seis"},
+            {"id": 4, "texto": "Sete"},
+            {"id": 5, "texto": "Oito"}
+        ],
+        "resposta": 1,
+        "resposta_id": 709
+    },
+    {
+        "pergunta": "Qual a capital da Islândia?",
+        "opcoes": [
+            {"id": 1, "texto": "Reykjavik"},
+            {"id": 2, "texto": "Akranes"},
+            {"id": 3, "texto": "Estocolmo"},
+            {"id": 4, "texto": "Copenhague"},
+            {"id": 5, "texto": "Helsinke"}
+        ],
+        "resposta": 1,
+        "resposta_id": 710
+    },
+    {
+        "pergunta": "Qual o nome do primeiro satélite artificial lançado ao espaço?",
+        "opcoes": [
+            {"id": 1, "texto": "Sputnik 1"},
+            {"id": 2, "texto": "Apollo 1"},
+            {"id": 3, "texto": "IRNSS-1H"},
+            {"id": 4, "texto": "SCD-1"},
+            {"id": 5, "texto": "Vanguard-2B"}
+        ],
+        "resposta": 1,
+        "resposta_id": 711
+    },
+    {
+        "pergunta": "Quem foi o primeiro médico brasileiro a realizar um transplante de coração?",
+        "opcoes": [
+            {"id": 1, "texto": "Euryclides de Jesus Zerbini"},
+            {"id": 2, "texto": "Adib Domingos Jatene"},
+            {"id": 3, "texto": "Dante Pazzanese"},
+            {"id": 4, "texto": "Roberto Kalil Filho"},
+            {"id": 5, "texto": "José Osmar Medina Pestana"}
+        ],
+        "resposta": 1,
+        "resposta_id": 712
+    },
+    {
+        "pergunta": "5 metros cúbicos de água equivalem a quantos litros?",
+        "opcoes": [
+            {"id": 1, "texto": "5000"},
+            {"id": 2, "texto": "500"},
+            {"id": 3, "texto": "50"},
+            {"id": 4, "texto": "50000"},
+            {"id": 5, "texto": "10000"}
+        ],
+        "resposta": 1,
+        "resposta_id": 713
+    },
+    {
+        "pergunta": "As tartarugas ninja foram batizadas em homenagem a quem?",
+        "opcoes": [
+            {"id": 1, "texto": "Artistas italianos"},
+            {"id": 2, "texto": "Samurais japoneses"},
+            {"id": 3, "texto": "Filósofos gregos"},
+            {"id": 4, "texto": "Imperadores romanos"},
+            {"id": 5, "texto": "Cientistas franceses"}
+        ],
+        "resposta": 1,
+        "resposta_id": 714
+    },
+    {
+        "pergunta": "Etna, Tambora e Pinatubo são que tipo de formação geológica?",
+        "opcoes": [
+            {"id": 1, "texto": "Vulcões"},
+            {"id": 2, "texto": "Montanhas"},
+            {"id": 3, "texto": "Planícies"},
+            {"id": 4, "texto": "Desertos"},
+            {"id": 5, "texto": "Cordilheiras"}
+        ],
+        "resposta": 1,
+        "resposta_id": 715
+    },
+    {
+        "pergunta": "Qual animal é Sebastião, amigo da sereia Ariel em 'A Pequena Sereia'?",
+        "opcoes": [
+            {"id": 1, "texto": "Caranguejo"},
+            {"id": 2, "texto": "Peixe"},
+            {"id": 3, "texto": "Golfinho"},
+            {"id": 4, "texto": "Tubarão"},
+            {"id": 5, "texto": "Polvo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 716
+    },
+    {
+        "pergunta": "Um criador de ovinos cria o que?",
+        "opcoes": [
+            {"id": 1, "texto": "Ovelhas"},
+            {"id": 2, "texto": "Bois"},
+            {"id": 3, "texto": "Cavalos"},
+            {"id": 4, "texto": "Porcos"},
+            {"id": 5, "texto": "Galinhas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 717
+    },
+    {
+        "pergunta": "Com que idade os homens devem se alistar nas forças armadas no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "18 anos"},
+            {"id": 2, "texto": "16 anos"},
+            {"id": 3, "texto": "17 anos"},
+            {"id": 4, "texto": "19 anos"},
+            {"id": 5, "texto": "20 anos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 718
+    },
+    {
+        "pergunta": "Qual desses animais machos podem engravidar e dar à luz aos filhotes?",
+        "opcoes": [
+            {"id": 1, "texto": "Cavalo-marinho"},
+            {"id": 2, "texto": "Lula"},
+            {"id": 3, "texto": "Polvo"},
+            {"id": 4, "texto": "Arraia"},
+            {"id": 5, "texto": "Água-viva"}
+        ],
+        "resposta": 1,
+        "resposta_id": 719
+    },
+    {
+        "pergunta": "Qual time de futebol brasileiro tem o apelido de Imortal?",
+        "opcoes": [
+            {"id": 1, "texto": "Grêmio"},
+            {"id": 2, "texto": "Cruzeiro"},
+            {"id": 3, "texto": "Corinthians"},
+            {"id": 4, "texto": "Botafogo"},
+            {"id": 5, "texto": "Vitória"}
+        ],
+        "resposta": 1,
+        "resposta_id": 720
+    },
+    {
+        "pergunta": "Mocho é um touro que não tem o que?",
+        "opcoes": [
+            {"id": 1, "texto": "Chifres"},
+            {"id": 2, "texto": "Dentes"},
+            {"id": 3, "texto": "Rabo"},
+            {"id": 4, "texto": "Orelhas"},
+            {"id": 5, "texto": "Nariz"}
+        ],
+        "resposta": 1,
+        "resposta_id": 721
     }
 ]
