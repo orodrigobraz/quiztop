@@ -1,9 +1,6 @@
 body {
     font-family: "Roboto", Arial, sans-serif;
-    background-image: url("img/cool-background.png");
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 105%;
+    background: linear-gradient(135deg, #232323 0%, #444444 100%);
     margin: 0;
     display: flex;
     justify-content: center;
@@ -13,18 +10,23 @@ body {
 
 @media screen and (max-width: 900px) {
     body {
-      background-image: none;
-      background-color: #272626;
+        background: linear-gradient(135deg, #232323 0%, #444444 100%);
     }
-  }
+}
+
+/* Ajuste para o container principal quando há cabeçalho */
+.quiz-container {
+    margin-top: 80px;
+}
 
 .quiz-container {
     background-color: #ffffff;
-    padding: 20px;
-    border-radius: 8px;
-    max-width: 600px;
+    padding: 30px;
+    border-radius: 12px;
+    max-width: 700px;
     width: 100%;
     text-align: center;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
 }
 
 .qtd-perguntas {
@@ -104,6 +106,8 @@ input[type="number"] {
     color: white;
 }
 
+/* Animação de confetes removida - agora usando biblioteca Canvas Confetti */
+
 .score {
     font-size: 16px;
     font-weight: bold;
@@ -144,4 +148,438 @@ footer {
 
 footer a {
     color: rgb(107, 106, 106);
+}
+
+/* Botão Google */
+.google-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    background-color: #ffffff;
+    color: #3c4043;
+    border: 2px solid #dadce0;
+    border-radius: 8px;
+    font-weight: 700;
+    padding: 16px 24px;
+    font-size: 18px;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+}
+
+.google-btn:hover {
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+    transform: translateY(-2px);
+    border-color: #4285f4;
+}
+
+.google-icon {
+    width: 24px;
+    height: 24px;
+}
+
+.google-btn-text {
+    font-size: 18px;
+    font-weight: 700;
+}
+
+/* Mensagem de boas-vindas */
+.welcome-message {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+}
+
+.welcome-message h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 15px 0;
+}
+
+.welcome-message p {
+    font-size: 1rem;
+    color: #666;
+    margin: 0;
+    font-weight: bold;
+    line-height: 1.6;
+}
+
+/* Container de autenticação */
+.auth-container {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    padding: 30px;
+    border-radius: 12px;
+    border: 1px solid #dee2e6;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+}
+
+/* Esconder container de autenticação quando usuário estiver logado */
+.auth-container.hidden {
+    display: none;
+}
+
+.auth-actions {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+/* Cabeçalho do usuário */
+.auth-header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    background: linear-gradient(135deg, #232323 0%, #444444 100%);
+    border-bottom: 1px solid #555;
+    z-index: 1000;
+}
+
+.user-greeting {
+    font-family: "Roboto", Arial, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffffff;
+    margin: 0;
+    text-align: left;
+}
+
+.logout-btn {
+    cursor: pointer;
+    padding: 8px 16px;
+    background-color: #c6c4c4;
+    border: 2px solid gray;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: bold;
+    transition: .4s ease-in;
+    position: relative;
+    z-index: 1;
+}
+
+.logout-btn:hover {
+    background-color: #ebe8e8;
+    box-shadow: 4px 4px 0px #7c7c7c;
+    top: -2px;
+    left: -2px;
+}
+
+/* Estilos específicos para o Ranking */
+.ranking-container {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+}
+
+/* Ícone de informação */
+.info-icon {
+    display: inline-block;
+    margin-left: 8px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    opacity: 0.7;
+}
+
+.info-icon:hover {
+    opacity: 1;
+    transform: scale(1.1);
+}
+
+/* Modal de explicação dos pontos */
+.points-modal {
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(5px);
+}
+
+.points-modal-content {
+    background-color: #ffffff;
+    margin: 5% auto;
+    padding: 0;
+    border-radius: 12px;
+    width: 90%;
+    max-width: 500px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+    animation: modalSlideIn 0.3s ease-out;
+}
+
+@keyframes modalSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-50px) scale(0.9);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0) scale(1);
+    }
+}
+
+.points-modal-header {
+    background: linear-gradient(135deg, #232323 0%, #444444 100%);
+    color: white;
+    padding: 20px;
+    border-radius: 12px 12px 0 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.points-modal-header h3 {
+    margin: 0;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+.close-modal {
+    color: #aaa;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.close-modal:hover {
+    color: white;
+}
+
+.points-modal-body {
+    padding: 25px;
+}
+
+.points-explanation h4 {
+    color: #333;
+    margin: 20px 0 10px 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+
+.points-explanation h4:first-child {
+    margin-top: 0;
+}
+
+.formula {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+    padding: 15px;
+    border-radius: 8px;
+    border: 2px solid #dee2e6;
+    margin: 15px 0;
+    text-align: center;
+    font-size: 1.1rem;
+}
+
+.points-explanation ul {
+    margin: 10px 0;
+    padding-left: 20px;
+}
+
+.points-explanation li {
+    margin: 8px 0;
+    line-height: 1.5;
+    color: #555;
+}
+
+.points-explanation strong {
+    color: #333;
+}
+
+.ranking-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 8px 0;
+}
+
+.ranking-subtitle {
+    font-size: 1rem;
+    color: #666;
+    margin: 0 0 20px 0;
+}
+
+.ranking-list {
+    background: #f1f1f1;
+    border-radius: 8px;
+    padding: 15px;
+    margin: 15px 0;
+    border: 1px solid #ddd;
+}
+
+.ranking-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px 20px;
+    margin: 8px 0;
+    background: #ffffff;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+    transition: background-color 0.2s;
+}
+
+.ranking-item:hover {
+    background-color: #f8f9fa;
+}
+
+.ranking-item:first-child {
+    border-color: #f39c12;
+    background-color: #fff9e6;
+}
+
+.ranking-item:nth-child(2) {
+    border-color: #95a5a6;
+    background-color: #f8f9fa;
+}
+
+.ranking-item:nth-child(3) {
+    border-color: #e67e22;
+    background-color: #fff5e6;
+}
+
+.ranking-position {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #333;
+    min-width: 50px;
+    text-align: center;
+}
+
+.ranking-position.medal-1 {
+    color: #f39c12;
+}
+
+.ranking-position.medal-2 {
+    color: #95a5a6;
+}
+
+.ranking-position.medal-3 {
+    color: #e67e22;
+}
+
+.ranking-info {
+    flex: 1;
+    text-align: left;
+    margin: 0 15px;
+}
+
+.ranking-name {
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: #333;
+    margin: 0 0 5px 0;
+}
+
+.ranking-stats {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.ranking-points {
+    background-color: #c6c4c4;
+    color: #333;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.9rem;
+    border: 2px solid gray;
+}
+
+.ranking-accuracy {
+    background-color: #f1f1f1;
+    color: #333;
+    padding: 4px 10px;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 0.8rem;
+    border: 1px solid #ddd;
+}
+
+.ranking-ratio {
+    color: #666;
+    font-weight: bold;
+    font-size: 0.8rem;
+}
+
+.ranking-back-btn {
+    background-color: #c6c4c4;
+    color: #333;
+    border: 2px solid gray;
+    padding: 10px 20px;
+    border-radius: 4px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: .4s ease-in;
+    position: relative;
+    z-index: 1;
+    margin-top: 20px;
+}
+
+.ranking-back-btn:hover {
+    background-color: #ebe8e8;
+    box-shadow: 4px 4px 0px #7c7c7c;
+    top: -2px;
+    left: -2px;
+}
+
+.ranking-empty {
+    text-align: center;
+    padding: 30px 20px;
+    color: #666;
+    font-size: 1rem;
+    font-style: italic;
+}
+
+.ranking-empty-icon {
+    font-size: 2rem;
+    margin-bottom: 15px;
+    opacity: 0.5;
+}
+
+
+/* Responsividade para mobile */
+@media (max-width: 768px) {
+    .ranking-container {
+        padding: 15px;
+        margin: 10px;
+    }
+    
+    .ranking-item {
+        flex-direction: column;
+        text-align: center;
+        padding: 15px;
+    }
+    
+    .ranking-info {
+        margin: 10px 0;
+        text-align: center;
+    }
+    
+    .ranking-stats {
+        justify-content: center;
+        gap: 10px;
+    }
+    
+    .ranking-position {
+        font-size: 1.2rem;
+        margin-bottom: 8px;
+    }
 }

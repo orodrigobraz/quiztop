@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking - Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <script>
+        (function(){
+            try {
+                if ((location.protocol === 'http:' || location.protocol === 'https:') && location.hostname === '127.0.0.1') {
+                    var newUrl = location.href.replace('127.0.0.1', 'localhost');
+                    location.replace(newUrl);
+                }
+            } catch (e) {}
+        })();
+    </script>
+    <div class="ranking-container">
+                    <h1 class="ranking-title">Ranking</h1>
+            <p class="ranking-subtitle">
+                Ordenado por pontos totais
+                <span class="info-icon" id="info-icon" title="Clique para ver como os pontos são calculados">ℹ️</span>
+            </p>
+        <div id="ranking-list" class="ranking-list"></div>
+        <div style="margin-top:16px;">
+            <a href="index.html"><button class="ranking-back-btn">← Voltar ao Quiz</button></a>
+        </div>
+    </div>
+    
+    <!-- Modal de explicação dos pontos -->
+    <div id="points-modal" class="points-modal">
+        <div class="points-modal-content">
+            <div class="points-modal-header">
+                <h3>📊 Como os Pontos são Calculados</h3>
+                <span class="close-modal" id="close-modal">&times;</span>
+            </div>
+            <div class="points-modal-body">
+                <div class="points-explanation">
+                    <h4>🎯 Fórmula dos Pontos:</h4>
+                    <div class="formula">
+                        <strong>Pontos = (Respostas Corretas × 10) + Bônus de Precisão</strong>
+                    </div>
+                    
+                    <h4>📝 Detalhamento:</h4>
+                    <ul>
+                        <li><strong>Respostas Corretas:</strong> Cada acerto vale 10 pontos base</li>
+                        <li><strong>Bônus de Precisão:</strong> Quanto maior a porcentagem de acertos, mais pontos extras</li>
+                        <li><strong>Exemplo:</strong> 8 acertos em 10 perguntas = 80 pontos base + bônus de precisão</li>
+                    </ul>
+                    
+                    <h4>🏆 Ranking:</h4>
+                    <ul>
+                        <li>O ranking é ordenado por <strong>pontos totais</strong> (maior para menor)</li>
+                        <li>Em caso de empate, prioriza quem tem <strong>maior precisão</strong></li>
+                        <li>Quanto mais perguntas responder e acertar, mais pontos acumula</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="img/config.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-firestore-compat.js"></script>
+    <script src="ranking.js"></script>
+</body>
+</html>
+
+

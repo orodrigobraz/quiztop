@@ -7236,7 +7236,7 @@
         "resposta_id": 603
     },
     {
-        "pergunta": "De qual novela era a vilã Nazaré Tedesco?",
+        "pergunta": "De qual novela era a vilã Nazaré Tedesco, interpretada por Renata Sorrah?",
         "opcoes": [
             {"id": 1, "texto": "Senhora do destino"},
             {"id": 2, "texto": "Mulheres apaixonadas"},
@@ -7258,5 +7258,557 @@
         ],
         "resposta": 1,
         "resposta_id": 605
+    },
+    {
+        "pergunta": "Em qual década surgiu o INPE?",
+        "opcoes": [
+            {"id": 1, "texto": "60"},
+            {"id": 2, "texto": "70"},
+            {"id": 3, "texto": "80"},
+            {"id": 4, "texto": "90"},
+            {"id": 5, "texto": "50"}
+        ],
+        "resposta": 1,
+        "resposta_id": 606
+    },
+    {
+        "pergunta": "O quadro 'Girassóis' foi pintado por quem?",
+        "opcoes": [
+            {"id": 1, "texto": "Vincent van Gogh"},
+            {"id": 2, "texto": "Pablo Picasso"},
+            {"id": 3, "texto": "Claude Monet"},
+            {"id": 4, "texto": "Henri Matisse"},
+            {"id": 5, "texto": "Salvador Dalí"}
+        ],
+        "resposta": 1,
+        "resposta_id": 607
+    },
+    {
+        "pergunta": "Qual é o nome dado ao processo de mudança da água do estado gasoso para o líquido?",
+        "opcoes": [
+            {"id": 1, "texto": "Condensação"},
+            {"id": 2, "texto": "Evaporação"},
+            {"id": 3, "texto": "Fusão"},
+            {"id": 4, "texto": "Solidificação"},
+            {"id": 5, "texto": "Sublimação"}
+        ],
+        "resposta": 1,
+        "resposta_id": 608
+    },
+    {
+        "pergunta": "Qual destas novelas ainda não teve um remake?",
+        "opcoes": [
+            {"id": 1, "texto": "Explode Coração"},
+            {"id": 2, "texto": "Vale Tudo"},
+            {"id": 3, "texto": "Cabocla"},
+            {"id": 4, "texto": "Pantanal"},
+            {"id": 5, "texto": "Sinhá Moça"}
+        ],
+        "resposta": 1,
+        "resposta_id": 609
+    },
+    {
+        "pergunta": "Quem descobriu o conceito de empuxo?",
+        "opcoes": [
+            {"id": 1, "texto": "Arquimedes"},
+            {"id": 2, "texto": "Pitágoras"},
+            {"id": 3, "texto": "Galileu Galilei"},
+            {"id": 4, "texto": "Nicolau Copérnico"},
+            {"id": 5, "texto": "Albert Einstein"}
+        ],
+        "resposta": 1,
+        "resposta_id": 610
+    },
+    {
+        "pergunta": "'Não se esqueça que o negro também construiu / As riquezas do nosso Brasil' são versos do samba-enredo da:",
+        "opcoes": [
+            {"id": 1, "texto": "Mangueira, em 1988"},
+            {"id": 2, "texto": "Mangueira, em 1992"},
+            {"id": 3, "texto": "Portela, em 1995"},
+            {"id": 4, "texto": "Portela, em 1986"},
+            {"id": 5, "texto": "Beija-flor, em 2001"}
+        ],
+        "resposta": 1,
+        "resposta_id": 611
+    },
+    {
+        "pergunta": "Quem foi a primeira mulher eleita para a Academia Brasileira de Letras?",
+        "opcoes": [
+            {"id": 1, "texto": "Rachel de Queiroz"},
+            {"id": 2, "texto": "Lygia Fagundes Telles"},
+            {"id": 3, "texto": "Nélida Piñon"},
+            {"id": 4, "texto": "Zélia Gattai"},
+            {"id": 5, "texto": "Hilda Hilst"}
+        ],
+        "resposta": 1,
+        "resposta_id": 612
+    },
+    {
+        "pergunta": "Qual é o nome do navegador espanhol que teria supostamente chegado ao Brasil antes de Pedro Álvares de Cabral, em janeiro de 1500?",
+        "opcoes": [
+            {"id": 1, "texto": "Vicente Pinzón"},
+            {"id": 2, "texto": "Francisco de Orellana"},
+            {"id": 3, "texto": "Sebastián Elcano"},
+            {"id": 4, "texto": "Diego Velázquez"},
+            {"id": 5, "texto": "Hernán Cortés"}
+        ],
+        "resposta": 1,
+        "resposta_id": 613
+    },
+    {
+        "pergunta": "Qual destes livros foi escrito por Dan Brown?",
+        "opcoes": [
+            {"id": 1, "texto": "Origem"},
+            {"id": 2, "texto": "O dia do chacal"},
+            {"id": 3, "texto": "A outra face"},
+            {"id": 4, "texto": "Essa gente"},
+            {"id": 5, "texto": "As cabeças trocadas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 614
+    },
+    {
+        "pergunta": "Com o Tratado de Versalhes, no fim da 1ª Guerra Mundial, a Alemanha perdeu aproximadamente quanto de seu território?",
+        "opcoes": [
+            {"id": 1, "texto": "13%"},
+            {"id": 2, "texto": "9%"},
+            {"id": 3, "texto": "7%"},
+            {"id": 4, "texto": "15%"},
+            {"id": 5, "texto": "22%"}
+        ],
+        "resposta": 1,
+        "resposta_id": 615
+    },
+    {
+        "pergunta": "O que a dendrologia estuda?",
+        "opcoes": [
+            {"id": 1, "texto": "Botânica e ciências florestais"},
+            {"id": 2, "texto": "Aparelhos de testes aéreos"},
+            {"id": 3, "texto": "Doenças cerebrais"},
+            {"id": 4, "texto": "Parte interna dos ossos"},
+            {"id": 5, "texto": "A formação rochosa dos planetas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 616
+    },
+    {
+        "pergunta": "Percy Spencer foi o inventor de qual destes dispositivos?",
+        "opcoes": [
+            {"id": 1, "texto": "Micro-ondas"},
+            {"id": 2, "texto": "Fones de ouvido"},
+            {"id": 3, "texto": "Marcapasso"},
+            {"id": 4, "texto": "Raio X"},
+            {"id": 5, "texto": "Óculos escuros"}
+        ],
+        "resposta": 1,
+        "resposta_id": 617
+    },
+    {
+        "pergunta": "Em que ano e país foi tirada a primeira fotografia?",
+        "opcoes": [
+            {"id": 1, "texto": "1826, França"},
+            {"id": 2, "texto": "1839, Bélgica"},
+            {"id": 3, "texto": "1840, Inglaterra"},
+            {"id": 4, "texto": "1851, Estados Unidos"},
+            {"id": 5, "texto": "1865, Alemanha"}
+        ],
+        "resposta": 1,
+        "resposta_id": 618
+    },
+    {
+        "pergunta": "O que inspirou a arquiteta Chu Ming Silveira a criar o protetor telefônico, o icônico orelhão brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "Casca de ovo"},
+            {"id": 2, "texto": "Morro do Pão de Açúcar"},
+            {"id": 3, "texto": "Bola de futebol"},
+            {"id": 4, "texto": "Amendoim"},
+            {"id": 5, "texto": "Bico do Sabiá"}
+        ],
+        "resposta": 1,
+        "resposta_id": 619
+    },
+    {
+        "pergunta": "Em qual década foi criado o orelhão brasileiro (telefone público)?",
+        "opcoes": [
+            {"id": 1, "texto": "1970"},
+            {"id": 2, "texto": "1980"},
+            {"id": 3, "texto": "1990"},
+            {"id": 4, "texto": "1960"},
+            {"id": 5, "texto": "1950"}
+        ],
+        "resposta": 1,
+        "resposta_id": 620
+    },
+    {
+        "pergunta": "O dia 21 de abril marca a data de fundação de quais cidades?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasília e Roma"},
+            {"id": 2, "texto": "Salvador e Barcelona"},
+            {"id": 3, "texto": "São Paulo e Londres"},
+            {"id": 4, "texto": "Rio de Janeiro e Nova York"},
+            {"id": 5, "texto": "Belo Horizonte e Lisboa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 621
+    },
+    {
+        "pergunta": "Tsu Chu e Harpastum foram práticas esportivas que deram origem a qual destes esportes?",
+        "opcoes": [
+            {"id": 1, "texto": "Futebol"},
+            {"id": 2, "texto": "Natação"},
+            {"id": 3, "texto": "Esgrima"},
+            {"id": 4, "texto": "Judô"},
+            {"id": 5, "texto": "Boxe"}
+        ],
+        "resposta": 1,
+        "resposta_id": 622
+    },
+    {
+        "pergunta": "Em que ano aconteceu o primeiro jogo entre Palmeiras x Corinthians?",
+        "opcoes": [
+            {"id": 1, "texto": "1917"},
+            {"id": 2, "texto": "1913"},
+            {"id": 3, "texto": "1922"},
+            {"id": 4, "texto": "1912"},
+            {"id": 5, "texto": "1910"}
+        ],
+        "resposta": 1,
+        "resposta_id": 623
+    },
+    {
+        "pergunta": "Qual destes personagens não foi desintegrado por Thanos no filme Vingadores: Guerra Infinita?",
+        "opcoes": [
+            {"id": 1, "texto": "Viúva Negra"},
+            {"id": 2, "texto": "Vespa"},
+            {"id": 3, "texto": "Soldado Invernal"},
+            {"id": 4, "texto": "Mantis"},
+            {"id": 5, "texto": "Groot"}
+        ],
+        "resposta": 1,
+        "resposta_id": 624
+    },
+    {
+        "pergunta": "Qual é o nome do lutador brasileiro de MMA conhecido pelo apelido de Minotouro??",
+        "opcoes": [
+            {"id": 1, "texto": "Antônio Rogério Nogueira"},
+            {"id": 2, "texto": "Antônio Rodrigo Nogueira"},
+            {"id": 3, "texto": "Antônio Rodolfo Nogueira"},
+            {"id": 4, "texto": "Antônio Reinaldo Nogueira"},
+            {"id": 5, "texto": "Antônio Ronaldo Nogueira"}
+        ],
+        "resposta": 1,
+        "resposta_id": 625
+    },
+    {
+        "pergunta": "Quantos dentes permanentes tem um ser humano adulto?",
+        "opcoes": [
+            {"id": 1, "texto": "32"},
+            {"id": 2, "texto": "28"},
+            {"id": 3, "texto": "30"},
+            {"id": 4, "texto": "36"},
+            {"id": 5, "texto": "34"}
+        ],
+        "resposta": 1,
+        "resposta_id": 626
+    },
+    {
+        "pergunta": "Em que ano nasceu o ex-goleiro e agora treinador Rogério Ceni?",
+        "opcoes": [
+            {"id": 1, "texto": "1973"},
+            {"id": 2, "texto": "1978"},
+            {"id": 3, "texto": "1981"},
+            {"id": 4, "texto": "1975"},
+            {"id": 5, "texto": "1982"}
+        ],
+        "resposta": 1,
+        "resposta_id": 627
+    },
+    {
+        "pergunta": "Qual o estado mais populoso dos EUA?",
+        "opcoes": [
+            {"id": 1, "texto": "Califórnia"},
+            {"id": 2, "texto": "Massachussetts"},
+            {"id": 3, "texto": "Nova York"},
+            {"id": 4, "texto": "Flórida"},
+            {"id": 5, "texto": "Pensilvânia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 628
+    },
+    {
+        "pergunta": "Quantos municípios tem o estado de Roraima?",
+        "opcoes": [
+            {"id": 1, "texto": "15"},
+            {"id": 2, "texto": "25"},
+            {"id": 3, "texto": "35"},
+            {"id": 4, "texto": "45"},
+            {"id": 5, "texto": "55"}
+        ],
+        "resposta": 1,
+        "resposta_id": 629
+    },
+    {
+        "pergunta": "A cantora Mart'nália é filha de qual sambista?",
+        "opcoes": [
+            {"id": 1, "texto": "Martinho da Vila"},
+            {"id": 2, "texto": "Jorge Aragão"},
+            {"id": 3, "texto": "Zeca Pagodinho"},
+            {"id": 4, "texto": "Noel Rosa"},
+            {"id": 5, "texto": "Arlindo Cruz"}
+        ],
+        "resposta": 1,
+        "resposta_id": 630
+    },
+    {
+        "pergunta": "Quem escreveu a obra O Príncipe?",
+        "opcoes": [
+            {"id": 1, "texto": "Nicolau Maquiavel"},
+            {"id": 2, "texto": "Antoine de Saint-Exupéry"},
+            {"id": 3, "texto": "Sófocles"},
+            {"id": 4, "texto": "Charles Dickens"},
+            {"id": 5, "texto": "William Shakespeare"}
+        ],
+        "resposta": 1,
+        "resposta_id": 631
+    },
+    {
+        "pergunta": "Qual o título de nobreza do porquinho Rabicó em 'O Sítio do Picapau Amarelo'?",
+        "opcoes": [
+            {"id": 1, "texto": "Marquês"},
+            {"id": 2, "texto": "Duque"},
+            {"id": 3, "texto": "Conde"},
+            {"id": 4, "texto": "Barão"},
+            {"id": 5, "texto": "Visconde"}
+        ],
+        "resposta": 1,
+        "resposta_id": 632
+    },
+    {
+        "pergunta": "Qual grupo musical brasileiro entrou para o Guinness como o mais antigo da América Latina?",
+        "opcoes": [
+            {"id": 1, "texto": "Demônios da Garoa"},
+            {"id": 2, "texto": "Trio Parada Dura"},
+            {"id": 3, "texto": "Irmãs Galvão"},
+            {"id": 4, "texto": "Tarancón"},
+            {"id": 5, "texto": "Os Cariocas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 633
+    },
+    {
+        "pergunta": "Quem é o brasileiro que foi um dos fundadores do Instagram?",
+        "opcoes": [
+            {"id": 1, "texto": "Mike Krieger"},
+            {"id": 2, "texto": "Eduardo Saverin"},
+            {"id": 3, "texto": "Cristiano Amon"},
+            {"id": 4, "texto": "Felippe Regazio"},
+            {"id": 5, "texto": "Pensilvânia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 634
+    },
+    {
+        "pergunta": "Em qual país foi fundada a plataforma Mercado Livre?",
+        "opcoes": [
+            {"id": 1, "texto": "Argentina"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Chile"},
+            {"id": 4, "texto": "México"},
+            {"id": 5, "texto": "Colômbia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 635
+    },
+    {
+        "pergunta": "Quem foi o primeiro indígena eleito para o congresso nacional?",
+        "opcoes": [
+            {"id": 1, "texto": "Mário Juruna"},
+            {"id": 2, "texto": "Ailton Krenak"},
+            {"id": 3, "texto": "Raoni Metuktire"},
+            {"id": 4, "texto": "Cacique Babau"},
+            {"id": 5, "texto": "Davi Kopenawa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 636
+    },
+    {
+        "pergunta": "A 'gota' é uma doença que ocorre quando há um excesso de que no sangue?",
+        "opcoes": [
+            {"id": 1, "texto": "Ácido úrico"},
+            {"id": 2, "texto": "Colesterol"},
+            {"id": 3, "texto": "Triglicerídeos"},
+            {"id": 4, "texto": "Glicose"},
+            {"id": 5, "texto": "Potássio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 637
+    },
+    {
+        "pergunta": "Quem foi o técnico da seleção brasileira na Copa do Mundo de 1982?",
+        "opcoes": [
+            {"id": 1, "texto": "Telê Santana"},
+            {"id": 2, "texto": "Carlos Alberto Silva"},
+            {"id": 3, "texto": "Mário Zagallo"},
+            {"id": 4, "texto": "Aymoré Moreira"},
+            {"id": 5, "texto": "Flávio Costa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 638
+    },
+    {
+        "pergunta": "O museu do Prado está localizado em qual cidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Madri"},
+            {"id": 2, "texto": "Barcelona"},
+            {"id": 3, "texto": "Valência"},
+            {"id": 4, "texto": "Sevilha"},
+            {"id": 5, "texto": "Lisboa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 639
+    },
+    {
+        "pergunta": "Em que ano foi lançada a primeira versão do Microsoft Excel?",
+        "opcoes": [
+            {"id": 1, "texto": "1985"},
+            {"id": 2, "texto": "1987"},
+            {"id": 3, "texto": "1990"},
+            {"id": 4, "texto": "1995"},
+            {"id": 5, "texto": "1998"}
+        ],
+        "resposta": 1,
+        "resposta_id": 640
+    },
+    {
+        "pergunta": "Qual a capital da Etiópia?",
+        "opcoes": [
+            {"id": 1, "texto": "Adis Abeba"},
+            {"id": 2, "texto": "Asmara"},
+            {"id": 3, "texto": "Nairóbi"},
+            {"id": 4, "texto": "Cartum"},
+            {"id": 5, "texto": "Abuja"}
+        ],
+        "resposta": 1,
+        "resposta_id": 641
+    },
+    {
+        "pergunta": "Qual o nome do campeonato que o personagem Relâmpago McQueen participa no filme 'Carros'?",
+        "opcoes": [
+            {"id": 1, "texto": "Copa Pistão"},
+            {"id": 2, "texto": "Copa Escapamento"},
+            {"id": 3, "texto": "Copa das Marchas"},
+            {"id": 4, "texto": "Copa Pneu"},
+            {"id": 5, "texto": "Copa Motor"}
+        ],
+        "resposta": 1,
+        "resposta_id": 642
+    },
+    {
+        "pergunta": "Qual destes não é um idioma oficial de Singapura?",
+        "opcoes": [
+            {"id": 1, "texto": "Hurdu"},
+            {"id": 2, "texto": "Mandarim"},
+            {"id": 3, "texto": "Inglês"},
+            {"id": 4, "texto": "Malaio"},
+            {"id": 5, "texto": "Tâmil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 643
+    },
+    {
+        "pergunta": "Qual arma é relacionada ao Deus da mitologia grega Poseidon?",
+        "opcoes": [
+            {"id": 1, "texto": "Tridente"},
+            {"id": 2, "texto": "Espada"},
+            {"id": 3, "texto": "Arco e flecha"},
+            {"id": 4, "texto": "Lança"},
+            {"id": 5, "texto": "Martelo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 644
+    },
+    {
+        "pergunta": "Como é chamado o líder religioso de uma comunidade judaica?",
+        "opcoes": [
+            {"id": 1, "texto": "Rabino"},
+            {"id": 2, "texto": "Frei"},
+            {"id": 3, "texto": "Padre"},
+            {"id": 4, "texto": "Pastor"},
+            {"id": 5, "texto": "Capelão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 645
+    },
+    {
+        "pergunta": "Além de ministro da Itália, Silvio Berlusconi também era dono de qual time de futebol?",
+        "opcoes": [
+            {"id": 1, "texto": "Milan"},
+            {"id": 2, "texto": "Inter de Milão"},
+            {"id": 3, "texto": "Juventus"},
+            {"id": 4, "texto": "Roma"},
+            {"id": 5, "texto": "Lazio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 646
+    },
+    {
+        "pergunta": "Qual o time de futebol mais antigo da cidade de Roma?",
+        "opcoes": [
+            {"id": 1, "texto": "Lazio"},
+            {"id": 2, "texto": "Roma"},
+            {"id": 3, "texto": "Juventus"},
+            {"id": 4, "texto": "Milan"},
+            {"id": 5, "texto": "Udinese"}
+        ],
+        "resposta": 1,
+        "resposta_id": 647
+    },
+    {
+        "pergunta": "'Donzelinha' e 'Lava-bunda' são nomes dados a qual desses insetos?",
+        "opcoes": [
+            {"id": 1, "texto": "Libélula"},
+            {"id": 2, "texto": "Cigarra"},
+            {"id": 3, "texto": "Bezouro"},
+            {"id": 4, "texto": "Formiga"},
+            {"id": 5, "texto": "Grilo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 648
+    },
+    {
+        "pergunta": "O que está escrito na bandeira do estado do Espírito Santo?",
+        "opcoes": [
+            {"id": 1, "texto": "Trabalha e Confia"},
+            {"id": 2, "texto": "Libertas quæ sera tamen"},
+            {"id": 3, "texto": "Progresso e Justiça"},
+            {"id": 4, "texto": "17 de Outubro de 1822"},
+            {"id": 5, "texto": "Viva nossa história!"}
+        ],
+        "resposta": 1,
+        "resposta_id": 649
+    },
+    {
+        "pergunta": "Qual grupo musical revelou Baby do Brasil, Pepeu Gomes e Moraes Moreira?",
+        "opcoes": [
+            {"id": 1, "texto": "Novos Baianos"},
+            {"id": 2, "texto": "Baiana System"},
+            {"id": 3, "texto": "A cor e o som"},
+            {"id": 4, "texto": "Os Mutantes"},
+            {"id": 5, "texto": "Sociedade Alternativa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 650
+    },
+    {
+        "pergunta": "O arquipélago de Galápagos pertence a qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Equador"},
+            {"id": 2, "texto": "Colômbia"},
+            {"id": 3, "texto": "Peru"},
+            {"id": 4, "texto": "Chile"},
+            {"id": 5, "texto": "México"}
+        ],
+        "resposta": 1,
+        "resposta_id": 651
     }
 ]

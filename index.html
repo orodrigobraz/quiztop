@@ -8,7 +8,46 @@
 </head>
 
 <body>
+    <script>
+        (function(){
+            try {
+                if ((location.protocol === 'http:' || location.protocol === 'https:') && location.hostname === '127.0.0.1') {
+                    var newUrl = location.href.replace('127.0.0.1', 'localhost');
+                    location.replace(newUrl);
+                }
+            } catch (e) {}
+        })();
+    </script>
+    
+    <!-- Cabeçalho fixo para usuário logado -->
+    <div id="auth-header" class="auth-header" style="display: none;">
+        <h2 id="user-greeting" class="user-greeting"></h2>
+        <button id="header-logout" class="logout-btn">Sair</button>
+    </div>
+    
     <div class="quiz-container">
+        <div id="auth" class="auth-container">
+            <div class="welcome-message">
+                <h1>🎯 Bem-vindo(a)!!!</h1>
+                <p>Teste seus conhecimentos e veja como você se sai no ranking!</p>
+            </div>
+            <div class="auth-status" id="auth-status" style="margin-bottom: 12px;">
+                <span id="user-info" style="display:none;"></span>
+            </div>
+            <div class="auth-actions" style="margin-bottom: 16px;">
+                <button id="login-google" class="google-btn" aria-label="Entrar com Google">
+                    <svg class="google-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" aria-hidden="true">
+                        <path fill="#EA4335" d="M24 9.5c3.54 0 6.72 1.23 9.22 3.62l6.9-6.9C35.9 2.36 30.47 0 24 0 14.62 0 6.51 5.38 2.56 13.22l7.99 6.19C12.45 13.02 17.73 9.5 24 9.5z"/>
+                        <path fill="#4285F4" d="M46.5 24.5c0-1.64-.15-3.2-.44-4.71H24v9.06h12.65c-.55 2.98-2.2 5.51-4.7 7.2l7.2 5.6C43.51 37.61 46.5 31.57 46.5 24.5z"/>
+                        <path fill="#FBBC05" d="M10.55 28.41c-.48-1.43-.75-2.95-.75-4.41s.27-2.98.75-4.41l-7.99-6.19C.93 16.49 0 20.14 0 24c0 3.86.93 7.51 2.56 10.6l7.99-6.19z"/>
+                        <path fill="#34A853" d="M24 48c6.48 0 11.93-2.13 15.9-5.81l-7.2-5.6c-2 1.35-4.57 2.16-8.7 2.16-6.27 0-11.55-3.52-13.45-8.91l-7.99 6.19C6.51 42.62 14.62 48 24 48z"/>
+                        <path fill="none" d="0 0h48v48H0z"/>
+                    </svg>
+                    <span class="google-btn-text">Entrar com Google</span>
+                </button>
+                <button id="logout" style="display:none;">Sair</button>
+            </div>
+        </div>
         <div class="qtd-perguntas">
             <label for="quantidade-perguntas">Quantas perguntas deseja responder?</label>
             <input type="number" id="quantidade-perguntas" min="1" value="10">
@@ -30,6 +69,14 @@
         <p>Desenvolvido de &hearts; por <a href="https://www.linkedin.com/in/orodrigobraz/" target="_blank">Rodrigo Braz</a></p>
     </footer>
     
+    <!-- Config Firebase do projeto (crie config.js e defina window.FIREBASE_CONFIG) -->
+    <script src="img/config.js"></script>
+    <!-- Biblioteca de confetes profissional -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    <!-- Firebase compat SDKs v12.2.1 (se não houver config, cai em modo local) -->
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-app-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-auth-compat.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/12.2.1/firebase-firestore-compat.js"></script>
     <script src="quiz.js"></script>
 
 </body>
