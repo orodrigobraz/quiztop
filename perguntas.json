@@ -7810,5 +7810,425 @@
         ],
         "resposta": 1,
         "resposta_id": 651
+    },
+    {
+        "pergunta": "Como é mais conhecido um ramo de árvore que se bifurca formando um 'Y'?",
+        "opcoes": [
+            {"id": 1, "texto": "Forquilha"},
+            {"id": 2, "texto": "Quina"},
+            {"id": 3, "texto": "Galho"},
+            {"id": 4, "texto": "Angulário"},
+            {"id": 5, "texto": "Bicanca"}
+        ],
+        "resposta": 1,
+        "resposta_id": 652
+    },
+    {
+        "pergunta": "Qual destes não é um aplicativo de relacionamento?",
+        "opcoes": [
+            {"id": 1, "texto": "Busuu"},
+            {"id": 2, "texto": "Badoo"},
+            {"id": 3, "texto": "Tinder"},
+            {"id": 4, "texto": "Bumble"},
+            {"id": 5, "texto": "Happn"}
+        ],
+        "resposta": 1,
+        "resposta_id": 653
+    },
+    {
+        "pergunta": "Qual destes livros não foi escrito por Chico Buarque?",
+        "opcoes": [
+            {"id": 1, "texto": "Véspera"},
+            {"id": 2, "texto": "Essa gente"},
+            {"id": 3, "texto": "Leite derramado"},
+            {"id": 4, "texto": "Budapeste"},
+            {"id": 5, "texto": "O irmão alemão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 654
+    },
+    {
+        "pergunta": "Em que ano foi lançado o primeiro smartphone da linha Galaxy S da Samsung?",
+        "opcoes": [
+            {"id": 1, "texto": "2010"},
+            {"id": 2, "texto": "2011"},
+            {"id": 3, "texto": "2012"},
+            {"id": 4, "texto": "2013"},
+            {"id": 5, "texto": "2014"}
+        ],
+        "resposta": 1,
+        "resposta_id": 655
+    },
+    {
+        "pergunta": "Quem é o sucessor direto do Rei Charles III no Reino Unido?",
+        "opcoes": [
+            {"id": 1, "texto": "Príncipe William"},
+            {"id": 2, "texto": "Princípe Harry"},
+            {"id": 3, "texto": "Príncipe George"},
+            {"id": 4, "texto": "Príncipe Louis"},
+            {"id": 5, "texto": "Princesa Charlotte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 656
+    },
+    {
+        "pergunta": "Quantos países compõem o Reino Unido?",
+        "opcoes": [
+            {"id": 1, "texto": "4"},
+            {"id": 2, "texto": "3"},
+            {"id": 3, "texto": "2"},
+            {"id": 4, "texto": "1"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "resposta_id": 657
+    },
+    {
+        "pergunta": "Qual destes países não faz parte do Reino Unido?",
+        "opcoes": [
+            {"id": 1, "texto": "Irlanda"},
+            {"id": 2, "texto": "Escócia"},
+            {"id": 3, "texto": "País de Gales"},
+            {"id": 4, "texto": "Inglaterra"},
+            {"id": 5, "texto": "Irlanda do Norte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 658
+    },
+    {
+        "pergunta": "No judô, qual é o nome do golpe que encerra uma luta?",
+        "opcoes": [
+            {"id": 1, "texto": "Ippon"},
+            {"id": 2, "texto": "Shidô"},
+            {"id": 3, "texto": "Wazari"},
+            {"id": 4, "texto": "Yuko"},
+            {"id": 5, "texto": "Kuoka"}
+        ],
+        "resposta": 1,
+        "resposta_id": 659
+    },
+    {
+        "pergunta": "Qual filme de Stanley Kubrick discute a guerra fria?",
+        "opcoes": [
+            {"id": 1, "texto": "Dr. Fantástico"},
+            {"id": 2, "texto": "2001: Uma Odisseia no Espaço"},
+            {"id": 3, "texto": "Laranja Mecânica"},
+            {"id": 4, "texto": "O Iluminado"},
+            {"id": 5, "texto": "Nascido para Matar"}
+        ],
+        "resposta": 1,
+        "resposta_id": 660
+    },
+    {
+        "pergunta": "Qual cachorro de desenho animado é da raça Beagle?",
+        "opcoes": [
+            {"id": 1, "texto": "Snoopy"},
+            {"id": 2, "texto": "Scooby-Doo"},
+            {"id": 3, "texto": "Muttley"},
+            {"id": 4, "texto": "Bionicão"},
+            {"id": 5, "texto": "Pluto"}
+        ],
+        "resposta": 1,
+        "resposta_id": 661
+    },
+    {
+        "pergunta": "Qual o primeiro nome da esposa do apresentador e ator Rodrigo Faro?",
+        "opcoes": [
+            {"id": 1, "texto": "Vera"},
+            {"id": 2, "texto": "Lara"},
+            {"id": 3, "texto": "Roberta"},
+            {"id": 4, "texto": "Carla"},
+            {"id": 5, "texto": "Vilma"}
+        ],
+        "resposta": 1,
+        "resposta_id": 662
+    },
+    {
+        "pergunta": "Qual destas frutas não nasce em árvore?",
+        "opcoes": [
+            {"id": 1, "texto": "Morango"},
+            {"id": 2, "texto": "Banana"},
+            {"id": 3, "texto": "Maçã"},
+            {"id": 4, "texto": "Laranja"},
+            {"id": 5, "texto": "Abacate"}
+        ],
+        "resposta": 1,
+        "resposta_id": 663
+    },
+    {
+        "pergunta": "'Imperador' foi o apelido de qual jogador de futebol?",
+        "opcoes": [
+            {"id": 1, "texto": "Adriano"},
+            {"id": 2, "texto": "Pelé"},
+            {"id": 3, "texto": "Zico"},
+            {"id": 4, "texto": "Romário"},
+            {"id": 5, "texto": "Neymar"}
+        ],
+        "resposta": 1,
+        "resposta_id": 664
+    },
+    {
+        "pergunta": "'Terra dos Fiordes' faz referência a qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Noruega"},
+            {"id": 2, "texto": "Suécia"},
+            {"id": 3, "texto": "Dinamarca"},
+            {"id": 4, "texto": "Finlândia"},
+            {"id": 5, "texto": "Islândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 665
+    },
+    {
+        "pergunta": "Quem foi a primeira mulher a comandar o STF no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Ellen Gracie"},
+            {"id": 2, "texto": "Cármen Lúcia"},
+            {"id": 3, "texto": "Luiza Helena"},
+            {"id": 4, "texto": "María Cristina"},
+            {"id": 5, "texto": "Rosa Weber"}
+        ],
+        "resposta": 1,
+        "resposta_id": 666
+    },
+    {
+        "pergunta": "Qual parte do corpo falta na escultura da Esfinge de Gizé?",
+        "opcoes": [
+            {"id": 1, "texto": "Nariz"},
+            {"id": 2, "texto": "Orelha"},
+            {"id": 3, "texto": "Olho"},
+            {"id": 4, "texto": "Pata"},
+            {"id": 5, "texto": "Boca"}
+        ],
+        "resposta": 1,
+        "resposta_id": 667
+    },
+    {
+        "pergunta": "Como é medida as polegadas de uma TV?",
+        "opcoes": [
+            {"id": 1, "texto": "Diagonal"},
+            {"id": 2, "texto": "Largura"},
+            {"id": 3, "texto": "Altura"},
+            {"id": 4, "texto": "Profundidade"},
+            {"id": 5, "texto": "Comprimento"}
+        ],
+        "resposta": 1,
+        "resposta_id": 668
+    },
+    {
+        "pergunta": "O que você vai receber se viajar para a Tailândia e pedir um Pad Thai?",
+        "opcoes": [
+            {"id": 1, "texto": "Macarrão salteado"},
+            {"id": 2, "texto": "Sopa de coco"},
+            {"id": 3, "texto": "Chá gelado"},
+            {"id": 4, "texto": "Peixe frito"},
+            {"id": 5, "texto": "Bolinho de arroz"}
+        ],
+        "resposta": 1,
+        "resposta_id": 669
+    },
+    {
+        "pergunta": "Adhemar Ferreira da Silva foi bicampeão olímpico em qual modalidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Salto triplo"},
+            {"id": 2, "texto": "Salto em distância"},
+            {"id": 3, "texto": "Salto com vara"},
+            {"id": 4, "texto": "Salto em altura"},
+            {"id": 5, "texto": "Hipismo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 670
+    },
+    {
+        "pergunta": "Arlette Pinheiro Monteiro Torres é o nome verdadeiro de qual atriz?",
+        "opcoes": [
+            {"id": 1, "texto": "Fernanda Montenegro"},
+            {"id": 2, "texto": "Marieta Severo"},
+            {"id": 3, "texto": "Glória Pires"},
+            {"id": 4, "texto": "Fernanda Torres"},
+            {"id": 5, "texto": "Adriana Esteves"}
+        ],
+        "resposta": 1,
+        "resposta_id": 671
+    },
+    {
+        "pergunta": "Um láparo é um filhote de qual animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Coelho"},
+            {"id": 2, "texto": "Raposa"},
+            {"id": 3, "texto": "Lobo"},
+            {"id": 4, "texto": "Tamanduá"},
+            {"id": 5, "texto": "Tatu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 672
+    },
+    {
+        "pergunta": "Quantas veias jugulares possui o corpo humano?",
+        "opcoes": [
+            {"id": 1, "texto": "4"},
+            {"id": 2, "texto": "3"},
+            {"id": 3, "texto": "2"},
+            {"id": 4, "texto": "1"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "resposta_id": 673
+    },
+    {
+        "pergunta": "A música 'Pretty Woman' é a canção tema de qual filme?",
+        "opcoes": [
+            {"id": 1, "texto": "Uma Linda Mulher"},
+            {"id": 2, "texto": "O Casamento do Meu Melhor Amigo"},
+            {"id": 3, "texto": "10 Coisas que Eu Odeio em Você"},
+            {"id": 4, "texto": "A Verdade Nua e Crua"},
+            {"id": 5, "texto": "Ghost"}
+        ],
+        "resposta": 1,
+        "resposta_id": 674
+    },
+    {
+        "pergunta": "Quem foi a primeira mulher brasileira a ganhar uma medalha de ouro olimpica individual?",
+        "opcoes": [
+            {"id": 1, "texto": "Maurren Maggi"},
+            {"id": 2, "texto": "Fabiana Murer"},
+            {"id": 3, "texto": "Rebeca Andrade"},
+            {"id": 4, "texto": "Ana Marcela Cunha"},
+            {"id": 5, "texto": "Jaqueline Silva"}
+        ],
+        "resposta": 1,
+        "resposta_id": 675
+    },
+    {
+        "pergunta": "Qual é a única ave capaz de voar para trás?",
+        "opcoes": [
+            {"id": 1, "texto": "Beija-flor"},
+            {"id": 2, "texto": "Andorinha"},
+            {"id": 3, "texto": "Falcão"},
+            {"id": 4, "texto": "Gaivota"},
+            {"id": 5, "texto": "Coruja"}
+        ],
+        "resposta": 1,
+        "resposta_id": 676
+    },
+    {
+        "pergunta": "Qual destes escritores foi também um diplomata brasileiro?",
+        "opcoes": [
+            {"id": 1, "texto": "João Guimarães Rosa"},
+            {"id": 2, "texto": "Jorge Amado"},
+            {"id": 3, "texto": "João Ubaldo Ribeiro"},
+            {"id": 4, "texto": "Paulo Coelho"},
+            {"id": 5, "texto": "José de Alencar"}
+        ],
+        "resposta": 1,
+        "resposta_id": 677
+    },
+    {
+        "pergunta": "Qual a capital da Escócia?",
+        "opcoes": [
+            {"id": 1, "texto": "Edimburgo"},
+            {"id": 2, "texto": "Glasgow"},
+            {"id": 3, "texto": "Aberdeen"},
+            {"id": 4, "texto": "Dundee"},
+            {"id": 5, "texto": "Perth"}
+        ],
+        "resposta": 1,
+        "resposta_id": 678
+    },
+    {
+        "pergunta": "Qual enzima é responsável por decompor as gorduras?",
+        "opcoes": [
+            {"id": 1, "texto": "Lipase"},
+            {"id": 2, "texto": "Amilase"},
+            {"id": 3, "texto": "Protease"},
+            {"id": 4, "texto": "Lactase"},
+            {"id": 5, "texto": "Catalase"}
+        ],
+        "resposta": 1,
+        "resposta_id": 679
+    },
+    {
+        "pergunta": "Quem é a deusa do amor e da beleza na mitologia romana?",
+        "opcoes": [
+            {"id": 1, "texto": "Vênus"},
+            {"id": 2, "texto": "Minerva"},
+            {"id": 3, "texto": "Diana"},
+            {"id": 4, "texto": "Juno"},
+            {"id": 5, "texto": "Ceres"}
+        ],
+        "resposta": 1,
+        "resposta_id": 680
+    },
+    {
+        "pergunta": "O Galo da Madrugada é um bloco de carnaval de qual cidade brasileira?",
+        "opcoes": [
+            {"id": 1, "texto": "Recife"},
+            {"id": 2, "texto": "Salvador"},
+            {"id": 3, "texto": "Rio de Janeiro"},
+            {"id": 4, "texto": "São Paulo"},
+            {"id": 5, "texto": "Belo Horizonte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 681
+    },
+    {
+        "pergunta": "No balé, o que é o 'pas de deux'?",
+        "opcoes": [
+            {"id": 1, "texto": "Dueto entre dois bailarinos"},
+            {"id": 2, "texto": "Saltos rápidos e leves"},
+            {"id": 3, "texto": "Girar sobre um pé só"},
+            {"id": 4, "texto": "Movimento dos braços"},
+            {"id": 5, "texto": "Cambalhota"}
+        ],
+        "resposta": 1,
+        "resposta_id": 682
+    },
+    {
+        "pergunta": "Em qual país nasceu o vidente Nostradamus?",
+        "opcoes": [
+            {"id": 1, "texto": "França"},
+            {"id": 2, "texto": "Itália"},
+            {"id": 3, "texto": "Espanha"},
+            {"id": 4, "texto": "Portugal"},
+            {"id": 5, "texto": "Inglaterra"}
+        ],
+        "resposta": 1,
+        "resposta_id": 683
+    },
+    {
+        "pergunta": "Qual cidade brasileira foi conhecida como a 'Paris dos trópicos'?",
+        "opcoes": [
+            {"id": 1, "texto": "Manaus"},
+            {"id": 2, "texto": "Salvador"},
+            {"id": 3, "texto": "São Luís"},
+            {"id": 4, "texto": "Rio de Janeiro"},
+            {"id": 5, "texto": "Natal"}
+        ],
+        "resposta": 1,
+        "resposta_id": 684
+    },
+    {
+        "pergunta": "Nas óperas, como é chamada a voz feminina mais aguda e com maior alcance vocal?",
+        "opcoes": [
+            {"id": 1, "texto": "Soprano"},
+            {"id": 2, "texto": "Mezzo"},
+            {"id": 3, "texto": "Contralto"},
+            {"id": 4, "texto": "Tenor"},
+            {"id": 5, "texto": "Barítono"}
+        ],
+        "resposta": 1,
+        "resposta_id": 685
+    },
+    {
+        "pergunta": "A cor rosa do sal do Himalaia é devido a presença de qual elemento?",
+        "opcoes": [
+            {"id": 1, "texto": "Ferro"},
+            {"id": 2, "texto": "Potássio"},
+            {"id": 3, "texto": "Magnésio"},
+            {"id": 4, "texto": "Cálcio"},
+            {"id": 5, "texto": "Sódio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 686
     }
 ]
