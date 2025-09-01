@@ -21,6 +21,11 @@ const loginButton = document.getElementById("login-google");
 const logoutButton = document.getElementById("logout");
 const userInfo = document.getElementById("user-info");
 
+// Array temporário para armazenar acertos durante a rodada
+let acertosTemporarios = [];
+// Chave para backup temporário de acertos em andamento
+let backupKeyTemporario = null;
+
 function selecionarIndicesAleatorios(total, quantidade) {
     const indices = new Set();
     while (indices.size < quantidade) {
@@ -33,8 +38,37 @@ async function carregarPerguntas(quantidade) {
     try {
         const resposta = await fetch("perguntas.json");
         const todasPerguntas = await resposta.json();
+        
+        // Carregar acertos do Firebase (só os confirmados)
         const acertosSet = await carregarAcertosUsuario();
-        const restantes = todasPerguntas.filter(p => !acertosSet.has(p.resposta_id));
+        
+            // Tentar carregar backup temporário se existir
+    const temBackup = carregarBackupTemporario();
+    
+    // Se há backup temporário, mostrar mensagem ao usuário
+    if (temBackup && acertosTemporarios.length > 0) {
+        console.log(`Carregados ${acertosTemporarios.length} acertos temporários da rodada anterior`);
+        // Mostrar mensagem visual para o usuário
+        const mensagemBackup = document.createElement('div');
+        mensagemBackup.style.cssText = 'background: #4CAF50; color: white; padding: 10px; margin: 10px 0; border-radius: 5px; text-align: center;';
+        mensagemBackup.textContent = `🔄 Carregados ${acertosTemporarios.length} acertos da rodada anterior`;
+        
+        // Verificar se o container do quiz existe antes de inserir a mensagem
+        const quizContainer = document.querySelector('.quiz-container');
+        if (quizContainer) {
+            quizContainer.insertBefore(mensagemBackup, quizContainer.firstChild);
+            
+            // Remover mensagem após 5 segundos
+            setTimeout(() => {
+                if (mensagemBackup.parentNode) {
+                    mensagemBackup.parentNode.removeChild(mensagemBackup);
+                }
+            }, 5000);
+        }
+    }
+    
+    // Filtrar perguntas que o usuário ainda não acertou (apenas as confirmadas no Firebase)
+    const restantes = todasPerguntas.filter(p => !acertosSet.has(p.resposta_id));
         const qtdParaUsar = Math.max(0, Math.min(restantes.length, quantidade));
         if (qtdParaUsar === 0) {
             perguntas = [];
@@ -143,7 +177,13 @@ function verificarResposta(event) {
     if (selecionada === correta) {
         event.target.classList.add("correct");
         score++;
-        marcarAcerto(perguntas[perguntaAtual]);
+        // Armazenar acerto temporariamente em vez de salvar no Firebase
+        const idPergunta = perguntas[perguntaAtual].resposta_id;
+        if (idPergunta && !acertosTemporarios.includes(idPergunta)) {
+            acertosTemporarios.push(idPergunta);
+            // Salvar backup temporário para evitar perda de dados
+            salvarBackupTemporario();
+        }
         
         // Criar confetes de comemoração para resposta correta
         criarConfetes();
@@ -166,6 +206,12 @@ function mostrarResultadoFinal() {
     const answered = perguntas.length;
     const percent = answered > 0 ? ((score / answered) * 100).toFixed(0) : 0;
     const points = calcularPontosRanking(score, answered);
+    
+    // Salvar acertos no Firebase apenas quando a rodada terminar
+    if (acertosTemporarios.length > 0) {
+        salvarAcertosRodada(acertosTemporarios);
+    }
+    
     salvarResultadoRanking(points, score, answered).catch(() => {});
     mainDiv.innerHTML = `
         <h1>Seus resultados:</h1>
@@ -187,18 +233,52 @@ document.addEventListener("DOMContentLoaded", () => {
     // Esconde controle de quantidade até login
     if (qtdPerguntasContainer) qtdPerguntasContainer.style.display = "none";
 
+    // Limpar backups temporários antigos ao carregar a página
+    limparBackupsTemporariosAntigos();
+
     inicializarFirebaseEAUTH();
 
-    function iniciarQuiz() {
+    async function iniciarQuiz() {
         const quantidade = parseInt(quantidadeInput.value, 10);
         if (!currentUser) {
             alert("Faça login com sua conta Google para iniciar o quiz.");
             return;
         }
         if (quantidade > 0) {
-            qtdPerguntasContainer.style.display = "none";
-            quizContent.style.display = "block";
-            carregarPerguntas(quantidade);
+            // Verificar se há perguntas suficientes disponíveis
+            try {
+                const resposta = await fetch("perguntas.json");
+                const todasPerguntas = await resposta.json();
+                const totalPerguntas = todasPerguntas.length;
+                
+                // Carregar acertos do usuário
+                const acertosSet = await carregarAcertosUsuario();
+                const acertosUsuario = acertosSet.size;
+                
+                // Calcular perguntas disponíveis
+                const perguntasDisponiveis = totalPerguntas - acertosUsuario;
+                
+                // Verificar se a quantidade solicitada é maior que as disponíveis
+                if (quantidade > perguntasDisponiveis) {
+                    // Mostrar alerta simples
+                    alert(`Quantidade de perguntas disponível pra você: ${perguntasDisponiveis}`);
+                    return; // Não iniciar o quiz
+                }
+                
+                // Se chegou aqui, há perguntas suficientes
+                // Limpar acertos temporários ao iniciar nova rodada
+                acertosTemporarios = [];
+                // Gerar nova chave de backup para esta rodada
+                backupKeyTemporario = `quiz_temp_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
+                
+                qtdPerguntasContainer.style.display = "none";
+                quizContent.style.display = "block";
+                carregarPerguntas(quantidade);
+                
+            } catch (error) {
+                console.error("Erro ao verificar perguntas disponíveis:", error);
+                alert("Erro ao verificar perguntas disponíveis. Tente novamente.");
+            }
         } else {
             alert("Insira um número válido de perguntas.");
         }
@@ -206,6 +286,20 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (iniciarQuizButton) iniciarQuizButton.onclick = iniciarQuiz;
     if (quantidadeInput) quantidadeInput.onkeyup = e => { if (e.key === "Enter") iniciarQuiz(); };
+    
+    // Adicionar listener para salvar backup antes de fechar a página
+    window.addEventListener('beforeunload', () => {
+        if (acertosTemporarios.length > 0) {
+            salvarBackupTemporario();
+        }
+    });
+    
+    // Adicionar listener para salvar backup quando a página perder o foco
+    window.addEventListener('blur', () => {
+        if (acertosTemporarios.length > 0) {
+            salvarBackupTemporario();
+        }
+    });
 });
 
 // ----------------------
@@ -450,7 +544,9 @@ function carregarAcertosLocal() {
     try {
         const raw = localStorage.getItem(key);
         const arr = raw ? JSON.parse(raw) : [];
-        arr.forEach(id => set.add(id));
+        // Filtrar apenas acertos confirmados (não temporários)
+        const acertosConfirmados = arr.filter(id => !id.toString().includes('temp_'));
+        acertosConfirmados.forEach(id => set.add(id));
     } catch {}
     return set;
 }
@@ -460,20 +556,11 @@ function gerarStorageKeyAcertos() {
     return `quiz_acertos_${uid}`;
 }
 
+// Função modificada para não salvar acertos imediatamente
 async function marcarAcerto(pergunta) {
-    const idPergunta = pergunta && pergunta.resposta_id;
-    if (!idPergunta) return;
-    const uid = currentUser && currentUser.uid ? currentUser.uid : null;
-    if (usingFirestore && uid) {
-        try {
-            const ref = firebaseDb.collection("users").doc(uid);
-            await ref.set({ acertos: firebase.firestore.FieldValue.arrayUnion(idPergunta) }, { merge: true });
-        } catch {
-            marcarAcertoLocal(idPergunta);
-        }
-    } else {
-        marcarAcertoLocal(idPergunta);
-    }
+    // Esta função agora só é chamada para compatibilidade, mas não salva no Firebase
+    // Os acertos são salvos apenas quando a rodada termina
+    console.log("Acerto marcado temporariamente:", pergunta?.resposta_id);
 }
 
 function marcarAcertoLocal(idPergunta) {
@@ -554,4 +641,155 @@ function salvarResultadoRankingLocal(pontos, nome, certos, respondidas) {
         arr.push({ uid, displayName: nome, totalPoints: pontos, totalAnswered: respondidas, totalCorrect: certos, updatedAt: Date.now() });
     }
     localStorage.setItem(key, JSON.stringify(arr));
+}
+
+// Função para salvar backup temporário dos acertos
+function salvarBackupTemporario() {
+    if (backupKeyTemporario && acertosTemporarios.length > 0) {
+        try {
+            localStorage.setItem(backupKeyTemporario, JSON.stringify({
+                acertos: acertosTemporarios,
+                timestamp: Date.now(),
+                userId: currentUser?.uid || 'anon'
+            }));
+        } catch (error) {
+            console.warn("Não foi possível salvar backup temporário:", error);
+        }
+    }
+}
+
+// Função para carregar backup temporário (se existir)
+function carregarBackupTemporario() {
+    if (!backupKeyTemporario) return;
+    
+    try {
+        const backup = localStorage.getItem(backupKeyTemporario);
+        if (backup) {
+            const data = JSON.parse(backup);
+            // Verificar se o backup é recente (menos de 1 hora)
+            const umaHora = 60 * 60 * 1000;
+            if (Date.now() - data.timestamp < umaHora && data.userId === (currentUser?.uid || 'anon')) {
+                acertosTemporarios = data.acertos || [];
+                console.log("Backup temporário carregado:", acertosTemporarios.length, "acertos");
+                return true;
+            }
+        }
+    } catch (error) {
+        console.warn("Erro ao carregar backup temporário:", error);
+    }
+    return false;
+}
+
+// Função para verificar se há acertos temporários pendentes
+function verificarAcertosTemporariosPendentes() {
+    try {
+        const umaHora = 60 * 60 * 1000;
+        const agora = Date.now();
+        
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && key.startsWith('quiz_temp_')) {
+                try {
+                    const backup = localStorage.getItem(key);
+                    if (backup) {
+                        const data = JSON.parse(backup);
+                        if (agora - data.timestamp < umaHora && data.userId === (currentUser?.uid || 'anon')) {
+                            return true; // Há acertos temporários pendentes
+                        }
+                    }
+                } catch (error) {
+                    // Ignorar erros de parsing
+                }
+            }
+        }
+    } catch (error) {
+        console.warn("Erro ao verificar acertos temporários pendentes:", error);
+    }
+    return false;
+}
+
+// Função para limpar backup temporário
+function limparBackupTemporario() {
+    if (backupKeyTemporario) {
+        try {
+            localStorage.removeItem(backupKeyTemporario);
+            backupKeyTemporario = null;
+        } catch (error) {
+            console.warn("Erro ao limpar backup temporário:", error);
+        }
+    }
+}
+
+// Função para limpar backups temporários antigos (mais de 1 hora)
+function limparBackupsTemporariosAntigos() {
+    try {
+        const umaHora = 60 * 60 * 1000;
+        const agora = Date.now();
+        
+        // Procurar por todas as chaves de backup temporário
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && key.startsWith('quiz_temp_')) {
+                try {
+                    const backup = localStorage.getItem(key);
+                    if (backup) {
+                        const data = JSON.parse(backup);
+                        if (agora - data.timestamp > umaHora) {
+                            localStorage.removeItem(key);
+                            console.log(`Backup temporário antigo removido: ${key}`);
+                        }
+                    }
+                } catch (error) {
+                    // Se não conseguir ler, remover a chave
+                    localStorage.removeItem(key);
+                }
+            }
+        }
+    } catch (error) {
+        console.warn("Erro ao limpar backups temporários antigos:", error);
+    }
+}
+
+// Nova função para salvar acertos da rodada no Firebase
+async function salvarAcertosRodada(acertosIds) {
+    const uid = currentUser && currentUser.uid ? currentUser.uid : null;
+    if (usingFirestore && uid && acertosIds.length > 0) {
+        try {
+            const ref = firebaseDb.collection("users").doc(uid);
+            // Usar arrayUnion para adicionar todos os acertos da rodada
+            await ref.set({ 
+                acertos: firebase.firestore.FieldValue.arrayUnion(...acertosIds) 
+            }, { merge: true });
+            console.log(`Acertos da rodada salvos no Firebase: ${acertosIds.length} acertos`);
+            
+            // Limpar backup temporário após salvar com sucesso
+            limparBackupTemporario();
+        } catch (error) {
+            console.error("Erro ao salvar acertos da rodada:", error);
+            // Fallback para localStorage se falhar no Firebase
+            acertosIds.forEach(id => marcarAcertoLocal(id));
+            
+            // Mostrar mensagem de erro
+            const mensagemErro = document.createElement('div');
+            mensagemErro.style.cssText = 'background: #f44336; color: white; padding: 10px; margin: 10px 0; border-radius: 5px; text-align: center;';
+            mensagemErro.textContent = `❌ Erro ao salvar acertos. Salvando localmente...`;
+            
+            const quizContainer = document.querySelector('.quiz-container');
+            if (quizContainer) {
+                quizContainer.insertBefore(mensagemErro, quizContainer.firstChild);
+                
+                // Remover mensagem após 5 segundos
+                setTimeout(() => {
+                    if (mensagemErro.parentNode) {
+                        mensagemErro.parentNode.removeChild(mensagemErro);
+                    }
+                }, 5000);
+            }
+        }
+    } else if (acertosIds.length > 0) {
+        // Fallback para localStorage se não houver Firebase
+        acertosIds.forEach(id => marcarAcertoLocal(id));
+        // Limpar backup temporário
+        limparBackupTemporario();
+    }
 }
