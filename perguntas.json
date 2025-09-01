@@ -8650,5 +8650,113 @@
         ],
         "resposta": 1,
         "resposta_id": 721
+    },
+    {
+        "pergunta": "A Universidade Federal de Itajubá - UNIFEI, tem outro campus em qual cidade mineira?",
+        "opcoes": [
+            {"id": 1, "texto": "Itabira"},
+            {"id": 2, "texto": "Itabirito"},
+            {"id": 3, "texto": "Ituiutaba"},
+            {"id": 4, "texto": "Ipatinga"},
+            {"id": 5, "texto": "Inconfidentes"}
+        ],
+        "resposta": 1,
+        "resposta_id": 722
+    },
+    {
+        "pergunta": "O que é um hebiatra?",
+        "opcoes": [
+            {"id": 1, "texto": "Médico para adolescentes"},
+            {"id": 2, "texto": "Especialista em ervas"},
+            {"id": 3, "texto": "Engenheiro florestal"},
+            {"id": 4, "texto": "Amante das plantas"},
+            {"id": 5, "texto": "Escritor de partituras"}
+        ],
+        "resposta": 1,
+        "resposta_id": 723
+    },
+    {
+        "pergunta": "Qual desses adjetivos indica que uma pessoa não tem sorte?",
+        "opcoes": [
+            {"id": 1, "texto": "Belisário"},
+            {"id": 2, "texto": "Beligerante"},
+            {"id": 3, "texto": "Belicoso"},
+            {"id": 4, "texto": "Beliz"},
+            {"id": 5, "texto": "Belizo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 724
+    },
+    {
+        "pergunta": "Qual a capital de Bahamas?",
+        "opcoes": [
+            {"id": 1, "texto": "Nassau"},
+            {"id": 2, "texto": "Freeport"},
+            {"id": 3, "texto": "Marsh Harbour"},
+            {"id": 4, "texto": "Georgetown"},
+            {"id": 5, "texto": "Belmopan"}
+        ],
+        "resposta": 1,
+        "resposta_id": 725
+    },
+    {
+        "pergunta": "Qual a capital de Filipinas?",
+        "opcoes": [
+            {"id": 1, "texto": "Manila"},
+            {"id": 2, "texto": "Dacca"},
+            {"id": 3, "texto": "Jacarta"},
+            {"id": 4, "texto": "Damasco"},
+            {"id": 5, "texto": "Bangkok"}
+        ],
+        "resposta": 1,
+        "resposta_id": 726
+    },
+    {
+        "pergunta": "Qual a capital da Albânia?",
+        "opcoes": [
+            {"id": 1, "texto": "Tirana"},
+            {"id": 2, "texto": "Astana"},
+            {"id": 3, "texto": "Bratislava"},
+            {"id": 4, "texto": "Ancara"},
+            {"id": 5, "texto": "Riga"}
+        ],
+        "resposta": 1,
+        "resposta_id": 727
+    },
+    {
+        "pergunta": "Em que ano José Saramago ganhou o Prêmio Nobel de Literatura?",
+        "opcoes": [
+            {"id": 1, "texto": "1998"},
+            {"id": 2, "texto": "1995"},
+            {"id": 3, "texto": "1992"},
+            {"id": 4, "texto": "2001"},
+            {"id": 5, "texto": "2004"}
+        ],
+        "resposta": 1,
+        "resposta_id": 728
+    },
+    {
+        "pergunta": "Qual a capital do estado do Maranhão?",
+        "opcoes": [
+            {"id": 1, "texto": "São Luís"},
+            {"id": 2, "texto": "Teresina"},
+            {"id": 3, "texto": "Aracaju"},
+            {"id": 4, "texto": "Maceió"},
+            {"id": 5, "texto": "Olinda"}
+        ],
+        "resposta": 1,
+        "resposta_id": 729
+    },
+    {
+        "pergunta": "O que significa a letra E na sigla IBGE?",
+        "opcoes": [
+            {"id": 1, "texto": "Estatística"},
+            {"id": 2, "texto": "Econômica"},
+            {"id": 3, "texto": "Educacional"},
+            {"id": 4, "texto": "Ecológica"},
+            {"id": 5, "texto": "Extracampo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 730
     }
 ]
