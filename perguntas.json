@@ -8758,5 +8758,269 @@
         ],
         "resposta": 1,
         "resposta_id": 730
+    },
+    {
+        "pergunta": "O morcego é o único mamífero capaz de que?",
+        "opcoes": [
+            {"id": 1, "texto": "Voar"},
+            {"id": 2, "texto": "Nadar"},
+            {"id": 3, "texto": "Cavar"},
+            {"id": 4, "texto": "Escalar"},
+            {"id": 5, "texto": "Saltar"}
+        ],
+        "resposta": 1,
+        "resposta_id": 731
+    },
+    {
+        "pergunta": "A rinite é uma inflamação que se dá em qual parte do corpo?",
+        "opcoes": [
+            {"id": 1, "texto": "Nariz"},
+            {"id": 2, "texto": "Pulmões"},
+            {"id": 3, "texto": "Pele"},
+            {"id": 4, "texto": "Olhos"},
+            {"id": 5, "texto": "Boca"}
+        ],
+        "resposta": 1,
+        "resposta_id": 732
+    },
+    {
+        "pergunta": "Sucupira é um tipo de que?",
+        "opcoes": [
+            {"id": 1, "texto": "Árvore"},
+            {"id": 2, "texto": "Cobra"},
+            {"id": 3, "texto": "Fruto"},
+            {"id": 4, "texto": "Inseto"},
+            {"id": 5, "texto": "Peixe"}
+        ],
+        "resposta": 1,
+        "resposta_id": 733
+    },
+    {
+        "pergunta": "O que é o Sol?",
+        "opcoes": [
+            {"id": 1, "texto": "Estrela"},
+            {"id": 2, "texto": "Planeta"},
+            {"id": 3, "texto": "Satélite"},
+            {"id": 4, "texto": "Cometa"},
+            {"id": 5, "texto": "Buraco negro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 734
+    },
+    {
+        "pergunta": "Quantas vogais são necessárias para se formar um hiato?",
+        "opcoes": [
+            {"id": 1, "texto": "Duas"},
+            {"id": 2, "texto": "Três"},
+            {"id": 3, "texto": "Quatro"},
+            {"id": 4, "texto": "Cinco"},
+            {"id": 5, "texto": "Uma"}
+        ],
+        "resposta": 1,
+        "resposta_id": 735
+    },
+    {
+        "pergunta": "Cipriota é relativo a quem nasce em qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Chipre"},
+            {"id": 2, "texto": "República Tcheca"},
+            {"id": 3, "texto": "Chade"},
+            {"id": 4, "texto": "Singapura"},
+            {"id": 5, "texto": "Camboja"}
+        ],
+        "resposta": 1,
+        "resposta_id": 736
+    },
+    {
+        "pergunta": "Cada estado brasileiro é representado por quantos senadores no congresso nacional?",
+        "opcoes": [
+            {"id": 1, "texto": "3"},
+            {"id": 2, "texto": "2"},
+            {"id": 3, "texto": "4"},
+            {"id": 4, "texto": "5"},
+            {"id": 5, "texto": "6"}
+        ],
+        "resposta": 1,
+        "resposta_id": 737
+    },
+    {
+        "pergunta": "Em qual país foi criado o panetone?",
+        "opcoes": [
+            {"id": 1, "texto": "Itália"},
+            {"id": 2, "texto": "França"},
+            {"id": 3, "texto": "Japão"},
+            {"id": 4, "texto": "Estados Unidos"},
+            {"id": 5, "texto": "Brasil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 738
+    },
+    {
+        "pergunta": "Jarda é unidade para que tipo de medida?",
+        "opcoes": [
+            {"id": 1, "texto": "Comprimento"},
+            {"id": 2, "texto": "Área"},
+            {"id": 3, "texto": "Volume"},
+            {"id": 4, "texto": "Peso"},
+            {"id": 5, "texto": "Tempo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 739
+    },
+    {
+        "pergunta": "Qual o principal hormônio que causa o sono?",
+        "opcoes": [
+            {"id": 1, "texto": "Melatonina"},
+            {"id": 2, "texto": "Serotonina"},
+            {"id": 3, "texto": "Adrenalina"},
+            {"id": 4, "texto": "Cortisol"},
+            {"id": 5, "texto": "Dopamina"}
+        ],
+        "resposta": 1,
+        "resposta_id": 740
+    },
+    {
+        "pergunta": "Como era conhecido o maior enxadrista brasileiro de todos os tempos?",
+        "opcoes": [
+            {"id": 1, "texto": "Mequinho"},
+            {"id": 2, "texto": "Henriquinho"},
+            {"id": 3, "texto": "Costinha"},
+            {"id": 4, "texto": "Torrinha"},
+            {"id": 5, "texto": "Lourinho"}
+        ],
+        "resposta": 1,
+        "resposta_id": 741
+    },
+    {
+        "pergunta": "Na história do Brasil, como foi conhecido Luís Alves de Lima e Silva?",
+        "opcoes": [
+            {"id": 1, "texto": "Duque de Caxias"},
+            {"id": 2, "texto": "Visconde de Mauá"},
+            {"id": 3, "texto": "Conde do Pinhal"},
+            {"id": 4, "texto": "Barão do Rio Branco"},
+            {"id": 5, "texto": "Marquês de Sapucaia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 742
+    },
+    {
+        "pergunta": "O Zé Gotinha foi criado para incentivar a vacinação contra o que?",
+        "opcoes": [
+            {"id": 1, "texto": "Poliomelite"},
+            {"id": 2, "texto": "Sarampo"},
+            {"id": 3, "texto": "Febre amarela"},
+            {"id": 4, "texto": "Catapora"},
+            {"id": 5, "texto": "Caxumba"}
+        ],
+        "resposta": 1,
+        "resposta_id": 743
+    },
+    {
+        "pergunta": "Qual foi a primeira capital da Bahia?",
+        "opcoes": [
+            {"id": 1, "texto": "Salvador"},
+            {"id": 2, "texto": "Porto Seguro"},
+            {"id": 3, "texto": "Ilhéus"},
+            {"id": 4, "texto": "Feira de Santana"},
+            {"id": 5, "texto": "Itaparica"}
+        ],
+        "resposta": 1,
+        "resposta_id": 744
+    },
+    {
+        "pergunta": "Em qual cidade inglesa nasceu o grupo The Beatles?",
+        "opcoes": [
+            {"id": 1, "texto": "Liverpool"},
+            {"id": 2, "texto": "Londres"},
+            {"id": 3, "texto": "Manchester"},
+            {"id": 4, "texto": "Birmingham"},
+            {"id": 5, "texto": "Nottingham"}
+        ],
+        "resposta": 1,
+        "resposta_id": 745
+    },
+    {
+        "pergunta": "Qual é a vitamina conhecida como a 'vitamina do sol'?",
+        "opcoes": [
+            {"id": 1, "texto": "Vitamina A"},
+            {"id": 2, "texto": "Vitamina B"},
+            {"id": 3, "texto": "Vitamina C"},
+            {"id": 4, "texto": "Vitamina D"},
+            {"id": 5, "texto": "Vitamina B12"}
+        ],
+        "resposta": 1,
+        "resposta_id": 746
+    },
+    {
+        "pergunta": "Qual das palavras a seguir é o melhor sinônimo para 'alvura'?",
+        "opcoes": [
+            {"id": 1, "texto": "Brancura"},
+            {"id": 2, "texto": "Penúria"},
+            {"id": 3, "texto": "Lamúria"},
+            {"id": 4, "texto": "Alteza"},
+            {"id": 5, "texto": "Céu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 747
+    },
+    {
+        "pergunta": "Qual sistema numérico é mais utilizado para codificar cores?",
+        "opcoes": [
+            {"id": 1, "texto": "Hexadecimal"},
+            {"id": 2, "texto": "Maia"},
+            {"id": 3, "texto": "Binário"},
+            {"id": 4, "texto": "Octal"},
+            {"id": 5, "texto": "Duodecimal"}
+        ],
+        "resposta": 1,
+        "resposta_id": 748
+    },
+    {
+        "pergunta": "Tricordiano é um termo relativo a que?",
+        "opcoes": [
+            {"id": 1, "texto": "Três corações"},
+            {"id": 2, "texto": "Três cabeças"},
+            {"id": 3, "texto": "Três olhos"},
+            {"id": 4, "texto": "Três pés"},
+            {"id": 5, "texto": "Três mãos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 749
+    },
+    {
+        "pergunta": "Quem foi o primeiro boxeador brasileiro a se tornar campeão mundial?",
+        "opcoes": [
+            {"id": 1, "texto": "Éder Jofre"},
+            {"id": 2, "texto": "Miguel de Brito"},
+            {"id": 3, "texto": "Ralph Zumbano"},
+            {"id": 4, "texto": "Servílio de Oliveira"},
+            {"id": 5, "texto": "Maguila"}
+        ],
+        "resposta": 1,
+        "resposta_id": 750
+    },
+    {
+        "pergunta": "Em que ano aconteceu a Semana de Arte Moderna em São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "1922"},
+            {"id": 2, "texto": "1932"},
+            {"id": 3, "texto": "1942"},
+            {"id": 4, "texto": "1952"},
+            {"id": 5, "texto": "1912"}
+        ],
+        "resposta": 1,
+        "resposta_id": 751
+    },
+    {
+        "pergunta": "Se uma circunferência tem um diâmetro de 10 cm, qual é o seu raio?",
+        "opcoes": [
+            {"id": 1, "texto": "5 cm"},
+            {"id": 2, "texto": "10 cm"},
+            {"id": 3, "texto": "15 cm"},
+            {"id": 4, "texto": "20 cm"},
+            {"id": 5, "texto": "1 cm"}
+        ],
+        "resposta": 1,
+        "resposta_id": 752
     }
 ]
