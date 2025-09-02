@@ -104,10 +104,11 @@ function mostrarPergunta() {
     optionsList.innerHTML = "";
     atual.opcoes.forEach(opcao => {
         const li = document.createElement("li");
+        const resposta_correta = opcao.id == perguntas[perguntaAtual].resposta ? 1 : 0;
         li.textContent = opcao.texto;
         li.classList.add("option");
-        li.onclick = verificarResposta;
-        li.dataset.optionId = opcao.id;
+        li.onclick = verificarResposta(opcao.id, resposta_correta);
+        //li.dataset.optionId = opcao.id;
         optionsList.appendChild(li);
     });
 }
@@ -169,12 +170,12 @@ function criarConfetes() {
     });
 }
 
-function verificarResposta(event) {
+function verificarResposta(id, correta) {
     if (opcaoSelecionada) return;
     opcaoSelecionada = true;
     const selecionada = Number(event.target.dataset.optionId);
-    const correta = perguntas[perguntaAtual].resposta;
-    if (selecionada === correta) {
+    //const correta = perguntas[perguntaAtual].resposta;
+    if (correta) {
         event.target.classList.add("correct");
         score++;
         // Armazenar acerto temporariamente em vez de salvar no Firebase
