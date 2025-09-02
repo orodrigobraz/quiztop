@@ -100,14 +100,16 @@ function embaralharPerguntas() {
 function mostrarPergunta() {
     const atual = perguntas[perguntaAtual];
     if (!atual) { mostrarResultadoFinal(); return; }
+    
     questionText.textContent = `${perguntaAtual + 1}- ${atual.pergunta}`;
     optionsList.innerHTML = "";
-    atual.opcoes.forEach(opcao => {
+    
+    atual.opcoes.forEach((opcao, index) => {
         const li = document.createElement("li");
         li.textContent = opcao.texto;
         li.classList.add("option");
         li.onclick = verificarResposta;
-        li.dataset.optionId = opcao.id;
+        li.dataset.index = index;
         optionsList.appendChild(li);
     });
 }
@@ -172,24 +174,20 @@ function criarConfetes() {
 function verificarResposta(event) {
     if (opcaoSelecionada) return;
     opcaoSelecionada = true;
-    const selecionada = Number(event.target.dataset.optionId);
-    const correta = perguntas[perguntaAtual].resposta;
-    if (selecionada === correta) {
+    
+    const indexSelecionado = Number(event.target.dataset.index);
+    const atual = perguntas[perguntaAtual];
+    const corretaIndex = atual.opcoes.findIndex(o => o.id === atual.resposta); // compara internamente
+    
+    if (indexSelecionado === corretaIndex) {
         event.target.classList.add("correct");
         score++;
-        // Armazenar acerto temporariamente em vez de salvar no Firebase
-        const idPergunta = perguntas[perguntaAtual].resposta_id;
-        if (idPergunta && !acertosTemporarios.includes(idPergunta)) {
-            acertosTemporarios.push(idPergunta);
-            // Salvar backup temporário para evitar perda de dados
-            salvarBackupTemporario();
-        }
-        
-        // Criar confetes de comemoração para resposta correta
+        // salvar acerto...
         criarConfetes();
     } else {
         event.target.classList.add("incorrect");
     }
+    
     setTimeout(() => {
         opcaoSelecionada = false;
         perguntaAtual++;
@@ -200,6 +198,7 @@ function verificarResposta(event) {
         }
     }, 500);
 }
+
 
 function mostrarResultadoFinal() {
     const mainDiv = document.querySelector(".quiz-container");
