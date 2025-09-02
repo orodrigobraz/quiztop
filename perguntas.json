@@ -9022,5 +9022,485 @@
         ],
         "resposta": 1,
         "resposta_id": 752
+    },
+    {
+        "pergunta": "Baku é a capital de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Azerbaijão"},
+            {"id": 2, "texto": "Quirquistão"},
+            {"id": 3, "texto": "Turcomenistão"},
+            {"id": 4, "texto": "Cazaquistão"},
+            {"id": 5, "texto": "Afeganistão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 753
+    },
+    {
+        "pergunta": "Em que mês começa o inverno no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Junho"},
+            {"id": 2, "texto": "Julho"},
+            {"id": 3, "texto": "Agosto"},
+            {"id": 4, "texto": "Maio"},
+            {"id": 5, "texto": "Abril"}
+        ],
+        "resposta": 1,
+        "resposta_id": 754
+    },
+    {
+        "pergunta": "Em que mês começa o outono no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Março"},
+            {"id": 2, "texto": "Abril"},
+            {"id": 3, "texto": "Maio"},
+            {"id": 4, "texto": "Fevereiro"},
+            {"id": 5, "texto": "Junho"}
+        ],
+        "resposta": 1,
+        "resposta_id": 755
+    },
+    {
+        "pergunta": "Em que mês começa o verão no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Dezembro"},
+            {"id": 2, "texto": "Janeiro"},
+            {"id": 3, "texto": "Fevereiro"},
+            {"id": 4, "texto": "Março"},
+            {"id": 5, "texto": "Novembro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 756
+    },
+    {
+        "pergunta": "Em que mês começa a primavera no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Setembro"},
+            {"id": 2, "texto": "Outubro"},
+            {"id": 3, "texto": "Novembro"},
+            {"id": 4, "texto": "Dezembro"},
+            {"id": 5, "texto": "Janeiro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 757
+    },
+    {
+        "pergunta": "Em que ano Ayrton Senna ganhou seu último campeonato mundial de Fórmula 1?",
+        "opcoes": [
+            {"id": 1, "texto": "1991"},
+            {"id": 2, "texto": "1990"},
+            {"id": 3, "texto": "1992"},
+            {"id": 4, "texto": "1993"},
+            {"id": 5, "texto": "1994"}
+        ],
+        "resposta": 1,
+        "resposta_id": 758
+    },
+    {
+        "pergunta": "Em qual Grande Prêmio Ayrton Senna conquistou seu último campeonato mundial de Fórmula 1?",
+        "opcoes": [
+            {"id": 1, "texto": "GP do Japão"},
+            {"id": 2, "texto": "GP da Itália"},
+            {"id": 3, "texto": "GP da Mônaco"},
+            {"id": 4, "texto": "GP da Espanha"},
+            {"id": 5, "texto": "GP do Brasil"}
+        ],
+        "resposta": 1,
+        "resposta_id": 759
+    },
+    {
+        "pergunta": "Qual a data exata da estreia do primeiro Show do Milhão apresentado por Silvio Santos?",
+        "opcoes": [
+            {"id": 1, "texto": "7 de novembro de 1999"},
+            {"id": 2, "texto": "28 de dezembro de 1998"},
+            {"id": 3, "texto": "11 de abril de 1997"},
+            {"id": 4, "texto": "25 de janeiro de 2001"},
+            {"id": 5, "texto": "10 de maio de 2002"}
+        ],
+        "resposta": 1,
+        "resposta_id": 760
+    },
+    {
+        "pergunta": "O Senna Tower, projetado para ser o maior edifício residencial do mundo, vai ser construído em qual cidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Balneário Camboriú - SC"},
+            {"id": 2, "texto": "São Paulo - SP"},
+            {"id": 3, "texto": "Guarujá - SP"},
+            {"id": 4, "texto": "Rio de Janeiro - RJ"},
+            {"id": 5, "texto": "Florianópolis - SC"}
+        ],
+        "resposta": 1,
+        "resposta_id": 761
+    },
+    {
+        "pergunta": "Em qual país foi inventado o chuveiro elétrico?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasil"},
+            {"id": 2, "texto": "Estados Unidos"},
+            {"id": 3, "texto": "Alemanha"},
+            {"id": 4, "texto": "França"},
+            {"id": 5, "texto": "Japão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 762
+    },
+    {
+        "pergunta": "Qual o nome científico da cobra coral verdadeira?",
+        "opcoes": [
+            {"id": 1, "texto": "Micrurus corallinus"},
+            {"id": 2, "texto": "Apostolepis assimilis"},
+            {"id": 3, "texto": "Crotalus durissus"},
+            {"id": 4, "texto": "Boa constrictor"},
+            {"id": 5, "texto": "Gymnophiona"}
+        ],
+        "resposta": 1,
+        "resposta_id": 763
+    },
+    {
+        "pergunta": "Qual a moeda oficial do Japão?",
+        "opcoes": [
+            {"id": 1, "texto": "Iene"},
+            {"id": 2, "texto": "Won"},
+            {"id": 3, "texto": "Yuan"},
+            {"id": 4, "texto": "Dólar"},
+            {"id": 5, "texto": "Rúpia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 764
+    },
+    {
+        "pergunta": "Quem formulou a teoria da relatividade?",
+        "opcoes": [
+            {"id": 1, "texto": "Albert Einstein"},
+            {"id": 2, "texto": "Isaac Newton"},
+            {"id": 3, "texto": "Galileu Galilei"},
+            {"id": 4, "texto": "Nikola Tesla"},
+            {"id": 5, "texto": "Stephen Hawking"}
+        ],
+        "resposta": 1,
+        "resposta_id": 765
+    },
+    {
+        "pergunta": "Qual é o metal líquido em temperatura ambiente?",
+        "opcoes": [
+            {"id": 1, "texto": "Mercúrio"},
+            {"id": 2, "texto": "Gálio"},
+            {"id": 3, "texto": "Alumínio"},
+            {"id": 4, "texto": "Estanho"},
+            {"id": 5, "texto": "Tungstênio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 766
+    },
+    {
+        "pergunta": "Em qual país nasceu Nikola Tesla?",
+        "opcoes": [
+            {"id": 1, "texto": "Croácia"},
+            {"id": 2, "texto": "Sérvia"},
+            {"id": 3, "texto": "Hungria"},
+            {"id": 4, "texto": "Eslovênia"},
+            {"id": 5, "texto": "Áustria"}
+        ],
+        "resposta": 1,
+        "resposta_id": 767
+    },
+    {
+        "pergunta": "Em que ano foi assinada a Declaração da Independência dos Estados Unidos?",
+        "opcoes": [
+            {"id": 1, "texto": "1776"},
+            {"id": 2, "texto": "1783"},
+            {"id": 3, "texto": "1791"},
+            {"id": 4, "texto": "1801"},
+            {"id": 5, "texto": "1755"}
+        ],
+        "resposta": 1,
+        "resposta_id": 768
+    },
+    {
+        "pergunta": "Qual o menor país do mundo em território?",
+        "opcoes": [
+            {"id": 1, "texto": "Vaticano"},
+            {"id": 2, "texto": "Mônaco"},
+            {"id": 3, "texto": "San Marino"},
+            {"id": 4, "texto": "Liechtenstein"},
+            {"id": 5, "texto": "Singapura"}
+        ],
+        "resposta": 1,
+        "resposta_id": 769
+    },
+    {
+        "pergunta": "Qual foi o criador da teoria da gravitação universal?",
+        "opcoes": [
+            {"id": 1, "texto": "Isaac Newton"},
+            {"id": 2, "texto": "Albert Einstein"},
+            {"id": 3, "texto": "Galileu Galilei"},
+            {"id": 4, "texto": "Niels Bohr"},
+            {"id": 5, "texto": "Stephen Hawking"}
+        ],
+        "resposta": 1,
+        "resposta_id": 770
+    },
+    {
+        "pergunta": "Qual o continente com o maior número de países?",
+        "opcoes": [
+            {"id": 1, "texto": "África"},
+            {"id": 2, "texto": "Ásia"},
+            {"id": 3, "texto": "Europa"},
+            {"id": 4, "texto": "América"},
+            {"id": 5, "texto": "Oceania"}
+        ],
+        "resposta": 1,
+        "resposta_id": 771
+    },
+    {
+        "pergunta": "Qual país sediou a Copa do Mundo de 2010?",
+        "opcoes": [
+            {"id": 1, "texto": "África do Sul"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Alemanha"},
+            {"id": 4, "texto": "França"},
+            {"id": 5, "texto": "Rússia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 772
+    },
+    {
+        "pergunta": "Qual a capital do Uruguai?",
+        "opcoes": [
+            {"id": 1, "texto": "Montevidéu"},
+            {"id": 2, "texto": "Buenos Aires"},
+            {"id": 3, "texto": "Santiago"},
+            {"id": 4, "texto": "Cabo Polonio"},
+            {"id": 5, "texto": "Punta del Este"}
+        ],
+        "resposta": 1,
+        "resposta_id": 773
+    },
+    {
+        "pergunta": "Quem foi o primeiro brasileiro a ser campeão mundial de Fórmula 1?",
+        "opcoes": [
+            {"id": 1, "texto": "Emerson Fittipaldi"},
+            {"id": 2, "texto": "Nelson Piquet"},
+            {"id": 3, "texto": "Ayrton Senna"},
+            {"id": 4, "texto": "Rubens Barrichello"},
+            {"id": 5, "texto": "Felipe Massa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 774
+    },
+    {
+        "pergunta": "Qual o maior estado brasileiro em extensão territorial?",
+        "opcoes": [
+            {"id": 1, "texto": "Amazonas"},
+            {"id": 2, "texto": "Pará"},
+            {"id": 3, "texto": "Mato Grosso"},
+            {"id": 4, "texto": "Minas Gerais"},
+            {"id": 5, "texto": "Bahia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 775
+    },
+    {
+        "pergunta": "Quem compôs a Nona Sinfonia?",
+        "opcoes": [
+            {"id": 1, "texto": "Ludwig van Beethoven"},
+            {"id": 2, "texto": "Wolfgang Amadeus Mozart"},
+            {"id": 3, "texto": "Johann Sebastian Bach"},
+            {"id": 4, "texto": "Frédéric Chopin"},
+            {"id": 5, "texto": "Franz Schubert"}
+        ],
+        "resposta": 1,
+        "resposta_id": 776
+    },
+    {
+        "pergunta": "Qual o metal mais leve da tabela periódica?",
+        "opcoes": [
+            {"id": 1, "texto": "Lítio"},
+            {"id": 2, "texto": "Sódio"},
+            {"id": 3, "texto": "Césio"},
+            {"id": 4, "texto": "Bário"},
+            {"id": 5, "texto": "Alumínio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 777
+    },
+    {
+        "pergunta": "Quem é o autor da teoria heliocêntrica?",
+        "opcoes": [
+            {"id": 1, "texto": "Nicolau Copérnico"},
+            {"id": 2, "texto": "Galileo Galilei"},
+            {"id": 3, "texto": "Johannes Kepler"},
+            {"id": 4, "texto": "Isaac Newton"},
+            {"id": 5, "texto": "Ptolomeu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 778
+    },
+    {
+        "pergunta": "Qual a fórmula química do sal de cozinha?",
+        "opcoes": [
+            {"id": 1, "texto": "NaCl"},
+            {"id": 2, "texto": "KCl"},
+            {"id": 3, "texto": "CaCl2"},
+            {"id": 4, "texto": "MgCl2"},
+            {"id": 5, "texto": "NaOH"}
+        ],
+        "resposta": 1,
+        "resposta_id": 779
+    },
+    {
+        "pergunta": "Qual o maior arquipélago do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Marajó"},
+            {"id": 2, "texto": "Fernando de Noronha"},
+            {"id": 3, "texto": "Abrolhos"},
+            {"id": 4, "texto": "Ilha Grande"},
+            {"id": 5, "texto": "Trindade"}
+        ],
+        "resposta": 1,
+        "resposta_id": 780
+    },
+    {
+        "pergunta": "Qual planeta do sistema solar é o mais distante do Sol?",
+        "opcoes": [
+            {"id": 1, "texto": "Netuno"},
+            {"id": 2, "texto": "Urano"},
+            {"id": 3, "texto": "Saturno"},
+            {"id": 4, "texto": "Júpiter"},
+            {"id": 5, "texto": "Plutão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 781
+    },
+    {
+        "pergunta": "Qual cientista descobriu a penicilina?",
+        "opcoes": [
+            {"id": 1, "texto": "Alexander Fleming"},
+            {"id": 2, "texto": "Louis Pasteur"},
+            {"id": 3, "texto": "Robert Koch"},
+            {"id": 4, "texto": "Joseph Lister"},
+            {"id": 5, "texto": "Marie Curie"}
+        ],
+        "resposta": 1,
+        "resposta_id": 782
+    },
+    {
+        "pergunta": "Qual a capital da Polônia?",
+        "opcoes": [
+            {"id": 1, "texto": "Varsóvia"},
+            {"id": 2, "texto": "Cracóvia"},
+            {"id": 3, "texto": "Wrocław"},
+            {"id": 4, "texto": "Gdańsk"},
+            {"id": 5, "texto": "Poznań"}
+        ],
+        "resposta": 1,
+        "resposta_id": 783
+    },
+    {
+        "pergunta": "Qual cientista é conhecido como 'pai da genética'?",
+        "opcoes": [
+            {"id": 1, "texto": "Gregor Mendel"},
+            {"id": 2, "texto": "Charles Darwin"},
+            {"id": 3, "texto": "Louis Pasteur"},
+            {"id": 4, "texto": "Isaac Newton"},
+            {"id": 5, "texto": "James Watson"}
+        ],
+        "resposta": 1,
+        "resposta_id": 784
+    },
+    {
+        "pergunta": "Quem foi o primeiro homem a circunavegar o globo?",
+        "opcoes": [
+            {"id": 1, "texto": "Fernão de Magalhães"},
+            {"id": 2, "texto": "Cristóvão Colombo"},
+            {"id": 3, "texto": "Vasco da Gama"},
+            {"id": 4, "texto": "Américo Vespúcio"},
+            {"id": 5, "texto": "Charles Darwin"}
+        ],
+        "resposta": 1,
+        "resposta_id": 785
+    },
+    {
+        "pergunta": "Qual o país mais populoso da África?",
+        "opcoes": [
+            {"id": 1, "texto": "Nigéria"},
+            {"id": 2, "texto": "Egito"},
+            {"id": 3, "texto": "África do Sul"},
+            {"id": 4, "texto": "Etiópia"},
+            {"id": 5, "texto": "Marrocos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 786
+    },
+    {
+        "pergunta": "Qual o deserto mais seco do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Atacama"},
+            {"id": 2, "texto": "Saara"},
+            {"id": 3, "texto": "Gobi"},
+            {"id": 4, "texto": "Kalahari"},
+            {"id": 5, "texto": "Mohave"}
+        ],
+        "resposta": 1,
+        "resposta_id": 787
+    },
+    {
+        "pergunta": "Quem é o autor da obra 'O Contrato Social'?",
+        "opcoes": [
+            {"id": 1, "texto": "Jean-Jacques Rousseau"},
+            {"id": 2, "texto": "Thomas Hobbes"},
+            {"id": 3, "texto": "John Locke"},
+            {"id": 4, "texto": "Karl Marx"},
+            {"id": 5, "texto": "Montesquieu"}
+        ],
+        "resposta": 1,
+        "resposta_id": 788
+    },
+    {
+        "pergunta": "Qual o menor estado brasileiro em área territorial?",
+        "opcoes": [
+            {"id": 1, "texto": "Sergipe"},
+            {"id": 2, "texto": "Alagoas"},
+            {"id": 3, "texto": "Espírito Santo"},
+            {"id": 4, "texto": "Acre"},
+            {"id": 5, "texto": "Rio Grande do Norte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 789
+    },
+    {
+        "pergunta": "Como é mais conhecido o hino nacional da França?",
+        "opcoes": [
+            {"id": 1, "texto": "A Marselhesa"},
+            {"id": 2, "texto": "Deus Salve o Rei"},
+            {"id": 3, "texto": "Hino à Liberdade"},
+            {"id": 4, "texto": "Canção da Vitória"},
+            {"id": 5, "texto": "Igualdade e Fraternidade"}
+        ],
+        "resposta": 1,
+        "resposta_id": 790
+    },
+    {
+        "pergunta": "Qual a capital da Bélgica?",
+        "opcoes": [
+            {"id": 1, "texto": "Bruxelas"},
+            {"id": 2, "texto": "Antuérpia"},
+            {"id": 3, "texto": "Ghent"},
+            {"id": 4, "texto": "Bruges"},
+            {"id": 5, "texto": "Liège"}
+        ],
+        "resposta": 1,
+        "resposta_id": 791
+    },
+    {
+        "pergunta": "Quem pintou a obra 'O Grito'?",
+        "opcoes": [
+            {"id": 1, "texto": "Edvard Munch"},
+            {"id": 2, "texto": "Pablo Picasso"},
+            {"id": 3, "texto": "Vincent van Gogh"},
+            {"id": 4, "texto": "Claude Monet"},
+            {"id": 5, "texto": "Banksy"}
+        ],
+        "resposta": 1,
+        "resposta_id": 792
     }
 ]
