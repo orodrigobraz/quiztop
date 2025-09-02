@@ -107,7 +107,7 @@ function mostrarPergunta() {
         li.textContent = opcao.texto;
         li.classList.add("option");
         li.onclick = verificarResposta;
-        // li.dataset.optionId = opcao.id;
+        li.dataset.optionId = opcao.id;
         optionsList.appendChild(li);
     });
 }
