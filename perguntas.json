@@ -9502,5 +9502,137 @@
         ],
         "resposta": 1,
         "resposta_id": 792
+    },
+    {
+        "pergunta": "O filme O Senhor dos Anéis: O retorno do Rei, ganhou quantos Oscars?",
+        "opcoes": [
+            {"id": 1, "texto": "11"},
+            {"id": 2, "texto": "9"},
+            {"id": 3, "texto": "10"},
+            {"id": 4, "texto": "12"},
+            {"id": 5, "texto": "13"}
+        ],
+        "resposta": 1,
+        "resposta_id": 793
+    },
+    {
+        "pergunta": "Em que ano foi lançado o último filme da saga Harry Potter?",
+        "opcoes": [
+            {"id": 1, "texto": "2011"},
+            {"id": 2, "texto": "2010"},
+            {"id": 3, "texto": "2012"},
+            {"id": 4, "texto": "2009"},
+            {"id": 5, "texto": "2008"}
+        ],
+        "resposta": 1,
+        "resposta_id": 794
+    },
+    {
+        "pergunta": "Qual filme levou o Oscar de melhor filme no ano de 2024?",
+        "opcoes": [
+            {"id": 1, "texto": "Oppenheimer"},
+            {"id": 2, "texto": "Anora"},
+            {"id": 3, "texto": "Tudo em todo lugar ao mesmo tempo"},
+            {"id": 4, "texto": "CODA"},
+            {"id": 5, "texto": "Nomadland"}
+        ],
+        "resposta": 1,
+        "resposta_id": 795
+    },
+    {
+        "pergunta": "De qual país é o Nobel de Literatura de 2024?",
+        "opcoes": [
+            {"id": 1, "texto": "Coreia do Sul"},
+            {"id": 2, "texto": "Estados Unidos"},
+            {"id": 3, "texto": "França"},
+            {"id": 4, "texto": "Croácia"},
+            {"id": 5, "texto": "Finlândia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 796
+    },
+    {
+        "pergunta": "Qual time de futebol foi campeão do Brasileirão de 2002?",
+        "opcoes": [
+            {"id": 1, "texto": "Santos"},
+            {"id": 2, "texto": "Cruzeiro"},
+            {"id": 3, "texto": "Atlético Paranaense"},
+            {"id": 4, "texto": "Flamengo"},
+            {"id": 5, "texto": "Corinthians"}
+        ],
+        "resposta": 1,
+        "resposta_id": 797
+    },
+    {
+        "pergunta": "Qual time de futebol foi o primeiro campeão do Brasileirão de pontos corridos?",
+        "opcoes": [
+            {"id": 1, "texto": "Cruzeiro"},
+            {"id": 2, "texto": "Santos"},
+            {"id": 3, "texto": "Atlético Paranaense"},
+            {"id": 4, "texto": "Flamengo"},
+            {"id": 5, "texto": "Corinthians"}
+        ],
+        "resposta": 1,
+        "resposta_id": 798
+    },
+    {
+        "pergunta": "Qual time de futebol foi campeão do Brasileirão de 2008?",
+        "opcoes": [
+            {"id": 1, "texto": "São Paulo"},
+            {"id": 2, "texto": "Santos"},
+            {"id": 3, "texto": "Flamengo"},
+            {"id": 4, "texto": "Cruzeiro"},
+            {"id": 5, "texto": "Fluminense"}
+        ],
+        "resposta": 1,
+        "resposta_id": 799
+    },
+    {
+        "pergunta": "Quem escreveu As crônicas de Nárnia?",
+        "opcoes": [
+            {"id": 1, "texto": "C.S. Lewis"},
+            {"id": 2, "texto": "J.R.R. Tolkien"},
+            {"id": 3, "texto": "George R.R. Martin"},
+            {"id": 4, "texto": "J.K. Rowling"},
+            {"id": 5, "texto": "Andrzej Sapkowski"}
+        ],
+        "resposta": 1,
+        "resposta_id": 800
+    },
+    {
+        "pergunta": "Qual destes livros não faz parte da Tetralogia Napolitana de Elena Ferrante?",
+        "opcoes": [
+            {"id": 1, "texto": "Um amor incômodo"},
+            {"id": 2, "texto": "A amiga genial"},
+            {"id": 3, "texto": "História do novo sobrenome"},
+            {"id": 4, "texto": "História de quem foge e quem fica"},
+            {"id": 5, "texto": "História da menina perdida"}
+        ],
+        "resposta": 1,
+        "resposta_id": 801
+    },
+    {
+        "pergunta": "Uma nota musical que foi baixada de tom, tornando-se mais grave, é chamada como...?",
+        "opcoes": [
+            {"id": 1, "texto": "Bemol"},
+            {"id": 2, "texto": "Sustenido"},
+            {"id": 3, "texto": "Semitom"},
+            {"id": 4, "texto": "Bequadro"},
+            {"id": 5, "texto": "Tritom"}
+        ],
+        "resposta": 1,
+        "resposta_id": 802
+    },
+    {
+        "pergunta": "Qual destes livros não é de Jules Verne?",
+        "opcoes": [
+            {"id": 1, "texto": "As viagens de Gulliver"},
+            {"id": 2, "texto": "20 mil légras submarinas"},
+            {"id": 3, "texto": "A ilha misteriosa"},
+            {"id": 4, "texto": "Viagem ao centro da Terra"},
+            {"id": 5, "texto": "A volta ao mundo em 80 dias"}
+        ],
+        "resposta": 1,
+        "resposta_id": 803
     }
 ]
