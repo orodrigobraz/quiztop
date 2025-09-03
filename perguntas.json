@@ -9627,12 +9627,24 @@
         "pergunta": "Qual destes livros não é de Jules Verne?",
         "opcoes": [
             {"id": 1, "texto": "As viagens de Gulliver"},
-            {"id": 2, "texto": "20 mil légras submarinas"},
+            {"id": 2, "texto": "20 mil léguas submarinas"},
             {"id": 3, "texto": "A ilha misteriosa"},
             {"id": 4, "texto": "Viagem ao centro da Terra"},
             {"id": 5, "texto": "A volta ao mundo em 80 dias"}
         ],
         "resposta": 1,
         "resposta_id": 803
+    },
+    {
+        "pergunta": "Qual destes livros não é de Eça de Queirós?",
+        "opcoes": [
+            {"id": 1, "texto": "A mulher de branco"},
+            {"id": 2, "texto": "A relíquia"},
+            {"id": 3, "texto": "O crime do padre Amaro"},
+            {"id": 4, "texto": "O primo Basílio"},
+            {"id": 5, "texto": "Os Maias"}
+        ],
+        "resposta": 1,
+        "resposta_id": 804
     }
 ]
