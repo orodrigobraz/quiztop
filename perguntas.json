@@ -8942,10 +8942,10 @@
     {
         "pergunta": "Qual é a vitamina conhecida como a 'vitamina do sol'?",
         "opcoes": [
-            {"id": 1, "texto": "Vitamina A"},
+            {"id": 1, "texto": "Vitamina D"},
             {"id": 2, "texto": "Vitamina B"},
             {"id": 3, "texto": "Vitamina C"},
-            {"id": 4, "texto": "Vitamina D"},
+            {"id": 4, "texto": "Vitamina A"},
             {"id": 5, "texto": "Vitamina B12"}
         ],
         "resposta": 1,

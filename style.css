@@ -206,7 +206,7 @@ footer a {
     line-height: 1.6;
 }
 
-/* Container de autenticação */
+/* Container de autenticação
 .auth-container {
     background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
     padding: 30px;
@@ -214,7 +214,7 @@ footer a {
     border: 1px solid #dee2e6;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
     margin: 20px 0;
-}
+} */
 
 /* Esconder container de autenticação quando usuário estiver logado */
 .auth-container.hidden {
