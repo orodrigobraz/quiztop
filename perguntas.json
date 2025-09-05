@@ -9646,5 +9646,77 @@
         ],
         "resposta": 1,
         "resposta_id": 804
+    },
+    {
+        "pergunta": "Qual a tradução da palavra em japonês hondana '本棚'?",
+        "opcoes": [
+            {"id": 1, "texto": "Estante de livros"},
+            {"id": 2, "texto": "Carro bonito"},
+            {"id": 3, "texto": "Cadeira de praia"},
+            {"id": 4, "texto": "Janela de madeira"},
+            {"id": 5, "texto": "Mesa redonda"}
+        ],
+        "resposta": 1,
+        "resposta_id": 805
+    },
+    {
+        "pergunta": "Em que direção o Sol nasce?",
+        "opcoes": [
+            {"id": 1, "texto": "Leste"},
+            {"id": 2, "texto": "Oeste"},
+            {"id": 3, "texto": "Norte"},
+            {"id": 4, "texto": "Sul"},
+            {"id": 5, "texto": "Sudoeste"}
+        ],
+        "resposta": 1,
+        "resposta_id": 806
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Instagram?",
+        "opcoes": [
+            {"id": 1, "texto": "2010"},
+            {"id": 2, "texto": "2011"},
+            {"id": 3, "texto": "2012"},
+            {"id": 4, "texto": "2013"},
+            {"id": 5, "texto": "2014"}
+        ],
+        "resposta": 1,
+        "resposta_id": 807
+    },
+    {
+        "pergunta": "Em que ano foi fundada a ONU?",
+        "opcoes": [
+            {"id": 1, "texto": "1945"},
+            {"id": 2, "texto": "1948"},
+            {"id": 3, "texto": "1950"},
+            {"id": 4, "texto": "1953"},
+            {"id": 5, "texto": "1961"}
+        ],
+        "resposta": 1,
+        "resposta_id": 808
+    },
+    {
+        "pergunta": "Em qual cidade brasileira nasceu o humorista Thiago Ventura?",
+        "opcoes": [
+            {"id": 1, "texto": "Taboão da Serra"},
+            {"id": 2, "texto": "São Paulo"},
+            {"id": 3, "texto": "Itapecerica da Serra"},
+            {"id": 4, "texto": "Osasco"},
+            {"id": 5, "texto": "Guarulhos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 809
+    },
+    {
+        "pergunta": "Quantas indicações ao Oscar a saga Harry Potter recebeu no total?",
+        "opcoes": [
+            {"id": 1, "texto": "12"},
+            {"id": 2, "texto": "10"},
+            {"id": 3, "texto": "11"},
+            {"id": 4, "texto": "13"},
+            {"id": 5, "texto": "9"}
+        ],
+        "resposta": 1,
+        "resposta_id": 810
     }
 ]
