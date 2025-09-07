@@ -9718,5 +9718,125 @@
         ],
         "resposta": 1,
         "resposta_id": 810
+    },
+    {
+        "pergunta": "A gaita de fole é um instrumento musical simbolo de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Escócia"},
+            {"id": 2, "texto": "Irlanda"},
+            {"id": 3, "texto": "Índia"},
+            {"id": 4, "texto": "Alemanha"},
+            {"id": 5, "texto": "Espanha"}
+        ],
+        "resposta": 1,
+        "resposta_id": 811
+    },
+    {
+        "pergunta": "A Croácia não faz fronteira terrestre com qual destes países?",
+        "opcoes": [
+            {"id": 1, "texto": "Áustria"},
+            {"id": 2, "texto": "Hungria"},
+            {"id": 3, "texto": "Eslovênia"},
+            {"id": 4, "texto": "Bósnia e Herzegovina"},
+            {"id": 5, "texto": "Montenegro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 812
+    },
+    {
+        "pergunta": "Qual escritor russo é autor da obra Evguiêni Oniéguin?",
+        "opcoes": [
+            {"id": 1, "texto": "Aleksandr Púchkin"},
+            {"id": 2, "texto": "Fiódor Dostoiévski"},
+            {"id": 3, "texto": "Liev Tolstói"},
+            {"id": 4, "texto": "Anton Tchékhov"},
+            {"id": 5, "texto": "Mikhail Bulgákov"}
+        ],
+        "resposta": 1,
+        "resposta_id": 813
+    },
+    {
+        "pergunta": "De qual inseto se extrai o carmim?",
+        "opcoes": [
+            {"id": 1, "texto": "Cochonilha"},
+            {"id": 2, "texto": "Pulga"},
+            {"id": 3, "texto": "Joaninha"},
+            {"id": 4, "texto": "Louva-a-Deus"},
+            {"id": 5, "texto": "Mariposa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 814
+    },
+    {
+        "pergunta": "Qual o nome do estádio do Mineirão?",
+        "opcoes": [
+            {"id": 1, "texto": "Governador Magalhães Pinto"},
+            {"id": 2, "texto": "Cícero Pompeu de Toledo"},
+            {"id": 3, "texto": "Mário Filho"},
+            {"id": 4, "texto": "Paulo Machado de Carvalho"},
+            {"id": 5, "texto": "Doutor Oswaldo Teixeira Duarte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 815
+    },
+    {
+        "pergunta": "O slogan 'Just do it' é de qual marca?",
+        "opcoes": [
+            {"id": 1, "texto": "Nike"},
+            {"id": 2, "texto": "Adidas"},
+            {"id": 3, "texto": "Puma"},
+            {"id": 4, "texto": "Reebok"},
+            {"id": 5, "texto": "Vans"}
+        ],
+        "resposta": 1,
+        "resposta_id": 816
+    },
+    {
+        "pergunta": "Em qual estádio aconteceu o fatídico 7 a 1?",
+        "opcoes": [
+            {"id": 1, "texto": "Mineirão"},
+            {"id": 2, "texto": "Maracanã"},
+            {"id": 3, "texto": "Morumbi"},
+            {"id": 4, "texto": "Arena Pantanal"},
+            {"id": 5, "texto": "Castelão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 817
+    },
+    {
+        "pergunta": "Em que ano a Iugoslávia deixou de existir formalmente?",
+        "opcoes": [
+            {"id": 1, "texto": "2003"},
+            {"id": 2, "texto": "1993"},
+            {"id": 3, "texto": "1991"},
+            {"id": 4, "texto": "1995"},
+            {"id": 5, "texto": "1999"}
+        ],
+        "resposta": 1,
+        "resposta_id": 818
+    },
+    {
+        "pergunta": "Qual destes países não foram criados com a dissolução da Iugoslávia?",
+        "opcoes": [
+            {"id": 1, "texto": "Moldávia"},
+            {"id": 2, "texto": "Eslovênia"},
+            {"id": 3, "texto": "Kosovo"},
+            {"id": 4, "texto": "Macedônia do Norte"},
+            {"id": 5, "texto": "Montenegro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 819
+    },
+    {
+        "pergunta": "Qual destes nomes não é de uma filha do apresentador Silvio Santos?",
+        "opcoes": [
+            {"id": 1, "texto": "Natália"},
+            {"id": 2, "texto": "Cintia"},
+            {"id": 3, "texto": "Patrícia"},
+            {"id": 4, "texto": "Rebeca"},
+            {"id": 5, "texto": "Renata"}
+        ],
+        "resposta": 1,
+        "resposta_id": 820
     }
 ]
