@@ -9838,5 +9838,185 @@
         ],
         "resposta": 1,
         "resposta_id": 820
+    },
+    {
+        "pergunta": "A marca de carros Chery é de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "China"},
+            {"id": 2, "texto": "França"},
+            {"id": 3, "texto": "Coreia do Sul"},
+            {"id": 4, "texto": "Alemanha"},
+            {"id": 5, "texto": "Estados Unidos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 821
+    },
+    {
+        "pergunta": "Qual empresa lançou o primeiro smartphone?",
+        "opcoes": [
+            {"id": 1, "texto": "IBM"},
+            {"id": 2, "texto": "Nokia"},
+            {"id": 3, "texto": "Apple"},
+            {"id": 4, "texto": "Samsung"},
+            {"id": 5, "texto": "Blackberry"}
+        ],
+        "resposta": 1,
+        "resposta_id": 822
+    },
+    {
+        "pergunta": "Durante o governo de qual presidente o horário de verão foi implementado no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Getúlio Vargas"},
+            {"id": 2, "texto": "Juscelino Kubitschek"},
+            {"id": 3, "texto": "Fernando Henrique Cardoso"},
+            {"id": 4, "texto": "Jânio Quadros"},
+            {"id": 5, "texto": "Delfim Moreira"}
+        ],
+        "resposta": 1,
+        "resposta_id": 823
+    },
+    {
+        "pergunta": "De qual casa era Harry Potter?",
+        "opcoes": [
+            {"id": 1, "texto": "Grifinória"},
+            {"id": 2, "texto": "Sonserina"},
+            {"id": 3, "texto": "Corvinal"},
+            {"id": 4, "texto": "Lufa-Lufa"},
+            {"id": 5, "texto": "Hufflepuff"}
+        ],
+        "resposta": 1,
+        "resposta_id": 824
+    },
+    {
+        "pergunta": "Qual era a fornecedora de uniformes do São Paulo no título da libertadores de 2005?",
+        "opcoes": [
+            {"id": 1, "texto": "Topper"},
+            {"id": 2, "texto": "Penalty"},
+            {"id": 3, "texto": "Reebok"},
+            {"id": 4, "texto": "Adidas"},
+            {"id": 5, "texto": "Umbro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 825
+    },
+    {
+        "pergunta": "Como é mais conhecida a úvula?",
+        "opcoes": [
+            {"id": 1, "texto": "Campainha"},
+            {"id": 2, "texto": "Epiglote"},
+            {"id": 3, "texto": "Faringe"},
+            {"id": 4, "texto": "Laringe"},
+            {"id": 5, "texto": "Amígdala"}
+        ],
+        "resposta": 1,
+        "resposta_id": 826
+    },
+    {
+        "pergunta": "O que se comemora no Brasil no dia 15 de novembro?",
+        "opcoes": [
+            {"id": 1, "texto": "Proclamação da República"},
+            {"id": 2, "texto": "Independência do Brasil"},
+            {"id": 3, "texto": "Dia da Consciência Negra"},
+            {"id": 4, "texto": "Dia da Padroeira do Brasil"},
+            {"id": 5, "texto": "Dia do Fico"}
+        ],
+        "resposta": 1,
+        "resposta_id": 827
+    },
+    {
+        "pergunta": "Qual planeta é também chamado de Estrela D'Alva?",
+        "opcoes": [
+            {"id": 1, "texto": "Vênus"},
+            {"id": 2, "texto": "Marte"},
+            {"id": 3, "texto": "Júpiter"},
+            {"id": 4, "texto": "Saturno"},
+            {"id": 5, "texto": "Mercúrio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 828
+    },
+    {
+        "pergunta": "Qual o nome da banda que revelou Ivete Sangalo?",
+        "opcoes": [
+            {"id": 1, "texto": "Banda Eva"},
+            {"id": 2, "texto": "Cheiro de Amor"},
+            {"id": 3, "texto": "Babado Novo"},
+            {"id": 4, "texto": "Banda Beijo"},
+            {"id": 5, "texto": "Psirico"}
+        ],
+        "resposta": 1,
+        "resposta_id": 829
+    },
+    {
+        "pergunta": "Qual dos apóstolos de Cristo era cobrador de impostos?",
+        "opcoes": [
+            {"id": 1, "texto": "Mateus"},
+            {"id": 2, "texto": "Pedro"},
+            {"id": 3, "texto": "André"},
+            {"id": 4, "texto": "Tiago"},
+            {"id": 5, "texto": "Simão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 830
+    },
+    {
+        "pergunta": "A marca do pênalti fica a quantos metros da linha do gol?",
+        "opcoes": [
+            {"id": 1, "texto": "11 metros"},
+            {"id": 2, "texto": "10 metros"},
+            {"id": 3, "texto": "9 metros"},
+            {"id": 4, "texto": "12 metros"},
+            {"id": 5, "texto": "8 metros"}
+        ],
+        "resposta": 1,
+        "resposta_id": 831
+    },
+    {
+        "pergunta": "Em que ano foi fundado o time Paris Saint-Germain?",
+        "opcoes": [
+            {"id": 1, "texto": "1970"},
+            {"id": 2, "texto": "1980"},
+            {"id": 3, "texto": "1990"},
+            {"id": 4, "texto": "1960"},
+            {"id": 5, "texto": "1950"}
+        ],
+        "resposta": 1,
+        "resposta_id": 832
+    },
+    {
+        "pergunta": "Qual era o número da camisa de Kaká na Copa do Mundo de 2002?",
+        "opcoes": [
+            {"id": 1, "texto": "23"},
+            {"id": 2, "texto": "8"},
+            {"id": 3, "texto": "18"},
+            {"id": 4, "texto": "7"},
+            {"id": 5, "texto": "22"}
+        ],
+        "resposta": 1,
+        "resposta_id": 833
+    },
+    {
+        "pergunta": "Em qual cidade se formou a banda Charlie Brown Jr?",
+        "opcoes": [
+            {"id": 1, "texto": "Santos"},
+            {"id": 2, "texto": "São Paulo"},
+            {"id": 3, "texto": "São José dos Campos"},
+            {"id": 4, "texto": "Osasco"},
+            {"id": 5, "texto": "Diadema"}
+        ],
+        "resposta": 1,
+        "resposta_id": 834
+    },
+    {
+        "pergunta": "Em que ano foi tirada a primeira fotografia a cores?",
+        "opcoes": [
+            {"id": 1, "texto": "1861"},
+            {"id": 2, "texto": "1871"},
+            {"id": 3, "texto": "1881"},
+            {"id": 4, "texto": "1891"},
+            {"id": 5, "texto": "1901"}
+        ],
+        "resposta": 1,
+        "resposta_id": 835
     }
 ]
