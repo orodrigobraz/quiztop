@@ -10018,5 +10018,221 @@
         ],
         "resposta": 1,
         "resposta_id": 835
+    },
+    {
+        "pergunta": "Qual é o produto gasoso formado da reação entre bicarbonato de sódio e ácido acético?",
+        "opcoes": [
+            {"id": 1, "texto": "Gás carbônico (CO2)"},
+            {"id": 2, "texto": "Oxigênio (O2)"},
+            {"id": 3, "texto": "Hidrogênio (H2)"},
+            {"id": 4, "texto": "Metano (CH4)"},
+            {"id": 5, "texto": "Butano (C4H10)"}
+        ],
+        "resposta": 1,
+        "resposta_id": 836
+    },
+    {
+        "pergunta": "Qual a fórmula do ácido sulfúrico?",
+        "opcoes": [
+            {"id": 1, "texto": "H2SO4"},
+            {"id": 2, "texto": "H2CO3"},
+            {"id": 3, "texto": "HCl"},
+            {"id": 4, "texto": "HNO3"},
+            {"id": 5, "texto": "CH3COOH"}
+        ],
+        "resposta": 1,
+        "resposta_id": 837
+    },
+    {
+        "pergunta": "Qual peça do xadrez se movimenta em forma de L?",
+        "opcoes": [
+            {"id": 1, "texto": "Cavalo"},
+            {"id": 2, "texto": "Bispo"},
+            {"id": 3, "texto": "Torre"},
+            {"id": 4, "texto": "Rainha"},
+            {"id": 5, "texto": "Peão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 838
+    },
+    {
+        "pergunta": "Qual foi o primeiro celular com câmera lançado no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Kyocera VP-210"},
+            {"id": 2, "texto": "Nokia 7650"},
+            {"id": 3, "texto": "Sony Ericsson K750"},
+            {"id": 4, "texto": "Sharp J-SH04"},
+            {"id": 5, "texto": "Samsung SCH-V200"}
+        ],
+        "resposta": 1,
+        "resposta_id": 839
+    },
+    {
+        "pergunta": "Em qual país foi inventado o papel?",
+        "opcoes": [
+            {"id": 1, "texto": "China"},
+            {"id": 2, "texto": "Egito"},
+            {"id": 3, "texto": "Grécia"},
+            {"id": 4, "texto": "Japão"},
+            {"id": 5, "texto": "Índia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 840
+    },
+    {
+        "pergunta": "Qual o significado de 'GPT' no contexto de chatGPT?",
+        "opcoes": [
+            {"id": 1, "texto": "Generative Pre-trained Transformer"},
+            {"id": 2, "texto": "Generalized Predictive Text"},
+            {"id": 3, "texto": "Graphical Processing Tool"},
+            {"id": 4, "texto": "Global Programming Technology"},
+            {"id": 5, "texto": "Generative Prompt Tokenizer"}
+        ],
+        "resposta": 1,
+        "resposta_id": 841
+    },
+    {
+        "pergunta": "Qual destes jogadores nunca foi campeão da Copa do Mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Zico"},
+            {"id": 2, "texto": "Belletti"},
+            {"id": 3, "texto": "Roque Júnior"},
+            {"id": 4, "texto": "Bebeto"},
+            {"id": 5, "texto": "Zetti"}
+        ],
+        "resposta": 1,
+        "resposta_id": 842
+    },
+    {
+        "pergunta": "Quem foi o primeiro imperador de Roma?",
+        "opcoes": [
+            {"id": 1, "texto": "Augusto"},
+            {"id": 2, "texto": "Júlio César"},
+            {"id": 3, "texto": "Nero"},
+            {"id": 4, "texto": "Constantino"},
+            {"id": 5, "texto": "Vespasiano"}
+        ],
+        "resposta": 1,
+        "resposta_id": 843
+    },
+    {
+        "pergunta": "Como é chamado o dia mais longo do ano?",
+        "opcoes": [
+            {"id": 1, "texto": "Solstício de Verão"},
+            {"id": 2, "texto": "Equinócio de Primavera"},
+            {"id": 3, "texto": "Solstício de Inverno"},
+            {"id": 4, "texto": "Equinócio de Outono"},
+            {"id": 5, "texto": "Crepúsculo de Verão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 844
+    },
+    {
+        "pergunta": "Complete a conjugação: Eu fiz, tu fizeste, ele fez, nós fizemos, vós...?",
+        "opcoes": [
+            {"id": 1, "texto": "Fizestes"},
+            {"id": 2, "texto": "Fizeis"},
+            {"id": 3, "texto": "Fizais"},
+            {"id": 4, "texto": "Fizéreis"},
+            {"id": 5, "texto": "Fizérias"}
+        ],
+        "resposta": 1,
+        "resposta_id": 845
+    },
+    {
+        "pergunta": "Qual rei da mitologia transformava tudo que tocava em ouro?",
+        "opcoes": [
+            {"id": 1, "texto": "Midas"},
+            {"id": 2, "texto": "César"},
+            {"id": 3, "texto": "Artur"},
+            {"id": 4, "texto": "Salomão"},
+            {"id": 5, "texto": "Leônidas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 846
+    },
+    {
+        "pergunta": "Qual o nome da primeira missão que levou o homem à Lua?",
+        "opcoes": [
+            {"id": 1, "texto": "Apollo 11"},
+            {"id": 2, "texto": "Apollo 10"},
+            {"id": 3, "texto": "Mercury-Atlas 6"},
+            {"id": 4, "texto": "Apollo 12"},
+            {"id": 5, "texto": "Apollo 9"}
+        ],
+        "resposta": 1,
+        "resposta_id": 847
+    },
+    {
+        "pergunta": "Qual o nome do bastão com que o maestro rege uma orquestra?",
+        "opcoes": [
+            {"id": 1, "texto": "Batuta"},
+            {"id": 2, "texto": "Cajado"},
+            {"id": 3, "texto": "Bagueta"},
+            {"id": 4, "texto": "Vareta"},
+            {"id": 5, "texto": "Varinha"}
+        ],
+        "resposta": 1,
+        "resposta_id": 848
+    },
+    {
+        "pergunta": "Qual era a profissão da pessoa que tirou a primeira fotografia colorida na história?",
+        "opcoes": [
+            {"id": 1, "texto": "Físico"},
+            {"id": 2, "texto": "Químico"},
+            {"id": 3, "texto": "Médico"},
+            {"id": 4, "texto": "Pintor"},
+            {"id": 5, "texto": "Engenheiro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 849
+    },
+    {
+        "pergunta": "Como se chama a força militar responsável pela segurança do Papa?",
+        "opcoes": [
+            {"id": 1, "texto": "Guarda Suíça"},
+            {"id": 2, "texto": "Cavaleiros Templários"},
+            {"id": 3, "texto": "Exército Papal"},
+            {"id": 4, "texto": "Guarda do Vaticano"},
+            {"id": 5, "texto": "Polícia Italiana"}
+        ],
+        "resposta": 1,
+        "resposta_id": 850
+    },
+    {
+        "pergunta": "Quantos milímetros mede uma pessoa cuja altura é de 1 metro e 70 centímetros?",
+        "opcoes": [
+            {"id": 1, "texto": "1700"},
+            {"id": 2, "texto": "170"},
+            {"id": 3, "texto": "17"},
+            {"id": 4, "texto": "1.7"},
+            {"id": 5, "texto": "17000"}
+        ],
+        "resposta": 1,
+        "resposta_id": 851
+    },
+    {
+        "pergunta": "Qual estado brasileiro tem um arco-íris em sua bandeira?",
+        "opcoes": [
+            {"id": 1, "texto": "Pernambuco"},
+            {"id": 2, "texto": "Ceará"},
+            {"id": 3, "texto": "Rio Grande do Norte"},
+            {"id": 4, "texto": "Piauí"},
+            {"id": 5, "texto": "Goiás"}
+        ],
+        "resposta": 1,
+        "resposta_id": 852
+    },
+    {
+        "pergunta": "Quem era o presidente dos EUA na época dos atentados de 11 de setembro de 2001?",
+        "opcoes": [
+            {"id": 1, "texto": "George W. Bush"},
+            {"id": 2, "texto": "Bill Clinton"},
+            {"id": 3, "texto": "Barack Obama"},
+            {"id": 4, "texto": "Ronald Reagan"},
+            {"id": 5, "texto": "Jimmy Carter"}
+        ],
+        "resposta": 1,
+        "resposta_id": 853
     }
 ]
