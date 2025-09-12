@@ -10258,5 +10258,269 @@
         ],
         "resposta": 1,
         "resposta_id": 855
+    },
+    {
+        "pergunta": "Em qual país surgiu a plataforma Ifood?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasil"},
+            {"id": 2, "texto": "Argentina"},
+            {"id": 3, "texto": "Portugal"},
+            {"id": 4, "texto": "Espanha"},
+            {"id": 5, "texto": "Chile"}
+        ],
+        "resposta": 1,
+        "resposta_id": 856
+    },
+    {
+        "pergunta": "Em qual país foi o primeiro Rock In Rio fora do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Portugal"},
+            {"id": 2, "texto": "Espanha"},
+            {"id": 3, "texto": "Chile"},
+            {"id": 4, "texto": "Argentina"},
+            {"id": 5, "texto": "Estados Unidos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 857
+    },
+    {
+        "pergunta": "Qual o primeiro nome da apresentadora Tatá Werneck?",
+        "opcoes": [
+            {"id": 1, "texto": "Talita"},
+            {"id": 2, "texto": "Tamara"},
+            {"id": 3, "texto": "Tainara"},
+            {"id": 4, "texto": "Tatiane"},
+            {"id": 5, "texto": "Samanta"}
+        ],
+        "resposta": 1,
+        "resposta_id": 858
+    },
+    {
+        "pergunta": "Quantos países independentes existem dentro da Itália?",
+        "opcoes": [
+            {"id": 1, "texto": "Dois"},
+            {"id": 2, "texto": "Um"},
+            {"id": 3, "texto": "Zero"},
+            {"id": 4, "texto": "Três"},
+            {"id": 5, "texto": "Quatro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 859
+    },
+    {
+        "pergunta": "Em que ano faleceu o escritor português Fernando Pessoa?",
+        "opcoes": [
+            {"id": 1, "texto": "1935"},
+            {"id": 2, "texto": "1945"},
+            {"id": 3, "texto": "1925"},
+            {"id": 4, "texto": "1915"},
+            {"id": 5, "texto": "1955"}
+        ],
+        "resposta": 1,
+        "resposta_id": 860
+    },
+    {
+        "pergunta": "Qual é o nome do vocalista do Rage Against The Machine?",
+        "opcoes": [
+            {"id": 1, "texto": "Zack de la Rocha"},
+            {"id": 2, "texto": "Tim Commerford"},
+            {"id": 3, "texto": "Brad Wilk"},
+            {"id": 4, "texto": "Tom Morello"},
+            {"id": 5, "texto": "Dave Navarro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 861
+    },
+    {
+        "pergunta": "Qual o masculino de sereia?",
+        "opcoes": [
+            {"id": 1, "texto": "Tritão"},
+            {"id": 2, "texto": "Sereiano"},
+            {"id": 3, "texto": "Sereio"},
+            {"id": 4, "texto": "Homem-sereia"},
+            {"id": 5, "texto": "Sereno"}
+        ],
+        "resposta": 1,
+        "resposta_id": 862
+    },
+    {
+        "pergunta": "Como se chama o Rio do Esquecimento na mitologia grega?",
+        "opcoes": [
+            {"id": 1, "texto": "Lete"},
+            {"id": 2, "texto": "Estige"},
+            {"id": 3, "texto": "Aqueronte"},
+            {"id": 4, "texto": "Flegetonte"},
+            {"id": 5, "texto": "Caronte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 863
+    },
+    {
+        "pergunta": "Como se chama o barqueiro que transporta as almas dos mortos na mitologia grega?",
+        "opcoes": [
+            {"id": 1, "texto": "Caronte"},
+            {"id": 2, "texto": "Hades"},
+            {"id": 3, "texto": "Hermes"},
+            {"id": 4, "texto": "Érebo"},
+            {"id": 5, "texto": "Aqueronte"}
+        ],
+        "resposta": 1,
+        "resposta_id": 864
+    },
+    {
+        "pergunta": "Cáfila é o coletivo de qual animal?",
+        "opcoes": [
+            {"id": 1, "texto": "Camelo"},
+            {"id": 2, "texto": "Zebra"},
+            {"id": 3, "texto": "Elefante"},
+            {"id": 4, "texto": "Girafa"},
+            {"id": 5, "texto": "Avestruz"}
+        ],
+        "resposta": 1,
+        "resposta_id": 865
+    },
+    {
+        "pergunta": "Quantas estrelas possui a bandeira do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "27"},
+            {"id": 2, "texto": "25"},
+            {"id": 3, "texto": "24"},
+            {"id": 4, "texto": "22"},
+            {"id": 5, "texto": "30"}
+        ],
+        "resposta": 1,
+        "resposta_id": 866
+    },
+    {
+        "pergunta": "Quantas estrelas possui a bandeira dos Estados Unidos?",
+        "opcoes": [
+            {"id": 1, "texto": "50"},
+            {"id": 2, "texto": "51"},
+            {"id": 3, "texto": "52"},
+            {"id": 4, "texto": "53"},
+            {"id": 5, "texto": "45"}
+        ],
+        "resposta": 1,
+        "resposta_id": 867
+    },
+    {
+        "pergunta": "Qual time é o maior campeão da UEFA Champions League?",
+        "opcoes": [
+            {"id": 1, "texto": "Real Madrid"},
+            {"id": 2, "texto": "Milan"},
+            {"id": 3, "texto": "Liverpool"},
+            {"id": 4, "texto": "Barcelona"},
+            {"id": 5, "texto": "Bayern de Munique"}
+        ],
+        "resposta": 1,
+        "resposta_id": 868
+    },
+    {
+        "pergunta": "Qual time é o maior campeão da Copa Libertadores?",
+        "opcoes": [
+            {"id": 1, "texto": "Independiente"},
+            {"id": 2, "texto": "Boca Juniors"},
+            {"id": 3, "texto": "River Plate"},
+            {"id": 4, "texto": "Peñarol"},
+            {"id": 5, "texto": "São Paulo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 869
+    },
+    {
+        "pergunta": "De qual fruta é feita a sidra?",
+        "opcoes": [
+            {"id": 1, "texto": "Maçã"},
+            {"id": 2, "texto": "Pera"},
+            {"id": 3, "texto": "Uva"},
+            {"id": 4, "texto": "Laranja"},
+            {"id": 5, "texto": "Abacaxi"}
+        ],
+        "resposta": 1,
+        "resposta_id": 870
+    },
+    {
+        "pergunta": "Em que ano teve início a segunda guerra mundial?",
+        "opcoes": [
+            {"id": 1, "texto": "1939"},
+            {"id": 2, "texto": "1940"},
+            {"id": 3, "texto": "1941"},
+            {"id": 4, "texto": "1942"},
+            {"id": 5, "texto": "1938"}
+        ],
+        "resposta": 1,
+        "resposta_id": 871
+    },
+    {
+        "pergunta": "Qual o resultado da soma de todos os lados de um dado?",
+        "opcoes": [
+            {"id": 1, "texto": "21"},
+            {"id": 2, "texto": "18"},
+            {"id": 3, "texto": "24"},
+            {"id": 4, "texto": "23"},
+            {"id": 5, "texto": "19"}
+        ],
+        "resposta": 1,
+        "resposta_id": 872
+    },
+    {
+        "pergunta": "Em que ano Plutão deixou de ser considerado um planeta?",
+        "opcoes": [
+            {"id": 1, "texto": "2006"},
+            {"id": 2, "texto": "2005"},
+            {"id": 3, "texto": "2004"},
+            {"id": 4, "texto": "2003"},
+            {"id": 5, "texto": "2007"}
+        ],
+        "resposta": 1,
+        "resposta_id": 873
+    },
+    {
+        "pergunta": "Qual animal é considerado o símbolo de 'Wall Street'?",
+        "opcoes": [
+            {"id": 1, "texto": "Touro"},
+            {"id": 2, "texto": "Urso"},
+            {"id": 3, "texto": "Águia"},
+            {"id": 4, "texto": "Leão"},
+            {"id": 5, "texto": "Lobo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 874
+    },
+    {
+        "pergunta": "O que é uma begônia?",
+        "opcoes": [
+            {"id": 1, "texto": "Flor"},
+            {"id": 2, "texto": "Estrela"},
+            {"id": 3, "texto": "Ave"},
+            {"id": 4, "texto": "Cobra"},
+            {"id": 5, "texto": "Pedra preciosa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 875
+    },
+    {
+        "pergunta": "Qual a origem do quibe?",
+        "opcoes": [
+            {"id": 1, "texto": "Árabe"},
+            {"id": 2, "texto": "Japonesa"},
+            {"id": 3, "texto": "Russa"},
+            {"id": 4, "texto": "Chinesa"},
+            {"id": 5, "texto": "Brasileira"}
+        ],
+        "resposta": 1,
+        "resposta_id": 876
+    },
+    {
+        "pergunta": "Qual cor representa a reciclagem do metal na coleta seletiva?",
+        "opcoes": [
+            {"id": 1, "texto": "Amarelo"},
+            {"id": 2, "texto": "Verde"},
+            {"id": 3, "texto": "Azul"},
+            {"id": 4, "texto": "Cinza"},
+            {"id": 5, "texto": "Vermelho"}
+        ],
+        "resposta": 1,
+        "resposta_id": 877
     }
 ]
