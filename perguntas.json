@@ -10234,5 +10234,29 @@
         ],
         "resposta": 1,
         "resposta_id": 853
+    },
+    {
+        "pergunta": "Qual das opções a seguir não é uma preposição?",
+        "opcoes": [
+            {"id": 1, "texto": "Avante"},
+            {"id": 2, "texto": "Ante"},
+            {"id": 3, "texto": "Perante"},
+            {"id": 4, "texto": "Após"},
+            {"id": 5, "texto": "Até"}
+        ],
+        "resposta": 1,
+        "resposta_id": 854
+    },
+    {
+        "pergunta": "Como se chama quem nasce na cidade de Brasília?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasiliense"},
+            {"id": 2, "texto": "Brasiliano"},
+            {"id": 3, "texto": "Brasiliopolitano"},
+            {"id": 4, "texto": "Distritense"},
+            {"id": 5, "texto": "Distritiano"}
+        ],
+        "resposta": 1,
+        "resposta_id": 855
     }
 ]
