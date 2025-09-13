@@ -10522,5 +10522,185 @@
         ],
         "resposta": 1,
         "resposta_id": 877
+    },
+    {
+        "pergunta": "Qual raça de cachorro é conhecida por ter a língua azul?",
+        "opcoes": [
+            {"id": 1, "texto": "Chow Chow"},
+            {"id": 2, "texto": "Akita"},
+            {"id": 3, "texto": "Husky"},
+            {"id": 4, "texto": "São Bernardo"},
+            {"id": 5, "texto": "Mastim tibetano"}
+        ],
+        "resposta": 1,
+        "resposta_id": 878
+    },
+    {
+        "pergunta": "O juriti é uma ave pertencente a família de qual ave?",
+        "opcoes": [
+            {"id": 1, "texto": "Pombo"},
+            {"id": 2, "texto": "Pica-pau"},
+            {"id": 3, "texto": "Coruja"},
+            {"id": 4, "texto": "Águia"},
+            {"id": 5, "texto": "Pardal"}
+        ],
+        "resposta": 1,
+        "resposta_id": 879
+    },
+    {
+        "pergunta": "Em que ano foi fabricada a primeira motocicleta no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "1885"},
+            {"id": 2, "texto": "1901"},
+            {"id": 3, "texto": "1910"},
+            {"id": 4, "texto": "1925"},
+            {"id": 5, "texto": "1905"}
+        ],
+        "resposta": 1,
+        "resposta_id": 880
+    },
+    {
+        "pergunta": "Qual o nome do meio do apresentador Luciano Huck?",
+        "opcoes": [
+            {"id": 1, "texto": "Grostein"},
+            {"id": 2, "texto": "Mattedi"},
+            {"id": 3, "texto": "Ahava"},
+            {"id": 4, "texto": "Sáenz"},
+            {"id": 5, "texto": "Chaib"}
+        ],
+        "resposta": 1,
+        "resposta_id": 881
+    },
+    {
+        "pergunta": "Qual o nome da maior praia do mundo em extensão?",
+        "opcoes": [
+            {"id": 1, "texto": "Praia do Cassino"},
+            {"id": 2, "texto": "Praia de Galinhos"},
+            {"id": 3, "texto": "Praia do Patacho"},
+            {"id": 4, "texto": "Barra de Camaratuba"},
+            {"id": 5, "texto": "Praia do Futuro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 882
+    },
+    {
+        "pergunta": "Quanto mede aproximadamente a maior praia do mundo em extensão?",
+        "opcoes": [
+            {"id": 1, "texto": "254km"},
+            {"id": 2, "texto": "244km"},
+            {"id": 3, "texto": "234km"},
+            {"id": 4, "texto": "224km"},
+            {"id": 5, "texto": "214km"}
+        ],
+        "resposta": 1,
+        "resposta_id": 883
+    },
+    {
+        "pergunta": "Em que ano a FIAT lançou o Uno no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "1984"},
+            {"id": 2, "texto": "1988"},
+            {"id": 3, "texto": "1986"},
+            {"id": 4, "texto": "1987"},
+            {"id": 5, "texto": "1989"}
+        ],
+        "resposta": 1,
+        "resposta_id": 884
+    },
+    {
+        "pergunta": "Qual o primeiro nome do ex-jogador e apresentador Craque Neto?",
+        "opcoes": [
+            {"id": 1, "texto": "José"},
+            {"id": 2, "texto": "Carlos"},
+            {"id": 3, "texto": "Antônio"},
+            {"id": 4, "texto": "Anderson"},
+            {"id": 5, "texto": "Jorge"}
+        ],
+        "resposta": 1,
+        "resposta_id": 885
+    },
+    {
+        "pergunta": "Qual é o primeiro número primo?",
+        "opcoes": [
+            {"id": 1, "texto": "2"},
+            {"id": 2, "texto": "3"},
+            {"id": 3, "texto": "5"},
+            {"id": 4, "texto": "7"},
+            {"id": 5, "texto": "1"}
+        ],
+        "resposta": 1,
+        "resposta_id": 886
+    },
+    {
+        "pergunta": "Em que ano Pelé estreou pelo Santos?",
+        "opcoes": [
+            {"id": 1, "texto": "1956"},
+            {"id": 2, "texto": "1958"},
+            {"id": 3, "texto": "1953"},
+            {"id": 4, "texto": "1955"},
+            {"id": 5, "texto": "1954"}
+        ],
+        "resposta": 1,
+        "resposta_id": 887
+    },
+    {
+        "pergunta": "Qual o nome do personagem principal do livro Crime e castigo de Fiódor Dostoiévski?",
+        "opcoes": [
+            {"id": 1, "texto": "Raskolnikov"},
+            {"id": 2, "texto": "Svidrigailov"},
+            {"id": 3, "texto": "Kirílitch"},
+            {"id": 4, "texto": "Stavróguin"},
+            {"id": 5, "texto": "Tchitchikov"}
+        ],
+        "resposta": 1,
+        "resposta_id": 888
+    },
+    {
+        "pergunta": "Qual destes não faz parte da família Karamazov no livro Os irmãos Karamazov?",
+        "opcoes": [
+            {"id": 1, "texto": "Mikhail"},
+            {"id": 2, "texto": "Aleksei"},
+            {"id": 3, "texto": "Dmitri"},
+            {"id": 4, "texto": "Ivan"},
+            {"id": 5, "texto": "Fiódor"}
+        ],
+        "resposta": 1,
+        "resposta_id": 889
+    },
+    {
+        "pergunta": "Quanto media o homem mais alto da história?",
+        "opcoes": [
+            {"id": 1, "texto": "2,72m"},
+            {"id": 2, "texto": "2,65m"},
+            {"id": 3, "texto": "2,80m"},
+            {"id": 4, "texto": "2,75m"},
+            {"id": 5, "texto": "2,58m"}
+        ],
+        "resposta": 1,
+        "resposta_id": 890
+    },
+    {
+        "pergunta": "Em que ano o Uruguai se separou do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "1828"},
+            {"id": 2, "texto": "1825"},
+            {"id": 3, "texto": "1822"},
+            {"id": 4, "texto": "1830"},
+            {"id": 5, "texto": "1833"}
+        ],
+        "resposta": 1,
+        "resposta_id": 891
+    },
+    {
+        "pergunta": "Qual destes livros não foi escrito por Franz Kafka?",
+        "opcoes": [
+            {"id": 1, "texto": "Os mortos"},
+            {"id": 2, "texto": "A metamorfose"},
+            {"id": 3, "texto": "Carta ao pai"},
+            {"id": 4, "texto": "O processo"},
+            {"id": 5, "texto": "Na colônia penal"}
+        ],
+        "resposta": 1,
+        "resposta_id": 892
     }
 ]
