@@ -10702,5 +10702,101 @@
         ],
         "resposta": 1,
         "resposta_id": 892
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Playstation 1?",
+        "opcoes": [
+            {"id": 1, "texto": "1994"},
+            {"id": 2, "texto": "1993"},
+            {"id": 3, "texto": "1995"},
+            {"id": 4, "texto": "1996"},
+            {"id": 5, "texto": "1992"}
+        ],
+        "resposta": 1,
+        "resposta_id": 893
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Playstation 2?",
+        "opcoes": [
+            {"id": 1, "texto": "2000"},
+            {"id": 2, "texto": "1999"},
+            {"id": 3, "texto": "2001"},
+            {"id": 4, "texto": "2002"},
+            {"id": 5, "texto": "2003"}
+        ],
+        "resposta": 1,
+        "resposta_id": 894
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Playstation 3?",
+        "opcoes": [
+            {"id": 1, "texto": "2006"},
+            {"id": 2, "texto": "2005"},
+            {"id": 3, "texto": "2007"},
+            {"id": 4, "texto": "2008"},
+            {"id": 5, "texto": "2009"}
+        ],
+        "resposta": 1,
+        "resposta_id": 895
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Playstation 4?",
+        "opcoes": [
+            {"id": 1, "texto": "2013"},
+            {"id": 2, "texto": "2012"},
+            {"id": 3, "texto": "2014"},
+            {"id": 4, "texto": "2015"},
+            {"id": 5, "texto": "2011"}
+        ],
+        "resposta": 1,
+        "resposta_id": 896
+    },
+    {
+        "pergunta": "Em que ano foi lançado o Playstation 5?",
+        "opcoes": [
+            {"id": 1, "texto": "2020"},
+            {"id": 2, "texto": "2019"},
+            {"id": 3, "texto": "2021"},
+            {"id": 4, "texto": "2022"},
+            {"id": 5, "texto": "2018"}
+        ],
+        "resposta": 1,
+        "resposta_id": 897
+    },
+    {
+        "pergunta": "O cantor Julio Iglesias começou como jogador de futebol em qual time?",
+        "opcoes": [
+            {"id": 1, "texto": "Real Madrid"},
+            {"id": 2, "texto": "Barcelona"},
+            {"id": 3, "texto": "Atlético de Madrid"},
+            {"id": 4, "texto": "Real Valladolid"},
+            {"id": 5, "texto": "Real Betis"}
+        ],
+        "resposta": 1,
+        "resposta_id": 898
+    },
+    {
+        "pergunta": "Em qual posição o cantor Julio Iglesias iniciou sua carreira no futebol?",
+        "opcoes": [
+            {"id": 1, "texto": "Goleiro"},
+            {"id": 2, "texto": "Atacante"},
+            {"id": 3, "texto": "Zagueiro"},
+            {"id": 4, "texto": "Meio campo"},
+            {"id": 5, "texto": "Lateral esquerdo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 899
+    },
+    {
+        "pergunta": "Em que ano foi lançada a primeira versão do Microsoft Windows?",
+        "opcoes": [
+            {"id": 1, "texto": "1985"},
+            {"id": 2, "texto": "1989"},
+            {"id": 3, "texto": "1991"},
+            {"id": 4, "texto": "1993"},
+            {"id": 5, "texto": "1994"}
+        ],
+        "resposta": 1,
+        "resposta_id": 900
     }
 ]
