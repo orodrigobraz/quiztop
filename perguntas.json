@@ -10798,5 +10798,65 @@
         ],
         "resposta": 1,
         "resposta_id": 900
+    },
+    {
+        "pergunta": "Qual a capital do estado americano da Califórnia?",
+        "opcoes": [
+            {"id": 1, "texto": "Sacramento"},
+            {"id": 2, "texto": "Los Angeles"},
+            {"id": 3, "texto": "San Francisco"},
+            {"id": 4, "texto": "San Diego"},
+            {"id": 5, "texto": "Los Altos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 901
+    },
+    {
+        "pergunta": "Qual a capital do estado americano da Flórida?",
+        "opcoes": [
+            {"id": 1, "texto": "Tallahassee"},
+            {"id": 2, "texto": "Miami"},
+            {"id": 3, "texto": "Orlando"},
+            {"id": 4, "texto": "Tampa"},
+            {"id": 5, "texto": "Kissimmee"}
+        ],
+        "resposta": 1,
+        "resposta_id": 902
+    },
+    {
+        "pergunta": "Qual a capital do estado americano de Nova York?",
+        "opcoes": [
+            {"id": 1, "texto": "Albany"},
+            {"id": 2, "texto": "Nova York"},
+            {"id": 3, "texto": "Manhatan"},
+            {"id": 4, "texto": "Rochester"},
+            {"id": 5, "texto": "Syracuse"}
+        ],
+        "resposta": 1,
+        "resposta_id": 903
+    },
+    {
+        "pergunta": "Qual a capital do estado americano do Texas?",
+        "opcoes": [
+            {"id": 1, "texto": "Austin"},
+            {"id": 2, "texto": "Houston"},
+            {"id": 3, "texto": "Dallas"},
+            {"id": 4, "texto": "San Antonio"},
+            {"id": 5, "texto": "Fort Worth"}
+        ],
+        "resposta": 1,
+        "resposta_id": 904
+    },
+    {
+        "pergunta": "Mauro Faccio Gonçalves era o nome de qual destes humoristas?",
+        "opcoes": [
+            {"id": 1, "texto": "Zacarias"},
+            {"id": 2, "texto": "Didi"},
+            {"id": 3, "texto": "Dedé"},
+            {"id": 4, "texto": "Mussum"},
+            {"id": 5, "texto": "Bussunda"}
+        ],
+        "resposta": 1,
+        "resposta_id": 905
     }
 ]
