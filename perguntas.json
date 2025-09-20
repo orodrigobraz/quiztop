@@ -10858,5 +10858,41 @@
         ],
         "resposta": 1,
         "resposta_id": 905
+    },
+    {
+        "pergunta": "Qual a capital do estado americano do Hawaii?",
+        "opcoes": [
+            {"id": 1, "texto": "Honolulu"},
+            {"id": 2, "texto": "Hilo"},
+            {"id": 3, "texto": "Kailua"},
+            {"id": 4, "texto": "Lahaina"},
+            {"id": 5, "texto": "Lahiri"}
+        ],
+        "resposta": 1,
+        "resposta_id": 906
+    },
+    {
+        "pergunta": "Qual a capital do estado americano do Alaska?",
+        "opcoes": [
+            {"id": 1, "texto": "Juneau"},
+            {"id": 2, "texto": "Anchorage"},
+            {"id": 3, "texto": "Fairbanks"},
+            {"id": 4, "texto": "Sitka"},
+            {"id": 5, "texto": "Seward"}
+        ],
+        "resposta": 1,
+        "resposta_id": 907
+    },
+    {
+        "pergunta": "Quantas cores tem na bandeira de Seychelles?",
+        "opcoes": [
+            {"id": 1, "texto": "5"},
+            {"id": 2, "texto": "4"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "2"},
+            {"id": 5, "texto": "1"}
+        ],
+        "resposta": 1,
+        "resposta_id": 908
     }
 ]
