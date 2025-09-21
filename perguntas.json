@@ -10894,5 +10894,77 @@
         ],
         "resposta": 1,
         "resposta_id": 908
+    },
+    {
+        "pergunta": "Qual ator interpretou Ney Matogrosso no filme Homem com H?",
+        "opcoes": [
+            {"id": 1, "texto": "Jesuíta Barbosa"},
+            {"id": 2, "texto": "Bruno Montaleone"},
+            {"id": 3, "texto": "Rômulo Braga"},
+            {"id": 4, "texto": "Esmir Filho"},
+            {"id": 5, "texto": "Mauro Soares"}
+        ],
+        "resposta": 1,
+        "resposta_id": 909
+    },
+    {
+        "pergunta": "Qual desses atores nunca interpretou o vilão Coringa nos cinemas?",
+        "opcoes": [
+            {"id": 1, "texto": "Ewan McGregor"},
+            {"id": 2, "texto": "Heath Ledger"},
+            {"id": 3, "texto": "Joaquim Phoenix"},
+            {"id": 4, "texto": "Jack Nicholson"},
+            {"id": 5, "texto": "Jared Leto"}
+        ],
+        "resposta": 1,
+        "resposta_id": 910
+    },
+    {
+        "pergunta": "Qual dessas músicas não é de Bob Marley?",
+        "opcoes": [
+            {"id": 1, "texto": "I Can See Clearly Now"},
+            {"id": 2, "texto": "No Woman, No Cry"},
+            {"id": 3, "texto": "Redemption Song"},
+            {"id": 4, "texto": "One Love"},
+            {"id": 5, "texto": "Natural Mystic"}
+        ],
+        "resposta": 1,
+        "resposta_id": 911
+    },
+    {
+        "pergunta": "Qual o nome do inventor dos comandos de copiar (ctrl+c) e colar (ctrl+v)?",
+        "opcoes": [
+            {"id": 1, "texto": "Larry Tesler"},
+            {"id": 2, "texto": "Tim Berners-Lee"},
+            {"id": 3, "texto": "Dennis Ritchie"},
+            {"id": 4, "texto": "Brian Kernighan"},
+            {"id": 5, "texto": "Ken Thompson"}
+        ],
+        "resposta": 1,
+        "resposta_id": 912
+    },
+    {
+        "pergunta": "Qual a sigla do aeroporto de São José dos Campos - SP?",
+        "opcoes": [
+            {"id": 1, "texto": "SJK"},
+            {"id": 2, "texto": "SJC"},
+            {"id": 3, "texto": "SVP"},
+            {"id": 4, "texto": "SBJ"},
+            {"id": 5, "texto": "SJSP"}
+        ],
+        "resposta": 1,
+        "resposta_id": 913
+    },
+    {
+        "pergunta": "O código CDG pertence ao aeroporto de qual cidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Paris"},
+            {"id": 2, "texto": "Amsterdam"},
+            {"id": 3, "texto": "Londres"},
+            {"id": 4, "texto": "Lisboa"},
+            {"id": 5, "texto": "Budapeste"}
+        ],
+        "resposta": 1,
+        "resposta_id": 914
     }
 ]
