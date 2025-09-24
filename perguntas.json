@@ -10956,7 +10956,7 @@
         "resposta_id": 913
     },
     {
-        "pergunta": "O código CDG pertence ao aeroporto de qual cidade?",
+        "pergunta": "A sigla CDG pertence ao aeroporto de qual cidade?",
         "opcoes": [
             {"id": 1, "texto": "Paris"},
             {"id": 2, "texto": "Amsterdam"},
@@ -10966,5 +10966,101 @@
         ],
         "resposta": 1,
         "resposta_id": 914
+    },
+    {
+        "pergunta": "Do que é feita a unha humana?",
+        "opcoes": [
+            {"id": 1, "texto": "Queratina"},
+            {"id": 2, "texto": "Colágeno"},
+            {"id": 3, "texto": "Codeína"},
+            {"id": 4, "texto": "Melanina"},
+            {"id": 5, "texto": "Melatonina"}
+        ],
+        "resposta": 1,
+        "resposta_id": 915
+    },
+    {
+        "pergunta": "A sigla BSB pertence ao aeroporto de qual cidade?",
+        "opcoes": [
+            {"id": 1, "texto": "Brasília"},
+            {"id": 2, "texto": "Belo Horizonte"},
+            {"id": 3, "texto": "Curitiba"},
+            {"id": 4, "texto": "Cuiabá"},
+            {"id": 5, "texto": "Palmas"}
+        ],
+        "resposta": 1,
+        "resposta_id": 916
+    },
+    {
+        "pergunta": "Qual dessas cidades não faz parte da baixada fluminense?",
+        "opcoes": [
+            {"id": 1, "texto": "Nova Friburgo"},
+            {"id": 2, "texto": "Duque de Caxias"},
+            {"id": 3, "texto": "Belford Roxo"},
+            {"id": 4, "texto": "Magé"},
+            {"id": 5, "texto": "São João do Meriti"}
+        ],
+        "resposta": 1,
+        "resposta_id": 917
+    },
+    {
+        "pergunta": "Como é mais conhecido o jogador Ricardo Izecson dos Santos Leite?",
+        "opcoes": [
+            {"id": 1, "texto": "Kaká"},
+            {"id": 2, "texto": "Cafu"},
+            {"id": 3, "texto": "Dida"},
+            {"id": 4, "texto": "Hulk"},
+            {"id": 5, "texto": "Zico"}
+        ],
+        "resposta": 1,
+        "resposta_id": 918
+    },
+    {
+        "pergunta": "Em qual país fica a sede da Organização Mundial da Saúde?",
+        "opcoes": [
+            {"id": 1, "texto": "Suíça"},
+            {"id": 2, "texto": "Dinamarca"},
+            {"id": 3, "texto": "Áustria"},
+            {"id": 4, "texto": "Alemanha"},
+            {"id": 5, "texto": "Suécia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 919
+    },
+    {
+        "pergunta": "Em qual cidade da Suíça fica a sede da FIFA?",
+        "opcoes": [
+            {"id": 1, "texto": "Zurique"},
+            {"id": 2, "texto": "Genebra"},
+            {"id": 3, "texto": "Basel"},
+            {"id": 4, "texto": "Berna"},
+            {"id": 5, "texto": "Lucerna"}
+        ],
+        "resposta": 1,
+        "resposta_id": 920
+    },
+    {
+        "pergunta": "De qual país é o escritor Roberto Bolaño?",
+        "opcoes": [
+            {"id": 1, "texto": "Chile"},
+            {"id": 2, "texto": "Argentina"},
+            {"id": 3, "texto": "México"},
+            {"id": 4, "texto": "Espanha"},
+            {"id": 5, "texto": "Venezuela"}
+        ],
+        "resposta": 1,
+        "resposta_id": 921
+    },
+    {
+        "pergunta": "Qual jogador fez o gol do título da Copa do Brasil de 2023 pelo São Paulo?",
+        "opcoes": [
+            {"id": 1, "texto": "Rodrigo Nestor"},
+            {"id": 2, "texto": "Wellington Rato"},
+            {"id": 3, "texto": "Michel Araújo"},
+            {"id": 4, "texto": "Pablo Maia"},
+            {"id": 5, "texto": "Gabriel Neves"}
+        ],
+        "resposta": 1,
+        "resposta_id": 922
     }
 ]
