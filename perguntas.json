@@ -11146,5 +11146,137 @@
         ],
         "resposta": 1,
         "resposta_id": 929
+    },
+    {
+        "pergunta": "De que material é feita a Gota do Príncipe Rupert?",
+        "opcoes": [
+            {"id": 1, "texto": "Vidro"},
+            {"id": 2, "texto": "Esmeralda"},
+            {"id": 3, "texto": "Titânio"},
+            {"id": 4, "texto": "Cerâmica"},
+            {"id": 5, "texto": "Ouro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 930
+    },
+    {
+        "pergunta": "Qual destes times de futebol não é da Austrália?",
+        "opcoes": [
+            {"id": 1, "texto": "Auckland City"},
+            {"id": 2, "texto": "Melbourne Victory"},
+            {"id": 3, "texto": "Sydney FC"},
+            {"id": 4, "texto": "Newcastle Jets"},
+            {"id": 5, "texto": "Perth Glory"}
+        ],
+        "resposta": 1,
+        "resposta_id": 931
+    },
+    {
+        "pergunta": "Qual a capital do estado americano da Washington?",
+        "opcoes": [
+            {"id": 1, "texto": "Olympia"},
+            {"id": 2, "texto": "Washington"},
+            {"id": 3, "texto": "Spokane"},
+            {"id": 4, "texto": "Tacoma"},
+            {"id": 5, "texto": "Seattle"}
+        ],
+        "resposta": 1,
+        "resposta_id": 932
+    },
+    {
+        "pergunta": "Qual a capital do estado americano da Massachusetts?",
+        "opcoes": [
+            {"id": 1, "texto": "Boston"},
+            {"id": 2, "texto": "Cambridge"},
+            {"id": 3, "texto": "Springfield"},
+            {"id": 4, "texto": "Worcester"},
+            {"id": 5, "texto": "Lowell"}
+        ],
+        "resposta": 1,
+        "resposta_id": 933
+    },
+    {
+        "pergunta": "Qual destas montadoras de carros é da República Tcheca?",
+        "opcoes": [
+            {"id": 1, "texto": "Škoda"},
+            {"id": 2, "texto": "Dacia"},
+            {"id": 3, "texto": "Opel"},
+            {"id": 4, "texto": "Audi"},
+            {"id": 5, "texto": "SEAT"}
+        ],
+        "resposta": 1,
+        "resposta_id": 934
+    },
+    {
+        "pergunta": "A montadora de carros SEAT é de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Espanha"},
+            {"id": 2, "texto": "República Tcheca"},
+            {"id": 3, "texto": "Alemanha"},
+            {"id": 4, "texto": "França"},
+            {"id": 5, "texto": "Rússia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 935
+    },
+    {
+        "pergunta": "A montadora de carros Lada é de qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Rússia"},
+            {"id": 2, "texto": "Índia"},
+            {"id": 3, "texto": "China"},
+            {"id": 4, "texto": "Itália"},
+            {"id": 5, "texto": "Inglaterra"}
+        ],
+        "resposta": 1,
+        "resposta_id": 936
+    },
+    {
+        "pergunta": "O Aquífero Guarani não abrange em qual dos seguintes países?",
+        "opcoes": [
+            {"id": 1, "texto": "Bolívia"},
+            {"id": 2, "texto": "Brasil"},
+            {"id": 3, "texto": "Paraguai"},
+            {"id": 4, "texto": "Argentina"},
+            {"id": 5, "texto": "Uruguai"}
+        ],
+        "resposta": 1,
+        "resposta_id": 937
+    },
+    {
+        "pergunta": "Qual das seguintes marcas de carro não é dos EUA?",
+        "opcoes": [
+            {"id": 1, "texto": "Jaguar"},
+            {"id": 2, "texto": "Ford"},
+            {"id": 3, "texto": "Cadillac"},
+            {"id": 4, "texto": "Chevrolet"},
+            {"id": 5, "texto": "Dodge"}
+        ],
+        "resposta": 1,
+        "resposta_id": 938
+    },
+    {
+        "pergunta": "Qual o menor município do Brasil em população?",
+        "opcoes": [
+            {"id": 1, "texto": "Serra da Saudade - MG"},
+            {"id": 2, "texto": "Anhanguera - GO"},
+            {"id": 3, "texto": "Nova Castilho - SP"},
+            {"id": 4, "texto": "Cambará do Sul - RS"},
+            {"id": 5, "texto": "Barra do Ouro - TO"}
+        ],
+        "resposta": 1,
+        "resposta_id": 939
+    },
+    {
+        "pergunta": "Quem era o presidente do Brasil quando o país conquistou o penta da Copa do Mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Fernando Henrique Cardoso"},
+            {"id": 2, "texto": "Luiz Inácio Lula da Silva"},
+            {"id": 3, "texto": "Dilma Rousseff"},
+            {"id": 4, "texto": "Itamar Franco"},
+            {"id": 5, "texto": "Fernando Collor de Mello"}
+        ],
+        "resposta": 1,
+        "resposta_id": 940
     }
 ]
