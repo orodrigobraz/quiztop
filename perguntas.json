@@ -11062,5 +11062,89 @@
         ],
         "resposta": 1,
         "resposta_id": 922
+    },
+    {
+        "pergunta": "Em que ano Michael Jordan encerrou sua carreira no basquete?",
+        "opcoes": [
+            {"id": 1, "texto": "2003"},
+            {"id": 2, "texto": "2001"},
+            {"id": 3, "texto": "2002"},
+            {"id": 4, "texto": "2000"},
+            {"id": 5, "texto": "1999"}
+        ],
+        "resposta": 1,
+        "resposta_id": 923
+    },
+    {
+        "pergunta": "Qual o primeiro nome do ex-jogador Cafu?",
+        "opcoes": [
+            {"id": 1, "texto": "Marcos"},
+            {"id": 2, "texto": "Wellington"},
+            {"id": 3, "texto": "Michel"},
+            {"id": 4, "texto": "Alberto"},
+            {"id": 5, "texto": "Carlos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 924
+    },
+    {
+        "pergunta": "Qual destas músicas não está no álbum Acústico MTV dos Engenheiros do Hawaii?",
+        "opcoes": [
+            {"id": 1, "texto": "Simples de coração"},
+            {"id": 2, "texto": "Infinita Highway"},
+            {"id": 3, "texto": "3x4"},
+            {"id": 4, "texto": "Até o fim"},
+            {"id": 5, "texto": "Pose"}
+        ],
+        "resposta": 1,
+        "resposta_id": 925
+    },
+    {
+        "pergunta": "Em que ano Cristiano Ronaldo conquistou a sua primeira Bola de Ouro?",
+        "opcoes": [
+            {"id": 1, "texto": "2008"},
+            {"id": 2, "texto": "2007"},
+            {"id": 3, "texto": "2006"},
+            {"id": 4, "texto": "2009"},
+            {"id": 5, "texto": "2010"}
+        ],
+        "resposta": 1,
+        "resposta_id": 926
+    },
+    {
+        "pergunta": "Por qual destes clubes Cristiano Ronaldo não jogou?",
+        "opcoes": [
+            {"id": 1, "texto": "Manchester City"},
+            {"id": 2, "texto": "Manchester United"},
+            {"id": 3, "texto": "Juventus"},
+            {"id": 4, "texto": "Al Nassr"},
+            {"id": 5, "texto": "Sporting"}
+        ],
+        "resposta": 1,
+        "resposta_id": 927
+    },
+    {
+        "pergunta": "Qual era o último sobrenome de Dom Pedro I?",
+        "opcoes": [
+            {"id": 1, "texto": "Bourbon"},
+            {"id": 2, "texto": "Bragança"},
+            {"id": 3, "texto": "Alcântara"},
+            {"id": 4, "texto": "Serafim"},
+            {"id": 5, "texto": "Salvador"}
+        ],
+        "resposta": 1,
+        "resposta_id": 928
+    },
+    {
+        "pergunta": "Em que ano foi lançado o WhatsApp?",
+        "opcoes": [
+            {"id": 1, "texto": "2009"},
+            {"id": 2, "texto": "2010"},
+            {"id": 3, "texto": "2011"},
+            {"id": 4, "texto": "2012"},
+            {"id": 5, "texto": "2013"}
+        ],
+        "resposta": 1,
+        "resposta_id": 929
     }
 ]
