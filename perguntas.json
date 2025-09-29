@@ -11278,5 +11278,77 @@
         ],
         "resposta": 1,
         "resposta_id": 940
+    },
+    {
+        "pergunta": "O humorista Fabiano Cambota é vocalista de qual destas bandas?",
+        "opcoes": [
+            {"id": 1, "texto": "Pedra Letícia"},
+            {"id": 2, "texto": "Nenhum de Nós"},
+            {"id": 3, "texto": "Scalene"},
+            {"id": 4, "texto": "Bala Desejo"},
+            {"id": 5, "texto": "Cidadão Quem"}
+        ],
+        "resposta": 1,
+        "resposta_id": 941
+    },
+    {
+        "pergunta": "13 é a raiz quadrada de qual destes números?",
+        "opcoes": [
+            {"id": 1, "texto": "169"},
+            {"id": 2, "texto": "144"},
+            {"id": 3, "texto": "196"},
+            {"id": 4, "texto": "129"},
+            {"id": 5, "texto": "166"}
+        ],
+        "resposta": 1,
+        "resposta_id": 942
+    },
+    {
+        "pergunta": "Qual destes humoristas não faz parte do grupo de stand-up comedy 4 amigos?",
+        "opcoes": [
+            {"id": 1, "texto": "Rafael Portugal"},
+            {"id": 2, "texto": "Dihh Lopes"},
+            {"id": 3, "texto": "Thiago Ventura"},
+            {"id": 4, "texto": "Afonso Padilha"},
+            {"id": 5, "texto": "Márcio Donato"}
+        ],
+        "resposta": 1,
+        "resposta_id": 943
+    },
+    {
+        "pergunta": "Quantas teclas tem a urna eletrônica?",
+        "opcoes": [
+            {"id": 1, "texto": "13"},
+            {"id": 2, "texto": "9"},
+            {"id": 3, "texto": "10"},
+            {"id": 4, "texto": "11"},
+            {"id": 5, "texto": "12"}
+        ],
+        "resposta": 1,
+        "resposta_id": 944
+    },
+    {
+        "pergunta": "Em que ano foi fundado o Santos Futebol Clube?",
+        "opcoes": [
+            {"id": 1, "texto": "1912"},
+            {"id": 2, "texto": "1914"},
+            {"id": 3, "texto": "1910"},
+            {"id": 4, "texto": "1916"},
+            {"id": 5, "texto": "1908"}
+        ],
+        "resposta": 1,
+        "resposta_id": 945
+    },
+    {
+        "pergunta": "Em que ano foi criada a Confederação Brasileira de Futebol como existe hoje?",
+        "opcoes": [
+            {"id": 1, "texto": "1979"},
+            {"id": 2, "texto": "1969"},
+            {"id": 3, "texto": "1959"},
+            {"id": 4, "texto": "1949"},
+            {"id": 5, "texto": "1989"}
+        ],
+        "resposta": 1,
+        "resposta_id": 946
     }
 ]
