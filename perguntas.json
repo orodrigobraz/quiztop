@@ -11506,5 +11506,149 @@
         ],
         "resposta": 1,
         "resposta_id": 959
+    },
+    {
+        "pergunta": "Qual a menor placa tectônica do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Placa de Juan de Fuca"},
+            {"id": 2, "texto": "Placa do Caribe"},
+            {"id": 3, "texto": "Placa Arábica"},
+            {"id": 4, "texto": "Placa Indo-Australiana"},
+            {"id": 5, "texto": "Placa de Nazca"}
+        ],
+        "resposta": 1,
+        "resposta_id": 960
+    },
+    {
+        "pergunta": "Qual a maior placa tectônica do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Placa do Pacífico"},
+            {"id": 2, "texto": "Placa Norte-Americana"},
+            {"id": 3, "texto": "Placa Eurasiana"},
+            {"id": 4, "texto": "Placa Africana"},
+            {"id": 5, "texto": "Placa do Atlântico"}
+        ],
+        "resposta": 1,
+        "resposta_id": 961
+    },
+    {
+        "pergunta": "Em qual país de encontra a cratera do meteoro que causou a extinção dos dinossauros?",
+        "opcoes": [
+            {"id": 1, "texto": "México"},
+            {"id": 2, "texto": "África do Sul"},
+            {"id": 3, "texto": "Líbia"},
+            {"id": 4, "texto": "Malásia"},
+            {"id": 5, "texto": "Paquistão"}
+        ],
+        "resposta": 1,
+        "resposta_id": 962
+    },
+    {
+        "pergunta": "Qual a cidade mais ao norte do mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "Longyearbyen - Noruega"},
+            {"id": 2, "texto": "Dikson - Rússia"},
+            {"id": 3, "texto": "Nourgam - Finlândia"},
+            {"id": 4, "texto": "Reykjavik - Islândia"},
+            {"id": 5, "texto": "Alart - Canadá"}
+        ],
+        "resposta": 1,
+        "resposta_id": 963
+    },
+    {
+        "pergunta": "Em qual era geológica surgiu o Homo Sapiens?",
+        "opcoes": [
+            {"id": 1, "texto": "Cenozoica"},
+            {"id": 2, "texto": "Neolítica"},
+            {"id": 3, "texto": "Paleolítica"},
+            {"id": 4, "texto": "Mesozoica"},
+            {"id": 5, "texto": "Arqueana"}
+        ],
+        "resposta": 1,
+        "resposta_id": 964
+    },
+    {
+        "pergunta": "Qual é o antecessor direto do Homo Sapiens?",
+        "opcoes": [
+            {"id": 1, "texto": "Homo Heidelbergensis"},
+            {"id": 2, "texto": "Homo Neanderthalensis"},
+            {"id": 3, "texto": "Homo Habilis"},
+            {"id": 4, "texto": "Australopithecus"},
+            {"id": 5, "texto": "Homo Erectus"}
+        ],
+        "resposta": 1,
+        "resposta_id": 965
+    },
+    {
+        "pergunta": "Em qual cidade nasceu o escritor Machado de Assis?",
+        "opcoes": [
+            {"id": 1, "texto": "Rio de Janeiro"},
+            {"id": 2, "texto": "São Paulo"},
+            {"id": 3, "texto": "Belo Horizonte"},
+            {"id": 4, "texto": "Salvador"},
+            {"id": 5, "texto": "Recife"}
+        ],
+        "resposta": 1,
+        "resposta_id": 966
+    },
+    {
+        "pergunta": "Qual o primeiro nome do escritor Machado de Assis?",
+        "opcoes": [
+            {"id": 1, "texto": "Joaquim"},
+            {"id": 2, "texto": "Carlos"},
+            {"id": 3, "texto": "José"},
+            {"id": 4, "texto": "Antônio"},
+            {"id": 5, "texto": "Paulo"}
+        ],
+        "resposta": 1,
+        "resposta_id": 967
+    },
+    {
+        "pergunta": "Qual o primeiro nome do escritor Lima Barreto?",
+        "opcoes": [
+            {"id": 1, "texto": "Afonso"},
+            {"id": 2, "texto": "Henrique"},
+            {"id": 3, "texto": "Sebastião"},
+            {"id": 4, "texto": "Expedito"},
+            {"id": 5, "texto": "Ananias"}
+        ],
+        "resposta": 1,
+        "resposta_id": 968
+    },
+    {
+        "pergunta": "Que nome se dá à profissão de quem manobra um navio?",
+        "opcoes": [
+            {"id": 1, "texto": "Prático"},
+            {"id": 2, "texto": "Marítimo"},
+            {"id": 3, "texto": "Timoneiro"},
+            {"id": 4, "texto": "Navieiro"},
+            {"id": 5, "texto": "Sinaleiro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 969
+    },
+    {
+        "pergunta": "Com qual estado Minas Gerais divide o Pico da Bandeira?",
+        "opcoes": [
+            {"id": 1, "texto": "Espírito Santo"},
+            {"id": 2, "texto": "Rio de Janeiro"},
+            {"id": 3, "texto": "São Paulo"},
+            {"id": 4, "texto": "Bahia"},
+            {"id": 5, "texto": "Goiás"}
+        ],
+        "resposta": 1,
+        "resposta_id": 970
+    },
+    {
+        "pergunta": "Qual país tem a maior quantidade de usinas eólicas no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "China"},
+            {"id": 2, "texto": "África do Sul"},
+            {"id": 3, "texto": "Irã"},
+            {"id": 4, "texto": "Brasil"},
+            {"id": 5, "texto": "Arábia Saudita"}
+        ],
+        "resposta": 1,
+        "resposta_id": 971
     }
 ]
