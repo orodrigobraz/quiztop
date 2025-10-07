@@ -11434,5 +11434,77 @@
         ],
         "resposta": 1,
         "resposta_id": 953
+    },
+    {
+        "pergunta": "Qual destes não é um nome conhecido da Onça-parda?",
+        "opcoes": [
+            {"id": 1, "texto": "Onça-marrom"},
+            {"id": 2, "texto": "Puma"},
+            {"id": 3, "texto": "Suçuarana"},
+            {"id": 4, "texto": "Leão-da-montanha"},
+            {"id": 5, "texto": "Leão-baio"}
+        ],
+        "resposta": 1,
+        "resposta_id": 954
+    },
+    {
+        "pergunta": "Qual país era chamado de Reino de Daomé?",
+        "opcoes": [
+            {"id": 1, "texto": "Benin"},
+            {"id": 2, "texto": "Nigéria"},
+            {"id": 3, "texto": "Costa do Marfim"},
+            {"id": 4, "texto": "Gana"},
+            {"id": 5, "texto": "Serra Leoa"}
+        ],
+        "resposta": 1,
+        "resposta_id": 955
+    },
+    {
+        "pergunta": "Qual o nome do meio do ator Arnold Schwarzenegger?",
+        "opcoes": [
+            {"id": 1, "texto": "Alois"},
+            {"id": 2, "texto": "Gustav"},
+            {"id": 3, "texto": "Sinclair"},
+            {"id": 4, "texto": "Tulsa"},
+            {"id": 5, "texto": "Czarcko"}
+        ],
+        "resposta": 1,
+        "resposta_id": 956
+    },
+    {
+        "pergunta": "Em qual país nasceu o ator Arnold Schwarzenegger?",
+        "opcoes": [
+            {"id": 1, "texto": "Áustria"},
+            {"id": 2, "texto": "Alemanha"},
+            {"id": 3, "texto": "Suíça"},
+            {"id": 4, "texto": "França"},
+            {"id": 5, "texto": "Canadá"}
+        ],
+        "resposta": 1,
+        "resposta_id": 957
+    },
+    {
+        "pergunta": "Qual o nome do meio do ator Sylvester Stallone?",
+        "opcoes": [
+            {"id": 1, "texto": "Gardenzio"},
+            {"id": 2, "texto": "Flavic"},
+            {"id": 3, "texto": "Heming"},
+            {"id": 4, "texto": "Scout"},
+            {"id": 5, "texto": "Namakaeha"}
+        ],
+        "resposta": 1,
+        "resposta_id": 958
+    },
+    {
+        "pergunta": "Qual destes é um país da América Central?",
+        "opcoes": [
+            {"id": 1, "texto": "Belize"},
+            {"id": 2, "texto": "Brunei"},
+            {"id": 3, "texto": "Timor-Leste"},
+            {"id": 4, "texto": "Benin"},
+            {"id": 5, "texto": "Burundi"}
+        ],
+        "resposta": 1,
+        "resposta_id": 959
     }
 ]
