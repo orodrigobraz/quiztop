@@ -11650,5 +11650,113 @@
         ],
         "resposta": 1,
         "resposta_id": 971
+    },
+    {
+        "pergunta": "O Brasil divide o Monte Roraima com a Venezuela e mais quem?",
+        "opcoes": [
+            {"id": 1, "texto": "Guiana"},
+            {"id": 2, "texto": "Guiana Francesa"},
+            {"id": 3, "texto": "Suriname"},
+            {"id": 4, "texto": "Colômbia"},
+            {"id": 5, "texto": "Equador"}
+        ],
+        "resposta": 1,
+        "resposta_id": 972
+    },
+    {
+        "pergunta": "O Pico da Neblina fica próximo a fronteira com qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Venezuela"},
+            {"id": 2, "texto": "Colômbia"},
+            {"id": 3, "texto": "Suriname"},
+            {"id": 4, "texto": "Peru"},
+            {"id": 5, "texto": "Bolívia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 973
+    },
+    {
+        "pergunta": "O estado de São Paulo não faz divisa com qual destes estados?",
+        "opcoes": [
+            {"id": 1, "texto": "Goiás"},
+            {"id": 2, "texto": "Matro Grosso do Sul"},
+            {"id": 3, "texto": "Minas Gerais"},
+            {"id": 4, "texto": "Rio de Janeiro"},
+            {"id": 5, "texto": "Paraná"}
+        ],
+        "resposta": 1,
+        "resposta_id": 974
+    },
+    {
+        "pergunta": "Qual a capital do Irã?",
+        "opcoes": [
+            {"id": 1, "texto": "Teerã"},
+            {"id": 2, "texto": "Bagdá"},
+            {"id": 3, "texto": "Cabul"},
+            {"id": 4, "texto": "Islamabad"},
+            {"id": 5, "texto": "Hamadan"}
+        ],
+        "resposta": 1,
+        "resposta_id": 975
+    },
+    {
+        "pergunta": "Em que ano faleceu o cantor Raul Seixas?",
+        "opcoes": [
+            {"id": 1, "texto": "1989"},
+            {"id": 2, "texto": "1990"},
+            {"id": 3, "texto": "1991"},
+            {"id": 4, "texto": "1992"},
+            {"id": 5, "texto": "1988"}
+        ],
+        "resposta": 1,
+        "resposta_id": 976
+    },
+    {
+        "pergunta": "Qual ator ganhou mais vezes o Oscar de melhor ator?",
+        "opcoes": [
+            {"id": 1, "texto": "Daniel Day-Lewis"},
+            {"id": 2, "texto": "Marlon Brando"},
+            {"id": 3, "texto": "Jack Nicholson"},
+            {"id": 4, "texto": "Denzel Washington"},
+            {"id": 5, "texto": "Viggo Mortensen"}
+        ],
+        "resposta": 1,
+        "resposta_id": 977
+    },
+    {
+        "pergunta": "Em qual estado nasceu Luis Inácio Lula da Silva?",
+        "opcoes": [
+            {"id": 1, "texto": "Pernambuco"},
+            {"id": 2, "texto": "Bahia"},
+            {"id": 3, "texto": "Alagoas"},
+            {"id": 4, "texto": "Sergipe"},
+            {"id": 5, "texto": "Ceará"}
+        ],
+        "resposta": 1,
+        "resposta_id": 978
+    },
+    {
+        "pergunta": "Qual era a capital da Alemanha Ocidental?",
+        "opcoes": [
+            {"id": 1, "texto": "Bonn"},
+            {"id": 2, "texto": "Berlim"},
+            {"id": 3, "texto": "Frankfurt"},
+            {"id": 4, "texto": "Munique"},
+            {"id": 5, "texto": "Dortmund"}
+        ],
+        "resposta": 1,
+        "resposta_id": 979
+    },
+    {
+        "pergunta": "Qual atriz ganhou mais vezes o Oscar de melhor atriz?",
+        "opcoes": [
+            {"id": 1, "texto": "Katharine Hepburn"},
+            {"id": 2, "texto": "Meryl Streep"},
+            {"id": 3, "texto": "Viola Davis"},
+            {"id": 4, "texto": "Cate Blanchett"},
+            {"id": 5, "texto": "Jamie Lee Curtis"}
+        ],
+        "resposta": 1,
+        "resposta_id": 980
     }
 ]
