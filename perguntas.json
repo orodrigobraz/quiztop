@@ -11758,5 +11758,185 @@
         ],
         "resposta": 1,
         "resposta_id": 980
+    },
+    {
+        "pergunta": "Qual a sigla para o Movimento dos Trabalhadores Sem Teto?",
+        "opcoes": [
+            {"id": 1, "texto": "MTST"},
+            {"id": 2, "texto": "MST"},
+            {"id": 3, "texto": "CUT"},
+            {"id": 4, "texto": "CGTB"},
+            {"id": 5, "texto": "MSST"}
+        ],
+        "resposta": 1,
+        "resposta_id": 981
+    },
+    {
+        "pergunta": "Quanto tempo durou a Guerra dos Cem Anos?",
+        "opcoes": [
+            {"id": 1, "texto": "116 anos"},
+            {"id": 2, "texto": "104 anos"},
+            {"id": 3, "texto": "112 anos"},
+            {"id": 4, "texto": "100 anos"},
+            {"id": 5, "texto": "118 anos"}
+        ],
+        "resposta": 1,
+        "resposta_id": 982
+    },
+    {
+        "pergunta": "Qual time revelou Ronaldinho Gaúcho?",
+        "opcoes": [
+            {"id": 1, "texto": "Grêmio"},
+            {"id": 2, "texto": "Internacional"},
+            {"id": 3, "texto": "Fluminense"},
+            {"id": 4, "texto": "Flamengo"},
+            {"id": 5, "texto": "Atlético Mineiro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 983
+    },
+    {
+        "pergunta": "Qual time revelou Ronaldo Fenomeno?",
+        "opcoes": [
+            {"id": 1, "texto": "Cruzeiro"},
+            {"id": 2, "texto": "Flamengo"},
+            {"id": 3, "texto": "Fluminense"},
+            {"id": 4, "texto": "Corinthians"},
+            {"id": 5, "texto": "Coritiba"}
+        ],
+        "resposta": 1,
+        "resposta_id": 984
+    },
+    {
+        "pergunta": "Em qual time argentino Lionel Messi fez parte da sua base?",
+        "opcoes": [
+            {"id": 1, "texto": "Newell's Old Boys"},
+            {"id": 2, "texto": "Boca Juniors"},
+            {"id": 3, "texto": "River Plate"},
+            {"id": 4, "texto": "San Lorenzo"},
+            {"id": 5, "texto": "Racing"}
+        ],
+        "resposta": 1,
+        "resposta_id": 985
+    },
+    {
+        "pergunta": "Em qual país fica o Monte Ararat?",
+        "opcoes": [
+            {"id": 1, "texto": "Turquia"},
+            {"id": 2, "texto": "Equador"},
+            {"id": 3, "texto": "Ruanda"},
+            {"id": 4, "texto": "Índia"},
+            {"id": 5, "texto": "Rússia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 986
+    },
+    {
+        "pergunta": "A ilha de Sumatra pertence a qual país?",
+        "opcoes": [
+            {"id": 1, "texto": "Indonésia"},
+            {"id": 2, "texto": "Malásia"},
+            {"id": 3, "texto": "Filipinas"},
+            {"id": 4, "texto": "Tailândia"},
+            {"id": 5, "texto": "Sri Lanka"}
+        ],
+        "resposta": 1,
+        "resposta_id": 987
+    },
+    {
+        "pergunta": "Em qual cidade paulista nasceu Sabrina Sato?",
+        "opcoes": [
+            {"id": 1, "texto": "Penápolis"},
+            {"id": 2, "texto": "São José do Rio Preto"},
+            {"id": 3, "texto": "São Roque"},
+            {"id": 4, "texto": "Sorocaba"},
+            {"id": 5, "texto": "Registro"}
+        ],
+        "resposta": 1,
+        "resposta_id": 988
+    },
+    {
+        "pergunta": "Em que ano ocorreu a Revolução de Maio na América do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "1810"},
+            {"id": 2, "texto": "1820"},
+            {"id": 3, "texto": "1830"},
+            {"id": 4, "texto": "1840"},
+            {"id": 5, "texto": "1850"}
+        ],
+        "resposta": 1,
+        "resposta_id": 989
+    },
+    {
+        "pergunta": "Qual o país menos populoso da América do Sul?",
+        "opcoes": [
+            {"id": 1, "texto": "Suriname"},
+            {"id": 2, "texto": "Guiana"},
+            {"id": 3, "texto": "Uruguai"},
+            {"id": 4, "texto": "Bolívia"},
+            {"id": 5, "texto": "Peru"}
+        ],
+        "resposta": 1,
+        "resposta_id": 990
+    },
+    {
+        "pergunta": "Qual o país menos populoso da Europa?",
+        "opcoes": [
+            {"id": 1, "texto": "Vaticano"},
+            {"id": 2, "texto": "Malta"},
+            {"id": 3, "texto": "Liechtenstein"},
+            {"id": 4, "texto": "San Marino"},
+            {"id": 5, "texto": "Mônaco"}
+        ],
+        "resposta": 1,
+        "resposta_id": 991
+    },
+    {
+        "pergunta": "Qual o país menos populoso da África?",
+        "opcoes": [
+            {"id": 1, "texto": "Seychelles"},
+            {"id": 2, "texto": "Lesoto"},
+            {"id": 3, "texto": "Cabo Verde"},
+            {"id": 4, "texto": "São Tomé e Príncipe"},
+            {"id": 5, "texto": "Eswatini"}
+        ],
+        "resposta": 1,
+        "resposta_id": 992
+    },
+    {
+        "pergunta": "De qual país é o Nobel de Literatura de 2025 László Krasznahorkai?",
+        "opcoes": [
+            {"id": 1, "texto": "Hungria"},
+            {"id": 2, "texto": "Polônia"},
+            {"id": 3, "texto": "Letônia"},
+            {"id": 4, "texto": "Eslováquia"},
+            {"id": 5, "texto": "Bulgária"}
+        ],
+        "resposta": 1,
+        "resposta_id": 993
+    },
+    {
+        "pergunta": "De qual país é o Nobel da Paz de 2025?",
+        "opcoes": [
+            {"id": 1, "texto": "Venezuela"},
+            {"id": 2, "texto": "Ucrânia"},
+            {"id": 3, "texto": "Estados Unidos"},
+            {"id": 4, "texto": "Palestina"},
+            {"id": 5, "texto": "Armênia"}
+        ],
+        "resposta": 1,
+        "resposta_id": 994
+    },
+    {
+        "pergunta": "Em qual continente fica a Armênia?",
+        "opcoes": [
+            {"id": 1, "texto": "Ásia"},
+            {"id": 2, "texto": "Europa"},
+            {"id": 3, "texto": "África"},
+            {"id": 4, "texto": "América Central"},
+            {"id": 5, "texto": "Oceania"}
+        ],
+        "resposta": 1,
+        "resposta_id": 995
     }
 ]
