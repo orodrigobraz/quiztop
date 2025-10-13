@@ -68,7 +68,7 @@ async function carregarPerguntas(quantidade) {
     }
     
     // Filtrar perguntas que o usuário ainda não acertou (apenas as confirmadas no Firebase)
-    const restantes = todasPerguntas.filter(p => !acertosSet.has(p.resposta_id));
+    const restantes = todasPerguntas.filter(p => !acertosSet.has(p.pergunta_id));
         const qtdParaUsar = Math.max(0, Math.min(restantes.length, quantidade));
         if (qtdParaUsar === 0) {
             perguntas = [];
@@ -179,28 +179,34 @@ function verificarResposta(event) {
     const atual = perguntas[perguntaAtual];
     const corretaIndex = atual.opcoes.findIndex(o => o.id === atual.resposta); // compara internamente
     
+    // Marcar pergunta como mostrada na rodada
+    perguntasMostradasNaRodada.add(atual.pergunta_id);
+    
     if (indexSelecionado === corretaIndex) {
         event.target.classList.add("correct");
         score++;
-        // salvar acerto...
+        // Adicionar acerto temporário com o pergunta_id
+        if (!acertosTemporarios.includes(atual.pergunta_id)) {
+            acertosTemporarios.push(atual.pergunta_id);
+        }
         criarConfetes();
     } else {
         event.target.classList.add("incorrect");
     }
     
-    setTimeout(() => {
+    setTimeout(async () => {
         opcaoSelecionada = false;
         perguntaAtual++;
         if (perguntaAtual < perguntas.length) {
             mostrarPergunta();
         } else {
-            mostrarResultadoFinal();
+            await mostrarResultadoFinal();
         }
     }, 500);
 }
 
 
-function mostrarResultadoFinal() {
+async function mostrarResultadoFinal() {
     const mainDiv = document.querySelector(".quiz-container");
     const answered = perguntas.length;
     const percent = answered > 0 ? ((score / answered) * 100).toFixed(0) : 0;
@@ -208,7 +214,7 @@ function mostrarResultadoFinal() {
     
     // Salvar acertos no Firebase apenas quando a rodada terminar
     if (acertosTemporarios.length > 0) {
-        salvarAcertosRodada(acertosTemporarios);
+        await salvarAcertosRodada(acertosTemporarios);
     }
     
     salvarResultadoRanking(points, score, answered).catch(() => {});
@@ -559,7 +565,7 @@ function gerarStorageKeyAcertos() {
 async function marcarAcerto(pergunta) {
     // Esta função agora só é chamada para compatibilidade, mas não salva no Firebase
     // Os acertos são salvos apenas quando a rodada termina
-    console.log("Acerto marcado temporariamente:", pergunta?.resposta_id);
+    console.log("Acerto marcado temporariamente:", pergunta?.pergunta_id);
 }
 
 function marcarAcertoLocal(idPergunta) {
