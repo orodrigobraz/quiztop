@@ -25,6 +25,8 @@ const userInfo = document.getElementById("user-info");
 let acertosTemporarios = [];
 // Chave para backup temporário de acertos em andamento
 let backupKeyTemporario = null;
+// Set para rastrear perguntas mostradas na rodada atual
+let perguntasMostradasNaRodada = new Set();
 
 function selecionarIndicesAleatorios(total, quantidade) {
     const indices = new Set();
@@ -273,6 +275,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 // Se chegou aqui, há perguntas suficientes
                 // Limpar acertos temporários ao iniciar nova rodada
                 acertosTemporarios = [];
+                // Limpar perguntas mostradas na rodada
+                perguntasMostradasNaRodada.clear();
                 // Gerar nova chave de backup para esta rodada
                 backupKeyTemporario = `quiz_temp_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`;
                 

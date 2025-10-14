@@ -12046,5 +12046,149 @@
         ],
         "resposta": 1,
         "pergunta_id": 1004
+    },
+    {
+        "pergunta": "Quantos segundos tem em um dia?",
+        "opcoes": [
+            {"id": 1, "texto": "86400"},
+            {"id": 2, "texto": "43200"},
+            {"id": 3, "texto": "21600"},
+            {"id": 4, "texto": "10800"},
+            {"id": 5, "texto": "5400"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1005
+    },
+    {
+        "pergunta": "Quantos minutos tem em um mês de 30 dias?",
+        "opcoes": [
+            {"id": 1, "texto": "43200"},
+            {"id": 2, "texto": "52600"},
+            {"id": 3, "texto": "21600"},
+            {"id": 4, "texto": "10800"},
+            {"id": 5, "texto": "5400"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1006
+    },
+    {
+        "pergunta": "Qual é o nome do processo pelo qual as plantas produzem seu próprio alimento?",
+        "opcoes": [
+            {"id": 1, "texto": "Fotossíntese"},
+            {"id": 2, "texto": "Respiração"},
+            {"id": 3, "texto": "Digestão"},
+            {"id": 4, "texto": "Fermentação"},
+            {"id": 5, "texto": "Transpiração"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1007
+    },
+    {
+        "pergunta": "Em que ano foi descoberto o Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "1500"},
+            {"id": 2, "texto": "1492"},
+            {"id": 3, "texto": "1501"},
+            {"id": 4, "texto": "1498"},
+            {"id": 5, "texto": "1502"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1008
+    },
+    {
+        "pergunta": "Qual é o maior planeta do Sistema Solar?",
+        "opcoes": [
+            {"id": 1, "texto": "Júpiter"},
+            {"id": 2, "texto": "Saturno"},
+            {"id": 3, "texto": "Netuno"},
+            {"id": 4, "texto": "Urano"},
+            {"id": 5, "texto": "Terra"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1009
+    },
+    {
+        "pergunta": "Quem escreveu a obra 'O Pequeno Príncipe'?",
+        "opcoes": [
+            {"id": 1, "texto": "Antoine de Saint-Exupéry"},
+            {"id": 2, "texto": "Jules Verne"},
+            {"id": 3, "texto": "Victor Hugo"},
+            {"id": 4, "texto": "Alexandre Dumas"},
+            {"id": 5, "texto": "Gustave Flaubert"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1010
+    },
+    {
+        "pergunta": "Qual é a fórmula química da água?",
+        "opcoes": [
+            {"id": 1, "texto": "H2O"},
+            {"id": 2, "texto": "CO2"},
+            {"id": 3, "texto": "NaCl"},
+            {"id": 4, "texto": "O2"},
+            {"id": 5, "texto": "H2SO4"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1011
+    },
+    {
+        "pergunta": "Em que continente fica o Egito?",
+        "opcoes": [
+            {"id": 1, "texto": "África"},
+            {"id": 2, "texto": "Ásia"},
+            {"id": 3, "texto": "Europa"},
+            {"id": 4, "texto": "América"},
+            {"id": 5, "texto": "Oceania"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1012
+    },
+    {
+        "pergunta": "Qual é o resultado de 15 x 8?",
+        "opcoes": [
+            {"id": 1, "texto": "120"},
+            {"id": 2, "texto": "105"},
+            {"id": 3, "texto": "135"},
+            {"id": 4, "texto": "110"},
+            {"id": 5, "texto": "125"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1013
+    },
+    {
+        "pergunta": "Qual é a capital da Áustria?",
+        "opcoes": [
+            {"id": 1, "texto": "Viena"},
+            {"id": 2, "texto": "Linz"},
+            {"id": 3, "texto": "Salzburgo"},
+            {"id": 4, "texto": "Berna"},
+            {"id": 5, "texto": "Graz"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1014
+    },
+    {
+        "pergunta": "Quem pintou o quadro 'A Noite Estrelada'?",
+        "opcoes": [
+            {"id": 1, "texto": "Vincent van Gogh"},
+            {"id": 2, "texto": "Pablo Picasso"},
+            {"id": 3, "texto": "Claude Monet"},
+            {"id": 4, "texto": "Salvador Dalí"},
+            {"id": 5, "texto": "Edvard Munch"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1015
+    },
+    {
+        "pergunta": "Qual é o nome do processo de divisão celular que resulta em duas células idênticas?",
+        "opcoes": [
+            {"id": 1, "texto": "Mitose"},
+            {"id": 2, "texto": "Meiose"},
+            {"id": 3, "texto": "Osmose"},
+            {"id": 4, "texto": "Dictiose"},
+            {"id": 5, "texto": "Difusão"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1016
     }
 ]
