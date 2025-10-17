@@ -12255,7 +12255,7 @@
         "pergunta": "Em qual estado fica a maior fazenda de café do Brasil?",
         "opcoes": [
             {"id": 1, "texto": "Minas Gerais"},
-            {"id": 2, "texto": "Matro Grosso do Sul"},
+            {"id": 2, "texto": "Mato Grosso do Sul"},
             {"id": 3, "texto": "Espírito Santo"},
             {"id": 4, "texto": "Bahia"},
             {"id": 5, "texto": "Paraná"}
