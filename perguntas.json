@@ -12190,5 +12190,101 @@
         ],
         "resposta": 1,
         "pergunta_id": 1016
+    },
+    {
+        "pergunta": "Qual destes escritores não é irlandês?",
+        "opcoes": [
+            {"id": 1, "texto": "J.D. Salinger"},
+            {"id": 2, "texto": "Oscar Wilde"},
+            {"id": 3, "texto": "James Joyce"},
+            {"id": 4, "texto": "Jonathan Swift"},
+            {"id": 5, "texto": "Bram Stoker"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1017
+    },
+    {
+        "pergunta": "Qual o país com mais fusos horários no mundo?",
+        "opcoes": [
+            {"id": 1, "texto": "França"},
+            {"id": 2, "texto": "Rússia"},
+            {"id": 3, "texto": "Estados Unidos"},
+            {"id": 4, "texto": "Canadá"},
+            {"id": 5, "texto": "Austrália"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1018
+    },
+    {
+        "pergunta": "Quantos fusos horários tem no Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "4"},
+            {"id": 2, "texto": "5"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "2"},
+            {"id": 5, "texto": "1"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1019
+    },
+    {
+        "pergunta": "Quantos fusos horários oficiais tem na China?",
+        "opcoes": [
+            {"id": 1, "texto": "1"},
+            {"id": 2, "texto": "2"},
+            {"id": 3, "texto": "3"},
+            {"id": 4, "texto": "4"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1020
+    },
+    {
+        "pergunta": "Em qual estado fica a maior fazenda do Brasil em área?",
+        "opcoes": [
+            {"id": 1, "texto": "Mato Grosso"},
+            {"id": 2, "texto": "Goiás"},
+            {"id": 3, "texto": "Minas Gerais"},
+            {"id": 4, "texto": "Tocantins"},
+            {"id": 5, "texto": "Rondônia"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1021
+    },
+    {
+        "pergunta": "Em qual estado fica a maior fazenda de café do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Minas Gerais"},
+            {"id": 2, "texto": "Matro Grosso do Sul"},
+            {"id": 3, "texto": "Espírito Santo"},
+            {"id": 4, "texto": "Bahia"},
+            {"id": 5, "texto": "Paraná"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1022
+    },
+    {
+        "pergunta": "Qual o menor município do estado de São Paulo por habitantes?",
+        "opcoes": [
+            {"id": 1, "texto": "Borá"},
+            {"id": 2, "texto": "União Paulista"},
+            {"id": 3, "texto": "Nova Castilho"},
+            {"id": 4, "texto": "São Francisco Xavier"},
+            {"id": 5, "texto": "Caconde"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1023
+    },
+    {
+        "pergunta": "Qual destes times nunca ganhou uma Champions League?",
+        "opcoes": [
+            {"id": 1, "texto": "Roma"},
+            {"id": 2, "texto": "Hamburgo"},
+            {"id": 3, "texto": "Olympique de Marseille"},
+            {"id": 4, "texto": "Nottingham Forest"},
+            {"id": 5, "texto": "Feyenoord"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1024
     }
 ]
