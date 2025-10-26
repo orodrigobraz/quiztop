@@ -12286,5 +12286,53 @@
         ],
         "resposta": 1,
         "pergunta_id": 1024
+    },
+    {
+        "pergunta": "O município de São Paulo faz divisa territorial com quantos municípios?",
+        "opcoes": [
+            {"id": 1, "texto": "39"},
+            {"id": 2, "texto": "29"},
+            {"id": 3, "texto": "19"},
+            {"id": 4, "texto": "9"},
+            {"id": 5, "texto": "5"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1025
+    },
+    {
+        "pergunta": "Em que dia da semana passava o programa Casseta & Planeta na Globo?",
+        "opcoes": [
+            {"id": 1, "texto": "Terça-feira"},
+            {"id": 2, "texto": "Quarta-feira"},
+            {"id": 3, "texto": "Sexta-feira"},
+            {"id": 4, "texto": "Domingo"},
+            {"id": 5, "texto": "Segunda-feira"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1026
+    },
+    {
+        "pergunta": "Qual animal está na bandeira das Ilhas Malvinas?",
+        "opcoes": [
+            {"id": 1, "texto": "Ovelha"},
+            {"id": 2, "texto": "Orca"},
+            {"id": 3, "texto": "Urso polar"},
+            {"id": 4, "texto": "Falcão"},
+            {"id": 5, "texto": "Pinguim"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1027
+    },
+    {
+        "pergunta": "O humorista Mussum era vocalista de qual destes grupos?",
+        "opcoes": [
+            {"id": 1, "texto": "Os Originais do Samba"},
+            {"id": 2, "texto": "Demônios da Garoa"},
+            {"id": 3, "texto": "Grupo Raça"},
+            {"id": 4, "texto": "Fundo de Quintal"},
+            {"id": 5, "texto": "Exaltasamba"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1028
     }
 ]
