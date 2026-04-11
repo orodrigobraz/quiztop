@@ -46,6 +46,45 @@
         return arr.sort((a,b) => (b.totalPoints||0) - (a.totalPoints||0)).slice(0,50);
     }
 
+    let isExpanded = false;
+    let domRendered = false;
+
+    function createRankingItem(entry, index) {
+        const acc = entry.totalAnswered || 0;
+        const corr = entry.totalCorrect || 0;
+        const perc = acc > 0 ? Math.round((corr/acc)*100) : 0;
+        
+        const rankingItem = document.createElement('div');
+        rankingItem.className = 'ranking-item';
+        
+        let positionClass = '';
+        let positionText = (index + 1).toString();
+        
+        if (index === 0) {
+            positionClass = 'medal-1';
+            positionText = '🥇';
+        } else if (index === 1) {
+            positionClass = 'medal-2';
+            positionText = '🥈';
+        } else if (index === 2) {
+            positionClass = 'medal-3';
+            positionText = '🥉';
+        }
+        
+        rankingItem.innerHTML = `
+            <div class="ranking-position ${positionClass}">${positionText}</div>
+            <div class="ranking-info">
+                <div class="ranking-name">${entry.displayName}</div>
+                <div class="ranking-stats">
+                    <span class="ranking-points">${entry.totalPoints} pts</span>
+                    <span class="ranking-accuracy">${perc}%</span>
+                    <span class="ranking-ratio">${corr}/${acc}</span>
+                </div>
+            </div>
+        `;
+        return rankingItem;
+    }
+
     function render(entries) {
         if (!entries || entries.length === 0) {
             container.innerHTML = `
@@ -57,45 +96,64 @@
             return;
         }
         
+        if (domRendered) return;
+        
         container.innerHTML = '';
         
-        entries.forEach((entry, index) => {
-            const acc = entry.totalAnswered || 0;
-            const corr = entry.totalCorrect || 0;
-            const perc = acc > 0 ? Math.round((corr/acc)*100) : 0;
-            
-            const rankingItem = document.createElement('div');
-            rankingItem.className = 'ranking-item';
-            
-            // Posição com medalhas para os 3 primeiros
-            let positionClass = '';
-            let positionText = (index + 1).toString();
-            
-            if (index === 0) {
-                positionClass = 'medal-1';
-                positionText = '🥇';
-            } else if (index === 1) {
-                positionClass = 'medal-2';
-                positionText = '🥈';
-            } else if (index === 2) {
-                positionClass = 'medal-3';
-                positionText = '🥉';
-            }
-            
-            rankingItem.innerHTML = `
-                <div class="ranking-position ${positionClass}">${positionText}</div>
-                <div class="ranking-info">
-                    <div class="ranking-name">${entry.displayName}</div>
-                    <div class="ranking-stats">
-                        <span class="ranking-points">${entry.totalPoints} pts</span>
-                        <span class="ranking-accuracy">${perc}%</span>
-                        <span class="ranking-ratio">${corr}/${acc}</span>
-                    </div>
-                </div>
-            `;
-            
-            container.appendChild(rankingItem);
+        const top5 = entries.slice(0, 5);
+        top5.forEach((entry, index) => {
+            container.appendChild(createRankingItem(entry, index));
         });
+
+        if (entries.length > 5) {
+            const extraRankings = document.createElement('div');
+            extraRankings.className = 'extra-rankings';
+            
+            const extraRankingsInner = document.createElement('div');
+            extraRankingsInner.className = 'extra-rankings-inner';
+            
+            const rest = entries.slice(5);
+            rest.forEach((entry, index) => {
+                extraRankingsInner.appendChild(createRankingItem(entry, index + 5));
+            });
+            
+            extraRankings.appendChild(extraRankingsInner);
+            container.appendChild(extraRankings);
+            
+            const toggleDiv = document.createElement('div');
+            toggleDiv.style.textAlign = 'center';
+            toggleDiv.style.marginTop = '15px';
+            
+            const toggleBtn = document.createElement('button');
+            toggleBtn.className = 'ranking-back-btn';
+            toggleBtn.style.padding = '8px 20px';
+            toggleBtn.style.border = 'none';
+            toggleBtn.style.background = 'transparent';
+            toggleBtn.style.color = '#666';
+            toggleBtn.style.cursor = 'pointer';
+            toggleBtn.style.fontWeight = 'bold';
+            toggleBtn.style.textDecoration = 'underline';
+            toggleBtn.style.boxShadow = 'none';
+            
+            toggleBtn.innerHTML = 'Ver mais ▼';
+            toggleBtn.onmouseover = () => toggleBtn.style.color = '#333';
+            toggleBtn.onmouseout = () => toggleBtn.style.color = '#666';
+
+            toggleBtn.addEventListener('click', () => {
+                isExpanded = !isExpanded;
+                if (isExpanded) {
+                    extraRankings.classList.add('expanded');
+                    toggleBtn.innerHTML = 'Ver menos ▲';
+                } else {
+                    extraRankings.classList.remove('expanded');
+                    toggleBtn.innerHTML = 'Ver mais ▼';
+                }
+            });
+            
+            toggleDiv.appendChild(toggleBtn);
+            container.appendChild(toggleDiv);
+        }
+        domRendered = true;
     }
 
     document.addEventListener('DOMContentLoaded', () => {

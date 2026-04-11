@@ -2,6 +2,7 @@ let perguntas = [];
 let perguntaAtual = 0;
 let score = 0;
 let opcaoSelecionada = false;
+let isJogoTreino = false;
 
 // Estado de auth e persistência
 let firebaseApp = null;
@@ -188,7 +189,7 @@ function verificarResposta(event) {
         event.target.classList.add("correct");
         score++;
         // Adicionar acerto temporário com o pergunta_id
-        if (!acertosTemporarios.includes(atual.pergunta_id)) {
+        if (!acertosTemporarios.includes(atual.pergunta_id) && !isJogoTreino) {
             acertosTemporarios.push(atual.pergunta_id);
         }
         criarConfetes();
@@ -215,25 +216,27 @@ async function mostrarResultadoFinal() {
     const points = calcularPontosRanking(score, answered);
     
     // Salvar acertos no Firebase apenas quando a rodada terminar
-    if (acertosTemporarios.length > 0) {
+    if (acertosTemporarios.length > 0 && !isJogoTreino) {
         await salvarAcertosRodada(acertosTemporarios);
     }
     
-    salvarResultadoRanking(points, score, answered).catch(() => {});
+    if (!isJogoTreino) salvarResultadoRanking(points, score, answered).catch(() => {});
     mainDiv.innerHTML = `
         <h1>Seus resultados:</h1>
         <h2>${score} de ${answered}</h2>
         <h3>${percent}% de aproveitamento</h3>
-        <h3>Pontos no ranking: ${points}</h3>
+        ${!isJogoTreino ? `<h3>Pontos no ranking: ${points}</h3>` : '<h3>Modo Treino Finalizado! (Pontuação não contabilizada)</h3>'}
         <div style="display:flex; gap:8px; margin-top:12px; justify-content:center;">
             <button id="reiniciar-quiz">Jogar novamente?</button>
-            <button id="abrir-ranking">Ver Ranking</button>
+            ${!isJogoTreino ? '<button id="abrir-ranking">Ver Ranking</button>' : ''}
         </div>
     `;
     document.getElementById("reiniciar-quiz").onclick = () => location.reload();
-    document.getElementById("abrir-ranking").onclick = () => {
-        location.href = "ranking.html";
-    };
+    if (!isJogoTreino) {
+        document.getElementById("abrir-ranking").onclick = () => {
+            location.href = "ranking.html";
+        };
+    }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -245,9 +248,21 @@ document.addEventListener("DOMContentLoaded", () => {
 
     inicializarFirebaseEAUTH();
 
+    const btnTreino = document.getElementById("jogo-treino");
+    if (btnTreino) {
+        btnTreino.onclick = () => {
+            isJogoTreino = true;
+            const authContainer = document.querySelector('.auth-container');
+            if (authContainer) authContainer.classList.add('hidden');
+            const welcomeMessage = document.querySelector('.welcome-message');
+            if (welcomeMessage) welcomeMessage.style.display = 'none';
+            qtdPerguntasContainer.style.display = "block";
+        };
+    }
+
     async function iniciarQuiz() {
         const quantidade = parseInt(quantidadeInput.value, 10);
-        if (!currentUser) {
+        if (!currentUser && !isJogoTreino) {
             alert("Faça login com sua conta Google para iniciar o quiz.");
             return;
         }

@@ -11172,7 +11172,7 @@
         "pergunta_id": 931
     },
     {
-        "pergunta": "Qual a capital do estado americano da Washington?",
+        "pergunta": "Qual a capital do estado americano de Washington?",
         "opcoes": [
             {"id": 1, "texto": "Olympia"},
             {"id": 2, "texto": "Washington"},
@@ -12334,5 +12334,77 @@
         ],
         "resposta": 1,
         "pergunta_id": 1028
+    },
+    {
+        "pergunta": "Qual desses escritores ganhou o Nobel de Literatura escrevendo em língua portuguesa?",
+        "opcoes": [
+            {"id": 1, "texto": "José Saramago"},
+            {"id": 2, "texto": "Fernando Pessoa"},
+            {"id": 3, "texto": "Luís de Camões"},
+            {"id": 4, "texto": "Machado de Assis"},
+            {"id": 5, "texto": "Carlos Drummond de Andrade"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1029
+    },
+    {
+        "pergunta": "Qual destas pessoas não estava na missão Artemis II que orbitou a Lua?",
+        "opcoes": [
+            {"id": 1, "texto": "Daniel Keyes"},
+            {"id": 2, "texto": "Reid Wiseman"},
+            {"id": 3, "texto": "Victor Glover"},
+            {"id": 4, "texto": "Christina Koch"},
+            {"id": 5, "texto": "Jeremy Hansen"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1030
+    },
+    {
+        "pergunta": "Em qual cidade colombiana nasceu a cantora Shakira?",
+        "opcoes": [
+            {"id": 1, "texto": "Barranquilla"},
+            {"id": 2, "texto": "Bogotá"},
+            {"id": 3, "texto": "Medellín"},
+            {"id": 4, "texto": "Cali"},
+            {"id": 5, "texto": "Cartagena"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1031
+    },
+    {
+        "pergunta": "Qual a maior cobra peçonhenta do Brasil?",
+        "opcoes": [
+            {"id": 1, "texto": "Surucucu-pico-de-jaca"},
+            {"id": 2, "texto": "Urutu-estrela"},
+            {"id": 3, "texto": "Jararacuçu"},
+            {"id": 4, "texto": "Jararaca-ilhoa"},
+            {"id": 5, "texto": "Cascavel"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1032
+    },
+    {
+        "pergunta": "Em que ano foi criado o desenho Pica-Pau?",
+        "opcoes": [
+            {"id": 1, "texto": "1940"},
+            {"id": 2, "texto": "1950"},
+            {"id": 3, "texto": "1960"},
+            {"id": 4, "texto": "1970"},
+            {"id": 5, "texto": "1980"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1033
+    },
+    {
+        "pergunta": "Em que ano faleceu o apresentador Silvio Santos?",
+        "opcoes": [
+            {"id": 1, "texto": "2024"},
+            {"id": 2, "texto": "2025"},
+            {"id": 3, "texto": "2023"},
+            {"id": 4, "texto": "2022"},
+            {"id": 5, "texto": "2021"}
+        ],
+        "resposta": 1,
+        "pergunta_id": 1034
     }
 ]

@@ -583,3 +583,20 @@ footer a {
         margin-bottom: 8px;
     }
 }
+
+/* Animação suave de expandir/recolher o ranking */
+.extra-rankings {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows 0.4s ease, opacity 0.4s ease;
+}
+
+.extra-rankings.expanded {
+    grid-template-rows: 1fr;
+    opacity: 1;
+}
+
+.extra-rankings-inner {
+    overflow: hidden;
+}
